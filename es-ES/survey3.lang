@@ -1,25 +1,25 @@
 ;Do you have 3 minutes to help us <a href="%s">make Firefox for mobile better in your region</a>?
-Do you have 3 minutes to help us <a href="%s">make Firefox for mobile better in your region</a>?
+¿Dispones de 3 minutos para ayudarnos a <a href="%s">mejorar Firefox para dispositivos móviles en tu región</a>?
 
 
 ;Make Firefox for mobile better in your region
-Make Firefox for mobile better in your region
+Contribuye a que Firefox para dispositivos móviles sea mejor en tu región
 
 
 ;Thanks for your interest in helping Mozilla. We're keen to better understand what types of phone and tablets are used in your country to help us make Firefox better on mobile. Please answer the following questions.
-Thanks for your interest in helping Mozilla. We're keen to better understand what types of phone and tablets are used in your country to help us make Firefox better on mobile. Please answer the following questions.
+Gracias por tu interés en ayudar a Mozilla. Queremos conocer mejor qué tipos de teléfonos y tabletas se usan en tu país, lo que nos ayudará a mejorar Firefox en dispositivos móviles. Por favor, responde a las siguientes preguntas.
 
 
 ;Note: All questions are optional.
-Note: All questions are optional.
+Nota: todas las preguntas son opcionales.
 
 
 ;Do you own and regularly use any kind of mobile phone?
-Do you own and regularly use any kind of mobile phone?
+¿Tienes y utilizas con regularidad algún tipo de teléfono móvil?
 
 
 ;Is your phone a smartphone that allows you to install applications and access the Internet?
-Is your phone a smartphone that allows you to install applications and access the Internet?
+¿Tu teléfono es un smartphone que te permite instalar aplicaciones y tener acceso a Internet?
 
 
 ;Yes
@@ -31,86 +31,86 @@ No {ok}
 
 
 ;I don't know
-I don't know
+No lo sé
 
 
 ;What operating system do you have on your smartphone?
-What operating system do you have on your smartphone?
+¿Qué sistema operativo tienes en tu smartphone?
 
 
 ;Android
-Android
+Android {ok}
 
 
 ;iOS (iPhone)
-iOS (iPhone)
+iOS (iPhone) {ok}
 
 
 ;Symbian
-Symbian
+Symbian {ok}
 
 
 ;Blackberry OS
-Blackberry OS
+Blackberry OS {ok}
 
 
 ;Other, please specify:
-Other, please specify:
+Otro. Por favor, especifica cuál:
 
 
 ;What model is your smartphone?
-What model is your smartphone?
+¿Cuál es el modelo de tu smartphone?
 
 
 ;Please specify:
-Please specify:
+Por favor, especifica cuál:
 
 
 ;Do you have a tablet?
-Do you have a tablet?
+¿Tienes tableta?
 
 
 ;What operating system do you have on your tablet?
-What operating system do you have on your tablet?
+¿Qué sistema operativo tienes en tu tableta?
 
 
 ;What model is your tablet?
-What model is your tablet?
+¿Cuál es el modelo de tu tableta?
 
 
 ;iPad
-iPad
+iPad {ok}
 
 
 ;Samsung Galaxy Tab
-Samsung Galaxy Tab
+Samsung Galaxy Tab {ok}
 
 
 ;Asus Transformer
-Asus Transformer
+Asus Transformer {ok}
 
 
 ;Motorola Xoom
-Motorola Xoom
+Motorola Xoom {ok}
 
 
 ;Kindle Fire
-Kindle Fire
+Kindle Fire {ok}
 
 
 ;If you're willing to take part in other surveys about mobile at Mozilla, please give us your email address:
-If you're willing to take part in other surveys about mobile at Mozilla, please give us your email address:
+Si deseas participar en otras encuestas de Mozilla sobre dispositivos móviles, por favor, facilítanos tu dirección de correo electrónico:
 
 
 ;Privacy Policy *
-Privacy Policy *
+Política de privacidad *
 
 
 ;I'm okay with you handling this information as you explain in your <a href="http://www.mozilla.org/about/policies/privacy-policy.html">privacy policy</a>.
-I'm okay with you handling this information as you explain in your <a href="http://www.mozilla.org/about/policies/privacy-policy.html">privacy policy</a>.
+Estoy de acuerdo en que se gestione esta información según los términos que se especifican en la <a href="http://www.mozilla.org/about/policies/privacy-policy.html">política de privacidad</a>.
 
 
 ;Thank you for taking our survey. We appreciate your time.
-Thank you for taking our survey. We appreciate your time.
+Gracias por completar nuestra encuesta. Te agredecemos el tiempo que le dedicaste. 
 
 
