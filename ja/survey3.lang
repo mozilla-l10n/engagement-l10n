@@ -1,41 +1,41 @@
 ;Do you have 3 minutes to help us <a href="%s">make Firefox for mobile better in your region</a>?
-Do you have 3 minutes to help us <a href="%s">make Firefox for mobile better in your region</a>?
+<a href="%s">あなたの地域でモバイル版 Firefox を改善</a> するために 3 分だけお時間をいただけますか？
 
 
 ;Make Firefox for mobile better in your region
-Make Firefox for mobile better in your region
+モバイル版 Firefox をあなたの地域で改善しましょう
 
 
 ;Thanks for your interest in helping Mozilla. We're keen to better understand what types of phone and tablets are used in your country to help us make Firefox better on mobile. Please answer the following questions.
-Thanks for your interest in helping Mozilla. We're keen to better understand what types of phone and tablets are used in your country to help us make Firefox better on mobile. Please answer the following questions.
+Mozilla へのご協力ありがとうございます。私たちは、モバイル版 Firefox を改良するために、あなたの国で使われているスマートフォンやタブレットの種類をより詳しく理解しようと努めています。以下の質問にお答えください。
 
 
 ;Note: All questions are optional.
-Note: All questions are optional.
+注: すべての質問は任意回答です。
 
 
 ;Do you own and regularly use any kind of mobile phone?
-Do you own and regularly use any kind of mobile phone?
+何らかの携帯電話を所持しており、よく使用していますか？
 
 
 ;Is your phone a smartphone that allows you to install applications and access the Internet?
-Is your phone a smartphone that allows you to install applications and access the Internet?
+あなたの携帯電話は、アプリケーションのインストールやインターネットへのアクセスが可能なスマートフォンですか？
 
 
 ;Yes
-Yes
+はい
 
 
 ;No
-No
+いいえ
 
 
 ;I don't know
-I don't know
+分かりません
 
 
 ;What operating system do you have on your smartphone?
-What operating system do you have on your smartphone?
+スマートフォンに搭載されている OS は何ですか？
 
 
 ;Android
@@ -55,27 +55,27 @@ Blackberry OS
 
 
 ;Other, please specify:
-Other, please specify:
+その他、具体的にお答えください:
 
 
 ;What model is your smartphone?
-What model is your smartphone?
+スマートフォンのモデルは何ですか？
 
 
 ;Please specify:
-Please specify:
+具体的にお答えください:
 
 
 ;Do you have a tablet?
-Do you have a tablet?
+タブレットをお持ちですか？
 
 
 ;What operating system do you have on your tablet?
-What operating system do you have on your tablet?
+タブレットに搭載されている OS は何ですか？
 
 
 ;What model is your tablet?
-What model is your tablet?
+タブレットのモデルは何ですか？
 
 
 ;iPad
@@ -99,18 +99,18 @@ Kindle Fire
 
 
 ;If you're willing to take part in other surveys about mobile at Mozilla, please give us your email address:
-If you're willing to take part in other surveys about mobile at Mozilla, please give us your email address:
+Mozilla が実施する他のモバイル関連アンケートにご協力いただける方は、メールアドレスをご記入ください:
 
 
 ;Privacy Policy *
-Privacy Policy *
+プライバシーポリシー *
 
 
 ;I'm okay with you handling this information as you explain in your <a href="http://www.mozilla.org/about/policies/privacy-policy.html">privacy policy</a>.
-I'm okay with you handling this information as you explain in your <a href="http://www.mozilla.org/about/policies/privacy-policy.html">privacy policy</a>.
+Mozilla が <a href="http://www.mozilla.org/about/policies/privacy-policy.html">プライバシーポリシー</a> に従ってこの情報を扱うことに同意します。
 
 
 ;Thank you for taking our survey. We appreciate your time.
-Thank you for taking our survey. We appreciate your time.
+アンケートにご協力いただき、ありがとうございました。
 
 
