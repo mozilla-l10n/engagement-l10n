@@ -1,37 +1,37 @@
 ;Leverage Automatic Translation
-Leverage Automatic Translation
+Использование автоматического перевода
 
 
 ;Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
-Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
+Думая обо всех просмотренных вами веб-страницах, примерно, как часто вы сталкиваетесь со страницей на иностранном языке, которую хотите прочитать?
 
 
 ;Daily
-Daily
+Ежедневно
 
 
 ;Several times a week
-Several times a week
+Несколько раз в неделю
 
 
 ;About once a week
-About once a week
+Примерно один раз в неделю
 
 
 ;About once every 2 weeks
-About once every 2 weeks
+Примерно один раз в 2 недели
 
 
 ;About once a month
-About once a month
+Примерно один раз в месяц
 
 
 ;Less often
-Less often
+Ещё реже
 
 
 ;Never
-Never
+Никогда
 
 
 ;I don't know
@@ -39,91 +39,91 @@ Never
 
 
 ;A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
-A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
+Потенциальной новой функцией для Firefox является функция автоматического перевода. Это встроенная служба перевода, предназначенная для просмотра веб-сайтов на иностранном языке. По вашему запросу, страница автоматически переводится на нужный вам язык.
 
 
 ;How appealing or unappealing is this service?
-How appealing or unappealing is this service?
+Насколько привлекательна или непривлекательна эта функция?
 
 
 ;Very appealing
-Very appealing
+Очень привлекательна
 
 
 ;Quite appealing
-Quite appealing
+Достаточно привлекательна
 
 
 ;Neither appealing nor unappealing
-Neither appealing nor unappealing
+Ни привлекательна ни непривлекательна
 
 
 ;Quite unappealing
-Quite unappealing
+Не очень привлекательна
 
 
 ;Very unappealing
-Very unappealing
+Абсолютно непривлекательна
 
 
 ;How likely would you be personally to use the Automatic Translation service in Firefox?
-How likely would you be personally to use the Automatic Translation service in Firefox?
+Вы лично стали бы использовать службу автоматического перевода в Firefox?
 
 
 ;Very likely
-Very likely
+Очень вероятно
 
 
 ;Quite likely
-Quite likely
+Весьма вероятно
 
 
 ;Neither likely nor unlikely
-Neither likely nor unlikely
+Ни вероятно ни маловероятно
 
 
 ;Quite unlikely
-Quite unlikely
+Весьма маловероятно
 
 
 ;Very unlikely
-Very unlikely
+Крайне маловероятно
 
 
 ;And what do you currently do when you encounter a page in a foreign language that you wish to read?
-And what do you currently do when you encounter a page in a foreign language that you wish to read?
+Что вы сейчас делаете, когда сталкиваетесь со страницей на иностранном языке, которую вы хотите прочитать?
 
 
 ;Don't read it
-Don't read it
+Я её не читаю
 
 
 ;Translate it myself (if you speak that language)
-Translate it myself (if you speak that language)
+Перевожу её сам (если я говорю на этом языке)
 
 
 ;Use an online translation service
-Use an online translation service
+Использую онлайновую службу перевода
 
 
 ;Open the page with another browser that does automatic translation
-Open the page with another browser that does automatic translation
+Открываю страницу в другом браузере, который делает автоматический перевод
 
 
 ;Something else
-Something else
+Что-то другое
 
 
 ;You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
-You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
+Ранее вы упомянули, что также используете Chrome. Когда вы работаете в Firefox и сталкиваетесь со страницей на иностранном языке, переключаетесь ли вы на Chrome для того, чтобы просмотреть её на вашем родном языке?
 
 
 ;Always
-Always
+Всегда
 
 
 ;Sometimes
-Sometimes
+Иногда
 
 
 ;No
@@ -131,35 +131,35 @@ Sometimes
 
 
 ;I was not aware I could do this in Chrome
-I was not aware I could do this in Chrome
+Я не знал, что я могу сделать это в Chrome
 
 
 ;Ask those using Firefox and another browser
-Ask those using Firefox and another browser
+Спросите тех, кто использует Firefox и другой браузер
 
 
 ;You mentioned earlier you use Firefox and other browser(s). If the Automatic Translation service was available in Firefox, would this change how much you use Firefox?
-You mentioned earlier you use Firefox and other browser(s). If the Automatic Translation service was available in Firefox, would this change how much you use Firefox?
+Ранее вы упомянули, что вы используете Firefox и другой браузер(ы). Если бы служба автоматического перевода была доступна в Firefox, как бы это повлияло на количество времени, проводимое вами в Firefox?
 
 
 ;I would use Firefox much more than at present
-I would use Firefox much more than at present
+Я бы использовал Firefox гораздо больше, чем сейчас
 
 
 ;I would use Firefox a little more
-I would use Firefox a little more
+Я бы использовал Firefox немного больше
 
 
 ;It would make no difference to how much I use Firefox
-It would make no difference to how much I use Firefox
+Это не повлияло бы на количество времени, проводимое мною в Firefox
 
 
 ;I would use Firefox a little less
-I would use Firefox a little less
+Я бы использовал Firefox немного меньше
 
 
 ;I would use Firefox much less than at present
-I would use Firefox much less than at present
+Я бы использовал Firefox гораздо меньше, чем сейчас
 
 
 ;Firefox for Android
@@ -167,76 +167,76 @@ Firefox для Android
 
 
 ;Please think about any mobile devices you may use such as a smartphone or tablet. Which of the following do you use?
-Please think about any mobile devices you may use such as a smartphone or tablet. Which of the following do you use?
+Пожалуйста, подумайте о любых мобильных устройствах, которые вы используете, таких как смартфон или планшет. Какие из следующих устройств вы используете?
 
 
 # NOTE: Please change the hardware brands (HTC, Samsung) to whichever are most familiar as Android phone brands in your locale
 ;(Android is an operating system common on smartphones such as HTC, Samsung and has a little green robot logo)
-(Android is an operating system common on smartphones such as HTC, Samsung and has a little green robot logo)
+(Android является операционной системой, часто используемой на смартфонах, таких как HTC и Samsung, и имеет логотип маленького зеленого робота)
 
 
 ;Apple iPhone, iPad or iPod Touch
-Apple iPhone, iPad or iPod Touch
+Apple iPhone, iPad или iPod Touch
 
 
 ;Blackberry phone or other device
-Blackberry phone or other device
+Телефон или другое устройство Blackberry
 
 
 ;A phone or other device which uses Android (see note)
-A phone or other device which uses Android (see note)
+Телефон или другое устройство, использующее Android (см. примечание)
 
 
 ;Any other smartphone or mobile device
-Any other smartphone or mobile device
+Любой другой смартфон или мобильное устройство
 
 
 ;None of the above
-None of the above
+Ничего из вышеперечисленного
 
 
 ;Before today, were you aware of Firefox for Android?
-Before today, were you aware of Firefox for Android?
+До сегодняшнего дня вы знали о существовании Firefox для Android?
 
 
 ;Yes, I definitely know what this is
-Yes, I definitely know what this is
+Да, я определенно знал, что это такое
 
 
 ;Yes, I think so
-Yes, I think so
+Думаю, что да
 
 
 ;No, I was not aware of Firefox for Android
-No, I was not aware of Firefox for Android
+Нет, я не знал о Firefox для Android
 
 
 ;Where did you first hear about Firefox on Android?
-Where did you first hear about Firefox on Android?
+Откуда вы впервые узнали о Firefox на Android?
 
 
 ;Web search
-Web search
+Поиск в Интернете
 
 
 ;Mozilla website
-Mozilla website
+Веб-сайт Mozilla
 
 
 ;Android app store
-Android app store
+Магазин приложений Android
 
 
 ;From a friend, family member or colleague
-From a friend, family member or colleague
+От друга, члена семьи или коллеги
 
 
 ;Newsletter or email
-Newsletter or email
+Из списка рассылки или эл. почты
 
 
 ;Article in the press, TV or radio
-Article in the press, TV or radio
+Из статьи в прессе, ТВ или радио
 
 
 ;Other
@@ -244,79 +244,79 @@ Article in the press, TV or radio
 
 
 ;I can't remember
-I can't remember
+Я не помню
 
 
 ;And have you actually used Firefox on Android?
-And have you actually used Firefox on Android?
+И вы реально использовали Firefox на Android?
 
 
 ;Yes, I use it regularly
-Yes, I use it regularly
+Да, я регулярно его использую
 
 
 ;Yes, I use it, but not very often
-Yes, I use it, but not very often
+Да, я его использую, но не очень часто
 
 
 ;Yes, I did use it but not anymore
-Yes, I did use it but not anymore
+Да, я раньше его использовал, но больше не использую
 
 
 ;No, I have not used it but I intend to in future
-No, I have not used it but I intend to in future
+Нет, я его не использовал, но я намерен использовать его в будущем
 
 
 ;No, I have not used it at all
-No, I have not used it at all
+Нет, я совсем его не использовал
 
 
 ;Have you tried to install Firefox on Android on your Android device?
-Have you tried to install Firefox on Android on your Android device?
+Вы пытались установить Firefox для Android на ваше устройство Android?
 
 
 ;Yes I tried to install it, but it was not compatible
-Yes I tried to install it, but it was not compatible
+Да, я попытался его установить, но он был не совместим
 
 
 ;Yes I tried to install it, but had other issues
-Yes I tried to install it, but had other issues
+Да, я попытался его установить, но с ним возникли другие проблемы
 
 
 ;No, I have not tried to install it
-No, I have not tried to install it
+Нет, я не пытался его установить
 
 
 ;Approximately when did you first use or install Firefox on Android?
-Approximately when did you first use or install Firefox on Android?
+Примерно, Когда вы впервые установили или использовали Firefox на Android?
 
 
 ;One month ago or less
-One month ago or less
+Менее одного месяца назад
 
 
 ;1 to 3 months ago
-1 to 3 months ago
+От 1 до 3 месяцев назад
 
 
 ;3 to 6 months ago
-3 to 6 months ago
+От 3 до 6 месяцев назад
 
 
 ;6 months to a year ago
-6 months to a year ago
+От 6 месяцев до 1 года назад
 
 
 ;1 to 2 years ago
-1 to 2 years ago
+От 1 до 2 лет назад
 
 
 ;More than 2 years ago
-More than 2 years ago
+Более 2 лет назад
 
 
 ;How satisfied or dissatisfied are you with Firefox on Android?
-How satisfied or dissatisfied are you with Firefox on Android?
+Насколько вы довольны или недовольны Firefox для Android?
 
 
 ;Extremely dissatisfied
@@ -324,11 +324,11 @@ How satisfied or dissatisfied are you with Firefox on Android?
 
 
 ;Dissatisfied
-Неудовлетворен
+Недоволен
 
 
 ;Somewhat dissatisfied
-Слегка недоволен
+Скорее недоволен
 
 
 ;Neither satisfied nor dissatisfied
@@ -336,11 +336,11 @@ How satisfied or dissatisfied are you with Firefox on Android?
 
 
 ;Somewhat satisfied
-Слегка доволен
+Скорее доволен
 
 
 ;Satisfied
-Удовлетворен
+Доволен
 
 
 ;Extremely satisfied
@@ -348,6 +348,6 @@ How satisfied or dissatisfied are you with Firefox on Android?
 
 
 ;Why do you say that?
-Why do you say that?
+Почему вы так думаете?
 
 
