@@ -3,163 +3,160 @@ Leverage Automatic Translation
 
 
 ;Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
-Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
+Gezdiğiniz tüm web sayfalarını düşündüğünüzde, yaklaşık olarak, yabancı bir dilde olup da okumak istediğiniz bir sayfayla ne sıklıkta karşılaşıyorsunuz?
 
 
 ;Daily
-Daily
+Her gün
 
 
 ;Several times a week
-Several times a week
+Haftada birkaç kez
 
 
 ;About once a week
-About once a week
+Haftada bir civarında
 
 
 ;About once every 2 weeks
-About once every 2 weeks
+İki haftada bir civarında
 
 
 ;About once a month
-About once a month
+Ayda bir civarında
 
 
 ;Less often
-Less often
+Daha nadir
 
 
 ;Never
-Never
+Hiç
 
 
 ;I don't know
-I don't know
+Bilmiyorum
 
 
 ;A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
-A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
+Firefox için düşündüğümüz yeni özelliklerden birisi Otomatik Çeviri. Bu, yabancı dillerdeki web sitelerinde gezmek için kullanabileceğiniz bütünleşik bir çeviri servisi. İstediğiniz üzerine bir sayfa otomatik olarak tercih ettiğiniz dile çevrilebiliyor.
 
 
 ;How appealing or unappealing is this service?
-How appealing or unappealing is this service?
+Sizce böyle bir servis ne kadar çekici?
 
 
 ;Very appealing
-Very appealing
+Çok çekici
 
 
 ;Quite appealing
-Quite appealing
+Oldukça çekici
 
 
 ;Neither appealing nor unappealing
-Neither appealing nor unappealing
+Ne çekici ne de değil
 
 
 ;Quite unappealing
-Quite unappealing
+Pek çekici değil
 
 
 ;Very unappealing
-Very unappealing
+Hiç çekici değil
 
 
 ;How likely would you be personally to use the Automatic Translation service in Firefox?
-How likely would you be personally to use the Automatic Translation service in Firefox?
-
+Sadece kendinizi düşündüğünüzde Firefox'taki Otomatik Çeviri servisini kullanma ihtimaliniz nedir?
 
 ;Very likely
-Very likely
+Çok yüksek
 
 
 ;Quite likely
-Quite likely
+Yüksek
 
 
 ;Neither likely nor unlikely
-Neither likely nor unlikely
+Ne yüksek ne de düşük
 
 
 ;Quite unlikely
-Quite unlikely
+Düşük
 
 
 ;Very unlikely
-Very unlikely
+Çok düşük
 
 
 ;And what do you currently do when you encounter a page in a foreign language that you wish to read?
-And what do you currently do when you encounter a page in a foreign language that you wish to read?
-
+Şu anda okumak istediğiniz yabancı dilde bir sayfa ile karşılaştığınızda ne yapıyorsunuz?
 
 ;Don't read it
-Don't read it
+Okumuyorum
 
 
 ;Translate it myself (if you speak that language)
-Translate it myself (if you speak that language)
+Kendim çeviriyorum (O dili biliyorsam)
 
 
 ;Use an online translation service
-Use an online translation service
+Çevrimiçi bir çeviri servisi kullanıyorum
 
 
 ;Open the page with another browser that does automatic translation
-Open the page with another browser that does automatic translation
+Sayfayı, otomatik çeviri yapan başka bir tarayıcıda açıyorum
 
 
 ;Something else
-Something else
+Başka bir şey
 
 
 ;You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
-You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
-
+Chrome kullandığınızı da söylemiştiniz. Firefox ile gezinirken yabancı dilde bir sayfayla karşılaştığınızda o sayfayı kendi dilinizde görüntülemek için Chrome'a geçme eğiliminiz nedir?
 
 ;Always
-Always
+Her zaman
 
 
 ;Sometimes
-Sometimes
+Bazen
 
 
 ;No
-No
+Hiçbir zaman
 
 
 ;I was not aware I could do this in Chrome
-I was not aware I could do this in Chrome
+Chrome'da bunu yapabileceğimi bilmiyordum
 
 
 ;Ask those using Firefox and another browser
-Ask those using Firefox and another browser
+Bunu Firefox ve başka bir tarayıcı kullananlara sorun
 
 
 ;You mentioned earlier you use Firefox and other browser(s). If the Automatic Translation service was available in Firefox, would this change how much you use Firefox?
-You mentioned earlier you use Firefox and other browser(s). If the Automatic Translation service was available in Firefox, would this change how much you use Firefox?
+Firefox ve başka tarayıcılar kullandığınızı söylemiştiniz. Otomatik Çeviri servisi Firefox'ta olsaydı Firefox'u kullanma sıklığınız değişir miydi?
 
 
 ;I would use Firefox much more than at present
-I would use Firefox much more than at present
+Firefox'u şu ankinden çok daha fazla kullanırdım
 
 
 ;I would use Firefox a little more
-I would use Firefox a little more
+Firefox'u biraz daha fazla kullanırdım
 
 
 ;It would make no difference to how much I use Firefox
-It would make no difference to how much I use Firefox
+Firefox'u kullanma sıklığım değişmezdi
 
 
 ;I would use Firefox a little less
-I would use Firefox a little less
+Firefox'u biraz daha az kullanırdım
 
 
 ;I would use Firefox much less than at present
-I would use Firefox much less than at present
+Firefox'u şu ankinden çok daha az kullanırdım
 
 
 ;Firefox for Android
@@ -167,156 +164,156 @@ Android İçin Firefox
 
 
 ;Please think about any mobile devices you may use such as a smartphone or tablet. Which of the following do you use?
-Please think about any mobile devices you may use such as a smartphone or tablet. Which of the following do you use?
+Lütfen kullandığınız akıllı telefon veya tablet gibi tüm mobil aygıtları düşünün. Aşağıdakilerden hangilerini kullanıyorsunuz?
 
 
 # NOTE: Please change the hardware brands (HTC, Samsung) to whichever are most familiar as Android phone brands in your locale
 ;(Android is an operating system common on smartphones such as HTC, Samsung and has a little green robot logo)
-(Android is an operating system common on smartphones such as HTC, Samsung and has a little green robot logo)
+(Android işletim sistemi Samsung, HTC gibi akıllı telefonlarda yaygındır küçük yeşil bir robot logosu vardır.)
 
 
 ;Apple iPhone, iPad or iPod Touch
-Apple iPhone, iPad or iPod Touch
+Apple iPhone, iPad veya iPod touch
 
 
 ;Blackberry phone or other device
-Blackberry phone or other device
+BlackBerry telefon veya başka bir aygıt
 
 
 ;A phone or other device which uses Android (see note)
-A phone or other device which uses Android (see note)
+Android tabanlı bir telefon veya başka bir aygıt (nota bakın)
 
 
 ;Any other smartphone or mobile device
-Any other smartphone or mobile device
+Başka bir akıllı telefon veya mobil aygıt
 
 
 ;None of the above
-None of the above
+Yukarıdakilerin hiçbiri
 
 
 ;Before today, were you aware of Firefox for Android?
-Before today, were you aware of Firefox for Android?
+Bugünden önce Android İçin Firefox'tan haberdar mıydınız?
 
 
 ;Yes, I definitely know what this is
-Yes, I definitely know what this is
+Evet, ne olduğunu kesinlikle biliyorum
 
 
 ;Yes, I think so
-Yes, I think so
+Evet, bildiğimi düşünüyorum
 
 
 ;No, I was not aware of Firefox for Android
-No, I was not aware of Firefox for Android
+Hayır, Android İçin Firefox'u duymamıştım
 
 
 ;Where did you first hear about Firefox on Android?
-Where did you first hear about Firefox on Android?
+Android İçin Firefox'u ilk nerede duydunuz?
 
 
 ;Web search
-Web search
+Web araması
 
 
 ;Mozilla website
-Mozilla website
+Mozilla web sitesi
 
 
 ;Android app store
-Android app store
+Android uygulama mağazası
 
 
 ;From a friend, family member or colleague
-From a friend, family member or colleague
+Arkadaş, akraba veya iş arkadaşı
 
 
 ;Newsletter or email
-Newsletter or email
+Bülten veya e-posta
 
 
 ;Article in the press, TV or radio
-Article in the press, TV or radio
+Gazete, dergi, TV veya radyo haberi
 
 
 ;Other
-Other
+Diğer
 
 
 ;I can't remember
-I can't remember
+Hatırlamıyorum
 
 
 ;And have you actually used Firefox on Android?
-And have you actually used Firefox on Android?
+Peki, Android İçin Firefox'u hiç kullandınız mı?
 
 
 ;Yes, I use it regularly
-Yes, I use it regularly
+Evet, düzenli olarak kullanıyorum
 
 
 ;Yes, I use it, but not very often
-Yes, I use it, but not very often
+Evet, kullanıyorum ama pek sık değil
 
 
 ;Yes, I did use it but not anymore
-Yes, I did use it but not anymore
+Evet, kullandım ama artık kullanmıyorum
 
 
 ;No, I have not used it but I intend to in future
-No, I have not used it but I intend to in future
+Hayır, kullanmadım ama kullanmayı düşünüyorum
 
 
 ;No, I have not used it at all
-No, I have not used it at all
+Hayır, hiç kullanmadım
 
 
 ;Have you tried to install Firefox on Android on your Android device?
-Have you tried to install Firefox on Android on your Android device?
+Android aygıtınıza Android İçin Firefox'u yüklemeyi denediniz mi?
 
 
 ;Yes I tried to install it, but it was not compatible
-Yes I tried to install it, but it was not compatible
+Evet, denedim ama uyumlu değildi
 
 
 ;Yes I tried to install it, but had other issues
-Yes I tried to install it, but had other issues
+Evet, denedim ama başka sorunlarla karşılaştım
 
 
 ;No, I have not tried to install it
-No, I have not tried to install it
+Hayır, denemedim
 
 
 ;Approximately when did you first use or install Firefox on Android?
-Approximately when did you first use or install Firefox on Android?
+Android İçin Firefox'u yaklaşık olarak ilk ne zaman kullandınız veya yüklediniz?
 
 
 ;One month ago or less
-One month ago or less
+Bir aydan daha kısa süre önce
 
 
 ;1 to 3 months ago
-1 to 3 months ago
+1-3 ay önce
 
 
 ;3 to 6 months ago
-3 to 6 months ago
+3-6 ay önce
 
 
 ;6 months to a year ago
-6 months to a year ago
+6 ay ile 1 yıl arası
 
 
 ;1 to 2 years ago
-1 to 2 years ago
+1-2 yıl önce
 
 
 ;More than 2 years ago
-More than 2 years ago
+2 yıldan daha önce
 
 
 ;How satisfied or dissatisfied are you with Firefox on Android?
-How satisfied or dissatisfied are you with Firefox on Android?
+Android İçin Firefox sizi ne kadar tatmin ediyor?
 
 
 ;Extremely dissatisfied
@@ -348,6 +345,6 @@ Tatmin ediyor
 
 
 ;Why do you say that?
-Why do you say that?
+Neden böyle düşünüyorsunuz?
 
 
