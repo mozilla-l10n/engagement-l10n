@@ -1,165 +1,164 @@
 ;Leverage Automatic Translation
-Leverage Automatic Translation
+自動翻訳サービスの影響
 
 
 ;Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
-Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
+これまでに表示したことのある Web ページを思い起こしてください。読みたいページが外国語で書かれていたことは、どのくらいの頻度でありましたか？
 
 
 ;Daily
-Daily
+毎日
 
 
 ;Several times a week
-Several times a week
+1 週間に数回
 
 
 ;About once a week
-About once a week
+1 週間に 1 回くらい
 
 
 ;About once every 2 weeks
-About once every 2 weeks
+2 週間に 1 回くらい
 
 
 ;About once a month
-About once a month
+1 か月に 1 回くらい
 
 
 ;Less often
-Less often
+ほとんどない
 
 
 ;Never
-Never
+全くない
 
 
 ;I don't know
-分かりません
+分からない
 
 
 ;A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
-A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
+将来、Firefox に自動翻訳の機能が搭載されるかもしれません。これは、外国語の Web サイトをブラウズするための翻訳サービスです。外国語のページが、あなたの操作により、あなたがお使いの言語に自動的に翻訳されます。
 
 
 ;How appealing or unappealing is this service?
-How appealing or unappealing is this service?
+このサービスに興味はありますか？
 
 
 ;Very appealing
-Very appealing
+とても興味がある
 
 
 ;Quite appealing
-Quite appealing
+興味がある
 
 
 ;Neither appealing nor unappealing
-Neither appealing nor unappealing
+どちらでもない
 
 
 ;Quite unappealing
-Quite unappealing
+興味がない
 
 
 ;Very unappealing
-Very unappealing
+全く興味がない
 
 
 ;How likely would you be personally to use the Automatic Translation service in Firefox?
-How likely would you be personally to use the Automatic Translation service in Firefox?
+Firefox の自動翻訳サービスをご自分でどのくらい使うと思いますか？
 
 
 ;Very likely
-Very likely
+とてもよく使う
 
 
 ;Quite likely
-Quite likely
+よく使う
 
 
 ;Neither likely nor unlikely
-Neither likely nor unlikely
+どちらとも言えない
 
 
 ;Quite unlikely
-Quite unlikely
+あまり使わない
 
 
 ;Very unlikely
-Very unlikely
+全く使わない
 
 
 ;And what do you currently do when you encounter a page in a foreign language that you wish to read?
-And what do you currently do when you encounter a page in a foreign language that you wish to read?
+読みたいページが外国語で書かれていた場合、現在はどのようにされていますか？
 
 
 ;Don't read it
-Don't read it
+読まない
 
 
 ;Translate it myself (if you speak that language)
-Translate it myself (if you speak that language)
+自分で翻訳する (その言語が話せる場合)
 
 
 ;Use an online translation service
-Use an online translation service
+オンライン翻訳サービスを利用する
 
 
 ;Open the page with another browser that does automatic translation
-Open the page with another browser that does automatic translation
+他のブラウザに搭載された自動翻訳機能を利用する
 
 
 ;Something else
-Something else
+その他
 
 
 ;You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
-You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
+前の質問について、Chrome もお使いの方はお答えください。Firefox で外国語のページが表示されたとき、そのページをあなたの言語で読むために Chrome に切り替えますか？
 
 
 ;Always
-Always
+常にする
 
 
 ;Sometimes
-Sometimes
-
+時々する
 
 ;No
-いいえ
+切り替えない
 
 
 ;I was not aware I could do this in Chrome
-I was not aware I could do this in Chrome
+Chrome に自動翻訳機能があることを知らなかった
 
 
 ;Ask those using Firefox and another browser
-Ask those using Firefox and another browser
+Firefox と別のブラウザをお使いの方への質問
 
 
 ;You mentioned earlier you use Firefox and other browser(s). If the Automatic Translation service was available in Firefox, would this change how much you use Firefox?
-You mentioned earlier you use Firefox and other browser(s). If the Automatic Translation service was available in Firefox, would this change how much you use Firefox?
+前の質問で、Firefox と他のブラウザをお使いの方はお答えください。自動翻訳サービスが Firefox で利用可能になった場合、Firefox の使用頻度は変わりますか？
 
 
 ;I would use Firefox much more than at present
-I would use Firefox much more than at present
+Firefox の使用頻度が今よりもかなり増える
 
 
 ;I would use Firefox a little more
-I would use Firefox a little more
+Firefox の使用頻度が今よりも増える
 
 
 ;It would make no difference to how much I use Firefox
-It would make no difference to how much I use Firefox
+Firefox の使用頻度は変わらない
 
 
 ;I would use Firefox a little less
-I would use Firefox a little less
+Firefox の使用頻度が減る
 
 
 ;I would use Firefox much less than at present
-I would use Firefox much less than at present
+Firefox の使用頻度がかなり減る
 
 
 ;Firefox for Android
@@ -167,156 +166,156 @@ Android 版 Firefox
 
 
 ;Please think about any mobile devices you may use such as a smartphone or tablet. Which of the following do you use?
-Please think about any mobile devices you may use such as a smartphone or tablet. Which of the following do you use?
+スマートフォンやタブレットなど、あなたがお使いの携帯端末についてお答えください。以下のどの端末をお使いですか？
 
 
 # NOTE: Please change the hardware brands (HTC, Samsung) to whichever are most familiar as Android phone brands in your locale
 ;(Android is an operating system common on smartphones such as HTC, Samsung and has a little green robot logo)
-(Android is an operating system common on smartphones such as HTC, Samsung and has a little green robot logo)
+(Android は富士通、SONY、シャープや Samsung などで共通のオペレーティングシステムで、小さな緑色のロボットが目印です)
 
 
 ;Apple iPhone, iPad or iPod Touch
-Apple iPhone, iPad or iPod Touch
+Apple iPhone または iPad, iPod Touch
 
 
 ;Blackberry phone or other device
-Blackberry phone or other device
+Blackberry 携帯または他の端末
 
 
 ;A phone or other device which uses Android (see note)
-A phone or other device which uses Android (see note)
+Android を搭載した携帯端末 (補足を参照)
 
 
 ;Any other smartphone or mobile device
-Any other smartphone or mobile device
+他のスマートフォンやモバイル端末
 
 
 ;None of the above
-None of the above
+その他
 
 
 ;Before today, were you aware of Firefox for Android?
-Before today, were you aware of Firefox for Android?
+以前から Android 版 Firefox をご存知でしたか？
 
 
 ;Yes, I definitely know what this is
-Yes, I definitely know what this is
+よく知っている
 
 
 ;Yes, I think so
-Yes, I think so
+聞いた事がある
 
 
 ;No, I was not aware of Firefox for Android
-No, I was not aware of Firefox for Android
+Android 版 Firefox は知らなかった
 
 
 ;Where did you first hear about Firefox on Android?
-Where did you first hear about Firefox on Android?
+Android 版 Firefox について、どこで知りましたか？
 
 
 ;Web search
-Web search
+Web 検索
 
 
 ;Mozilla website
-Mozilla website
+Mozilla の Web サイト
 
 
 ;Android app store
-Android app store
+Android アプリストア
 
 
 ;From a friend, family member or colleague
-From a friend, family member or colleague
+友人や家族、同級生または同僚から
 
 
 ;Newsletter or email
-Newsletter or email
+ニュースレターまたはメール
 
 
 ;Article in the press, TV or radio
+新聞記事やテレビ、ラジオ
 Article in the press, TV or radio
 
 
 ;Other
-Other
+その他
 
 
 ;I can't remember
-I can't remember
+憶えていない
 
 
 ;And have you actually used Firefox on Android?
-And have you actually used Firefox on Android?
+Android 版 Firefox を使ったことはありますか？
 
 
 ;Yes, I use it regularly
-Yes, I use it regularly
+日常的に使っている
 
 
 ;Yes, I use it, but not very often
-Yes, I use it, but not very often
+時々使っている
 
 
 ;Yes, I did use it but not anymore
-Yes, I did use it but not anymore
+以前使ったことがある
 
 
 ;No, I have not used it but I intend to in future
-No, I have not used it but I intend to in future
+使っていないが、使ってみたい
 
 
 ;No, I have not used it at all
-No, I have not used it at all
+全く使っていない
 
 
 ;Have you tried to install Firefox on Android on your Android device?
-Have you tried to install Firefox on Android on your Android device?
+ご自分の Android 端末に Android 版 Firefox のインストールを試みたことはありますか？
 
 
 ;Yes I tried to install it, but it was not compatible
-Yes I tried to install it, but it was not compatible
+インストールを試みたが、互換性が無かった
 
 
 ;Yes I tried to install it, but had other issues
-Yes I tried to install it, but had other issues
+インストールを試みたが、他の問題が起こった
 
 
 ;No, I have not tried to install it
-No, I have not tried to install it
-
+インストールを試みたことはない
 
 ;Approximately when did you first use or install Firefox on Android?
-Approximately when did you first use or install Firefox on Android?
+最初に Android 版 Firefox を使用またはインストールしたのはいつ頃ですか？
 
 
 ;One month ago or less
-One month ago or less
+1 か月以内
 
 
 ;1 to 3 months ago
-1 to 3 months ago
+1 か月から 3 か月前
 
 
 ;3 to 6 months ago
-3 to 6 months ago
+3 か月から半年前
 
 
 ;6 months to a year ago
-6 months to a year ago
+半年から 1 年前
 
 
 ;1 to 2 years ago
-1 to 2 years ago
+1 年から 2 年前
 
 
 ;More than 2 years ago
-More than 2 years ago
+2 年以上前
 
 
 ;How satisfied or dissatisfied are you with Firefox on Android?
-How satisfied or dissatisfied are you with Firefox on Android?
+Android 版 Firefox にどのくらい満足しましたか？
 
 
 ;Extremely dissatisfied
@@ -348,6 +347,6 @@ How satisfied or dissatisfied are you with Firefox on Android?
 
 
 ;Why do you say that?
-Why do you say that?
+その理由を教えてください。
 
 
