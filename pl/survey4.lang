@@ -1,37 +1,37 @@
 ;Leverage Automatic Translation
-Leverage Automatic Translation
+Automatyczne usługi tłumaczeniowe
 
 
 ;Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
-Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
+Pomyśl o wszystkich odwiedzanych stronach internetowych. Jak często spotykasz strony w języku obcym, które chcesz przeczytać?
 
 
 ;Daily
-Daily
+Codziennie
 
 
 ;Several times a week
-Several times a week
+Kilka razy w tygodniu
 
 
 ;About once a week
-About once a week
+Raz w tygodniu
 
 
 ;About once every 2 weeks
-About once every 2 weeks
+Raz na dwa tygodnie
 
 
 ;About once a month
-About once a month
+Raz w miesiącu
 
 
 ;Less often
-Less often
+Rzadziej
 
 
 ;Never
-Never
+Nigdy
 
 
 ;I don't know
@@ -39,91 +39,91 @@ Nie wiem
 
 
 ;A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
-A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
+Jedną z potencjalnych nowych funkcji Firefoksa jest automatyczne tłumaczenie. To wbudowana usługa tłumaczeniowa ułatwiająca przeglądanie stron w językach obcych, które na żądanie byłyby tłumaczone na wybrany język.
 
 
 ;How appealing or unappealing is this service?
-How appealing or unappealing is this service?
+Czy taka usługa byłaby przydatna?
 
 
 ;Very appealing
-Very appealing
+Bardzo przydatna
 
 
 ;Quite appealing
-Quite appealing
+Dość przydatna
 
 
 ;Neither appealing nor unappealing
-Neither appealing nor unappealing
+Ani przydatna, ani nieprzydatna
 
 
 ;Quite unappealing
-Quite unappealing
+Dość nieprzydatna
 
 
 ;Very unappealing
-Very unappealing
+Bardzo nieprzydatna
 
 
 ;How likely would you be personally to use the Automatic Translation service in Firefox?
-How likely would you be personally to use the Automatic Translation service in Firefox?
+Jakie jest prawdopodobieństwo, że będziesz w Firefoksie używać usługi automatycznego tłumaczenia? 
 
 
 ;Very likely
-Very likely
+Bardzo duże
 
 
 ;Quite likely
-Quite likely
+Duże
 
 
 ;Neither likely nor unlikely
-Neither likely nor unlikely
+Ani duże, ani małe
 
 
 ;Quite unlikely
-Quite unlikely
+Małe
 
 
 ;Very unlikely
-Very unlikely
+Bardzo małe
 
 
 ;And what do you currently do when you encounter a page in a foreign language that you wish to read?
-And what do you currently do when you encounter a page in a foreign language that you wish to read?
+Co teraz robisz, gdy chcesz przeczytać stronę internetową w nieznanym tobie języku?
 
 
 ;Don't read it
-Don't read it
+Nie czytam jej
 
 
 ;Translate it myself (if you speak that language)
-Translate it myself (if you speak that language)
+Tłumaczę ją samodzielnie – jeśli znam dany język
 
 
 ;Use an online translation service
-Use an online translation service
+Korzystam z usług tłumaczeniowych w Internecie
 
 
 ;Open the page with another browser that does automatic translation
-Open the page with another browser that does automatic translation
+Otwieram stronę w innej przeglądarce, która ma wbudowaną usługę automatycznego tłumaczenia
 
 
 ;Something else
-Something else
+Robię coś innego
 
 
 ;You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
-You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
+Korzystasz również z przeglądarki Chrome. Czy zmieniasz przeglądarkę na Chrome, kiedy otwierasz w Firefoksie stronę w języku obcym, by móc skorzystać z automatycznego tłumaczenia?
 
 
 ;Always
-Always
+Zawsze
 
 
 ;Sometimes
-Sometimes
+Czasami
 
 
 ;No
@@ -131,35 +131,35 @@ Nie
 
 
 ;I was not aware I could do this in Chrome
-I was not aware I could do this in Chrome
+Pierwszy raz słyszę, że przeglądarka Chrome ma taką możliwość
 
 
 ;Ask those using Firefox and another browser
-Ask those using Firefox and another browser
+Zapytajcie użytkowników Firefoksa i innych przeglądarek.
 
 
 ;You mentioned earlier you use Firefox and other browser(s). If the Automatic Translation service was available in Firefox, would this change how much you use Firefox?
-You mentioned earlier you use Firefox and other browser(s). If the Automatic Translation service was available in Firefox, would this change how much you use Firefox?
+Korzystasz z Firefoksa i innych przeglądarek. Jaki wpływ na częstotliwość używania przez ciebie Firefoksa miałaby obecność w nim funkcji automatycznego tłumaczenia stron?
 
 
 ;I would use Firefox much more than at present
-I would use Firefox much more than at present
+Zwiększyłaby się znacznie
 
 
 ;I would use Firefox a little more
-I would use Firefox a little more
+Zwiększyłaby się nieznacznie
 
 
 ;It would make no difference to how much I use Firefox
-It would make no difference to how much I use Firefox
+Nie uległaby zmianie
 
 
 ;I would use Firefox a little less
-I would use Firefox a little less
+Zmniejszyłaby się nieznacznie
 
 
 ;I would use Firefox much less than at present
-I would use Firefox much less than at present
+Zmniejszyłaby się znacznie
 
 
 ;Firefox for Android
@@ -167,187 +167,187 @@ Firefox na Androida
 
 
 ;Please think about any mobile devices you may use such as a smartphone or tablet. Which of the following do you use?
-Please think about any mobile devices you may use such as a smartphone or tablet. Which of the following do you use?
+Zastanów się nad używanymi przez ciebie urządzeniami mobilnymi, jak tablety i smartfony. Z których niżej wymienionych urządzeń korzystasz?
 
 
 # NOTE: Please change the hardware brands (HTC, Samsung) to whichever are most familiar as Android phone brands in your locale
 ;(Android is an operating system common on smartphones such as HTC, Samsung and has a little green robot logo)
-(Android is an operating system common on smartphones such as HTC, Samsung and has a little green robot logo)
+(Android to system operacyjny dla smartfonów, działający na urządzeniach wielu firm, m.in. HTC i Samsunga, a jego logo to mały, zielony robot)
 
 
 ;Apple iPhone, iPad or iPod Touch
-Apple iPhone, iPad or iPod Touch
+Apple iPhone, iPad lub iPod Touch
 
 
 ;Blackberry phone or other device
-Blackberry phone or other device
+Telefon lub inne urządzenie firmy Blackberry
 
 
 ;A phone or other device which uses Android (see note)
-A phone or other device which uses Android (see note)
+Telefon lub inne urządzenie z systemem operacyjnym Android
 
 
 ;Any other smartphone or mobile device
-Any other smartphone or mobile device
+Inny smartfon lub urządzenie mobilne
 
 
 ;None of the above
-None of the above
+Żadne z powyższych
 
 
 ;Before today, were you aware of Firefox for Android?
-Before today, were you aware of Firefox for Android?
+Czy Firefox na Androida był ci znany wcześniej?
 
 
 ;Yes, I definitely know what this is
-Yes, I definitely know what this is
+Tak, zdecydowanie wiem, co to jest
 
 
 ;Yes, I think so
-Yes, I think so
+Tak sądzę
 
 
 ;No, I was not aware of Firefox for Android
-No, I was not aware of Firefox for Android
+Nie, słyszę o Firefoksie na Androida po raz pierwszy
 
 
 ;Where did you first hear about Firefox on Android?
-Where did you first hear about Firefox on Android?
+Skąd wiesz o Firefoksie na Androida?
 
 
 ;Web search
-Web search
+Z wyszukiwarki internetowej
 
 
 ;Mozilla website
-Mozilla website
+Z witryny Mozilli
 
 
 ;Android app store
-Android app store
+Ze sklepu z aplikacjami na Androida
 
 
 ;From a friend, family member or colleague
-From a friend, family member or colleague
+Od znajomego, przyjaciela lub członka rodziny
 
 
 ;Newsletter or email
-Newsletter or email
+Z newslettera lub e-maila
 
 
 ;Article in the press, TV or radio
-Article in the press, TV or radio
+Z artykułu w prasie, z telewizji lub radia
 
 
 ;Other
-Inne źródło
+Z innego źródła
 
 
 ;I can't remember
-I can't remember
+Nie pamiętam
 
 
 ;And have you actually used Firefox on Android?
-And have you actually used Firefox on Android?
+Czy kiedykolwiek zdarzyło ci się użyć Firefoksa na Androida?
 
 
 ;Yes, I use it regularly
-Yes, I use it regularly
+Tak, używam go regularnie
 
 
 ;Yes, I use it, but not very often
-Yes, I use it, but not very often
+Tak, ale używam go tylko czasami
 
 
 ;Yes, I did use it but not anymore
-Yes, I did use it but not anymore
+Kiedyś tak, ale już go nie używam
 
 
 ;No, I have not used it but I intend to in future
-No, I have not used it but I intend to in future
+Jeszcze nie, ale zamierzam go używać
 
 
 ;No, I have not used it at all
-No, I have not used it at all
+Nigdy
 
 
 ;Have you tried to install Firefox on Android on your Android device?
-Have you tried to install Firefox on Android on your Android device?
+Czy próbowałe/-aś kiedykolwiek zainstalować Firefoksa na Androida na swoim urządzeniu z tym systemem?
 
 
 ;Yes I tried to install it, but it was not compatible
-Yes I tried to install it, but it was not compatible
+Tak, ale Firefox na Androida nie był kompatybilny
 
 
 ;Yes I tried to install it, but had other issues
-Yes I tried to install it, but had other issues
+Tak, ale instalacja nie powiodła się z innych przyczyn
 
 
 ;No, I have not tried to install it
-No, I have not tried to install it
+Nie
 
 
 ;Approximately when did you first use or install Firefox on Android?
-Approximately when did you first use or install Firefox on Android?
+Orientacyjnie, kiedy po raz pierwszy zainstalowałeś/-łaś lub użyłeś/-aś Firefoksa na Androida?
 
 
 ;One month ago or less
-One month ago or less
+Miesiąc temu lub wcześniej
 
 
 ;1 to 3 months ago
-1 to 3 months ago
+Od 1 do 3 miesięcy temu
 
 
 ;3 to 6 months ago
-3 to 6 months ago
+Od 3 do 6 miesięcy temu
 
 
 ;6 months to a year ago
-6 months to a year ago
+Od 6 miesięcy temu do roku
 
 
 ;1 to 2 years ago
-1 to 2 years ago
+Od roku do 2 lat temu
 
 
 ;More than 2 years ago
-More than 2 years ago
+Ponad 2 lata temu
 
 
 ;How satisfied or dissatisfied are you with Firefox on Android?
-How satisfied or dissatisfied are you with Firefox on Android?
+Czy Firefox na Androida spełnia twoje oczekiwania?
 
 
 ;Extremely dissatisfied
-Bardzo nie satysfakcjonuje
+Zdecydowanie nie spełnia
 
 
 ;Dissatisfied
-Niesatysfakcjonujący
+Nie spełnia
 
 
 ;Somewhat dissatisfied
-Trochę nie satysfakcjonuje
+Częściowo nie spełnia
 
 
 ;Neither satisfied nor dissatisfied
-Ani satysfakcjonuje, ani nie satysfakcjonuje
+Ani spełnia, ani nie spełnia
 
 
 ;Somewhat satisfied
-Trochę satysfakcjonuje
+Częściowo spełnia
 
 
 ;Satisfied
-Satysfakcjonujący
+Spełnia
 
 
 ;Extremely satisfied
-Bardzo satysfakcjonuje
+Zdecydowanie spełnia
 
 
 ;Why do you say that?
-Why do you say that?
+Dlaczego?
 
 
