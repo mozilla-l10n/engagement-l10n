@@ -47,7 +47,7 @@ Una posible nueva funcionalidad de Firefox es Traducción automática. Este es u
 
 
 ;Very appealing
-Muy atractivo 
+Muy atractivo
 
 
 ;Quite appealing
@@ -88,7 +88,7 @@ Bastante improbable
 
 ;Very unlikely
 Muy improbable
- 
+
 
 ;And what do you currently do when you encounter a page in a foreign language that you wish to read?
 ¿Y qué solés hacér cuando encontrás una página en un idioma extranjero que te gustaría leer en tu idioma?
@@ -127,7 +127,7 @@ A veces
 
 
 ;No
-No
+No {ok}
 
 
 ;I was not aware I could do this in Chrome
