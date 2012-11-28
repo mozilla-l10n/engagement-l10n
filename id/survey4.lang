@@ -1,165 +1,165 @@
-;Leverage Automatic Translation
-Leverage Automatic Translation
+﻿;Leverage Automatic Translation
+Menggunakan Penerjemahan Otomatis
 
 
 ;Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
-Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
+Berapa kali Anda menjumpai situs/laman web dalam bahasa asing yang ingin sekali Anda baca?
 
 
 ;Daily
-Daily
+Tiap hari
 
 
 ;Several times a week
-Several times a week
+Beberapa kali dalam seminggu
 
 
 ;About once a week
-About once a week
+Sekali dalam seminggu
 
 
 ;About once every 2 weeks
-About once every 2 weeks
+Sekali dalam dua minggu
 
 
 ;About once a month
-About once a month
+Sekali dalam sebulan
 
 
 ;Less often
-Less often
+Jarang
 
 
 ;Never
-Never
+Tidak pernah
 
 
 ;I don't know
-I don't know
+Tidak tahu
 
 
 ;A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
-A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
+Salah satu fitur potensial yang dapat dikembangkan untuk Firefox adalah Penerjemahan Otomatis. Fitur ini membundel layanan penerjemahan agar dapat digunakan untuk menjelajahi situs/laman web dalam bahasa asing. Sesuai dengan permintaan pengguna, laman web akan diterjemahkan ke dalam bahasa yang dipilih.
 
 
 ;How appealing or unappealing is this service?
-How appealing or unappealing is this service?
+Apakah fitur layanan ini akan menarik atau tidak menarik?
 
 
 ;Very appealing
-Very appealing
+Sangat menarik
 
 
 ;Quite appealing
-Quite appealing
+Cukup menarik
 
 
 ;Neither appealing nor unappealing
-Neither appealing nor unappealing
+Biasa aja
 
 
 ;Quite unappealing
-Quite unappealing
+Tidak terlalu menarik
 
 
 ;Very unappealing
-Very unappealing
+Tidak menarik sama sekali
 
 
 ;How likely would you be personally to use the Automatic Translation service in Firefox?
-How likely would you be personally to use the Automatic Translation service in Firefox?
+Seberapa mungkin Anda akan menggunakan layanan Penerjemahan Otomatis ini dalam Firefox?
 
 
 ;Very likely
-Very likely
+Sangat mungkin
 
 
 ;Quite likely
-Quite likely
+Mungkin saja
 
 
 ;Neither likely nor unlikely
-Neither likely nor unlikely
+Biasa aja deh
 
 
 ;Quite unlikely
-Quite unlikely
+Tidak mungkin
 
 
 ;Very unlikely
-Very unlikely
+Sangat tidak mungkin
 
 
 ;And what do you currently do when you encounter a page in a foreign language that you wish to read?
-And what do you currently do when you encounter a page in a foreign language that you wish to read?
+Apa yang Anda lakukan jika menjumpai situs web/laman web dalam bahasa asing yang ingin Anda baca?
 
 
 ;Don't read it
-Don't read it
+Tidak membacanya
 
 
 ;Translate it myself (if you speak that language)
-Translate it myself (if you speak that language)
+Menerjemahkannya (jika paham bahasa tersebut)
 
 
 ;Use an online translation service
-Use an online translation service
+Menggunakan layanan penerjemahan daring (online)
 
 
 ;Open the page with another browser that does automatic translation
-Open the page with another browser that does automatic translation
+Membukanya di peramban (browser) lain yang mampu menerjemahkan secara otomatis
 
 
 ;Something else
-Something else
+Lainnya
 
 
 ;You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
-You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
+Sebelumnya disebutkan bahwa Anda juga menggunakan Chrome. Jika Anda menemukan laman/situs web dalam bahasa asing saat menjelajah dengan Firefox, apakah Anda pindah ke Chrome untuk menampilkannya dalam bahasa Anda sendiri?
 
 
 ;Always
-Always
+Selalu
 
 
 ;Sometimes
-Sometimes
+Kadang-kadang
 
 
 ;No
-No
+Tidak
 
 
 ;I was not aware I could do this in Chrome
-I was not aware I could do this in Chrome
+Saya tidak tahu saya bisa melakukannya di Chrome
 
 
 ;Ask those using Firefox and another browser
-Ask those using Firefox and another browser
+Tanyakan mereka yang menggunakan Firefox dan peramban lain
 
 
 ;You mentioned earlier you use Firefox and other browser(s). If the Automatic Translation service was available in Firefox, would this change how much you use Firefox?
-You mentioned earlier you use Firefox and other browser(s). If the Automatic Translation service was available in Firefox, would this change how much you use Firefox?
+Sebelumnya disebutkan bahwa Anda menggunakan Firefox dan peramban lainnya. Jika layanan Penerjemahan Otomatis tersedia di Firefox, apakah ini akan mengubah cara Anda menggunakan Firefox?
 
 
 ;I would use Firefox much more than at present
-I would use Firefox much more than at present
+Saya akan jauh lebih sering menggunakan Firefox
 
 
 ;I would use Firefox a little more
-I would use Firefox a little more
+Saya akan lebih sering menggunakan Firefox
 
 
 ;It would make no difference to how much I use Firefox
-It would make no difference to how much I use Firefox
+Tidak ada bedanya
 
 
 ;I would use Firefox a little less
-I would use Firefox a little less
+Saya akan lebih jarang menggunakan Firefox
 
 
 ;I would use Firefox much less than at present
-I would use Firefox much less than at present
+Saya akan jauh lebih jarang menggunakan Firefox
 
 
 ;Firefox for Android
@@ -167,156 +167,156 @@ Firefox untuk Android
 
 
 ;Please think about any mobile devices you may use such as a smartphone or tablet. Which of the following do you use?
-Please think about any mobile devices you may use such as a smartphone or tablet. Which of the following do you use?
+Dari perangkat mobile yang Anda gunakan (ponsel cerdas, tablet), mana yang Anda gunakan?
 
 
 # NOTE: Please change the hardware brands (HTC, Samsung) to whichever are most familiar as Android phone brands in your locale
 ;(Android is an operating system common on smartphones such as HTC, Samsung and has a little green robot logo)
-(Android is an operating system common on smartphones such as HTC, Samsung and has a little green robot logo)
+(Android merupakan nama sistem operasi dalam ponsel cerdas, misalnya HTC, Samsung, dengan logo berupa robot hijau kecil)
 
 
 ;Apple iPhone, iPad or iPod Touch
-Apple iPhone, iPad or iPod Touch
+Apple iPhone, iPad, atau iPod Touch
 
 
 ;Blackberry phone or other device
-Blackberry phone or other device
+Blackberry atau lainnya
 
 
 ;A phone or other device which uses Android (see note)
-A phone or other device which uses Android (see note)
+Ponsel atau perangkat lain yang menggunakan (lihat catatan)
 
 
 ;Any other smartphone or mobile device
-Any other smartphone or mobile device
+Ponsel atau perangkat mobile lainnya
 
 
 ;None of the above
-None of the above
+Bukan yang disebut di atas
 
 
 ;Before today, were you aware of Firefox for Android?
-Before today, were you aware of Firefox for Android?
+Apakah Anda tahu ada Firefox untuk Android sebelum saat ini?
 
 
 ;Yes, I definitely know what this is
-Yes, I definitely know what this is
+Ya, saya tahu sudah ada
 
 
 ;Yes, I think so
-Yes, I think so
+Kayaknya saya tahu
 
 
 ;No, I was not aware of Firefox for Android
-No, I was not aware of Firefox for Android
+Saya tidak tahu ada Firefox untuk Android
 
 
 ;Where did you first hear about Firefox on Android?
-Where did you first hear about Firefox on Android?
+Dari mana pertama kali Anda mendengar tentang Firefox untuk Android?
 
 
 ;Web search
-Web search
+Mesin pencari
 
 
 ;Mozilla website
-Mozilla website
+Situs web Mozilla
 
 
 ;Android app store
-Android app store
+App store Android
 
 
 ;From a friend, family member or colleague
-From a friend, family member or colleague
+Dari teman, keluarga, atau rekan kerja
 
 
 ;Newsletter or email
-Newsletter or email
+Nawala (newsletter) atau email
 
 
 ;Article in the press, TV or radio
-Article in the press, TV or radio
+Artikel di majalah, TV, atau radio
 
 
 ;Other
-Other
+Lainnya
 
 
 ;I can't remember
-I can't remember
+Lupa
 
 
 ;And have you actually used Firefox on Android?
-And have you actually used Firefox on Android?
+Apakah Anda benar-benar menggunakan Firefox untuk Android?
 
 
 ;Yes, I use it regularly
-Yes, I use it regularly
+Ya, saya menggunakannya secara teratur
 
 
 ;Yes, I use it, but not very often
-Yes, I use it, but not very often
+Ya, tetapi saya jarang menggunakannya
 
 
 ;Yes, I did use it but not anymore
-Yes, I did use it but not anymore
+Ya, pernah menggunakan tetapi tidak lagi
 
 
 ;No, I have not used it but I intend to in future
-No, I have not used it but I intend to in future
+Tidak, saya tidak pernah menggunakan, tetapi ingin mencobanya nanti
 
 
 ;No, I have not used it at all
-No, I have not used it at all
+Tidak, saya tidak pernah menggunakan
 
 
 ;Have you tried to install Firefox on Android on your Android device?
-Have you tried to install Firefox on Android on your Android device?
+Pernahkah Anda mencoba menginstal Firefox untuk Android pada perangkat Android Anda?
 
 
 ;Yes I tried to install it, but it was not compatible
-Yes I tried to install it, but it was not compatible
+Pernah mencoba menginstal, tetapi tidak kompatibel
 
 
 ;Yes I tried to install it, but had other issues
-Yes I tried to install it, but had other issues
+Pernah mencoba menginstal, tetapi bermasalah
 
 
 ;No, I have not tried to install it
-No, I have not tried to install it
+Tidak, belum pernah menginstal
 
 
 ;Approximately when did you first use or install Firefox on Android?
-Approximately when did you first use or install Firefox on Android?
+Kapan kira-kira Anda mulai menginstal atau menggunakan Firefox untuk Android?
 
 
 ;One month ago or less
-One month ago or less
+Sebulan yang lalu atau baru saja
 
 
 ;1 to 3 months ago
-1 to 3 months ago
+1-3 bulan yang lalu
 
 
 ;3 to 6 months ago
-3 to 6 months ago
+3-6 bulan yang lalu
 
 
 ;6 months to a year ago
-6 months to a year ago
+6-12 bulan yang lalu
 
 
 ;1 to 2 years ago
-1 to 2 years ago
+1-2 tahun yang lalu
 
 
 ;More than 2 years ago
-More than 2 years ago
+Lebih dari 2 tahun yang lalu
 
 
 ;How satisfied or dissatisfied are you with Firefox on Android?
-How satisfied or dissatisfied are you with Firefox on Android?
+Seberapa puaskah/tidak puaskah Anda tentang Firefox untuk Android?
 
 
 ;Extremely dissatisfied
@@ -348,6 +348,6 @@ Sangat puas
 
 
 ;Why do you say that?
-Why do you say that?
+Alasannya?
 
 
