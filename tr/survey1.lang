@@ -9,27 +9,27 @@ Araştırmamıza katıldığınız için teşekkür ederiz. Size, internet kulla
 Hangi yaş aralığındasınız?
 
 ;16-24
-16-24
+16-24 {ok}
 
 
 ;25-34
-25-34
+25-34 {ok}
 
 
 ;35-44
-35-44
+35-44 {ok}
 
 
 ;45-54
-45-54
+45-54 {ok}
 
 
 ;55-64
-55-64
+55-64 {ok}
 
 
 ;65+
-65+
+65+ {ok}
 
 
 ;Please indicate your gender
@@ -48,23 +48,23 @@ Kadın
 Şu anda masaüstü veya dizüstü bilgisayarınızda, evde veya iş yerinizde hangi tarayıcıları kullanıyorsunuz?
 
 ;Apple Safari
-Apple Safari
+Apple Safari {ok}
 
 
 ;Google Chrome
-Google Chrome
+Google Chrome {ok}
 
 
 ;Microsoft Internet Explorer
-Microsoft Internet Explorer
+Microsoft Internet Explorer {ok}
 
 
 ;Mozilla Firefox
-Mozilla Firefox
+Mozilla Firefox {ok}
 
 
 ;Opera
-Opera
+Opera {ok}
 
 
 ;Another browser
@@ -204,7 +204,7 @@ Android akıllı telefonlara ve tabletlere yönelik Firefox tarayıcısı
 
 
 ;Mozilla Persona
-Mozilla Persona
+Mozilla Persona {ok}
 
 
 ;An identity system that allows you to sign in to sites using an email address you choose.
@@ -212,7 +212,7 @@ Seçtiğiniz bir e-posta adresiyle sitelere oturum açmanızı sağlayan bir kim
 
 
 ;Mozilla Marketplace
-Mozilla Marketplace
+Mozilla Marketplace {ok}
 
 
 ;Mozilla's online store for Open Web apps
