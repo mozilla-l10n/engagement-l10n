@@ -135,11 +135,11 @@ Muy difícil de navegar.
 
 
 ;Yes, I know what types of project(s) I want to contribute to.
-Sí, sé el tipo de proyecto(s) en los que quiero colaborar.
+Sí, sé los tipos de proyecto en los que quiero colaborar.
 
 
 ;Yes, I know what types of project(s) I want to contribute to, but I'm open to other project opportunities.
-Sí, sé el tipo de proyecto(s) en los que quiero colaborar, pero estoy abierto a otras oportunidades en otros proyectos.
+Sí, sé los tipos de proyecto en los que quiero colaborar, pero estoy abierto a oportunidades en otros proyectos.
 
 
 ;No, I don't know what I want to contribute to yet.
@@ -151,7 +151,7 @@ Solo quiero colaborar en proyecto(s) en los que sean más necesarios mi tiempo y
 
 
 ;What type(s) of projects do you want to contribute to? (Select all that apply)
-¿En qué tipo de proyecto(s) quieres colaborar? (Selecciona lo que corresponda)
+¿En qué tipo(s) de proyecto quieres colaborar? (Selecciona lo que corresponda)
 
 
 ;Visual design
@@ -223,7 +223,7 @@ Un mes aproximadamente
 
 
 ;In your contributions to  Mozilla, do you expect to have one point of contact or many points of  contact across the organization? (Select one)
-En tus colaboraciones con Mozilla, esperas tener un punto de contacto o muchos puntos de contacto en la organización? (Selecciona una)
+En tus colaboraciones con Mozilla, ¿esperas tener un punto de contacto o muchos puntos de contacto en la organización? (Selecciona una)
 
 
 ;One point of contact.
@@ -251,7 +251,7 @@ Espero aportar mi conocimiento y experiencia.
 
 
 ;I'm expecting to gain knowledge and expertise.
-Espero ganar conocimiento y experiencia
+Espero ganar conocimiento y experiencia.
 
 
 ;It is important to me that I receive mentorship or training while contributing:
@@ -295,7 +295,7 @@ Totalmente
 
 
 ;11+ hours
-+ 11 horas
+Más de 11 horas
 
 
 ;I don't know yet.
@@ -303,7 +303,7 @@ No lo sé aún.
 
 
 ;How long do you expect your contributor relationship with Mozilla to last? (Select one)
-¿Cuánto tiempo esperas que dure tu relación con Mozilla? (Selecciona uno)
+¿Cuánto tiempo esperas que dure tu relación con Mozilla? (Selecciona una)
 
 
 ;For a few months.
@@ -359,7 +359,7 @@ Acceso a dispositivos para desarrolladores
 
 
 ;Physical goods
-Productos
+Bienes tangibles
 
 
 ;What country do you live in?
@@ -375,7 +375,7 @@ Productos
 
 
 ;Are you currently employed? (Select one)
-¿Actualmente tienes empleo? (Selecciona una)
+¿Tienes empleo actualmente? (Selecciona una)
 
 
 ;Yes, I'm employed full-time.
@@ -419,7 +419,7 @@ Los dos
 
 
 ;If yes, what organization(s)?
-Si es así, ¿qué organización u organizaciones?
+Si es así, ¿en qué organización u organizaciones?
 
 
 ;What is your gender? (Select one)
@@ -435,7 +435,7 @@ Masculino
 
 
 ;Write-in
-Otro
+Escribe tu opción
 
 
 ;What is your age range? (Select one)
