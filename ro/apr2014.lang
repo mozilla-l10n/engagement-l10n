@@ -6,7 +6,7 @@ Suntem aproape gata să vă dezvăluim cea mai nouă versiune de Firefox. <a>În
 
 
 ;Firefox has a new look! <a>Download it now and share it with your friends</a>.
-Firefox are o noua înfățișare! Descarcă-l acum și împărtășește asta cu prietenii tăi.
+Firefox are o noua înfățișare! <a>Descarcă-l acum și împărtășește asta cu prietenii tăi.</a>
 
 
 ;Today, we introduce the latest Firefox. <a>There’s never been a better time to use and share it with the world</a>.
@@ -14,7 +14,7 @@ Astăzi vă prezentăm cel mai nou Firefox. <a>Nicicând nu a existat un timp ma
 
 
 ;Millions have downloaded the latest Firefox! <a>Be part of the community and download it now</a>.
-Millioane de oameni au descărcat cel mai nou Firefox! <a>Fii parte a comunității și descarcă-l acum.</a>
+Milioane de oameni au descărcat cel mai nou Firefox! <a>Fii parte a comunității și descarcă-l acum.</a>
 
 
 ;Love Firefox? <a>Share your vision for the kind of Web you want</a>.
@@ -23,7 +23,7 @@ Millioane de oameni au descărcat cel mai nou Firefox! <a>Fii parte a comunită�
 
 # xx% will be replaced later with a percentage (e.g. 20%)
 ;xx% want more privacy for the future of the Web. <a>Where do you stand</a>?
-xx% dintre persoane doresc mai multă confidențialitate pentru viitorul web-ului.  <a>Tu de care parte ești?</a>
+xx% dintre persoane doresc mai multă confidențialitate pentru viitorul web. <a>Tu de care parte ești?</a>
 
 
 # xx% will be replaced later with a percentage (e.g. 20%)
@@ -43,12 +43,12 @@ xx% dintre persoane sprijină un web care promovează libertatea și democrația
 
 # xx% will be replaced later with a percentage (e.g. 20%)
 ;xx% want a Web that people today and future generations can learn from. <a>What about you</a>?
-xx% dintre persoane doresc un web din care pot învăța generația actuală și viitoarele generații. <a>Dar tu?</a>
+xx% dintre persoane doresc un web din care pot învăța atât generația actuală cât și viitoarele generații. <a>Dar tu?</a>
 
 
 # xx% will be replaced later with a percentage (e.g. 20%)
 ;xx% don’t believe that other companies should control their online experience. <a>Join Firefox in fighting for user control</a>.
-xx% dintre persoane nu cred că alte companii ar trebui să le controleze experiența online. <a>Alătură-te nouă în lupta pentru controlul utilizatorilor.</a>
+xx% dintre persoane nu cred că alte companii ar trebui să le controleze experiența online. <a>Alătură-te Firefox în lupta pentru controlul utilizatorilor.</a>
 
 
 ;See the Web we want, <a>a letter to those in charge</a>.
@@ -72,15 +72,15 @@ Vezi ce poți să faci cu cel mai nou Firefox și <a>vezi noile funcționalită�
 
 
 ;Learn how <a>Sync</a> helps you make Firefox your own wherever you use it.
-Află cum <a>Sincronizare</a> te ajută să îți creezi o experiență unică de Firefox ori de câte ori îl folosești.
+Află cum <a>Sincronizare</a> te ajută să îți creezi o experiență unică cu Firefox ori de câte ori îl folosești.
 
 
 ;Check out our <a>favorite add-ons</a> and some themes that make the latest version of Firefox shine.
-Vezi <a>suplimentele favorite</a> și unele teme care fac ca cea mai nouă versiune de Firefox să strălucească.
+Vezi <a>suplimentele favorite</a> și câteva teme care fac ca cea mai nouă versiune de Firefox să strălucească.
 
 
 ;Our community has made some amazing add-ons for Firefox. Check out the contest winners and <a>try them yourself</a>!
-Comunitatea noastră a creat unele suplimente extraordinare pentru Firefox. Vezi câștigătorii concursului și <a>încearcă-le pentru tine</a>!
+Comunitatea noastră a creat câteva suplimente extraordinare pentru Firefox. Vezi câștigătorii concursului și <a>încearcă-le pentru tine</a>!
 
 
 ;Add-ons are tools that make your life easier and more fun. <a>Add some to Firefox to make browsing more awesome</a>.
@@ -88,7 +88,7 @@ Suplimentele sunt unelte care îți fac viața mai ușoară și mai amuzantă. <
 
 
 ;Firefox believes in your right to privacy. That's why we helped create features like <a>Do Not Track</a>.
-Firefox crede în dreptul tău la intimitate. De aceea am ajutat la crearea funcționalităților precum <a>Do Not Track</a>.
+Firefox crede în dreptul tău la intimitate. De aceea am ajutat la crearea funcționalităților precum <a>Do Not Track (Nu mă urmări)</a>.
 
 
 ;Firefox believes in your right to privacy. That's why we offer you features like <a>private browsing</a>.
@@ -114,6 +114,6 @@ Vezi cât de multe persoane au descărcat <a>cel mai nou Firefox</a>!
 
 # These are for the Android snippets pointing to the glow page - stay within the 140 character limit
 ;Share your vision for the Web and <a>see what others are saying</a>.
-<span id="result_box" class="" lang="ro"><span class="hps">Împărtășește viziunea</span> <span class="hps alt-edited">ta</span> <span class="hps">pentru</span> <span class="hps">web</span> <span class="hps alt-edited">si vezi</span> <span class="hps">ce</span> <span class="hps">spun și alții</span><span>.</span></span>
+Împărtășește viziunea ta pentru web și <a>vezi ce spun și alții</a>.
 
 
