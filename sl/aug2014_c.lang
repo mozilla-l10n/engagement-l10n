@@ -1,4 +1,4 @@
-﻿## NOTE: snippets for August 2014, deadline 15 August. Reference bug: https://bugzilla.mozilla.org/show_bug.cgi?id=1045890
+## NOTE: snippets for August 2014, deadline 15 August. Reference bug: https://bugzilla.mozilla.org/show_bug.cgi?id=1045890
 
 
 # Link goes to http://affiliates.mozilla.org/
@@ -56,6 +56,7 @@ Internet mora bogatiti življenja posameznih človeških bitij. <a>Več o tem tu
 ;Individuals’ security & privacy on the Internet are fundamental and must not be treated as optional. <a>Learn more here</a>.
 Posameznikova varnost in zasebnost na internetu sta temeljni in ne smeta biti obravnavani kot izbirni. <a>Več o tem tukaj</a>.
 
+
 # MOBILE: must be less than 100 characters long
 # Link goes to https://www.mozilla.org/about/manifesto/
 ;Individuals must have the ability to shape the Internet and their own experiences on it. <a>Learn more here</a>.
@@ -82,4 +83,5 @@ Ste siti istega starega izlgleda? <a>Olepšajte si vaš brskalnik Firefox</a> z 
 # Link goes to https://addons.mozilla.org/firefox/themes/
 ;<a>Dress up your Firefox browser with a fresh new theme</a>. There’s everything from flowers to Foxkeh, and from sunrises to moonscapes.
 <a>Oblecite vaš brskalnik Firefox v novo temo</a>. Imamo vse od cvetja do Foxkeh in od sončnih vzhodov do lunine pokrajine.
+
 

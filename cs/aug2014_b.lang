@@ -1,5 +1,6 @@
 ## NOTE: snippets for August 2014, deadline 15 August. Reference bug: https://bugzilla.mozilla.org/show_bug.cgi?id=1045890
 
+
 # Replace COUNTRY with the name of your country
 # Link goes to https://www.mozilla.org/en-US/firefox/os/
 ;Firefox OS is available in COUNTRY! Be one of the first to have a Firefox OS smartphone! <a>Here’s how to get one</a>.
@@ -76,4 +77,5 @@ Už vás nebaví stále stejný starý vzhled? <a>Osvěžte svůj prohlížeč F
 # Link goes to https://addons.mozilla.org/firefox/themes/
 ;<a>Dress up your Firefox browser with a fresh new theme</a>. There’s everything from flowers to Foxkeh, and from sunrises to moonscapes.
 <a>Oblečte svůj Firefox prohlížeč do nového svěžího tématu</a>. Je zde vše od květin až po zvířata, a od východu slunce po měsíční krajinu.
+
 
