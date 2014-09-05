@@ -8,7 +8,7 @@ Know more. Do more. Do better.
 
 # Tile 1 back
 ;Get Involved
-Get Involved
+పాలుపంచుకోండి
 
 
 # Tile 1 description
@@ -18,12 +18,12 @@ Mozilla Community
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s
+మేము %(mozilla_wordmark)s
 
 
 # Tile 2 front
 ;Doing good is part of our code
-Doing good is part of our code
+మంచి చేయడం మా కోడులో భాగం
 
 
 # Tile 2 description
@@ -31,9 +31,9 @@ Doing good is part of our code
 The Non-profit Behind Firefox
 
 
-# Tile 4 back and description. Do not translate %(firefox_wordmark)s.
-;%(firefox_wordmark)s for Android
-%(firefox_wordmark)s for Android
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+ఆండ్రాయిడ్ కోసం <span>ఫైర్‌ఫాక్స్</span>
 
 
 # Tile 5 back
@@ -48,12 +48,12 @@ London, UK | Ravensbourne
 
 # Tile 5 description
 ;Mozilla Festival
-Mozilla Festival
+మొజిల్లా పండుగ
 
 
 # Tile 6 front
-;Our 10 Principles
-Our 10 Principles
+;<strong>Our 10</strong> Principles
+<strong>Our 10</strong> Principles
 
 
 # Tile 6 description
@@ -63,27 +63,27 @@ Mozilla Principles
 
 # Tile 7 front and back
 ;More ways to customize
-More ways to customize
+తీర్చిదిద్దుకోడానికి మరిన్ని మార్గాలు
 
 
 # Tile 7 front and back
 ;Themes
-Themes
+అలంకారాలు
 
 
 # Tile 7 front and back
-;Add-Ons
-Add-Ons
+;Add-ons
+యాడ్-ఆన్స్‍
 
 
 # Tile 7 front and back
 ;Awesome Bar
-Awesome Bar
+ఆఁసమ్ బార్
 
 
 # Tile 7 description
 ;Customize Firefox
-Customize Firefox
+ఫైర్‌ఫాక్స్‌ను తీర్చిదిద్దుకోండి
 
 
 # Tile 8 front

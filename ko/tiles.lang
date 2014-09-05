@@ -8,7 +8,7 @@ Know more. Do more. Do better.
 
 # Tile 1 back
 ;Get Involved
-Get Involved
+참여하기
 
 
 # Tile 1 description
@@ -18,12 +18,12 @@ Mozilla Community
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s
+We are %(mozilla_wordmark)s {ok}
 
 
 # Tile 2 front
 ;Doing good is part of our code
-Doing good is part of our code
+웹으로 세상을 바꾸고 있습니다.
 
 
 # Tile 2 description
@@ -31,9 +31,9 @@ Doing good is part of our code
 The Non-profit Behind Firefox
 
 
-# Tile 4 back and description. Do not translate %(firefox_wordmark)s.
-;%(firefox_wordmark)s for Android
-%(firefox_wordmark)s for Android
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+안드로이드용 <span>Firefox</span>
 
 
 # Tile 5 back
@@ -48,12 +48,12 @@ London, UK | Ravensbourne
 
 # Tile 5 description
 ;Mozilla Festival
-Mozilla Festival
+Mozilla 페스티벌
 
 
 # Tile 6 front
-;Our 10 Principles
-Our 10 Principles
+;<strong>Our 10</strong> Principles
+<strong>Our 10</strong> Principles
 
 
 # Tile 6 description
@@ -63,27 +63,27 @@ Mozilla Principles
 
 # Tile 7 front and back
 ;More ways to customize
-More ways to customize
+풍부한 개인화 방법
 
 
 # Tile 7 front and back
 ;Themes
-Themes
+테마
 
 
 # Tile 7 front and back
-;Add-Ons
-Add-Ons
+;Add-ons
+부가 기능
 
 
 # Tile 7 front and back
 ;Awesome Bar
-Awesome Bar
+주소창 자동 완성
 
 
 # Tile 7 description
 ;Customize Firefox
-Customize Firefox
+Firefox 개인화
 
 
 # Tile 8 front
@@ -93,7 +93,7 @@ Shared Knowledge for the Open Web
 
 # Tile 8 description
 ;Mozilla Developer Network
-Mozilla Developer Network
+Mozilla 개발자 네트워크
 
 
 # Tile 9 back

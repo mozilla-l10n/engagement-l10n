@@ -8,7 +8,7 @@ Know more. Do more. Do better.
 
 # Tile 1 back
 ;Get Involved
-Get Involved
+সম্পৃক্ত হোন
 
 
 # Tile 1 description
@@ -18,7 +18,7 @@ Mozilla Community
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s
+আমরা %(mozilla_wordmark)s
 
 
 # Tile 2 front
@@ -31,9 +31,9 @@ Doing good is part of our code
 The Non-profit Behind Firefox
 
 
-# Tile 4 back and description. Do not translate %(firefox_wordmark)s.
-;%(firefox_wordmark)s for Android
-%(firefox_wordmark)s for Android
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>ফায়ারফক্স</span> অ্যান্ড্রয়েডের জন্য
 
 
 # Tile 5 back
@@ -48,12 +48,12 @@ London, UK | Ravensbourne
 
 # Tile 5 description
 ;Mozilla Festival
-Mozilla Festival
+মজিলা ফেস্টিভাল
 
 
 # Tile 6 front
-;Our 10 Principles
-Our 10 Principles
+;<strong>Our 10</strong> Principles
+<strong>Our 10</strong> Principles
 
 
 # Tile 6 description
@@ -68,12 +68,12 @@ More ways to customize
 
 # Tile 7 front and back
 ;Themes
-Themes
+থিম
 
 
 # Tile 7 front and back
-;Add-Ons
-Add-Ons
+;Add-ons
+অ্যাড-অন
 
 
 # Tile 7 front and back
@@ -93,7 +93,7 @@ Shared Knowledge for the Open Web
 
 # Tile 8 description
 ;Mozilla Developer Network
-Mozilla Developer Network
+মজিলা ডেভেলপার নেটওয়ার্ক
 
 
 # Tile 9 back

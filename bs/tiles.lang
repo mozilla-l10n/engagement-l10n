@@ -8,7 +8,7 @@ Know more. Do more. Do better.
 
 # Tile 1 back
 ;Get Involved
-Get Involved
+Uključite se
 
 
 # Tile 1 description
@@ -31,9 +31,9 @@ Doing good is part of our code
 The Non-profit Behind Firefox
 
 
-# Tile 4 back and description. Do not translate %(firefox_wordmark)s.
-;%(firefox_wordmark)s for Android
-%(firefox_wordmark)s for Android
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> for Android
 
 
 # Tile 5 back
@@ -52,8 +52,8 @@ Mozilla Festival
 
 
 # Tile 6 front
-;Our 10 Principles
-Our 10 Principles
+;<strong>Our 10</strong> Principles
+<strong>Our 10</strong> Principles
 
 
 # Tile 6 description
@@ -72,8 +72,8 @@ Themes
 
 
 # Tile 7 front and back
-;Add-Ons
-Add-Ons
+;Add-ons
+Add-oni
 
 
 # Tile 7 front and back

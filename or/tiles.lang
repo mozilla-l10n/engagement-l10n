@@ -8,7 +8,7 @@ Know more. Do more. Do better.
 
 # Tile 1 back
 ;Get Involved
-Get Involved
+ଅନ୍ତର୍ଭୁକ୍ତ ହୋଇ
 
 
 # Tile 1 description
@@ -31,9 +31,9 @@ Doing good is part of our code
 The Non-profit Behind Firefox
 
 
-# Tile 4 back and description. Do not translate %(firefox_wordmark)s.
-;%(firefox_wordmark)s for Android
-%(firefox_wordmark)s for Android
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> for Android
 
 
 # Tile 5 back
@@ -52,8 +52,8 @@ Mozilla Festival
 
 
 # Tile 6 front
-;Our 10 Principles
-Our 10 Principles
+;<strong>Our 10</strong> Principles
+<strong>Our 10</strong> Principles
 
 
 # Tile 6 description
@@ -63,7 +63,7 @@ Mozilla Principles
 
 # Tile 7 front and back
 ;More ways to customize
-More ways to customize
+ଇଚ୍ଛାମୂତାବକ ସଜାଇବା ପାଇଁ ଅଧିକ ଉପାୟ
 
 
 # Tile 7 front and back
@@ -72,18 +72,18 @@ Themes
 
 
 # Tile 7 front and back
-;Add-Ons
-Add-Ons
+;Add-ons
+ଏଡ଼-ଅନଗୁଡ଼ିକ
 
 
 # Tile 7 front and back
 ;Awesome Bar
-Awesome Bar
+ଅଦ୍ଭୁତ ପଟି
 
 
 # Tile 7 description
 ;Customize Firefox
-Customize Firefox
+Firefox କୁ ଇଚ୍ଛାମୂତାବକ ସଜାନ୍ତୁ
 
 
 # Tile 8 front

@@ -8,7 +8,7 @@ Know more. Do more. Do better.
 
 # Tile 1 back
 ;Get Involved
-Get Involved
+Engagera dig
 
 
 # Tile 1 description
@@ -18,12 +18,12 @@ Mozilla Community
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s
+Vi är %(mozilla_wordmark)s
 
 
 # Tile 2 front
 ;Doing good is part of our code
-Doing good is part of our code
+Att göra gott är en del av vår kod
 
 
 # Tile 2 description
@@ -31,9 +31,9 @@ Doing good is part of our code
 The Non-profit Behind Firefox
 
 
-# Tile 4 back and description. Do not translate %(firefox_wordmark)s.
-;%(firefox_wordmark)s for Android
-%(firefox_wordmark)s for Android
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> för Android
 
 
 # Tile 5 back
@@ -48,12 +48,12 @@ London, UK | Ravensbourne
 
 # Tile 5 description
 ;Mozilla Festival
-Mozilla Festival
+Mozillafestivalen
 
 
 # Tile 6 front
-;Our 10 Principles
-Our 10 Principles
+;<strong>Our 10</strong> Principles
+<strong>Våra 10</strong> grundsatser
 
 
 # Tile 6 description
@@ -63,27 +63,27 @@ Mozilla Principles
 
 # Tile 7 front and back
 ;More ways to customize
-More ways to customize
+Fler sätt att anpassa
 
 
 # Tile 7 front and back
 ;Themes
-Themes
+Teman
 
 
 # Tile 7 front and back
-;Add-Ons
-Add-Ons
+;Add-ons
+Tillägg
 
 
 # Tile 7 front and back
 ;Awesome Bar
-Awesome Bar
+Smart adressfält
 
 
 # Tile 7 description
 ;Customize Firefox
-Customize Firefox
+Anpassa Firefox
 
 
 # Tile 8 front
@@ -93,7 +93,7 @@ Shared Knowledge for the Open Web
 
 # Tile 8 description
 ;Mozilla Developer Network
-Mozilla Developer Network
+Mozillas nätverk för utvecklare
 
 
 # Tile 9 back
