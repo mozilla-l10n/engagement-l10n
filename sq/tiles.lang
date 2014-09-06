@@ -3,7 +3,7 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+Njihni më shumë. Bëni më shumë. Bëjini më mirë.
 
 
 # Tile 1 back
@@ -13,7 +13,7 @@ Përfshihuni
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Bashkësia Mozilla
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -28,7 +28,7 @@ Të bëjmë mirë është pjesë e kodit tonë
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+Organizmi Jofitimprurës Pas Firefox-it
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,12 +38,12 @@ The Non-profit Behind Firefox
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+24-26 Tetor, 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+Londër, UK | Ravensbourne
 
 
 # Tile 5 description
@@ -58,7 +58,7 @@ Festivali Mozilla
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Parimet e Mozilla-s
 
 
 # Tile 7 front and back
@@ -88,7 +88,7 @@ Personalizoni Firefox-in
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+Dije të Përbashkëta për Web të Hapur
 
 
 # Tile 8 description
@@ -98,7 +98,7 @@ Rrjeti i Zhvilluesve Mozilla
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Merrni për Firefox-in aplikacione të reja dhe të freskëta
 
 
 # Tile 9 description
