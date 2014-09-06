@@ -3,7 +3,9 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+Impara di più. Fai di più. Fallo meglio.
+
+
 
 
 # Tile 1 back
@@ -13,7 +15,8 @@ Collabora
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+La comunità Mozilla
+
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -28,7 +31,7 @@ Migliorare è parte del nostro codice
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+La società senza fini di lucro che sviluppa Firefox
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,12 +41,12 @@ The Non-profit Behind Firefox
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+Dal 24 al 26 ottobre 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+Ravensbourne, Londra (GB)
 
 
 # Tile 5 description
@@ -58,7 +61,7 @@ Festival Mozilla
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+I principi di Mozilla
 
 
 # Tile 7 front and back
@@ -88,7 +91,7 @@ Personalizza Firefox
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+Conoscenza condivisa per l’open Web
 
 
 # Tile 8 description
@@ -98,7 +101,7 @@ Mozilla Developer Network {ok}
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Scarica le ultimissime app per Firefox
 
 
 # Tile 9 description
