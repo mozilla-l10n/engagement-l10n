@@ -3,7 +3,7 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+もっと知ろう。もっと行動しよう。もっと良いことをしよう。
 
 
 # Tile 1 back
@@ -13,12 +13,12 @@ Mozilla に参加しよう
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Mozilla コミュニティ
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s {ok}
+私たちは %(mozilla_wordmark)s
 
 
 # Tile 2 front
@@ -28,7 +28,7 @@ We are %(mozilla_wordmark)s {ok}
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+Firefox を提供している非営利法人
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,12 +38,12 @@ Android 版 <span>Firefox</span>
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+2014 年 10 月 24 〜 26 日
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+イギリス・ロンドン | レイベンズボーン芸術大学
 
 
 # Tile 5 description
@@ -53,17 +53,17 @@ Mozilla Festival {ok}
 
 # Tile 6 front
 ;<strong>Our 10</strong> Principles
-<strong>Our 10</strong> Principles
+私たちの <strong>10 の原則</strong>
 
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Mozilla 原則
 
 
 # Tile 7 front and back
 ;More ways to customize
-もっとカスタマイズする
+カスタマイズ自由自在
 
 
 # Tile 7 front and back
@@ -88,21 +88,21 @@ Firefox のカスタマイズ
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+Open Web のための共有知識
 
 
 # Tile 8 description
 ;Mozilla Developer Network
-Mozilla Developer Network{ok}
+Mozilla Developer Network {ok}
 
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Firefox 向け新着アプリを手に入れよう
 
 
 # Tile 9 description
 ;Firefox Marketplace
-Firefox Marketplace
+Firefox Marketplace {ok}
 
 
