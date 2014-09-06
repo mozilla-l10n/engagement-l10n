@@ -3,7 +3,7 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+了解更多、做得更多、作得更好。
 
 
 # Tile 1 back
@@ -13,7 +13,7 @@ Know more. Do more. Do better.
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Mozilla 社群
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -23,12 +23,12 @@ Mozilla Community
 
 # Tile 2 front
 ;Doing good is part of our code
-Doing good is part of our code {OK}
+Doing good is part of our code {ok}
 
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+開發 Firefox 的非營利組織
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,17 +38,17 @@ The Non-profit Behind Firefox
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+2014 年 10 月 24-26 日
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+英國倫敦 | Ravensbourne
 
 
 # Tile 5 description
 ;Mozilla Festival
-Mozilla Festival {OK}
+Mozilla Festival {ok}
 
 
 # Tile 6 front
@@ -58,7 +58,7 @@ Mozilla Festival {OK}
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Mozilla 的信條
 
 
 # Tile 7 front and back
@@ -78,7 +78,7 @@ Mozilla Principles
 
 # Tile 7 front and back
 ;Awesome Bar
-Awesome Bar {OK}
+Awesome Bar {ok}
 
 
 # Tile 7 description
@@ -88,7 +88,7 @@ Awesome Bar {OK}
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+為了 Open Web 而分享知識
 
 
 # Tile 8 description
@@ -98,11 +98,11 @@ Mozilla Developer Network {ok}
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+下載可於 Firefox 使用的全新程式
 
 
 # Tile 9 description
 ;Firefox Marketplace
-Firefox Marketplace {OK}
+Firefox Marketplace {ok}
 
 
