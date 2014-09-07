@@ -3,17 +3,17 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+Daha çok şey bil. Daha çok şey yap. Daha iyisini yap.
 
 
 # Tile 1 back
 ;Get Involved
-Bize Katılın
+Bize katılın
 
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Mozilla Topluluğu
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -28,7 +28,7 @@ Biz %(mozilla_wordmark)s’yız
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+Firefox'un ardındaki gönüllü hüç
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,12 +38,12 @@ Android için <span>Firefox</span>
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+24-26 Ekim 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+Londra, İngiltere | Ravensbourne
 
 
 # Tile 5 description
@@ -58,7 +58,7 @@ Mozilla Festivali
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Mozilla Prensipleri
 
 
 # Tile 7 front and back
@@ -88,7 +88,7 @@ Firefox’u özelleştirin
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+Açık Web için açık bilgi
 
 
 # Tile 8 description
@@ -98,7 +98,7 @@ Mozilla Geliştirici Ağı
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Firefox için yeni uygulamalar edinin
 
 
 # Tile 9 description
