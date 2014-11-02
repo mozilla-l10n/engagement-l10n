@@ -1,80 +1,99 @@
 ;Share Firefox with your friends.
-Share Firefox with your friends.
+Comparti Firefox colos collacios.
 
 
 ;Share Firefox, a vote for personal freedom.
-Share Firefox, a vote for personal freedom.
+Comparti Firefox, un votu a favor de la llibertá personal.
 
 
 ;Declare your independence. Share Firefox.
-Declare your independence. Share Firefox.
+Declara la to independencia. Comparti Firefox.
 
 
 ;Share Firefox, the gift of online independence.
-Share Firefox, the gift of online independence.
+Comparti Firefox, el regalu de la independencia n'Internet.
 
 
 ;With you on our side, the passion for a free and open Internet burns forever bright.
-With you on our side, the passion for a free and open Internet burns forever bright.
+Contigo a nuesu llau, la pasión por una Web llibre y abierta arde siempre con fuerza.
 
 
 ;Share and keep our independence online burning bright.
-Share and keep our independence online burning bright.
+Comparti y caltén la llama de la nuesa independencia n'Internet.
 
 
 ;Invite your friends to #ChooseIndependent with Firefox.
-Invite your friends to #ChooseIndependent with Firefox.
+Invita a los collacios a ser independientes con Firefox. #ChooseIndependent
 
 
 ;Let the world know you #ChooseIndependent with Firefox.
-Let the world know you #ChooseIndependent with Firefox.
+Di-y al mundu qu'elixes ser independiente con Firefox. #ChooseIndependent
 
 
 ;Share and let your friends know you #ChooseIndependent with Firefox.
-Share and let your friends know you #ChooseIndependent with Firefox.
+Di-yos a los collacios qu'elixes ser independiente con Firefox. #ChooseIndependent
 
 
 ;You’re the reason our passion for a free and open Internet burns bright.
-You’re the reason our passion for a free and open Internet burns bright.
+Yes la razón de que la nuesa pasión por una Web llibre y abierta ambure con fuerza.
 
 
 # This will be used as a tweet, try to be as short as possible. Don't translate [LINK] (it will be replace by a shorturl), or #ChooseIndependent (hashtag).
 ;As a conscious citizen of the world & Web, I'm sharing Firefox: [LINK]. Proud to #ChooseIndependent.
-As a conscious citizen of the world & Web, I'm sharing Firefox: [LINK]. Proud to #ChooseIndependent.
+Como ciudadanu consciente del mundu y de la Web, comparto Firefox: [LINK] Arguyosu de la mio independencia #ChooseIndependent
 
 
 # This will be used as a tweet, try to be as short as possible. Don't translate [LINK] (it will be replace by a shorturl), or #ChooseIndependent (hashtag).
 ;Get online independence with Firefox: [LINK]. #ChooseIndependent
-Get online independence with Firefox: [LINK]. #ChooseIndependent
+Obtén la independencia n'Internet con Firefox: [LINK]. #ChooseIndependent
 
 
 # This will be used as a tweet, try to be as short as possible. Don't translate [LINK] (it will be replace by a shorturl), or #ChooseIndependent (hashtag).
 ;Get Firefox, the browser that has stood for privacy & transparency for 10 years: [LINK]. #ChooseIndependent
-Get Firefox, the browser that has stood for privacy & transparency for 10 years: [LINK]. #ChooseIndependent
+Obtén Firefox, el restolador web que lleva 10 años defendiendo la privacidá y la tresparencia: [LINK]. #ChooseIndependent
 
 
 # This will be used as a tweet, try to be as short as possible. Don't translate [LINK] (it will be replace by a shorturl), or #ChooseIndependent (hashtag).
 ;I support online independence. Join me by trying Firefox: [LINK]. #ChooseIndependent
-I support online independence. Join me by trying Firefox: [LINK]. #ChooseIndependent
+Yo elixo la independencia n'Internet. Xúnite tu tamién y prueba Firefox: [LINK]. #ChooseIndependent
 
 
 # This will be used as a tweet, try to be as short as possible. Don't translate [LINK] (it will be replace by a shorturl), or #ChooseIndependent (hashtag).
 ;I #ChooseIndependent with Firefox: [LINK].
-I #ChooseIndependent with Firefox: [LINK].
+Yo elixo ser independiente con Firefox: [LINK]. #ChooseIndependent
 
 
 # This will be used as a tweet, try to be as short as possible. Don't translate [LINK] (it will be replace by a shorturl), or #ChooseIndependent (hashtag).
 ;Don’t be analyzed, scrutinized, or commoditized. Instead, #ChooseIndependent: [LINK].
-Don’t be analyzed, scrutinized, or commoditized. Instead, #ChooseIndependent: [LINK].
+Nun dexes que t'analicen, desaminen o conviertan en mercancía. Elixe ser independiente: [LINK] #ChooseIndependent
 
 
 # This will be used as a tweet, try to be as short as possible. Don't translate [LINK] (it will be replace by a shorturl), or #ChooseIndependent (hashtag).
 ;Live freely. Browse freely. #ChooseIndependent: [LINK].
-Live freely. Browse freely. #ChooseIndependent: [LINK].
+Vive con llibertá. Navega con llibertá: [LINK]. #ChooseIndependent
 
 
 # This will be used as a tweet, try to be as short as possible. Don't translate [LINK] (it will be replace by a shorturl), or #ChooseIndependent (hashtag).
 ;Time to make decisions online like we make decisions offline. #ChooseIndependent: [LINK].
-Time to make decisions online like we make decisions offline. #ChooseIndependent: [LINK].
+Correspuéndenos a nós decidir qué queremos facer na web y fuera d'ella: [LINK]. #ChooseIndependent
+
+
+# For Spanish replace [COUNTRY] with "Mexico", for Hungarian replace it with "Hungary"
+;Check out these beautiful new Firefox OS smart phones just released in [COUNTRY]. <a>Get yours today!</a>
+Mira los nuevos <em>smartphones</em> Firefox OS que se llanzaron recientemente en México. <a>¡Consigui'l tuyu!</a>
+
+
+# "Spirit of giving" is used as a general reference to holidays (Christmas, ThanksGiving, etc.). Use what works best for your culture
+;The spirit of giving is in the air! If you're looking for something special, <a>Firefox OS phones make great gifts.</a>
+¡L'espíritu de la Navidá ta nel aire! Si busques daqué especial, <a>los teléfonos Firefox OS son el regalu perfeutu.</a>
+
+
+# "Spirit of giving" is used as a general reference to holydays (Christmas, ThanksGiving, etc.). Use what works best for your culture
+;The spirit of giving is in the air! Firefox OS phones make great gifts. <a>Learn more!</a>
+¡L'espíritu de la Navidá ta nel aire! Los teléfonos Firefox OS son el regalu perfeutu. <a>¡Descubri más!</a>
+
+
+;Looking for the right gift? <a>How about a new Firefox OS phone?</a>
+¿Busques el regalu perfeutu? <a>¿Qué tal un nuevu <em>smartphone</em> Firefox OS?</a>
 
 
