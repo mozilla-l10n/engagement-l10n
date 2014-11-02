@@ -3,17 +3,17 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+Deprendi más. Fai más. Failo meyor.
 
 
 # Tile 1 back
 ;Get Involved
-Andecha con nós
+Collabora
 
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Comunidá Mozilla
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -23,12 +23,12 @@ Somos %(mozilla_wordmark)s
 
 # Tile 2 front
 ;Doing good is part of our code
-Facelo bien, ye parte del nuesu códigu
+Facer bien les coses ye parte del nuesu códigu
 
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+La organización ensin fin de llucru darrera de Firefox
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,12 +38,12 @@ The Non-profit Behind Firefox
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+24-26 d'ochobre de 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+Londres, RU | Ravensbourne
 
 
 # Tile 5 description
@@ -53,12 +53,12 @@ Mozilla Festival {ok}
 
 # Tile 6 front
 ;<strong>Our 10</strong> Principles
-<strong>Our 10</strong> Principles
+Los <strong>Nuesos 10</strong> principios
 
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Los principios de Mozilla
 
 
 # Tile 7 front and back
@@ -88,21 +88,21 @@ Personaliza Firefox
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+Conocimientu compartíu pa la Web abierta
 
 
 # Tile 8 description
 ;Mozilla Developer Network
-Mozilla Developer Network
+Mozilla Developer Network {ok}
 
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Obtén les últimes apps pa Firefox
 
 
 # Tile 9 description
 ;Firefox Marketplace
-Firefox Marketplace
+Firefox Marketplace {ok}
 
 
