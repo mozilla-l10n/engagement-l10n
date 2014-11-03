@@ -1,19 +1,16 @@
-## NOTE: strings for Firefox Tiles, reference bug 1062287
-
-
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+Conocer más. Hacer más. Hacerlo mejor.
 
 
 # Tile 1 back
 ;Get Involved
-Involúcrate
+Involúcate
 
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+La comunidad de Mozilla
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -23,12 +20,12 @@ Somos %(mozilla_wordmark)s
 
 # Tile 2 front
 ;Doing good is part of our code
-Ser buenos es parte de nuestro código
+Hacer el bien forma parte de nuestro código
 
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+La misión sin fines de lucro detrás de Firefox
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,27 +35,27 @@ The Non-profit Behind Firefox
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+del 24 al 26 de octubre 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+Londres, Reino Unido | Ravensbourne
 
 
 # Tile 5 description
 ;Mozilla Festival
-Mozilla Festival {ok}
+Festival de Mozilla
 
 
 # Tile 6 front
 ;<strong>Our 10</strong> Principles
-<strong>Nuestros 10</strong> Principios
+<strong>Nuestros 10</strong> principios
 
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Principios de Mozilla
 
 
 # Tile 7 front and back
@@ -83,12 +80,12 @@ Barra alucinante
 
 # Tile 7 description
 ;Customize Firefox
-Personalizar Firefox
+Personaliza tu Firefox
 
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+Conocimientos compartidos para la web abierta
 
 
 # Tile 8 description
@@ -98,11 +95,8 @@ Red de desarrolladores de Mozilla
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
-
+Conseguir nuevas aplicaciones para Firefox
 
 # Tile 9 description
 ;Firefox Marketplace
 Firefox Marketplace {ok}
-
-
