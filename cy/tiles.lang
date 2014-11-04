@@ -3,17 +3,17 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+Gwybod mwy. Gwneud mwy. Gwneud yn well
 
 
 # Tile 1 back
 ;Get Involved
-Ymuno â ni
+Ymuno â Ni
 
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Cymuned Mozilla
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -28,22 +28,22 @@ Mae gwneud daioni'n rhan o'n cod
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+Y Dim er Elw tu ôl i Firefox
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
 ;<span>Firefox</span> for Android
-<span>Firefox</span> ar gyfer Android
+<span>Firefox</span> Android
 
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+Hyd 24-26, 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+Llundain, DU | Ravensbourne
 
 
 # Tile 5 description
@@ -58,7 +58,7 @@ Mozilla Festival {ok}
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Egwyddorion Mozilla
 
 
 # Tile 7 front and back
@@ -88,7 +88,7 @@ Cyfaddasu Firefox
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+Gwybodaeth wedi ei Rannu ar gyfer y We Agored
 
 
 # Tile 8 description
@@ -98,7 +98,7 @@ Rhwydwaith Datblygwyr Mozilla
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Estynnwch apiau newydd a ffresh ar gyfer Firefox
 
 
 # Tile 9 description
