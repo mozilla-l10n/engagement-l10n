@@ -3,7 +3,7 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+Vid mere. Gør mere. Gør bedre.
 
 
 # Tile 1 back
@@ -13,7 +13,7 @@ Bliv involveret
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Mozillas fællesskab
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -28,7 +28,7 @@ At gøre det gode er en del af vores kodeks
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+Non-profit-organisationen bag Firefox
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,12 +38,12 @@ The Non-profit Behind Firefox
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+24-26 okt. 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+London, Storbritannien | Ravensbourne
 
 
 # Tile 5 description
@@ -53,12 +53,12 @@ Mozilla Festival {ok}
 
 # Tile 6 front
 ;<strong>Our 10</strong> Principles
-<strong>Our 10</strong> Principles
+<strong>Vores 10</strong> principper
 
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Mozillas principper
 
 
 # Tile 7 front and back
@@ -78,7 +78,7 @@ Tilføjelser
 
 # Tile 7 front and back
 ;Awesome Bar
-Adressefeltet
+Smart adressefelt
 
 
 # Tile 7 description
@@ -88,7 +88,7 @@ Tilpas Firefox
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+Fælles viden til den åbne web
 
 
 # Tile 8 description
@@ -98,11 +98,11 @@ Mozilla Developer Network {ok}
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Hent friske og nye apps til Firefox
 
 
 # Tile 9 description
 ;Firefox Marketplace
-Firefox Marketplace
+Firefox Marketplace {ok}
 
 
