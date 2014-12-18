@@ -1,11 +1,15 @@
 ## NOTE: reference bug 1112491, deadline Jan 7, 2015
 
-# LIMIT: 180 character (will be used on desktop)
+## MAX_LENGTH: 180
+# LIMIT: 180 characters (will be used on desktop)
+# Link: http://www.mozilla.org/firefox/os/
 ;Firefox OS is available in Croatia! Be one of the first to have a Firefox OS smartphone! <a>Here’s how to get one.</a>
 Firefox OS is available in Croatia! Be one of the first to have a Firefox OS smartphone! <a>Here’s how to get one.</a>
 
 
-# LIMIT: 180 character (will be used on desktop)
+## MAX_LENGTH: 180
+# LIMIT: 180 characters (will be used on desktop)
+# Link: http://www.mozilla.org/firefox/os/
 ;Check out these beautiful new Firefox OS smart phones just released in Croatia. <a>Get yours today!</a>
 Check out these beautiful new Firefox OS smart phones just released in Croatia. <a>Get yours today!</a>
 
