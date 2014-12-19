@@ -4,14 +4,13 @@
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: https://www.mozilla.org/mission/
 ;Mozilla exists to promote openness, innovation and opportunity on the Internet. Learn more.
-Mozilla existe para promocionar la apertura, la innovación y la oportunidad para todos en Internet. Más información.
+Mozilla existe para promocionar la apertura, innovación y oportunidad en Internet. Más información.
 
 
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: https://www.mozilla.org/about/manifesto
 ;Individuals’ security & privacy on the web are fundamental and must not be treated as optional.
-La seguridad y la protección de los datos de los usuarios en la Web son fundamentales y no deben considerarse como algo opcional.
-
+La seguridad y protección de los datos son fundamentales y no deben considerarse como algo opcional.
 
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: about:accounts
@@ -22,7 +21,7 @@ Configura Sync en Firefox para mantener tus ajustes, marcadores y contraseñas o
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: about:accounts
 ;Firefox Sync carries your settings from your Android to your computer. Sync on mobile now.
-Firefox Sync lleva la configuración de tu Android a tu equipo de escritorio. <b>Sync</b>roniza tu dispositivo móvil.
+Firefox Sync lleva la configuración de tu Android a tu equipo de escritorio. <b>Sync</b>ronízalos.
 
 
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
@@ -40,13 +39,13 @@ Presume de navegador con uno de nuestros temas destacados.
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 ;If you share your computer with anyone, <a> set up a Firefox master password to protect your saved logins.</a>
-Si compartes tu equipo de escritorio, <a>configura una contraseña maestra de Firefox y protege tus datos de identificación guardados.</a>
+Si compartes tu equipo de escritorio, <a>configura una contraseña maestra de Firefox y protege los datos de identificación que tengas guardados.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 ;Firefox can save usernames and passwords that you use to access online services. <a>If you share a computer, take advantage of Firefox master password.</a>
-Firefox te permite guardar los nombres de usuario y contraseñas que utilizas para acceder a servicios en línea. <a>Si compartes un equipo de escritorio, aprovecha la contraseña maestra de Firefox.</a>
+Firefox te permite guardar los nombres de usuario y contraseñas que utilizas para acceder a servicios en línea. <a>Si compartes un equipo de escritorio, usa la contraseña maestra.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
@@ -70,6 +69,6 @@ Mozilla existe para promocionar la apertura, la innovación y la oportunidad par
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://www.mozilla.org/about/manifesto/
 ;Mozilla principle #4: La seguridad y la protección de los datos de los usuarios en Internet son fundamentales y no deben considerarse como algo opcional. <a>Lee más.</a>
-Mozilla principle #4: La seguridad y la protección de los datos de los usuarios en Internet son fundamentales y no deben considerarse como algo opcional. <a>Lee más.</a>
+Principio n.º 4 de Mozilla: La seguridad y la protección de los datos de los usuarios en Internet son fundamentales y no deben considerarse como algo opcional. <a>Lee más.</a>
 
 
