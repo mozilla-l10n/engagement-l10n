@@ -1,75 +1,75 @@
-## NOTE: reference bug 1112491, deadline Jan 7, 2015
+﻿## NOTE: reference bug 1112491, deadline Jan 7, 2015
 
 
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: https://www.mozilla.org/mission/
 ;Mozilla exists to promote openness, innovation and opportunity on the Internet. Learn more.
-Mozilla exists to promote openness, innovation and opportunity on the Internet. Learn more.
+Mozilla existe para promocionar la apertura, la innovación y la oportunidad para todos en Internet. Más información.
 
 
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: https://www.mozilla.org/about/manifesto
 ;Individuals’ security & privacy on the web are fundamental and must not be treated as optional.
-Individuals’ security & privacy on the web are fundamental and must not be treated as optional.
+La seguridad y la protección de los datos de los usuarios en la Web son fundamentales y no deben considerarse como algo opcional.
 
 
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: about:accounts
 ;Set up Sync on Firefox to keep your settings, bookmarks and passwords organized.
-Set up Sync on Firefox to keep your settings, bookmarks and passwords organized.
+Configura Sync en Firefox para mantener tus ajustes, marcadores y contraseñas organizados.
 
 
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: about:accounts
 ;Firefox Sync carries your settings from your Android to your computer. Sync on mobile now.
-Firefox Sync carries your settings from your Android to your computer. Sync on mobile now.
+Firefox Sync lleva la configuración de tu Android a tu equipo de escritorio. <b>Sync</b>roniza tu dispositivo móvil.
 
 
-# LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text.
+# LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 ;Firefox master password works across your devices. Set your master password today.
-Firefox master password works across your devices. Set your master password today.
+La contraseña maestra de Firefox funciona en todos tus dispositivos. Configúrate una.
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://addons.mozilla.org/firefox/collections/mozilla/featured-personas/
 ;Add some bling to your browser with one of our featured themes.
-Add some bling to your browser with one of our featured themes.
+Presume de navegador con uno de nuestros temas destacados.
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 ;If you share your computer with anyone, <a> set up a Firefox master password to protect your saved logins.</a>
-If you share your computer with anyone, <a> set up a Firefox master password to protect your saved logins.</a>
+Si compartes tu equipo de escritorio, <a>configura una contraseña maestra de Firefox y protege tus datos de identificación guardados.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 ;Firefox can save usernames and passwords that you use to access online services. <a>If you share a computer, take advantage of Firefox master password.</a>
-Firefox can save usernames and passwords that you use to access online services. <a>If you share a computer, take advantage of Firefox master password.</a>
+Firefox te permite guardar los nombres de usuario y contraseñas que utilizas para acceder a servicios en línea. <a>Si compartes un equipo de escritorio, aprovecha la contraseña maestra de Firefox.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: about:accounts
 ;Use Sync on Firefox to keep your settings, bookmarks and passwords organized. Set it up now.
-Use Sync on Firefox to keep your settings, bookmarks and passwords organized. Set it up now.
+Usa Sync en Firefox para mantener tus ajustes, marcadores y contraseñas organizados. Configúralo.
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: about:accounts
 ;It takes 20 seconds to set up Sync and keep your preferences, bookmarks and passwords safe. <a>Ready? Set? Go Sync!</a>
-It takes 20 seconds to set up Sync and keep your preferences, bookmarks and passwords safe. <a>Ready? Set? Go Sync!</a>
+Se tarda 20 segundos en configurar Sync y mantener la seguridad de tus preferencias, marcadores y contraseñas. <a> ¿Preparado? ¿Listo? ¡<b>Sync</b>roniza!</a>  
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://www.mozilla.org/mission/
 ;Mozilla exists to promote openness, innovation and opportunity on the Internet. <a>Take a closer look at who we are.</a>
-Mozilla exists to promote openness, innovation and opportunity on the Internet. <a>Take a closer look at who we are.</a>
+Mozilla existe para promocionar la apertura, la innovación y la oportunidad para todos en Internet. <a>Echa un vistazo y descubre quiénes somos.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://www.mozilla.org/about/manifesto/
-;Mozilla principle #4: Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional. <a>Read more.</a>
-Mozilla principle #4: Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional. <a>Read more.</a>
+;Mozilla principle #4: La seguridad y la protección de los datos de los usuarios en Internet son fundamentales y no deben considerarse como algo opcional. <a>Lee más.</a>
+Mozilla principle #4: La seguridad y la protección de los datos de los usuarios en Internet son fundamentales y no deben considerarse como algo opcional. <a>Lee más.</a>
 
 

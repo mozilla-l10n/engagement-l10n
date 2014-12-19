@@ -1,93 +1,93 @@
-## NOTE: reference bug 1112491, deadline Jan 21, 2015
+﻿## NOTE: reference bug 1112491, deadline Jan 21, 2015
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: page not available yet
 ;Getting smart about online privacy is easy. <a>Here are a few simple steps from Mozilla to help you get started.</a>
-Getting smart about online privacy is easy. <a>Here are a few simple steps from Mozilla to help you get started.</a>
+Es muy fácil gestionar con inteligencia la privacidad en línea. <a>Para empezar, aquí tienes estos sencillos pasos de Mozilla.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: page not available yet
 ;Are you curious about online privacy issues, but not sure why they matter? <a>Here are a few simple things you can do to get smart on privacy.</a>
-Are you curious about online privacy issues, but not sure why they matter? <a>Here are a few simple things you can do to get smart on privacy.</a>
+¿Sientes curiosidad por las cuestiones de privacidad en Internet, pero no sabes por qué son importantes? <a>Aquí tienes algunas acciones inteligentes que puedes llevas a cabo.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
 ;Sometimes you need a quick way to clear your data from your browser. The Firefox Forget button preserves your privacy in one click. <a>Here’s how to use it.</a>
-Sometimes you need a quick way to clear your data from your browser. The Firefox Forget button preserves your privacy in one click. <a>Here’s how to use it.</a>
+A veces necesitas una forma rápida de borrar tus datos del navegador. El botón Olvidar de Firefox preserva tu privacidad con solo un clic. <a>Aprende a usarlo.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://support.mozilla.org/kb/how-do-i-turn-do-not-track-feature
 ;Activating Do Not Track in Firefox lets you tell Websites you don't want your browsing behavior tracked. <a>Take a moment to turn on Do Not Track.</a>
-Activating Do Not Track in Firefox lets you tell Websites you don't want your browsing behavior tracked. <a>Take a moment to turn on Do Not Track.</a>
+La activación de No ser rastreado en Firefox te permite indicarle a los sitios web que no deseas que rastreen tus hábitos de navegación. <a>Actívala en un momento.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://support.mozilla.org/kb/private-browsing-browse-web-without-saving-info
 ;Private Browsing in Firefox lets you keep your online activities to yourself. <a>Get started with Private Browsing.</a>
-Private Browsing in Firefox lets you keep your online activities to yourself. <a>Get started with Private Browsing.</a>
+Con la navegación privada en Firefox, solo tú conoces tu actividad en línea. <a>Iníciate en la navegación privada.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://www.mozilla.org/lightbeam/
 ;Ever wondered how much you’re being tracked online? <a>Add Mozilla’s Lightbeam to your Firefox to see who’s tracking your browsing activities. </a>
-Ever wondered how much you’re being tracked online? <a>Add Mozilla’s Lightbeam to your Firefox to see who’s tracking your browsing activities. </a>
+¿Te has preguntado alguna vez si están rastreando tu actividad en Internet? <a>Añade Lightbeam a Firefox y descubre quién te está rastreando.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://addons.mozilla.org/firefox/extensions/privacy-security/
 ;The Privacy add-on collection pulls together all the ways you can make your Firefox extra private and secure. <a>Check out the collection.</a>
-The Privacy add-on collection pulls together all the ways you can make your Firefox extra private and secure. <a>Check out the collection.</a>
+La colección de complementos para privacidad reúne todas las opciones para mantener la privacidad y seguridad de tu Firefox. <a>Mira la colección.</a>
 
 
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: page not available yet
 ;Getting smart about online privacy is easy with these simple steps from Mozilla.
-Getting smart about online privacy is easy with these simple steps from Mozilla.
+Es muy fácil gestionar con inteligencia la privacidad en línea con estos sencillos pasos de Mozilla.
 
 
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text
 # Link: page not available yet
 ;Privacy Coach is your one-stop shop to learn about and manage your privacy on Firefox for Android.
-Privacy Coach is your one-stop shop to learn about and manage your privacy on Firefox for Android.
+En Privacy Coach tienes todo lo que necesitas para conocer y gestionar tu privacidad en Firefox para Android.
 
 
 # LIMIT: 180 characters (will be used on desktop)
 ;Introducing Firefox Hello, the easiest way to stay in touch through video. No accounts, downloads or charges. Connect with a friend anytime, right in your browser. Try it!
-Introducing Firefox Hello, the easiest way to stay in touch through video. No accounts, downloads or charges. Connect with a friend anytime, right in your browser. Try it!
+Presentamos Firefox Hello, la forma más fácil de estar en contacto a través de vídeo. Sin cuentas, sin descargas, sin tarifas. Conecta con un amigo cuando quieras, desde el propio navegador. ¡Pruébalo!
 
 
 # LIMIT: 180 characters (will be used on desktop)
 ;Meet Firefox Hello, the easiest way to have a video conversation with anyone, anywhere, anytime, right from your browser. Invite someone to talk.
-Meet Firefox Hello, the easiest way to have a video conversation with anyone, anywhere, anytime, right from your browser. Invite someone to talk.
+Descubre Firefox Hello, la forma más fácil de mantener una conversación por vídeo con cualquiera, en cualquier lugar, en cualquier momento, desde el propio navegador. Invita a alguien a hablar.
 
 
 # LIMIT: 180 characters (will be used on desktop)
 ;Introducing Firefox Hello, our newest feature that makes video conversations easier than ever. No accounts, downloads or charges. Start a conversation and invite a friend.
-Introducing Firefox Hello, our newest feature that makes video conversations easier than ever. No accounts, downloads or charges. Start a conversation and invite a friend.
+Presentamos Firefox Hello, nuestra última característica que hace las conversaciones por vídeo más fáciles que nunca. Sin cuentas, sin descargas, sin tarifas. Inicia una conversación e invita a un amigo.
 
 
 # LIMIT: 25 characters. It will be used as a button label for an interactive snippet.
 # Word play won't work outside of English. You can consider "Hello" as a greeting in this case.
 ;Say Hello to someone
-Say Hello to someone
+Di hola a alguien
 
 
 # LIMIT: 25 characters. It will be used as a button label for an interactive snippet
 ;Try Firefox Hello
-Try Firefox Hello
+Probar Firefox Hello
 
 
 # LIMIT: 25 characters. It will be used as a button label for an interactive snippet
 ;Start a conversation
-Start a conversation
+Iniciar una conversación
 
 
 # LIMIT: 25 characters. It will be used as a button label for an interactive snippet
 ;Invite someone to Hello
-Invite someone to Hello
+Invitar a alguien a Hello
 
 
