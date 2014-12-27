@@ -3,7 +3,7 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+Ko‘proq bil. Ko‘proq qil. Yaxshiroq qil.
 
 
 # Tile 1 back
@@ -13,7 +13,7 @@ Jamiyatga qo‘shiling
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Mozilla hamjamiyati
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -28,7 +28,7 @@ Kodimizning negizida ezgulik yotadi
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+Firefox ortida notijorat
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,12 +38,12 @@ Android uchun <span>Firefox</span>
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+Oct 24-26, 2014 {ok}
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+London, UK | Ravensbourne {ok}
 
 
 # Tile 5 description
@@ -58,12 +58,12 @@ Mozilla festivali
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Mozilla tamoyillari
 
 
 # Tile 7 front and back
 ;More ways to customize
-Moslash uchun ko‘pgina yo‘llar
+Moslashning ko‘pgina yo‘llari
 
 
 # Tile 7 front and back
@@ -83,12 +83,12 @@ Awesome Bar {ok}
 
 # Tile 7 description
 ;Customize Firefox
-"Firefox"ni moslash
+Firefox’ni moslash
 
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+Ochiq tarmoq uchun bo‘lishilgan bilimlar
 
 
 # Tile 8 description
@@ -98,11 +98,11 @@ Mozilla dasturchilar tarmog‘i
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Firefox uchun yap-yangi ilova dasturlarni oling
 
 
 # Tile 9 description
 ;Firefox Marketplace
-Firefox Marketplace
+Firefox Marketplace {ok}
 
 
