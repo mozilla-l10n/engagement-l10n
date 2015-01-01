@@ -10,7 +10,7 @@ Partagez les meilleurs moments de votre vie avec un nouveau smartphone Firefox 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: http://www.mozilla.org/firefox/os/
 ;Share photos, send messages and stay connected. <a>Firefox OS phones make it easy to be in touch with friends and family any time.</a>
-Partagez vos photos, communiquez, restez connecté. <a>Avec un smartphone Firefox OS il est plus facile de rester en contact avec ses amis et sa famille</a>.
+Partagez vos photos, communiquez, restez connecté. <a>Avec un smartphone Firefox OS il est plus facile de rester en contact avec ses amis et sa famille.</a>
 
 
 # LIMIT: 100 characters (will be used on mobile). If necessary adapt the content to create a shorter text.
@@ -52,13 +52,13 @@ Ajoutez une touche personnelle à votre navigateur avec l'un de nos thèmes.
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 ;If you share your computer with anyone, <a> set up a Firefox master password to protect your saved logins.</a>
-Si vous partagez votre ordinateur avec d'autres personnes, <a>configurez un mot de passe principal Firefox pour protéger vos informations personnelles enregistrées</a>.
+Si vous partagez votre ordinateur avec d'autres personnes, <a>configurez le mot de passe principal de Firefox pour protéger vos informations personnelles enregistrées.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://support.mozilla.org/kb/use-master-password-protect-stored-logins
 ;Firefox can save usernames and passwords that you use to access online services. <a>If you share a computer, take advantage of Firefox master password.</a>
-Firefox peut sauvegarder les identifiants et mots de passe d'accès aux services en ligne. <a>Si vous partagez un ordinateur, tirez parti du mot de passe principal Firefox</a>.
+Firefox peut sauvegarder les identifiants et mots de passe d'accès aux services en ligne. <a>Si vous partagez un ordinateur, tirez parti du mot de passe principal de Firefox.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
@@ -70,16 +70,16 @@ Utilisez Sync sur Firefox pour conserver vos paramètres, marque-pages et mots d
 # LIMIT: 180 characters (will be used on desktop)
 # Link: about:accounts
 ;It takes 20 seconds to set up Sync and keep your preferences, bookmarks and passwords safe. <a>Ready? Set? Go Sync!</a>
-Cela prend 20 secondes de configurer Sync pour conserver vos préférences, marque-pages et mots de passe. <a>À vos marques… Prêt ? Synchronisez !</a>
+Cela prend 20 secondes de configurer Sync pour conserver vos préférences, marque-pages et mots de passe. <a>À vos marques… Prêt ? Synchronisez !</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://www.mozilla.org/mission/
 ;Mozilla exists to promote openness, innovation and opportunity on the Internet. <a>Take a closer look at who we are.</a>
-Mozilla agit pour l'ouverture, l'innovation et les possibilités qu'offre Internet. <a>Découvrez plus en détail qui nous sommes</a>.
+Mozilla agit pour l'ouverture, l'innovation et les possibilités qu'offre Internet. <a>Découvrez plus en détail qui nous sommes.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop)
 # Link: https://www.mozilla.org/about/manifesto/
 ;Mozilla principle #4: Individuals’ security and privacy on the Internet are fundamental and must not be treated as optional. <a>Read more.</a>
-Principe Mozilla n°4 : la sécurité et la vie privée des personnes sur Internet sont fondamentales et ne doivent pas être considérées comme facultatives. <a>En savoir plus</a>.
+Principe Mozilla n°4 : la sécurité et la vie privée des personnes sur Internet sont fondamentales et ne doivent pas être considérées comme facultatives. <a>En savoir plus.</a>
