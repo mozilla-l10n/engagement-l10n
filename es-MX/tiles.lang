@@ -1,3 +1,6 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
 # Tile 1 front
 ;Know more. Do more. Do better.
 Conocer más. Hacer más. Hacerlo mejor.
@@ -97,6 +100,9 @@ Red de desarrolladores de Mozilla
 ;Get fresh and new apps for Firefox
 Conseguir nuevas aplicaciones para Firefox
 
+
 # Tile 9 description
 ;Firefox Marketplace
 Firefox Marketplace {ok}
+
+
