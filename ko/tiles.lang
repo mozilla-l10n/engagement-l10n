@@ -3,7 +3,7 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+멋진 지식과 활동 소식을 제공합니다.
 
 
 # Tile 1 back
@@ -13,7 +13,7 @@ Know more. Do more. Do better.
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Mozilla 커뮤니티
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -28,7 +28,7 @@ We are %(mozilla_wordmark)s {ok}
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+비영리 활동을 통한Firefox
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,12 +38,12 @@ The Non-profit Behind Firefox
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+Oct 24-26, 2014 {ok}
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+London, UK | Ravensbourne {ok}
 
 
 # Tile 5 description
@@ -53,17 +53,17 @@ Mozilla 페스티벌
 
 # Tile 6 front
 ;<strong>Our 10</strong> Principles
-<strong>Our 10</strong> Principles
+<strong>10가지</strong> 원칙
 
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Mozilla 원칙
 
 
 # Tile 7 front and back
 ;More ways to customize
-풍부한 개인화 방법
+다양한 개인화 방법
 
 
 # Tile 7 front and back
@@ -88,7 +88,7 @@ Firefox 개인화
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+열린 웹을 위한 지식 공유
 
 
 # Tile 8 description
@@ -98,11 +98,11 @@ Mozilla 개발자 네트워크
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Firefox 신규 앱 보기
 
 
 # Tile 9 description
 ;Firefox Marketplace
-Firefox Marketplace
+Firefox Marketplace {ok}
 
 
