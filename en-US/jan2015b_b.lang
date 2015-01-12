@@ -25,8 +25,8 @@ Introducing Firefox Hello, our newest feature that makes video conversations eas
 Say Hello to someone
 
 
-## MAX_LENGTH: 25
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+## MAX_LENGTH: 30
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Try Firefox Hello
 Try Firefox Hello
 
