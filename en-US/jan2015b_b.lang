@@ -18,8 +18,8 @@ Meet Firefox Hello, the easiest way to have a video conversation with anyone, an
 Introducing Firefox Hello, our newest feature that makes video conversations easier than ever. No accounts, downloads or charges. Start a conversation and invite a friend.
 
 
-## MAX_LENGTH: 25
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+## MAX_LENGTH: 30
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 # Word play won't work outside of English. You can consider "Hello" as a greeting in this case.
 ;Say Hello to someone
 Say Hello to someone
@@ -31,14 +31,14 @@ Say Hello to someone
 Try Firefox Hello
 
 
-## MAX_LENGTH: 25
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+## MAX_LENGTH: 30
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Start a conversation
 Start a conversation
 
 
-## MAX_LENGTH: 25
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+## MAX_LENGTH: 30
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Invite someone to Hello
 Invite someone to Hello
 
