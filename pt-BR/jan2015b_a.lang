@@ -6,6 +6,7 @@
 ;Getting smart about online privacy is easy. <a>Here are a few simple steps from Mozilla to help you get started.</a>
 Saber mais sobre privacidade online é fácil. <a>Veja essa pequena lista de dicas que a Mozilla preparou para te ajudar a começar.</a>
 
+
 # LIMIT: 180 characters (will be used on desktop)
 # Link: page not available yet
 ;Are you curious about online privacy issues, but not sure why they matter? <a>Here are a few simple things you can do to get smart on privacy.</a>
@@ -69,23 +70,23 @@ Conheça o Firefox Hello, a maneira mais fácil de conversar por vídeo com qual
 Chegou o Firefox Hello, nossa nova ferramenta para conversar por vídeo. Falar com seus amigos está mais fácil do que nunca. Sem contas, downloads ou taxas. Comece agora mesmo!
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet.
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet.
 # Word play won't work outside of English. You can consider "Hello" as a greeting in this case.
 ;Say Hello to someone
 Diga Hello para alguém
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Try Firefox Hello
 Conheça o Firefox Hello
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Start a conversation
 Converse com alguém
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Invite someone to Hello
 Converse com alguém
 

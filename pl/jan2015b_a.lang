@@ -54,6 +54,7 @@ W prosty sposób zadbaj mądrze o prywatność w Sieci dzięki kilku prostym wsk
 ;Privacy Coach is your one-stop shop to learn about and manage your privacy on Firefox for Android.
 Wszystkie informacje dot. prywatności Firefoksa na Androida teraz w jednym miejscu: Privacy Coach.
 
+
 # LIMIT: 180 characters (will be used on desktop)
 ;Introducing Firefox Hello, the easiest way to stay in touch through video. No accounts, downloads or charges. Connect with a friend anytime, right in your browser. Try it!
 Przedstawiamy Firefox Hello, najłatwiejszy sposób na wideorozmowy. Bez rejestracji, ściągania i płacenia. Rozmawiaj ze znajomymi kiedy chcesz, prosto z przeglądarki. Wybróbuj!
@@ -69,23 +70,23 @@ Poznaj Firefox Hello, najprostszy sposób na wideorozmowę z kim chcesz, kiedy c
 Przedstawiamy Firefox Hello, dzięki któremu wideorozmowy są prostsze niż kiedykolwiek. Bez rejestracji, ściągania i płacenia. Rozpocznij rozmowę i zaproś do niej znajomych.
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet.
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet.
 # Word play won't work outside of English. You can consider "Hello" as a greeting in this case.
 ;Say Hello to someone
 Powiedz komuś 'Cześć'
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Try Firefox Hello
 Wypróbuj Firefox Hello
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Start a conversation
 Rozpocznij rozmowę
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Invite someone to Hello
 Zaproś kogoś do Hello
 

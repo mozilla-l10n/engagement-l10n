@@ -70,23 +70,23 @@ Lernen Sie Firefox Hello kennen, die beste Möglichkeit, mit jedem, überall und
 Hier kommt Firefox Hello, unsere neuste Funktion für ganz einfache Videogespräche. Keine Konten, Downloads oder Kosten. Beginnen Sie ein Gespräch und laden Sie einen Freund ein.
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet.
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet.
 # Word play won't work outside of English. You can consider "Hello" as a greeting in this case.
 ;Say Hello to someone
 Sagen Sie jemandem Hallo
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Try Firefox Hello
 Testen Sie Firefox Hello
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Start a conversation
 Ein Gespräch beginnen
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Invite someone to Hello
 Kontakt zu Hello einladen
 

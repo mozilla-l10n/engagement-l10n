@@ -16,23 +16,23 @@ Ismerje meg a Firefox Hellot, a legegyszerűbb videotelefonálási módszert bá
 Bemutatjuk a Firefox Hellot, a videotelefonálást a lehető legegyszerűbbé tevő, fiók, letöltés vagy számla nélküli új szolgáltatásunkat. Kezdje egy barátja felhívásával!
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 # Word play won't work outside of English. You can consider "Hello" as a greeting in this case.
 ;Say Hello to someone
 Köszönjön a Helloval
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Try Firefox Hello
 Próbálja ki a Firefox Hellot
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Start a conversation
 Kezdjen beszélgetni
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Invite someone to Hello
 Hívjon másokat a Hellon
 

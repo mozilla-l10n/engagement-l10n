@@ -70,23 +70,23 @@ Mari berjumpa dengan Firefox Hello, cara termudah untuk bercakap-cakap lewat vid
 Memperkenalkan Firefox Hello, fitur terbaru yang mempermudah ngobrol lewat video. Tak perlu akun, unduhan, atau membeli. Mulai percakapan sekarang juga dan undang teman Anda.
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet.
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet.
 # Word play won't work outside of English. You can consider "Hello" as a greeting in this case.
 ;Say Hello to someone
 Ucapkan 'halo'
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Try Firefox Hello
 Coba Firefox Hello
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Start a conversation
 Mulai percakapan
 
 
-# LIMIT: 25 characters. It will be used as a button label for an interactive snippet
+# LIMIT: 30 characters. It will be used as a button label for an interactive snippet
 ;Invite someone to Hello
 Undang seseorang ke Hello
 
