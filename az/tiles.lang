@@ -3,7 +3,7 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+Çox bil. Çox et. Yaxşı et.
 
 
 # Tile 1 back
@@ -13,7 +13,7 @@ Bizə Qoşulun
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Mozilla İçması
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
@@ -28,7 +28,7 @@ Yaxşı etmək bizim kodumuzda var
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+Firefox səyyahının arxasındakı qeyri-kommersial
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,12 +38,12 @@ Android üçün <span>Firefox</span>
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+24-26 Okt, 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+London, Britaniya | Ravensbourne
 
 
 # Tile 5 description
@@ -53,12 +53,12 @@ Mozilla Festivalı
 
 # Tile 6 front
 ;<strong>Our 10</strong> Principles
-<strong>Our 10</strong> Principles
+<strong>Bizim 10</strong> Prinsiplərimiz
 
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Mozilla Prinsipləri
 
 
 # Tile 7 front and back
@@ -88,7 +88,7 @@ Firefox-u Şəxsiləşdir
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+Açıq İnternet üçün Paylaşılmış Bilik
 
 
 # Tile 8 description
@@ -98,11 +98,11 @@ Mozilla Tərtibatçı Şəbəkəsi
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Firefox üçün təzə və yeni tətbiqlər əldə et
 
 
 # Tile 9 description
 ;Firefox Marketplace
-Firefox Marketplace
+Firefox Marketplace {ok}
 
 
