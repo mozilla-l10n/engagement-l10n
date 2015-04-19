@@ -3,7 +3,7 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-আরও জানুন, অনেক করুন। ভাল করুন।
+আরও জানুন। আরও কিছু করুন। আরও ভাল করুন।
 
 
 # Tile 1 back
@@ -33,17 +33,17 @@
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
 ;<span>Firefox</span> for Android
-<span>ফায়ারফক্স</span> অ্যান্ড্রয়েডের জন্য
+অ্যান্ড্রয়েডের জন্য <span>ফায়ারফক্স</span>
 
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+অক্টো 24-26, 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-লন্ডন, যুক্তরাজ্য | র‍্যাভেন্সবোর্ণ
+লন্ডন, যুক্তরাজ্য | র‍্যাভেন্সবর্ণ
 
 
 # Tile 5 description
@@ -53,17 +53,17 @@ Oct 24-26, 2014
 
 # Tile 6 front
 ;<strong>Our 10</strong> Principles
-<strong>Our 10</strong> Principles
+<strong>আমাদের 10</strong> মূলনীতি
 
 
 # Tile 6 description
 ;Mozilla Principles
-মজিলা প্রিন্সিপাল
+মজিলা মূলনীতি
 
 
 # Tile 7 front and back
 ;More ways to customize
-More ways to customize
+কাস্টোমাইজের আরও উপায়
 
 
 # Tile 7 front and back
@@ -88,7 +88,7 @@ More ways to customize
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+ওপেন ওয়েবের জন্য শেয়ারকৃত জ্ঞান
 
 
 # Tile 8 description
@@ -98,7 +98,7 @@ Shared Knowledge for the Open Web
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+ফায়ারফক্সের জন্য টাটকা ও নতুন অ্যাপ পান
 
 
 # Tile 9 description
