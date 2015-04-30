@@ -1,5 +1,6 @@
 ## NOTE: reference bug 1156792, deadline May 24th, 2015
 
+
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: iOS and Android
 # This is used in an interactive snippet with an input field and a button (see example at https://snippets.allizom.org/show/83/)
@@ -150,6 +151,5 @@ Firefox Hello vous permet désormais de partager votre écran, car parfois, une 
 # Snippet will open Firefox Hello doorhanger inside the product
 ;With the new screen sharing feature in Firefox Hello, share the things that matter most. Try it now.
 Avec la nouvelle fonctionnalité de partage d'écran de Firefox Hello, partagez ce qui compte vraiment pour vous. Essayez maintenant.
-
 
 
