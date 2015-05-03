@@ -5,7 +5,7 @@
 # Campaign: iOS and Android
 # This is used in an interactive snippet with an input field and a button (see example at https://snippets.allizom.org/show/83/)
 ;Welcome Apple fans! Firefox is now available for iOS. Email a download link straight to your iPhone or iPad.
-Benvenuti fan di Apple! Firefox è ora disponibile anche per iOS. Invia per email un link per scaricarlo sul tuo iPhone o iPad.
+Benvenuti, fan di Apple! Firefox è ora disponibile anche per iOS. Invia per email un link per scaricarlo sul tuo iPhone o iPad.
 
 
 # LIMIT: 28 characters. Input field placeholder for interactive form (see https://snippets.allizom.org/show/83/)
@@ -42,7 +42,7 @@ Inserisci il tuo indirizzo email.
 
 # Part of the interactive SMS/email snippet
 ;SMS & data rates may apply. The intended recipient of the SMS must have consented. Learn More.
-Potrebbero essere applicati dei costi per il servizio SMS e dati. Il destinatario del messaggio deve aver acconsentito. Per saperne di più:
+Potrebbero essere applicati dei costi per il servizio SMS e dati. È obbligatorio il consenso del destinatario. Ulteriori informazioni.
 
 
 # Part of the interactive SMS/email snippet
@@ -80,14 +80,14 @@ Stanco del browser del tuo iPhone? Riscopri Firefox. Inviati una mail con il lin
 # Campaign: iOS and Android
 # This is used in an interactive snippet with an input field and a button (see example at https://snippets.allizom.org/show/83/)
 ;NEW! Firefox for your iPhone, iPad and iPod Touch is now available. Email yourself a download link to get Firefox for iOS for all your devices.
-NOVITÀ! Firefox per il tuo iPhone, iPad e iPod Touch è qui. Inviati una mail con il link di download per ognuno dei tuo dispositivi iOS.
+NOVITÀ! Firefox per il tuo iPhone, iPad e iPod Touch è qui. Invia a tutti i tuoi dispositivi iOS una mail con il link per il download.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: iOS and Android
 # This is used in an interactive snippet with an input field and a button (see example at https://snippets.allizom.org/show/83/)
 ;Free yourself with Firefox, now available for your iPhone, iPad and iPod Touch. Email yourself a download link to get Firefox for iOS for all your devices.
-Riscopri la libertà con Firefox, disponibile adesso per iPhone, iPad e iPod Touch. Inviati una mail con il link di download per ognuno dei tuo dispositivi iOS.
+Riscopri la libertà con Firefox, disponibile adesso per iPhone, iPad e iPod Touch. Invia a tutti i tuoi dispositivi iOS una mail con il link per il download.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -129,7 +129,7 @@ Adori Firefox sul tuo computer? Portalo con te sul cellulare. Riscopri la libert
 # Campaign: Firefox Hello
 # Snippet will open Firefox Hello doorhanger inside the product
 ;When you want to show and tell, share your screen with Firefox Hello. Try it now.
-Un immagine vale mille parole, condividi il tuo schermo con Firefox Hello. Provalo adesso
+Un’immagine vale mille parole, condividi il tuo schermo con Firefox Hello. Provalo adesso
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
