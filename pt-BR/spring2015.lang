@@ -44,6 +44,7 @@ Digite seu endereço de e-mail.
 ;SMS & data rates may apply. The intended recipient of the SMS must have consented. Learn More.
 Podem ser cobrados valores por SMS ou uso de dados. O recipiente deste SMS deve estar consciente. Saiba mais.
 
+
 # Part of the interactive SMS/email snippet
 ;Download it here
 Faça o download aqui
@@ -95,11 +96,13 @@ Liberte-se com o Firefox, agora disponível no seu iPhone, iPad e iPod Touch. En
 ;Free yourself with Firefox, now available for iOS and Android devices. Email yourself a link to download it.
 Liberte-se com o Firefox, agora disponível para aparelhos com iOS e Android. Envie o link de download para você mesmo.
 
+
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: iOS and Android
 # This is used in an interactive snippet with an input field and a button (see example at https://snippets.allizom.org/show/83/)
 ;Get the official Firefox browser for Android and iOS devices. Email yourself a link to download it.
 Baixe o Firefox oficial para Android ou iOS. Envie o link de download para você mesmo.
+
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: iOS and Android
@@ -107,11 +110,13 @@ Baixe o Firefox oficial para Android ou iOS. Envie o link de download para você
 ;Firefox for mobile? Yes, please! Get it for Android or iOS. Email yourself an instant download link.
 Firefox para celular? Sim, por favor! Baixe no Android ou iOS. Envie o link de download para você mesmo.
 
+
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: iOS and Android
 # This is used in an interactive snippet with an input field and a button (see example at https://snippets.allizom.org/show/83/)
 ;Better mobile browsing is just a text message away. Free yourself with Firefox. Email yourself an instant download link.
 Melhorar sua navegação no celular nunca foi tão fácil. Liberte-se com o Firefox. Envie o link de download para você mesmo.
+
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: iOS and Android
@@ -119,11 +124,13 @@ Melhorar sua navegação no celular nunca foi tão fácil. Liberte-se com o Fire
 ;Love Firefox on your computer? Add it to your mobile devices, too. Free yourself with Firefox. Email an official download link.
 Ama o Firefox do seu computador? Baixe-o nos seus aparelhos móveis também. Liberte-se com o Firefox. Envie o link de download para você mesmo.
 
+
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: Firefox Hello
 # Snippet will open Firefox Hello doorhanger inside the product
 ;When you want to show and tell, share your screen with Firefox Hello. Try it now.
 Quando você quer falar e mostrar, compartilhe sua tela com o Firefox Hello. Experimente agora mesmo.
+
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: Firefox Hello
@@ -144,4 +151,5 @@ O Firefox Hello apresenta o compartilhamento de tela, para os momentos em que mo
 # Snippet will open Firefox Hello doorhanger inside the product
 ;With the new screen sharing feature in Firefox Hello, share the things that matter most. Try it now.
 Com o novo recurso de compartilhamento de tela no Firefox Hello, compartilhe tudo que você quiser. Experimente agora mesmo.
+
 
