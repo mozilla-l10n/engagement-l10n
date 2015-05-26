@@ -1,0 +1,117 @@
+## NOTE: for reference see the English infographic https://drive.google.com/open?id=0B19__hKNwbafZU1mZDFtam5oc1U&authuser=0
+
+
+;How user data is protected on <b>Firefox New Tab</b>
+How user data is protected on <b>Firefox New Tab</b>
+
+
+;Suggested tiles are powered by a recommendation system that acts on behalf of the user, delivering relevance while respecting privacy. Here is basically how it works: We only send a limited amount of data back to our tiles selection server, Onyx, and store that raw data in our storage and analysis server, Disco, for a short period of time before aggregating it in our data warehouse. High-level aggregate reports are then shared with our partners.
+Suggested tiles are powered by a recommendation system that acts on behalf of the user, delivering relevance while respecting privacy. Here is basically how it works: We only send a limited amount of data back to our tiles selection server, Onyx, and store that raw data in our storage and analysis server, Disco, for a short period of time before aggregating it in our data warehouse. High-level aggregate reports are then shared with our partners.
+
+
+;Still have questions?
+Still have questions?
+
+
+# Strings used from 1 to 9 in the image (string order follow the process steps)
+;1st
+1st
+
+
+;Clicking on a tile may establish a <b>first party relationship</b> with the website. Like any other web link, the site owner has the option to establish or identify the user through a first-party cookie.
+Clicking on a tile may establish a <b>first party relationship</b> with the website. Like any other web link, the site owner has the option to establish or identify the user through a first-party cookie.
+
+
+;Partner
+Partner
+
+
+;Tiles Authoring
+Tiles Authoring
+
+
+;Adserver
+Adserver
+
+
+;<b>Final tiles decisioning happens within Firefox,</b> based on the user’s browsing history.
+<b>Final tiles decisioning happens within Firefox,</b> based on the user’s browsing history.
+
+
+;User
+User
+
+
+;Data Storage/Analysis
+Data Storage/Analysis
+
+
+;Data Warehouse
+Data Warehouse
+
+
+;REPORT
+REPORT
+
+
+;locations (country)
+locations (country)
+
+
+;times displayed
+times displayed
+
+
+;pins/blocks
+pins/blocks
+
+
+;clicks
+clicks
+
+
+;no personal data is shared!
+no personal data is shared!
+
+
+;<b>A partner</b> submits their tile campaign assets to <b>Mozilla</b>.
+<b>A partner</b> submits their tile campaign assets to <b>Mozilla</b>.
+
+
+;<b>Mozilla</b> reviews the assets and campaign rules before entering them into <b>Splice</b>, a tiles authoring and campaign management server.
+<b>Mozilla</b> reviews the assets and campaign rules before entering them into <b>Splice</b>, a tiles authoring and campaign management server.
+
+
+;<b>Splice</b> hands this information to <b>Onyx</b>, which is responsible for tiles delivery to any user.
+<b>Splice</b> hands this information to <b>Onyx</b>, which is responsible for tiles delivery to any user.
+
+
+;<b>The browser</b> fetches all available suggested tiles based on country and language from <b>Onyx</b> without using cookies or other user tracking identifiers.
+<b>The browser</b> fetches all available suggested tiles based on country and language from <b>Onyx</b> without using cookies or other user tracking identifiers.
+
+
+# Links point to https://www.mozilla.org/privacy/ and https://www.mozilla.org/privacy/principles/
+;<b>User interactions</b>, such as clicks, pins and blocks, are examples of data that may be measured and processed. View <a>Mozilla’s Privacy Policy</a> or our <a>Data Privacy Principles</a> for more information.
+<b>User interactions</b>, such as clicks, pins and blocks, are examples of data that may be measured and processed. View <a>Mozilla’s Privacy Policy</a> or our <a>Data Privacy Principles</a> for more information.
+
+
+;<b>Onyx</b> submits the interaction data to <b>Disco</b>, a restricted access database for large-scale analysis.
+<b>Onyx</b> submits the interaction data to <b>Disco</b>, a restricted access database for large-scale analysis.
+
+
+;<b>Disco</b> aggregates all Firefox tiles interactions, anonymizing personally identifiable data before sending to <b>Redshift</b> for reporting.
+<b>Disco</b> aggregates all Firefox tiles interactions, anonymizing personally identifiable data before sending to <b>Redshift</b> for reporting.
+
+
+;Charts and reports are pulled from <b>Redshift</b> using Zenko, a Content Services reporting tool, for analysis by <b>Mozilla</b>.
+Charts and reports are pulled from <b>Redshift</b> using Zenko, a Content Services reporting tool, for analysis by <b>Mozilla</b>.
+
+
+;<b>Mozilla</b> sends this report to the <b>partner</b> shortly after the campaign ends.
+<b>Mozilla</b> sends this report to the <b>partner</b> shortly after the campaign ends.
+
+
+;<b>For technical details,</b> visit https://wiki.mozilla.org/tiles
+<b>For technical details,</b> visit https://wiki.mozilla.org/tiles
+
+
