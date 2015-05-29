@@ -104,7 +104,7 @@ aucune donnée personnelle n’est partagée !
 
 
 ;Charts and reports are pulled from <b>Redshift</b> using Zenko, a Content Services reporting tool, for analysis by <b>Mozilla</b>.
-Afin d’être analysés par <b>Mozilla</b>, les graphiques et les rapports sont récupérés depuis <b>Redshift</b> à partir de Zenko, un outil de création de rapports pour les services de contenu.
+Afin d’être analysés par <b>Mozilla</b>, les graphiques et les rapports sont récupérés depuis <b>Redshift</b> grâce à Zenko, un outil de création de rapports pour les services de contenu.
 
 
 ;<b>Mozilla</b> sends this report to the <b>partner</b> shortly after the campaign ends.
