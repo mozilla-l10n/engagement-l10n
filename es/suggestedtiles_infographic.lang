@@ -2,56 +2,56 @@
 
 
 ;How user data is protected on <b>Firefox New Tab</b>
-How user data is protected on <b>Firefox New Tab</b>
+Cómo se protegen los datos de usuario en la <b>Nueva pestaña de Firefox</b>
 
 
 ;Suggested tiles are powered by a recommendation system that acts on behalf of the user, delivering relevance while respecting privacy. Here is basically how it works: We only send a limited amount of data back to our tiles selection server, Onyx, and store that raw data in our storage and analysis server, Disco, for a short period of time before aggregating it in our data warehouse. High-level aggregate reports are then shared with our partners.
-Suggested tiles are powered by a recommendation system that acts on behalf of the user, delivering relevance while respecting privacy. Here is basically how it works: We only send a limited amount of data back to our tiles selection server, Onyx, and store that raw data in our storage and analysis server, Disco, for a short period of time before aggregating it in our data warehouse. High-level aggregate reports are then shared with our partners.
+Las miniaturas sugeridas se basan en un sistema de recomendaciones que actúa en nombre del usuario, mostrando contenido relevante mientras se respeta su privacidad. Así es básicamente como funciona: Sólo enviamos una cantidad limitada de datos a nuestro servidor de selección de miniaturas, Onyx, y guardamos esos datos en bruto en nuestro servidor de almacenaje y análisis, Disco, durante un breve período de tiempo antes de agregarlos en nuestro almacén de datos. Los informes agregados de alto nivel se comparten entonces con nuestros socios.
 
 
 ;Still have questions?
-Still have questions?
+¿Todavía tienes preguntas?
 
 
 # Strings used from 1 to 9 in the image (string order follow the process steps)
 ;1st
-1st
+1º
 
 
 ;Clicking on a tile may establish a <b>first party relationship</b> with the website. Like any other web link, the site owner has the option to establish or identify the user through a first-party cookie.
-Clicking on a tile may establish a <b>first party relationship</b> with the website. Like any other web link, the site owner has the option to establish or identify the user through a first-party cookie.
+Cuando haces clic en una miniatura se puede establecer una <b>relación de origen</b> con el sitio web. Como cualquier otro enlace web, el propietario del sitio tiene la opción de identificar al usuario a través de una cookie de origen.
 
 
 ;Partner
-Partner
+Socio
 
 
 ;Tiles Authoring
-Tiles Authoring
+Creación de miniaturas
 
 
 ;Adserver
-Adserver
+Servidor de publicidad
 
 
 ;<b>Final tiles decisioning happens within Firefox,</b> based on the user’s browsing history.
-<b>Final tiles decisioning happens within Firefox,</b> based on the user’s browsing history.
+<b>La selección final de miniaturas ocurre dentro de Firefox,</b> basada en el historial de navegación del usuario.
 
 
 ;User
-User
+Usuario
 
 
 ;Data Storage/Analysis
-Data Storage/Analysis
+Almacenaje/análisis de datos
 
 
 ;Data Warehouse
-Data Warehouse
+Almacén de datos
 
 
 ;REPORT
-REPORT
+INFORME
 
 
 ;Aggregate totals reported:
@@ -59,63 +59,63 @@ Aggregate totals reported:
 
 
 ;locations (country)
-locations (country)
+ubicaciones (país)
 
 
 ;times displayed
-times displayed
+veces mostrado
 
 
 ;pins/blocks
-pins/blocks
+fijado/bloqueado
 
 
 ;clicks
-clicks
+clics
 
 
 ;no personal data is shared!
-no personal data is shared!
+¡los datos personales no se comparten!
 
 
 ;<b>A partner</b> submits their tile campaign assets to <b>Mozilla</b>.
-<b>A partner</b> submits their tile campaign assets to <b>Mozilla</b>.
+<b>Un socio</b> envía sus recuros para su campaña de miniaturas a <b>Mozilla</b>.
 
 
 ;<b>Mozilla</b> reviews the assets and campaign rules before entering them into <b>Splice</b>, a tiles authoring and campaign management server.
-<b>Mozilla</b> reviews the assets and campaign rules before entering them into <b>Splice</b>, a tiles authoring and campaign management server.
+<b>Mozilla</b> revisa los recursos y las reglas de la campaña antes de introducirlos en <b>Splice</b>, un servidor de creación de miniaturas y gestión de campañas.
 
 
 ;<b>Splice</b> hands this information to <b>Onyx</b>, which is responsible for tiles delivery to any user.
-<b>Splice</b> hands this information to <b>Onyx</b>, which is responsible for tiles delivery to any user.
+<b>Splice</b> entrega esta información a <b>Onyx</b>, que es el responsable de la entrega de miniaturas a cualquier usuario.
 
 
 ;<b>The browser</b> fetches all available suggested tiles based on country and language from <b>Onyx</b> without using cookies or other user tracking identifiers.
-<b>The browser</b> fetches all available suggested tiles based on country and language from <b>Onyx</b> without using cookies or other user tracking identifiers.
+<b>El navegador</b> recoge de <b>Onyx</b> todas las miniaturas sugeridas disponibles basadas en el país y el idioma sin utilizar cookies o cualquier otro identificador de trazas de usuario.
 
 
 # Links point to https://www.mozilla.org/privacy/ and https://www.mozilla.org/privacy/principles/
 ;<b>User interactions</b>, such as clicks, pins and blocks, are examples of data that may be measured and processed. View <a>Mozilla’s Privacy Policy</a> or our <a>Data Privacy Principles</a> for more information.
-<b>User interactions</b>, such as clicks, pins and blocks, are examples of data that may be measured and processed. View <a>Mozilla’s Privacy Policy</a> or our <a>Data Privacy Principles</a> for more information.
+<b>Las interacciones con el usuario</b>, tales como clics, fijaciones y bloqueos, son ejemplos de datos que pueden ser medidos y procesados. Lee la <a>Política de privacidad de Mozilla</a> o nuestros <a>Principios de privacidad de datos</a> para más información.
 
 
 ;<b>Onyx</b> submits the interaction data to <b>Disco</b>, a restricted access database for large-scale analysis.
-<b>Onyx</b> submits the interaction data to <b>Disco</b>, a restricted access database for large-scale analysis.
+<b>Onyx</b> envía los datos de interacción a <b>Disco</b>, una base de datos de acceso restringido para análisis a gran escala.
 
 
 ;<b>Disco</b> aggregates all Firefox tiles interactions, anonymizing personally identifiable data before sending to <b>Redshift</b> for reporting.
-<b>Disco</b> aggregates all Firefox tiles interactions, anonymizing personally identifiable data before sending to <b>Redshift</b> for reporting.
+<b>Disco</b> agrega todas las interacciones de miniaturas de Firefox, haciendo anónimo cualquier dato personal identificativo antes de enviarlo a <b>Redshift</b> para la creación de informes.
 
 
 ;Charts and reports are pulled from <b>Redshift</b> using Zenko, a Content Services reporting tool, for analysis by <b>Mozilla</b>.
-Charts and reports are pulled from <b>Redshift</b> using Zenko, a Content Services reporting tool, for analysis by <b>Mozilla</b>.
+Los gráficos e informes se obtienen de <b>Redshift</b> utilizando Zenko, una herramienta de creación de informes de Servicios de contenidos, para su análisis por <b>Mozilla</b>.
 
 
 ;<b>Mozilla</b> sends this report to the <b>partner</b> shortly after the campaign ends.
-<b>Mozilla</b> sends this report to the <b>partner</b> shortly after the campaign ends.
+<b>Mozilla</b> envía este informe al <b>socio</b> poco después del fin de la campaña.
 
 
 ;<b>For technical details,</b> visit https://wiki.mozilla.org/tiles
-<b>For technical details,</b> visit https://wiki.mozilla.org/tiles
+<b>Para detalles técnicos,</b> visita https://wiki.mozilla.org/tiles
 
 
