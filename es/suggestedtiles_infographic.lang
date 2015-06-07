@@ -55,7 +55,7 @@ INFORME
 
 
 ;Aggregate totals reported:
-Aggregate totals reported:
+Datos totales agregados:
 
 
 ;locations (country)
@@ -117,5 +117,6 @@ Los gráficos e informes se obtienen de <b>Redshift</b> utilizando Zenko, una he
 
 ;<b>For technical details,</b> visit https://wiki.mozilla.org/tiles
 <b>Para detalles técnicos,</b> visita https://wiki.mozilla.org/tiles
+
 
 
