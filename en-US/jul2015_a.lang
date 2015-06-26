@@ -89,6 +89,38 @@ Get Firefox for Android!
 For better, faster mobile browsing, get Firefox for your Android. Email yourself the download link.
 
 
+## MAX_LENGTH: 32
+# LIMIT: 32 characters
+# This is used in an email widget that sends a download link for Firefox for Android.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
+;Enter your email address
+Enter your email address
+
+
+## MAX_LENGTH: 14
+# LIMIT: 14 characters
+# This is used in an email widget that sends a download link for Firefox for Android.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
+;Send me a link
+Send me a link
+
+
+## MAX_LENGTH: 35
+# LIMIT: 35 characters
+# This is used in an email widget that sends a download link for Firefox for Android.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
+;Also available from Google Play.
+Also available from Google Play.
+
+
+## MAX_LENGTH: 35
+# LIMIT: 35 characters
+# This is used in an email widget that sends a download link for Firefox for Android.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
+;Learn more on our privacy policy.
+Learn more on our privacy policy.
+
+
 ## MAX_LENGTH: 70
 # LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
