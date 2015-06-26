@@ -64,26 +64,30 @@ Bouncing emails back and forth? Get in touch faster over video with Firefox Hell
 Missing someone special? Get some face-to-face time over video with Firefox Hello. You send the link, and all they need to do is click. <a>Try it!</a>
 
 
+# LIMIT: 38 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
-# Will add as soon as possible a link to a mockup/test snippet to display how it looks. Also not clear yet what the character limit is.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Get Firefox for Android!
 Get Firefox for Android!
 
 
+# LIMIT: 150 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
-# Will add as soon as possible a link to a mockup/test snippet to display how it looks. Also not clear yet what the character limit is.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;For better, faster mobile browsing, get Firefox for your Android. Email yourself the download link.
 For better, faster mobile browsing, get Firefox for your Android. Email yourself the download link.
 
 
+# LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
-# Will add as soon as possible a link to a mockup/test snippet to display how it looks. Also not clear yet what the character limit is.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;An error occurred. Please check your information and try again.
 An error occurred. Please check your information and try again.
 
 
+# LIMIT: 100 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
-# Will add as soon as possible a link to a mockup/test snippet to display how it looks. Also not clear yet what the character limit is.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Success! Please check your device for the download link.
 Success! Please check your device for the download link.
 

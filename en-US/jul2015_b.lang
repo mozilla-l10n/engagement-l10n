@@ -81,26 +81,34 @@ Missing someone special? Get some face-to-face time over video with Firefox Hell
 Never be bored again. Firefox OS smartphones keep you entertained with music, videos and apps to inspire fun. <a>See the newest phones</a>.
 
 
+## MAX_LENGTH: 38
+# LIMIT: 38 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
-# Will add as soon as possible a link to a mockup/test snippet to display how it looks. Also not clear yet what the character limit is.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Get Firefox for Android!
 Get Firefox for Android!
 
 
+## MAX_LENGTH: 150
+# LIMIT: 150 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
-# Will add as soon as possible a link to a mockup/test snippet to display how it looks. Also not clear yet what the character limit is.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;For better, faster mobile browsing, get Firefox for your Android. Email yourself the download link.
 For better, faster mobile browsing, get Firefox for your Android. Email yourself the download link.
 
 
+## MAX_LENGTH: 70
+# LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
-# Will add as soon as possible a link to a mockup/test snippet to display how it looks. Also not clear yet what the character limit is.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;An error occurred. Please check your information and try again.
 An error occurred. Please check your information and try again.
 
 
+## MAX_LENGTH: 100
+# LIMIT: 100 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
-# Will add as soon as possible a link to a mockup/test snippet to display how it looks. Also not clear yet what the character limit is.
+# See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Success! Please check your device for the download link.
 Success! Please check your device for the download link.
 
