@@ -26,7 +26,7 @@ Unleash your creativity with Mozilla's free, open source Webmaker app for Androi
 # Campaign: desktop snippets
 # Link: https://activations.cdn.mozilla.net/
 ;When you find something worth sharing, use the Firefox Share button to send it through your networks straight from Firefox. <a>Here's how to add it</a>.
-When you find something worth sharing, use the Firefox Share button to send it through your networks straight from Firefox. <a>Here's how to add it</a>.
+Quando você encontrar alguma coisa digna de ser compartilhada, use o botão Firefox Share para enviá-lo através de suas redes a partir do Firefox. <a>Eis como adicioná-lo</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -89,7 +89,7 @@ Digite seu endereço de email
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Send me a link
-Me envie o link
+Envie o link
 
 
 # LIMIT: 35 characters
@@ -103,21 +103,21 @@ Também disponível no Google Play.
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Learn more on our privacy policy.
-Saiba mais sobre a nossa política de privacidade.
+Sobre a política de privacidade.
 
 
 # LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;An error occurred. Please check your information and try again.
-Ocorreu um erro. Por favor, verifique suas informações e tente novamente.
+Ocorreu um erro. Verifique suas informações e tente novamente.
 
 
 # LIMIT: 100 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Success! Please check your device for the download link.
-Success! Please check your device for the download link.
+Sucesso! Por favor, verifique no seu dispositivo, o link para baixar.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
