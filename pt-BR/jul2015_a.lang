@@ -5,14 +5,14 @@
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/os/devices/
 ;Looking for a fast browser to keep up with your Android? Look no further than Firefox. <a>Add it to your Android today</a>.
-Looking for a fast browser to keep up with your Android? Look no further than Firefox. <a>Add it to your Android today</a>.
+Procura um navegador rápido para acompanhar o seu Android? Não procure mais, use o Firefox. <a>Adicione-o ao seu Android hoje</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/android/
 ;More than a million users rated Firefox for Android five stars. <a>Get Firefox for your Android</a>.
-More than a million users rated Firefox for Android five stars. <a>Get Firefox for your Android</a>.
+Mais de 1 milhão de usuários pontuaram o Firefox para Android com cinco estrelas. <a>Instale o Firefox no seu Android</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -54,21 +54,21 @@ Today's Firefox lesson: take your open tabs on your commute from your computer t
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/hello/
 ;Bouncing emails back and forth? Get in touch faster over video with Firefox Hello. You send the link, and all they need to do is click. <a>Try it!</a>
-Bouncing emails back and forth? Get in touch faster over video with Firefox Hello. You send the link, and all they need to do is click. <a>Try it!</a>
+Com saudade de alguém especial? Fique mais próximo conversando por vídeo no Firefox Hello. Você manda o link, e tudo que eles precisam é clicar. <a>Experimente!</a>
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/hello/
 ;Missing someone special? Get some face-to-face time over video with Firefox Hello. You send the link, and all they need to do is click. <a>Try it!</a>
-Missing someone special? Get some face-to-face time over video with Firefox Hello. You send the link, and all they need to do is click. <a>Try it!</a>
+Com saudade de alguém especial? Fique mais próximo conversando por vídeo no Firefox Hello. Você manda o link, e tudo que eles precisam é clicar. <a>Experimente!</a>
 
 
 # LIMIT: 38 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Get Firefox for Android!
-Get Firefox for Android!
+Baixe o Firefox para Android!
 
 
 # LIMIT: 150 characters
@@ -82,35 +82,35 @@ For better, faster mobile browsing, get Firefox for your Android. Email yourself
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Enter your email address
-Enter your email address
+Digite seu endereço de email
 
 
 # LIMIT: 14 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Send me a link
-Send me a link
+Me envie o link
 
 
 # LIMIT: 35 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Also available from Google Play.
-Also available from Google Play.
+Também disponível no Google Play.
 
 
 # LIMIT: 35 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Learn more on our privacy policy.
-Learn more on our privacy policy.
+Saiba mais sobre a nossa política de privacidade.
 
 
 # LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;An error occurred. Please check your information and try again.
-An error occurred. Please check your information and try again.
+Ocorreu um erro. Por favor, verifique suas informações e tente novamente.
 
 
 # LIMIT: 100 characters
@@ -131,6 +131,6 @@ Unleash your creativity with Mozilla's Webmaker app for Android. <a>Become a dig
 # Campaign: mobile snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/space/
 ;Gravity belt recommended before installing these <a>cosmic themes</a>.
-Gravity belt recommended before installing these <a>cosmic themes</a>.
+Cinto de gravidade recomendado antes de instalar estes <a>temas cósmicos</a>.
 
 
