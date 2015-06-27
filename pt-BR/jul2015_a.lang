@@ -85,28 +85,28 @@ For better, faster mobile browsing, get Firefox for your Android. Email yourself
 Digite seu endereço de email
 
 
-# LIMIT: 14 characters
+# LIMIT: 20 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Send me a link
 Envie o link
 
 
-# LIMIT: 35 characters
+# LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Also available from Google Play.
 Também disponível no Google Play.
 
 
-# LIMIT: 35 characters
+# LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Learn more on our privacy policy.
 Sobre a política de privacidade.
 
 
-# LIMIT: 70 characters
+# LIMIT: 100 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;An error occurred. Please check your information and try again.
