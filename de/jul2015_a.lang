@@ -5,14 +5,14 @@
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/os/devices/
 ;Looking for a fast browser to keep up with your Android? Look no further than Firefox. <a>Add it to your Android today</a>.
-Looking for a fast browser to keep up with your Android? Look no further than Firefox. <a>Add it to your Android today</a>.
+Suchen Sie nach einem schnellen Browser für Android? Suchen Sie nicht weiter, nutzen Sie Firefox. <a>Fügen Sie ihn noch heute Ihrem Android-Gerät hinzu!</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/android/
 ;More than a million users rated Firefox for Android five stars. <a>Get Firefox for your Android</a>.
-More than a million users rated Firefox for Android five stars. <a>Get Firefox for your Android</a>.
+Mehr als eine Million Nutzer bewerteten Firefox für Android mit fünf Sternen. <a>Holen Sie sich Firefox für Android</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -26,7 +26,7 @@ Entfesseln Sie Ihre Kreativität mit Mozillas freier und quelloffener Webmaker-A
 # Campaign: desktop snippets
 # Link: https://activations.cdn.mozilla.net/
 ;When you find something worth sharing, use the Firefox Share button to send it through your networks straight from Firefox. <a>Here's how to add it</a>.
-When you find something worth sharing, use the Firefox Share button to send it through your networks straight from Firefox. <a>Here's how to add it</a>.
+Wenn Sie etwas gefunden haben, das Sie teilen möchten, nutzen Sie die Firefox-Teilen-Schaltfläche, um es mit Ihren Freunden per Firefox zu teilen. <a>So können Sie diese hinzufügen</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -47,7 +47,7 @@ Arbeit allein macht den Tag auch nicht schön. Machen Sie mal eine Pause vom All
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/sync/
 ;Today's Firefox lesson: take your open tabs on your commute from your computer to your Android. Sound good? <a>Get in Sync</a>.
-Die Firefox-Lektion für heute: Nehmen Sie Ihre offenen Tabs mit auf Ihren Arbeitsweg vom PC auf Ihr Android-Gerät. Klingt das gut? <a>Synchronisieren Sie</a>.
+Die Firefox-Lektion für heute: Nehmen Sie Ihre offenen Tabs mit auf Ihren Arbeitsweg – vom PC auf Ihr Android-Gerät. Klingt das gut? <a>Synchronisieren Sie</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -68,56 +68,56 @@ Fehlt Ihnen jemand besonderes? Unterhalten Sie sich per Firefox Hello von Angesi
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Get Firefox for Android!
-Get Firefox for Android!
+Holen Sie sich Firefox für Android!
 
 
 # LIMIT: 150 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;For better, faster mobile browsing, get Firefox for your Android. Email yourself the download link.
-For better, faster mobile browsing, get Firefox for your Android. Email yourself the download link.
+Für ein besseres, schnelleres, mobiles Surferlebnis holen Sie sich Firefox für Ihr Android-Gerät. Senden Sie sich einen Download-Link per E-Mail.
 
 
 # LIMIT: 32 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Enter your email address
-Enter your email address
+Geben Sie Ihre E-Mail-Adresse an
 
 
 # LIMIT: 20 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Send me a link
-Send me a link
+Link an mich senden
 
 
 # LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Also available from Google Play.
-Also available from Google Play.
+Auch verfügbar bei Google Play.
 
 
 # LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Learn more on our privacy policy.
-Learn more on our privacy policy.
+Erfahren Sie mehr über unsere Datenschutzrichtlinie.
 
 
 # LIMIT: 100 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;An error occurred. Please check your information and try again.
-An error occurred. Please check your information and try again.
+Es ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Angaben und versuchen Sie es erneut.
 
 
 # LIMIT: 100 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Success! Please check your device for the download link.
-Success! Please check your device for the download link.
+Geschafft! Bitte überprüfen Sie Ihr Gerät nach einem Download-Link.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
