@@ -1,7 +1,8 @@
 ## NOTE: Reference bug 1179979, deadline 13 Jul 2015.
 ## NOTE: These strings are used as titles for tiles in New tab, e.g. https://bug1167339.bugzilla.mozilla.org/attachment.cgi?id=8628294
 ## NOTE: Since the actual width will vary based on the characters used ("m" is larger than "l"), we set a lenght limit of 32 characters.
-## NOTE: You can also test your localization with Devtools on New Tab, replacing the text of an existing tile.
+## NOTE: experimental view for this file https://l10n.mozilla-community.org/~flod/tiles_demo/?file=tiles_jul2015.lang
+## NOTE: (should autodetect your locale as soon as there are translations available).
 
 
 # LIMIT: 32 characters. Please rephrase as needed to fit.
