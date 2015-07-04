@@ -75,7 +75,7 @@ Never be bored again. Firefox OS smartphones keep you entertained with music, vi
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Get Firefox for Android!
-Get Firefox for Android!
+Получите Firefox для Android!
 
 
 # LIMIT: 150 characters
@@ -89,55 +89,55 @@ For better, faster mobile browsing, get Firefox for your Android. Email yourself
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Enter your email address
-Enter your email address
+Введите свой адрес эл. почты
 
 
 # LIMIT: 20 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Send me a link
-Send me a link
+Послать мне ссылку
 
 
 # LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Also available from Google Play.
-Also available from Google Play.
+Также доступен в Google Play.
 
 
 # LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Learn more on our privacy policy.
-Learn more on our privacy policy.
+Узнайте больше о нашей политике приватности.
 
 
 # LIMIT: 100 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;An error occurred. Please check your information and try again.
-An error occurred. Please check your information and try again.
+Произошла ошибка. Пожалуйста, проверьте вашу информацию и попробуйте ещё раз.
 
 
 # LIMIT: 100 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
 ;Success! Please check your device for the download link.
-Success! Please check your device for the download link.
+Успех! Пожалуйста, проверьте наличие на вашем устройстве ссылки для загрузки.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://play.google.com/store/apps/details?id=org.mozilla.webmaker
 ;Unleash your creativity with Mozilla's Webmaker app for Android. <a>Become a digital creator in just a few taps.</a>
-Unleash your creativity with Mozilla's Webmaker app for Android. <a>Become a digital creator in just a few taps.</a>
+Раскройте свой творческий потенциал с приложением WebMaker от Mozilla для Android. <a>Всего пара нажатий сделают вас цифровым творцом.</a>
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/space/
 ;Gravity belt recommended before installing these <a>cosmic themes</a>.
-Gravity belt recommended before installing these <a>cosmic themes</a>.
+Пристегните ремень перед установкой этих <a>космических тем</a>.
 
 
