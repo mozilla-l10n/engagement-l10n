@@ -3,6 +3,7 @@
 ## NOTE: Since the actual width will vary based on the characters used ("m" is larger than "l"), we set a lenght limit of 32 characters.
 ## NOTE: experimental view for this file https://l10n.mozilla-community.org/~flod/tiles_demo/?file=tiles_jul2015.lang
 ## NOTE: (should autodetect your locale as soon as there are translations available).
+## URL: https://l10n.mozilla-community.org/~flod/tiles_demo/?file=tiles_jul2015.lang&locale=%LOCALE%
 
 ## MAX_LENGTH: 32
 # LIMIT: 32 characters. Please rephrase as needed to fit.
