@@ -1,7 +1,6 @@
 ## NOTE: reference bug 1177595, deadline 13 Jul 2015
 
 
-## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/os/devices/
@@ -9,7 +8,6 @@
 ¿Buscas un navegador rápido que se mantenga actualizado con tu Android? No busques más. <a>Añade Firefox a tu Android</a>.
 
 
-## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/android/
@@ -17,7 +15,6 @@
 Más de un millón de usuarios valoraron Firefox para Android con cinco estrellas. <a>Obtén Firefox para tu Android</a>.
 
 
-## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://play.google.com/store/apps/details?id=org.mozilla.webmaker
@@ -25,7 +22,6 @@ Más de un millón de usuarios valoraron Firefox para Android con cinco estrella
 Libera tu creatividad con la app gratuita y de código abierto Webmaker para Android de Mozilla. <a>Hazte con la exclusiva</a> y conviértete en creador digital con Webmaker.
 
 
-## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://activations.cdn.mozilla.net/
@@ -33,7 +29,6 @@ Libera tu creatividad con la app gratuita y de código abierto Webmaker para And
 Cuando encuentres algo que merezca compartirse, usa el botón Compartir y envíalo por la red directamente desde Firefox. <a>Descubre cómo añadirlo</a>.
 
 
-## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/space/
@@ -41,7 +36,6 @@ Cuando encuentres algo que merezca compartirse, usa el botón Compartir y envía
 Puede que al contemplar las estrellas te preguntes por el origen del universo. Te recomendamos el uso de un cinturón de gravedad antes de instalar estos <a>temas cósmicos</a>.
 
 
-## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://marketplace.firefox.com/feed/collection/adventure-games
@@ -49,7 +43,6 @@ Puede que al contemplar las estrellas te preguntes por el origen del universo. T
 Hay que divertirse de vez en cuando. Sal de la rutina con la <a>colección Juegos de Aventuras</a>.
 
 
-## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/sync/
@@ -57,7 +50,6 @@ Hay que divertirse de vez en cuando. Sal de la rutina con la <a>colección Juego
 La lección Firefox de hoy: llévate tus pestañas abiertas desde tu equipo a tu Android. ¿A que suena bien? <a>Syncronízate</a>.
 
 
-## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/hello/
@@ -65,7 +57,6 @@ La lección Firefox de hoy: llévate tus pestañas abiertas desde tu equipo a tu
 ¿Te cansa recibir y enviar tantos emails? Conecta más rápido por vídeo con Firefox Hello. Envías el enlace, hacen clic y listo. <a>¡Pruébalo!</a>
 
 
-## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/hello/
@@ -73,7 +64,6 @@ La lección Firefox de hoy: llévate tus pestañas abiertas desde tu equipo a tu
 ¿Echas de menos a alguien especial? Conversa cara a cara con Firefox Hello. Envías un enlace, hacen clic y listo. <a>¡Pruébalo!</a>
 
 
-## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/os/devices/
@@ -81,7 +71,6 @@ La lección Firefox de hoy: llévate tus pestañas abiertas desde tu equipo a tu
 Se acabó el aburrimiento. Diviértete con la música, los vídeos y las apps de los smartphones Firefox OS. <a>Mira los últimos dispositivos</a>.
 
 
-## MAX_LENGTH: 38
 # LIMIT: 38 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
@@ -89,7 +78,6 @@ Se acabó el aburrimiento. Diviértete con la música, los vídeos y las apps de
 ¡Obtén Firefox para Android!
 
 
-## MAX_LENGTH: 150
 # LIMIT: 150 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
@@ -97,7 +85,6 @@ Se acabó el aburrimiento. Diviértete con la música, los vídeos y las apps de
 Para navegar mejor y más rápido, obtén Firefox para tu Android. Envíate un email con el enlace de descarga.
 
 
-## MAX_LENGTH: 32
 # LIMIT: 32 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
@@ -105,7 +92,6 @@ Para navegar mejor y más rápido, obtén Firefox para tu Android. Envíate un e
 Escribe tu dirección electrónica
 
 
-## MAX_LENGTH: 20
 # LIMIT: 20 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
@@ -113,7 +99,6 @@ Escribe tu dirección electrónica
 Enviarme un enlace
 
 
-## MAX_LENGTH: 70
 # LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
@@ -121,7 +106,6 @@ Enviarme un enlace
 También disponible en Google Play.
 
 
-## MAX_LENGTH: 70
 # LIMIT: 70 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
@@ -129,7 +113,6 @@ También disponible en Google Play.
 Infórmate sobre nuestra política de privacidad.
 
 
-## MAX_LENGTH: 100
 # LIMIT: 100 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
@@ -137,7 +120,6 @@ Infórmate sobre nuestra política de privacidad.
 Se produjo un error. Revisa tu información y prueba de nuevo.
 
 
-## MAX_LENGTH: 100
 # LIMIT: 100 characters
 # This is used in an email widget that sends a download link for Firefox for Android.
 # See https://bugzilla.mozilla.org/attachment.cgi?id=8626755
@@ -145,7 +127,6 @@ Se produjo un error. Revisa tu información y prueba de nuevo.
 ¡Excelente! Comprueba que llegó el enlace de descarga a tu dispositivo.
 
 
-## MAX_LENGTH: 140
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://play.google.com/store/apps/details?id=org.mozilla.webmaker
@@ -153,10 +134,10 @@ Se produjo un error. Revisa tu información y prueba de nuevo.
 Libera tu creatividad con la app Webmaker para Android de Mozilla. <a>Conviértete en creador digital en un par de clics.</a>
 
 
-## MAX_LENGTH: 140
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/space/
 ;Gravity belt recommended before installing these <a>cosmic themes</a>.
 Te recomendamos el uso de un cinturón de gravedad antes de instalar estos <a>temas cósmicos</a>.
+
 
