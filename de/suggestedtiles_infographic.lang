@@ -5,7 +5,6 @@
 Wie Ihre Nutzerdaten auf der <b>Neuer-Tab-Seite in Firefox</b> geschützt werden
 
 
-
 ;Suggested tiles are powered by a recommendation system that acts on behalf of the user, delivering relevance while respecting privacy. Here is basically how it works: We only send a limited amount of data back to our tiles selection server, Onyx, and store that raw data in our storage and analysis server, Disco, for a short period of time before aggregating it in our data warehouse. High-level aggregate reports are then shared with our partners.
 Vorgeschlagene Kacheln werden durch ein Empfehlungssystem generiert, welches sich aus dem Nutzerverhalten ergibt. Hierzu werden relevante Daten unter Wahrung der Privatsphäre erhoben. Im Grunde funktioniert es so: Wir senden lediglich bestimmte Daten an unseren Kachelvorschlags-Server Onyx und speichern diese Rohdaten für eine kurze Zeit auf unserem Speicher- und Analyseserver Disco, bevor sie in unserem Datenspeicher zusammengefasst werden. Diese hochgradig aggregierten Statistiken teilen wir dann mit unseren Partnern.
 
