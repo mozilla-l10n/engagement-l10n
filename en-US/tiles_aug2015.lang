@@ -6,7 +6,7 @@
 ## URL: https://l10n.mozilla-community.org/~flod/tiles_demo/?file=tiles_aug2015.lang&locale=%LOCALE%
 
 
-## MAX_LENGTH: 40
+## MAX_LENGTH: 42
 # LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
 # Privacy tile: normal state
 # Link: https://www.mozilla.org/privacy/tips/
@@ -14,7 +14,7 @@
 Get smart on privacy
 
 
-## MAX_LENGTH: 40
+## MAX_LENGTH: 42
 # LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
 # Privacy tile: roll-over state
 # Link: https://www.mozilla.org/privacy/tips/
@@ -22,7 +22,7 @@ Get smart on privacy
 In four easy steps
 
 
-## MAX_LENGTH: 40
+## MAX_LENGTH: 42
 # LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
 # Forget button tile: normal state
 # Link: https://www.mozilla.org/privacy/tips/
@@ -30,7 +30,7 @@ In four easy steps
 Delete history and cookies
 
 
-## MAX_LENGTH: 40
+## MAX_LENGTH: 42
 # LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
 # Forget button tile: normal state
 # Link: https://www.mozilla.org/privacy/tips/
@@ -38,7 +38,7 @@ Delete history and cookies
 Delete your browsing history
 
 
-## MAX_LENGTH: 40
+## MAX_LENGTH: 42
 # LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
 # Forget button tile: roll-over state
 # Link: https://www.mozilla.org/privacy/tips/
@@ -46,7 +46,7 @@ Delete your browsing history
 In a single click
 
 
-## MAX_LENGTH: 40
+## MAX_LENGTH: 42
 # LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
 # Lightbeam tile: normal state
 # Link: https://www.mozilla.org/lightbeam/
@@ -54,7 +54,7 @@ In a single click
 Who’s tracking you online?
 
 
-## MAX_LENGTH: 40
+## MAX_LENGTH: 42
 # LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
 # Lightbeam tile: roll-over state
 # Link: https://www.mozilla.org/lightbeam/
