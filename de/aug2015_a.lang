@@ -1,4 +1,4 @@
-﻿## NOTE: Reference bug 1185127, deadline 10 Aug 2015.
+## NOTE: Reference bug 1185127, deadline 10 Aug 2015.
 
 
 # Used as a title in combination with the following snippet
@@ -95,6 +95,7 @@ Das nächste Mal, wenn Sie etwas finden, was Sie lesen oder sehen möchten, klic
 ;Play popular games on the go with a new Firefox OS smartphone. Check out the latest models.
 Spielen Sie beliebte Spiele unterwegs mit einem neuen Firefox-OS-Smartphone. Sehen Sie sich die neusten Modelle an.
 
+
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Link: https://www.mozilla.org/firefox/os/devices/
 ;Love games? Enjoy the most popular games on the go with a new smartphone. Put a new Firefox OS phone in your hands today today and play on.
@@ -146,6 +147,7 @@ Nehmen Sie Ihren Firefox überall mit hin. Verbinden Sie Ihren Computer, Handy u
 ;Connect your phone, computer and tablet with Firefox Sync.
 Verbinden Sie Ihr Handy, Computer und Tablet mit Firefox Sync.
 
+
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://www.mozilla.org/firefox/sync/
@@ -158,4 +160,5 @@ Melden Sie sich für Firefox Sync an, um Ihr Handy, Computer und Tablet zu verbi
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/dogs/
 ;Sit, stay and rollover to our four-paw rated themes for dog lovers. Go fetch one now.
 Sitz, steh und Überschlag. Zu unseren Vierbeinigen Themes für Hundeliebhaber. Holen Sie sich jetzt eins.
+
 
