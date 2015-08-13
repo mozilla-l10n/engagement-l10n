@@ -5,38 +5,50 @@ Nâng cao khả năng Dịch Tự động
 ;Thinking about all web pages you browse, roughly how often do you encounter a page in a foreign language that you wish to read?
 Xem xét toàn bộ mọi trang bạn duyệt, bạn muốn đọc bao nhiêu trang bằng tiếng nước ngoài, có thường xuyên hay không?
 
+
 ;Daily
 Hàng ngày
+
 
 ;Several times a week
 Nhiều lần trong một tuần
 
+
 ;About once a week
 Một lần một tuần
+
 
 ;About once every 2 weeks
 Khoảng một lần trong 2 tuần
 
+
 ;About once a month
 Khoảng một lần một tháng
+
 
 ;Less often
 Không thường xuyên
 
+
 ;Never
 Không bao giờ
+
 
 ;I don't know
 Không rõ
 
+
 ;A potential new feature for Firefox is Automatic Translation. This is a built-in translation service for browsing foreign language websites. On your request, a page is translated automatically into your preferred language.
 Một chức năng mới đang được xem xét cho Firefox là Dịch Tự động. Đây là dịch vụ dịch tự động cho các trang tiếng nước ngoài. Nếu bạn yêu cầu, trang web sẽ được dịch tự động tới ngôn ngữ bạn lựa chọn.
+
 
 ;How appealing or unappealing is this service?
 Dịch vụ này tốt không?
 
+
 ;Very appealing
 Rất tốt
+
 
 ;Quite appealing
 Khá tốt
@@ -81,6 +93,7 @@ Chắc chắn không
 ;And what do you currently do when you encounter a page in a foreign language that you wish to read?
 Khi gặp một trang tiếng nước ngoài, bạn làm gì
 
+
 ;Don't read it
 Không đọc
 
@@ -103,6 +116,7 @@ Cách khác
 
 ;You mentioned earlier you also use Chrome. When browsing in Firefox, if you encounter a page in a foreign language, do you tend to switch to Chrome in order to view it in your native language?
 Bạn nói rằng bạn cũng dùng Chrome. Khi duyệt bằng Firefox, nếu bạn gặp trang tiếng nước ngoài, bạn có chuyển sang Chrome để xem bằng tiếng mẹ đẻ không?
+
 
 ;Always
 Luôn luôn
@@ -307,6 +321,7 @@ Sớm hơn 2 năm trước
 
 ;Extremely dissatisfied
 Rất thất vọng
+
 
 ;Dissatisfied
 Thất vọng

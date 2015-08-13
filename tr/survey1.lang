@@ -1,12 +1,11 @@
 # The strings below are for a survey that will be proposed to Firefox users, this survey will be on an external web service (no staging site for the moment). It also includes a few error messages at the end
-
-
 ;Thank you for helping with this research. We would like to ask you some questions about using the internet, in particular the browser software you use to do this. The term “browser” is the name of the application which displays web pages and allows you to surf the internet. The questionnaire should take about 3 minutes to complete should you qualify.
 Araştırmamıza katıldığınız için teşekkür ederiz. Size, internet kullanımınız ve özellikle tarayıcı yazılımınız hakkında bazı sorular sormak istiyoruz. “Tarayıcı”nız, web sayfalarını görüntüleyen ve internette sörf yapmanızı sağlayan yazılımdır. Anket formumuzun tamamlanması yaklaşık 3 dakika sürecektir.
 
 
 ;Which of the following age bands do you fall into?
 Hangi yaş aralığındasınız?
+
 
 ;16-24
 16-24 {ok}
@@ -47,6 +46,7 @@ Kadın
 ;Which of the following web browsers do you use on your desktop computer or laptop at the moment, either at home or at work?
 Şu anda masaüstü veya dizüstü bilgisayarınızda, evde veya iş yerinizde hangi tarayıcıları kullanıyorsunuz?
 
+
 ;Apple Safari
 Apple Safari {ok}
 
@@ -78,20 +78,26 @@ Bilmiyorum
 ;How likely or unlikely are you to recommend Firefox to a friend or colleague?
 Firefox'u bir yakınınıza veya iş arkadaşınıza tavsiye eder miydiniz?
 
+
 ;I am very likely and would consider making a recommendation without being asked
 Çok büyük ihtimalle ederdim ve benden istenmese bile tavsiye etmeyi düşünürdüm
+
 
 ;I am quite likely to recommend Firefox and would do so if I was asked
 Büyük ihtimalle ederdim ve benden istenirse tavsiye ederim
 
+
 ;I am neither likely nor unlikely
 Kararsızım
+
 
 ;I am quite unlikely to recommend Firefox
 Büyük ihtimalle Firefox'u tavsiye etmezdim
 
+
 ;I am very unlikely to recommend Firefox and would even consider recommending against using Firefox
 Çok büyük ihtimalle Firefox'u tavsiye etmezdim ve Firefox'u kullanmamasını önermeyi de düşünürdüm
+
 
 ;And how much do you like or dislike Firefox?
 Firefox'u ne kadar seviyor veya sevmiyorsunuz?
@@ -104,14 +110,18 @@ Hiç sevmiyorum
 ;Dislike a little
 Pek hoşlanmıyorum
 
+
 ;Neither like nor dislike
 Kararsızım
+
 
 ;Like a little
 Biraz seviyorum
 
+
 ;Like a great deal
 Çok seviyorum
+
 
 ;So overall, taking everything into account, how satisfied or dissatisfied are you with Firefox?
 Genel olarak her şeyi göz önünde bulundurarak, Firefox sizi ne kadar tatmin ediyor veya etmiyor?
@@ -119,6 +129,7 @@ Genel olarak her şeyi göz önünde bulundurarak, Firefox sizi ne kadar tatmin 
 
 ;Extremely dissatisfied
 Hiç tatmin etmiyor
+
 
 ;Dissatisfied
 Tatmin etmiyor
@@ -134,6 +145,7 @@ Kararsızım
 
 ;Somewhat satisfied
 Nispeten tatmin ediyor
+
 
 ;Satisfied
 Tatmin ediyor

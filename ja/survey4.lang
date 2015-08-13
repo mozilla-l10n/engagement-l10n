@@ -125,6 +125,7 @@ Firefox の自動翻訳サービスをご自分でどのくらい使うと思い
 ;Sometimes
 時々する
 
+
 ;No
 切り替えない
 
@@ -236,7 +237,6 @@ Android アプリストア
 
 ;Article in the press, TV or radio
 新聞記事やテレビ、ラジオ
-Article in the press, TV or radio
 
 
 ;Other
@@ -285,6 +285,7 @@ Android 版 Firefox を使ったことはありますか？
 
 ;No, I have not tried to install it
 インストールを試みたことはない
+
 
 ;Approximately when did you first use or install Firefox on Android?
 最初に Android 版 Firefox を使用またはインストールしたのはいつ頃ですか？

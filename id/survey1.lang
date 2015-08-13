@@ -1,6 +1,4 @@
 # The strings below are for a survey that will be proposed to Firefox users, this survey will be on an external web service (no staging site for the moment). It also includes a few error messages at the end
-
-
 ;Thank you for helping with this research. We would like to ask you some questions about using the internet, in particular the browser software you use to do this. The term “browser” is the name of the application which displays web pages and allows you to surf the internet. The questionnaire should take about 3 minutes to complete should you qualify.
 Terima kasih atas bantuan anda dalam riset ini. Kami hendak mengajukan beberapa pertanyaan tentang penggunaan internet, khususnya peramban yang anda gunakan untuk mengisi survey ini. Istilah peramban adalah nama dari aplikasi yang digunakan untuk menampilkan halaman web dan membuat anda bisa berselancar di internet. Survey ini bisa selesai dalam waktu sekitar 3 menit.
 
@@ -48,6 +46,7 @@ Wanita
 ;Which of the following web browsers do you use on your desktop computer or laptop at the moment, either at home or at work?
 Yang mana dari peramban-peramban di bawah ini yang anda gunakan di komputer desktop anda saat ini, dan juga saat di rumah ataupun di tempat kerja?
 
+
 ;Apple Safari
 Apple Safari {ok}
 
@@ -83,6 +82,7 @@ Berapa besar kemungkinan anda merekomendasikan Firefox kepada teman dan rekan an
 ;I am very likely and would consider making a recommendation without being asked
 Saya akan memberikan rekomendasi tanpa perlu ditanyakan
 
+
 ;I am quite likely to recommend Firefox and would do so if I was asked
 Saya mungkin akan merekomendasikan Firefox apabila ditanyakan
 
@@ -93,6 +93,7 @@ Tidak keduanya
 
 ;I am quite unlikely to recommend Firefox
 Saya sepertinya tidak akan merekomendasikan Firefox
+
 
 ;I am very unlikely to recommend Firefox and would even consider recommending against using Firefox
 Saya tidak akan merekomendasikan Firefox dan lebih baik merekomendasikan untuk tidak menggunakan Firefox
@@ -181,11 +182,13 @@ A. Firefox dibuat oleh Mozilla
 ;B. Mozilla is a non-profit organisation
 B. Mozilla adalah organisasi non-profit
 
+
 ;C. Mozilla’s mission is to make the web a better place
 C. Misi Mozilla adalah untuk membuat web menjadi lebih baik
 
+
 ;D. Firefox was the first web browser
-D. Firefox adalah browser yang paling pertama 
+D. Firefox adalah browser yang paling pertama
 
 
 ;Which of the following would you say is your browser of choice?
@@ -219,6 +222,7 @@ Mozilla Persona {ok}
 ;An identity system that allows you to sign in to sites using an email address you choose.
 Sebuah sistem indentitas yang mengijinkan anda untuk masuk ke dalam berbagai situs dengan menggunakan email yang anda pilih
 
+
 ;Mozilla Marketplace
 Mozilla Marketplace {ok}
 
@@ -242,6 +246,7 @@ Tidak dari semua ini
 ;Which if any of the following Firefox services are you using at the moment?
 Yang mana dari layanan Firefox berikut yang anda gunakan saat ini?
 
+
 ;Based on these descriptions, which if any, would you be interested in using in the future?
 Berdasarkan deskpripsi-deskripsi ini, jika ada, apakah anda akan tertarik menggunakan di masa depan?
 
@@ -252,6 +257,7 @@ Kira-kira sudah berapa lama anda menggunakan Firefox?
 
 ;Up to 6 months
 Sekitar 6 bulan
+
 
 ;6 months to a year
 Sekitar 6 sampai 12 bulan
@@ -308,6 +314,7 @@ Tablet (misal. iPad)
 ;On average, approximately how many hours each day do you use the internet or browse web pages?
 Kira-kira berapa jam setiap harinya anda berselancar di internet?
 
+
 ;Less than half an hour each day
 Kurang dari setengah jam setiap hari
 
@@ -342,6 +349,7 @@ Itu adalah pertanyaan terakhir. Terima kasih atas waktu anda mengisi kuisioner i
 
 ;Please enter a response
 Mohon isi pendapat anda
+
 
 ;Illegal characters for single code input
 Tidak bisa mengisi hanya 1 karakter.
