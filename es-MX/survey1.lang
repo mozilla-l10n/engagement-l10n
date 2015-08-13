@@ -1,4 +1,6 @@
-# The strings below are for a survey that will be proposed to Firefox users, this survey will be on an external web service (no staging site for the moment). It also includes a few error messages at the end
+## NOTE: The strings below are for a survey that will be proposed to Firefox users, this survey will be on an external web service (no staging site for the moment). It also includes a few error messages at the end
+
+
 ;Thank you for helping with this research. We would like to ask you some questions about using the internet, in particular the browser software you use to do this. The term “browser” is the name of the application which displays web pages and allows you to surf the internet. The questionnaire should take about 3 minutes to complete should you qualify.
 Gracias por ayudarnos en esta investigación. Nos gustaría hacerte unas preguntas sobre cómo usas Internet y, en concreto, qué navegador utilizas. El término "navegador" es el nombre de la aplicación que muestra las páginas web y que te permite navegar en Internet. Completar el cuestionario no te supondrá más de 3 minutos.
 

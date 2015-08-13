@@ -1,4 +1,6 @@
-# The strings below are for a survey that will be proposed to Firefox users, this survey will be on an external web service (no staging site for the moment). It also includes a few error messages at the end
+## NOTE: The strings below are for a survey that will be proposed to Firefox users, this survey will be on an external web service (no staging site for the moment). It also includes a few error messages at the end
+
+
 ;Thank you for helping with this research. We would like to ask you some questions about using the internet, in particular the browser software you use to do this. The term “browser” is the name of the application which displays web pages and allows you to surf the internet. The questionnaire should take about 3 minutes to complete should you qualify.
 このたびはアンケートにご協力いただきありがとうございます。ここでは、インターネットの使い方、特にあなたが今お使いになっているブラウザソフトについて、いくつか質問をさせていただきます。「ブラウザ」という用語は、Web サイトを表示しインターネットの閲覧を可能にするアプリケーションの総称です。回答にかかる時間はおよそ 3 分です。
 
