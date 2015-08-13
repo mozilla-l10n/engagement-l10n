@@ -1,13 +1,21 @@
 ## NOTE: Reference bug 1193997, deadline 10 September 2015.
-## NOTE: These strings are used as titles for tiles in New tab, e.g. https://bug1167339.bugzilla.mozilla.org/attachment.cgi?id=8628294
+## NOTE: These strings are used to generate tiles in New tab, e.g. https://bug1167339.bugzilla.mozilla.org/attachment.cgi?id=8628294
+## NOTE: The static and roll-over text will be used to create images displayed in the tiles. The title is displayed under the tile.
 ## NOTE: Since the actual width will vary based on the characters used ("m" is larger than "l"), we set a lenght limit of a few characters.
-## NOTE: experimental view for this file https://l10n.mozilla-community.org/~flod/tiles_demo/?file=tiles_sep2015.lang
+## NOTE: Experimental view to check titles https://l10n.mozilla-community.org/~flod/tiles_demo/?file=tiles_sep2015.lang
 ## NOTE: (should autodetect your locale as soon as translations are available).
 ## URL: https://l10n.mozilla-community.org/~flod/tiles_demo/?file=tiles_sep2015.lang&locale=%LOCALE%
 
 
-## MAX_LENGTH: 42
-# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Contribute Today
+# Displayed under the tile's image
+# Link: https://www.mozilla.org/contribute/
+;Contribute Today
+Contribute Today
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
 # Title: Contribute Today
 # State: normal (displayed without user interaction)
 # Link: https://www.mozilla.org/contribute/
@@ -15,8 +23,7 @@
 Three cheers for all the heroes of the Web!
 
 
-## MAX_LENGTH: 42
-# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
 # Title: Contribute Today
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www.mozilla.org/contribute/
@@ -24,8 +31,15 @@ Three cheers for all the heroes of the Web!
 Join the crew.
 
 
-## MAX_LENGTH: 42
-# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Mozilla Manifesto
+# Displayed under the tile's image
+# Link: https://www.mozilla.org/about/manifesto/
+;Mozilla Manifesto
+Mozilla Manifesto
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
 # Title: Mozilla Manifesto
 # State: normal (displayed without user interaction)
 # Link: https://www.mozilla.org/about/manifesto/
@@ -33,8 +47,7 @@ Join the crew.
 We believe…
 
 
-## MAX_LENGTH: 42
-# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
 # Title: Mozilla Manifesto
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www.mozilla.org/about/manifesto/
@@ -42,8 +55,15 @@ We believe…
 in participation, accountability and trust.
 
 
-## MAX_LENGTH: 42
-# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Creative Add-ons Collection
+# Displayed under the tile's image
+# Link: https://addons.mozilla.org/firefox/collections/mozmj/design-addons/
+;Creative Add-ons Collection
+Creative Add-ons Collection
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
 # Title: Creative Add-ons Collection
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/design-addons/
@@ -51,8 +71,15 @@ in participation, accountability and trust.
 Power up your creative side
 
 
-## MAX_LENGTH: 42
-# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Whimsical Themes Collection
+# Displayed under the tile's image
+# Link: https://addons.mozilla.org/firefox/collections/mozmj/whimsical
+;Add a touch of whimsy
+Add a touch of whimsy
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
 # Title: Whimsical Themes Collection
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/whimsical
