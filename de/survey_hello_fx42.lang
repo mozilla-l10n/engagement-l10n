@@ -6,106 +6,106 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: Produktumfrage
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Wie wahrscheinlich ist es, dass Sie Firefox Hello einem Freund oder Kollegen empfehlen? (Skala: 0 ist sehr unwahrscheinlich und 10 ist sehr wahrscheinlich)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Wie könnten wir Firefox Hello für Sie weiter verbessern?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Wie können wir Firefox Hello so verbessern, dass es wahrscheinlicher wird, dass Sie uns empfehlen?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+Gab es etwas, was dazu geführt hat, dass Sie Firefox Hello besonders positiv aufgenommen haben? 
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+Bitte bewerten Sie die Qualität Ihres Anrufs.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - Sehr schlecht
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - Hervorragend
 
 
 # p-2
 ;Thank You!
-Thank You!
+Vielen Dank!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Vielen Dank, dass Sie unsere Umfrage ausgefüllt haben. Ihre Antwort ist uns sehr wichtig und trägt dazu bei, Firefox Hello für unsere Anwender zu verbessern.
 
 
 # required
 ;This question is required
-This question is required
+Diese Frage muss beantwortet werden
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Bitte auswählen --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Diese Umfrage akzeptiert derzeit keine weiteren Antworten. Vielen Dank!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Sie haben diese Umfrage bereits ausgefüllt.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Andere Sprache auswählen
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Um eine andere Sprache auszuwählen klicken Sie bitte einen der folgenden Links an.
 
 
 # back_button
 ;Back
-Back
+Zurück
 
 
 # next_button
 ;Next
-Next
+Weiter
 
 
 # submit_button
 ;Submit
-Submit
+Absenden
 
 
 # clear_button
 ;Clear
-Clear
+Löschen
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Auf dieser Seite ist ein Fehler aufgetreten. Bitte korrigieren Sie erforderliche Felder und senden Sie die Umfrage dann erneut ab. Zum ersten Fehler springen.
 
 
