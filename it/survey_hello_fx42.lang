@@ -1,0 +1,111 @@
+## NOTE: Survey for Firefox Hello and Firefox 42. Reference: bug 1184838
+## NOTE: This survey will be proposed to Firefox Hello users after a call.
+## NOTE: It will be used when Firefox 42 enters Beta (Sep 22), but team needs at least a week to import translations in SurveyGizmo.
+## NOTE: Comment like 'survey-title', 'q-2' are used to automated the export in Excel format, don't modify them.
+
+
+# survey-title
+;Firefox Hello: Product Survey
+Firefox Hello: sondaggio sul prodotto
+
+
+# q-2
+;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Qual è la probabilità che tu decida di consigliare Firefox Hello a un amico o collega? La scala va da 0, improbabile che lo consigli, a 10, estremamente probabile.
+
+
+# q-8
+;What could we do to improve Firefox Hello for you?
+Che cosa possiamo fare per migliorare la tua esperienza con Firefox Hello?
+
+
+# q-9
+;How can we improve Firefox Hello to make you more likely to recommend us?
+In che modo possiamo migliorare la tua esperienza con Firefox Hello e convincerti a consigliarlo ad altri?
+
+
+# q-11
+;Was there anything in particular that made Firefox Hello such a positive experience for you?
+C’è un dettaglio in particolare che ha reso la tua esperienza con Firefox Hello così positiva?
+
+
+# q-23
+;Please rate the quality of your call.
+Assegna un voto alla qualità della chiamata.
+
+
+# q-23-o-10077
+;1 - Very Poor
+1 - Molto scarsa
+
+
+# q-23-o-10081
+;5 - Excellent
+5 - Eccellente
+
+
+# p-2
+;Thank You!
+Grazie!
+
+
+# q-1
+;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Grazie per il tempo dedicato a completare questo sondaggio. La tua risposta è molto importante e ci aiuterà a migliorare Firefox Hello per tutti i nostri utenti.
+
+
+# required
+;This question is required
+Questa domanda è obbligatoria
+
+
+# selectone
+;-- Please Select --
+-- Seleziona una voce --
+
+
+# survey_closed
+;This survey is not accepting additional responses at this time. Thank You!
+Questo sondaggio non accetta ulteriori risposte. Grazie.
+
+
+# block_by_message
+;You have already completed this survey.
+Hai già risposto a questo sondaggio.
+
+
+# language_bar_select_text
+;Select another language
+Seleziona un’altra lingua
+
+
+# language_bar_description_text
+;To continue in another language, please click one of the links below.
+Per utilizzare un’altra lingua, fai clic su uno dei seguenti link.
+
+
+# back_button
+;Back
+Indietro
+
+
+# next_button
+;Next
+Avanti
+
+
+# submit_button
+;Submit
+Invia
+
+
+# clear_button
+;Clear
+Cancella
+
+
+# page_error_message
+;There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Si è verificato un errore nella pagina. Assicurarsi di aver compilato tutti i campi obbligatori e riprovare. Vai al primo errore.
+
+
