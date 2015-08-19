@@ -6,106 +6,106 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: Könnun
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Hversu líklegt er að þú mælir með Firefox Hello við vin eða samstarfsmann? (Skali:  0 er mjög ólíklegt og 10 er mjög líklegt að mæla með)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Hvað getum við gert til að betrumbæta Firefox Hello fyrir þig?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Hvernig getum við betrumbætt Firefox Hello þannig að þú mælir frekar með því?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+Var eitthvað ákveðið sem gerði Firefox Hello að svona jákvæðinni upplifun fyrir þig?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+Reyndu að meta gæði símtalsins.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - Mjög slæmt
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - Frábært
 
 
 # p-2
 ;Thank You!
-Thank You!
+Takk fyrir!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Takk fyrir að taka frá tíma við að fylla út þessa könnun. Þitt framlag er mjög mikilvægt fyrir okkur og mun hjálpa til með að gera Firefox Hello mun betri fyrir notendur.
 
 
 # required
 ;This question is required
-This question is required
+Nauðsynlegt er að svara þessari spurningu
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Veldu --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Þessi könnun tekur ekki lengur á móti svörum eins og er. Takk fyrir!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Þú hefur þegar klárað þessa könnun.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Velja annað tungumál
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Til að halda áfram með öðru tungumáli, veldu einn af tenglinum hér fyrir neðan.
 
 
 # back_button
 ;Back
-Back
+Til baka
 
 
 # next_button
 ;Next
-Next
+Áfram
 
 
 # submit_button
 ;Submit
-Submit
+Senda
 
 
 # clear_button
 ;Clear
-Clear
+Hreinsa
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Villa er á síðunni. Leiðréttu þá reiti sem nauðsynlegt er að fylla út og sendu aftur. Farðu á fyrstu villu
 
 
