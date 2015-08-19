@@ -6,106 +6,106 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: Spokojenost s produktem
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Doporučili byste Firefox Hello svým kamarádům, známým nebo kolegům? (Odpověď:  0 znamená nedoporučili a 10 určitě doporučili)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Co bychom podle vás mohli ve Firefox Hello zlepšit?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Jak bychom měli Firefox Hello vylepšit, abyste se rozhodli jej doporučit?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+Je na Firefox Hello něco konkrétního, co se vám opravdu velice líbí?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+Ohodnoťte prosím kvalitu vašeho hovoru.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - velmi špatná
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - vynikající
 
 
 # p-2
 ;Thank You!
-Thank You!
+Děkujeme vám!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Děkujeme vám za čas, který jste věnovali tomuto dotazníku. Vaše odpovědi jsou pro nás důležité a pomohou nám dále Firefox Hello vylepšovat.
 
 
 # required
 ;This question is required
-This question is required
+Tato otázka je povinná
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Vyberte --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Tento dotazník nyní nepřijímá žádné dodatečné odpovědi. Děkujeme vám!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Tento dotazník jste již vyplnili.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Zvolit jiný jazyk
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Pro pokračování v jiném jazyce prosím klepněte na jeden z odkazů níže.
 
 
 # back_button
 ;Back
-Back
+Zpět
 
 
 # next_button
 ;Next
-Next
+Vpřed
 
 
 # submit_button
 ;Submit
-Submit
+Odeslat
 
 
 # clear_button
 ;Clear
-Clear
+Vymazat
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Na vaší stránce došlo k chybě. Opravte prosím všechna povinná pole a odešlete ji znovu. Přejít na první chybnou stránku
 
 
