@@ -6,22 +6,22 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Sondaj pentru produs
+Firefox Hello: Sondaj cu privire la produs
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-Cât de probabil ați recomanda Firefox Hello unui prieten sau coleg? (Scara: 0 nu foarte probabil și 10 foarte probabil)
+Care este probabilitatea să recomandați Firefox Hello unui prieten sau coleg? (Scara: 0 puțin probabil să-l recomandați și 10 extrem de probabil să-l recomandați)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-Ce putem face pentru a îmbunătăți Firefox Hello pentru dumneavoastră?
+Ce am putea face pentru a îmbunătăți Firefox Hello pentru dumneavoastră?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-Cum putem îmbunătăți Firefox Hello pentru a putea fi recomandat de dumneavoastră?
+Cum putem îmbunătăți Firefox Hello pentru a crește probabilitatea de a-l recomanda?
 
 
 # q-11
@@ -51,7 +51,7 @@ Vă mulțumim!
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Vă mulțumim pentru timpul rezervat pentru a completa acest sondaj. Răspunsul dumneavoastră este foarte important pentru noi și ne va ajuta să îmbunătățim Firefox Hello pentru oameni.
+Vă mulțumim pentru timpul rezervat pentru a completa acest sondaj. Răspunsul dumneavoastră este foarte important pentru noi și ne va ajuta să îmbunătățim Firefox Hello pentru utilizatori.
 
 
 # required
@@ -61,12 +61,12 @@ Această întrebare este necesară
 
 # selectone
 ;-- Please Select --
--- Vă rugăm să alegeți --
+-- Vă rugăm să selectați --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-Acest sondaj nu poate accepta răspunsuri suplimentare în momentul de față. Vă mulțumim!
+Acest sondaj nu acceptă răspunsuri suplimentare în momentul de față. Vă mulțumim!
 
 
 # block_by_message
@@ -76,12 +76,12 @@ Ați completat deja acest sondaj.
 
 # language_bar_select_text
 ;Select another language
-Alegeți o altă limbă.
+Selectați o altă limbă.
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-Pentru a continua într-o altă limbă, clic pe linkurile de mai jos.
+Pentru a continua într-o altă limbă, vă rugăm dați clic pe unul din linkurile de mai jos.
 
 
 # back_button
