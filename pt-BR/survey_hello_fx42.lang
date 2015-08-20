@@ -31,22 +31,22 @@ Was there anything in particular that made Firefox Hello such a positive experie
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+Por favor, classifique a qualidade da sua chamada.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - muito ruim
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - Excelente
 
 
 # p-2
 ;Thank You!
-Thank You!
+Obrigado!
 
 
 # q-1
@@ -56,7 +56,7 @@ Thank you for taking the time to complete our survey. Your response is very impo
 
 # required
 ;This question is required
-This question is required
+Esta questão é necessária
 
 
 # selectone
@@ -66,7 +66,7 @@ This question is required
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Esta pesquisa não está aceitando respostas adicionais neste momento. Obrigado!
 
 
 # block_by_message
@@ -76,32 +76,32 @@ You have already completed this survey.
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Selecione outro idioma
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Para continuar em outro idioma, por favor clique em um dos links abaixo.
 
 
 # back_button
 ;Back
-Back
+Voltar
 
 
 # next_button
 ;Next
-Next
+Próxima
 
 
 # submit_button
 ;Submit
-Submit
+Enviar
 
 
 # clear_button
 ;Clear
-Clear
+Limpar
 
 
 # page_error_message
