@@ -6,106 +6,105 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: Pyetësor Mbi Produktin
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Sa gjasa ka që t’ia këshilloni Firefox Hello-në një shoku apo kolegu? (Shtrirje:  0 do të thotë jo shumë gjasa për t’ua këshilluar dhe 10 shumë gjasa për këshillim)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Ç’mund të bënim për t’jua përmirësuar Firefox Hello-në?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Si mund ta përmirësojmë Firefox Hello-në për ta bërë më të këshillueshëm nga ju?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+Pati veçanërisht ndonjë gjë që e bëri Firefox Hello-në t’ju japë ndjesi kaq pozitive?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+Ju lutemi, jepni një vlerësim për cilësinë e thirrjes tuaj.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - Shumë e Dobët
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - E shkëlqyer
 
 
 # p-2
 ;Thank You!
-Thank You!
+Faleminderit!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Ju faleminderit për kohën që shpenzuat për plotësimin e pyetësorit. Përgjigja juaj është shumë e rëndësishme për ne dhe do të na ndihmojë ta bëjmë Firefox Hello-në më të mirë për përdoruesit tanë.
 
 
 # required
 ;This question is required
-This question is required
+Kjo pyetje është e domosdoshme
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Ju lutemi, përzgjidhni --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Te ky pyetësor hëpërhë nuk pranohen përgjigje shtesë. Faleminderit!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+E keni plotësuar një herë këtë pyetësor.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Përzgjidhni një gjuhë tjetër
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
-
+Që të vazhdoni në një gjuhë tjetër, ju lutemi, klikoni mbi lidhjen më poshtë
 
 # back_button
 ;Back
-Back
+Mbrapsht
 
 
 # next_button
 ;Next
-Next
+Pasuesja
 
 
 # submit_button
 ;Submit
-Submit
+Parashtrojeni
 
 
 # clear_button
 ;Clear
-Clear
+Pastrojeni
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Pati një gabim te faqja juaj. Ju lutemi, ndreqni cilëndo fushë të domosdoshme dhe parashtrojeni sërish. Kaloni te gabimi i parë
 
 
