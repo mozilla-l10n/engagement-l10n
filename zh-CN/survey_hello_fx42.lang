@@ -6,106 +6,106 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello：产品调查问卷
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+您有多大可能向朋友或同事推荐 Firefox Hello？（0 为极不可能推荐，10 为极有可能推荐）
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+我们怎样做能改善 Firefox Hello 对您的体验？
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+我们怎样做能改善 Firefox Hello 并使您更有可能推荐它？
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+有没有什么觉得 Firefox Hello 特别棒的特殊经历？
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+请评价您体验到的通话质量。
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - 非常差
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - 极好
 
 
 # p-2
 ;Thank You!
-Thank You!
+谢谢您！
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+感谢您抽出宝贵时间来完成我们的调查。您的反馈对于我们非常重要，将有助于改善我们的用户得到的 Firefox Hello 体验。
 
 
 # required
 ;This question is required
-This question is required
+此问题必填
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- 请选择 --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+此调查现在不接受更多答复。感谢您的关注！
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+您已经完成了此次调查。
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+选择另一种语言
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+若要使用另一种语言继续，请点击下面的链接。
 
 
 # back_button
 ;Back
-Back
+上一步
 
 
 # next_button
 ;Next
-Next
+下一步
 
 
 # submit_button
 ;Submit
-Submit
+提交
 
 
 # clear_button
 ;Clear
-Clear
+清除
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+您的页面上存在错误。请完成必填的字段后再提交。转到第一个错误
 
 
