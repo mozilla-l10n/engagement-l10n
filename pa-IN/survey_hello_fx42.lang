@@ -6,106 +6,106 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: ਉਤਪਾਦ ਸਰਵੇਖਣ
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+ਕਿੰਨੀ ਉਮੀਦ ਹੈ ਕਿ ਤੁਸੀਂ ਆਪਣੇ ਦੋਸਤ ਜਾਂ ਸਾਥੀ ਨੂੰ Firefox Hello ਵਰਤਣ ਦੀ ਸਲਾਹ ਦਿਉਂਗੇ? (ਸਕੇਲ: 0 ਸਲਾਹ ਦੇਣ ਦੀ ਸੰਭਾਵਨਾ ਬਿਲਕੁਲ ਨਹੀਂ ਅਤੇ 10 ਸਲਾਹ ਦੇਣ ਦੀ ਪੂਰੀ ਸੰਭਾਵਨਾ ਹੈ)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+ਅਸੀਂ ਤੁਹਾਡੀ ਲਈ Firefox Hello ਨੂੰ ਸੁਧਾਰਨ ਲਈ ਕੀ ਕਰ ਸਕਦੇ ਹਾਂ?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+ਅਸੀਂ Firefox Hello ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਕੀ ਕਰ ਸਕਦੇ ਹਾਂ ਕਿ ਸਾਡੇ ਬਾਰੇ ਸਲਾਹ ਦੇਣ ਦੀ ਤੁਹਾਡੀ ਸੰਭਾਵਨਾ ਵਧੇ?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+ਕੋਈ ਖਾਸ ਚੀਜ਼ ਸੀ, ਜਿਸ ਕਰਕੇ Firefox Hello ਲਈ ਤੁਹਾਡਾ ਤਜਰਬਾ ਚੰਗਾ ਰਿਹਾ ਹੈ?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+ਤੁਹਾਡੀ ਕਾਲ ਦੀ ਕੁਆਲਟੀ ਕਿਹੋ ਜਿਹੀ ਸੀ।
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - ਬਹੁਤ ਘਟੀਆ
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - ਬਹੁਤ ਵਧੀਆ
 
 
 # p-2
 ;Thank You!
-Thank You!
+ਤੁਹਾਡਾ ਧੰਨਵਾਦ!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+ਸਾਡੇ ਸਰਵੇਖਣ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਦਿੱਤੇ ਤੁਹਾਡੇ ਸਮੇਂ ਲਈ ਧੰਨਵਾਦ ਹੈ। ਤੁਹਾਡੇ ਜਵਾਬ ਸਾਡੇ ਲਈ ਬਹੁਤ ਮਹੱਤਵਪੂਰਨ ਹਨ ਅਤੇ ਸਾਡੇ ਵਰਤੋਂਕਾਰਾਂ ਲਈ Firefox Hello ਨੂੰ ਵਧੀਆ ਬਣਾਉਣ ਲਈ ਮਦਦ ਕਰਨਗੇ।
 
 
 # required
 ;This question is required
-This question is required
+ਇਹ ਸਵਾਲ ਜ਼ਰੂਰੀ ਹੈ
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- ਚੁਣੋ --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+ਇਹ ਸਰਵੇਖਣ ਇਸ ਵੇਲੇ ਹੋਰ ਜਵਾਬ ਨਹੀਂ ਲੈ ਰਿਹਾ ਹੈ। ਧੰਨਵਾਦ!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+ਤੁਸੀਂ ਇਹ ਸਰਵੇਖਣ ਨੂੰ ਪਹਿਲਾਂ ਹੀ ਪੂਰਾ ਕਰ ਚੁੱਕੇ ਹੋ।
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+ਹੋਰ ਭਾਸ਼ਾ ਚੁਣੋ
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+ਹੋਰ ਭਾਸ਼ਾ ਵਿੱਚ ਜਾਰੀ ਰੱਖਣ ਲਈ ਕਰਕੇ ਹੇਠ ਦਿੱਤੇ ਲਿੰਕ ਵਿੱਚੋਂ ਇੱਕ ਉੱਤੇ ਕਲਿੱਕ ਕਰੋ।
 
 
 # back_button
 ;Back
-Back
+ਪਿੱਛੇ
 
 
 # next_button
 ;Next
-Next
+ਅੱਗੇ
 
 
 # submit_button
 ;Submit
-Submit
+ਭੇਜੋ
 
 
 # clear_button
 ;Clear
-Clear
+ਸਾਫ਼ ਕਰੋ
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+ਤੁਹਾਡੇ ਸਫ਼ੇ ਉੱਤੇ ਗਲਤੀ ਸੀ। ਕਿਰਪਾ ਕਰਕੇ ਲੋੜੀਂਦੇ ਖੇਤਰਾਂ ਨੂੰ ਠੀਕ ਕਰਕੇ ਦੁਬਾਰਾ ਭੇਜੋ। ਪਹਿਲਾਂ ਗਲਤੀ ਦੇਖੋ।
 
 
