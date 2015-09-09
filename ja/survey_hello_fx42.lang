@@ -6,42 +6,42 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: 製品に関する調査
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+友達や同僚に Firefox Hello をおすすめできますか？（0：全くできない、10：つよくすすめる）
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Firefox Hello の改善すべき点を教えてください。
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+「友人や同僚に Firefox Hello をすすめるには、これが足りない」という点を教えてください。
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+Firefox Hello を使って、良いと感じた点を教えてください。
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+通話の品質を評価してください。
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - 最低
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - 最高
 
 
 # p-2
@@ -51,61 +51,61 @@ Thank You!
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+調査にご協力いただきましてありがとうございました。いただいた回答をもとに、Firefox Hello を改善してまいります。
 
 
 # required
 ;This question is required
-This question is required
+この質問には必ずご回答ください。
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- 選択してください --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+調査は以上になります。ご協力、ありがとうございました。
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+この調査には、すでにご回答いただいています。
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+他の言語を選ぶ
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+他の言語で回答される場合は、下部のリンクをクリックしてください。
 
 
 # back_button
 ;Back
-Back
+戻る
 
 
 # next_button
 ;Next
-Next
+次へ
 
 
 # submit_button
 ;Submit
-Submit
+送信
 
 
 # clear_button
 ;Clear
-Clear
+クリア
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+問題があり回答を送信できません。修正後、再びの送信をお願いします。最初の問題はこちらです。
 
 
