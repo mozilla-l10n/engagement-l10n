@@ -6,106 +6,106 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+फॉयरफॉक्स हैलो: उत्पाद का सर्वेक्षण
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+आप किस स्तर तक अपने किसी साथी या सहयोगी से फॉयरफॉक्स हैलो का प्रयोग करने हेतु अनुरोध करेंगे? (पैमाना: मुश्किल से अनुरोध करेंगे के लिए 0 तथा जरूर अनुरोध करेंगे के लिए 10 है)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+आपके लिए फॉयरफॉक्स हैलो को बेहतर बनाने के लिए हम क्या-क्या कर सकते हैं.
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+फॉयरफॉक्स हैलो को आपके द्वारा अनुरोध योग्य बनाने हेतु हम इसमें क्या सुधार कर सकते हैं?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+क्या फॉयरफॉक्स हैलो मैं कुछ विशिष्ट था जिस कारण यह आपके लिए सकारात्मक अनुभव बन गया?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+कृपया अपनी कॉल की गुणवत्ता की दर मापें.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - बहुत गन्दी
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - उम्दा
 
 
 # p-2
 ;Thank You!
-Thank You!
+धन्यवाद!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+सर्वे के लिए समय देने हेतु शुक्रिया. आपके जवाब हमारे लिए महत्वपूर्ण हैं तथा ये उपभोगताओं के लिए फॉयरफॉक्स हैलो के अनुभव को बेहतर बनाने में मदद करेंगे.
 
 
 # required
 ;This question is required
-This question is required
+यह प्रश्न अपेक्षित है
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- कृपया चुनें --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+यह सर्वे इस समय कोई जवाब स्वीकार नहीं कर रही है. धनयवाद!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+आप सर्वे पहले ही समाप्त कर चुके हैं.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+दूसरी भाषा का चयन कीजिए
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+दूसरी भाषा मैं जारी रखने के लिए, कृपया नीचे एक लिंक मैं जाइए.
 
 
 # back_button
 ;Back
-Back
+पीछे
 
 
 # next_button
 ;Next
-Next
+अगला
 
 
 # submit_button
 ;Submit
-Submit
+विचारार्थ प्रस्तुत
 
 
 # clear_button
 ;Clear
-Clear
+हटायें
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+आपके पृष्ठ मैं एक त्रुटि थी. कृपया अपेक्षित सूचनाक्षेत्र को शुद्ध करें तथा पुनः विचारार्थ प्रस्तुत करें. पहली त्रुटि को देखें
 
 
