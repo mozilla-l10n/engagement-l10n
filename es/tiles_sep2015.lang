@@ -1,4 +1,4 @@
-﻿## NOTE: Reference bug 1193997, deadline 10 September 2015.
+## NOTE: Reference bug 1193997, deadline 10 September 2015.
 ## NOTE: These strings are used to generate tiles in New tab, e.g. https://bug1167339.bugzilla.mozilla.org/attachment.cgi?id=8628294
 ## NOTE: The static and roll-over text will be used to create images displayed in the tiles. The title is displayed under the tile.
 ## NOTE: Since the actual width will vary based on the characters used ("m" is larger than "l"), we set a lenght limit of a few characters.
