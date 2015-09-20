@@ -19,7 +19,7 @@ Mozilla-Fanshop
 # State: normal (displayed without user interaction)
 # Link: https://gear.mozilla.org/
 ;Restock alert! New Mozilla swag on the shelves
-Aufgepasst! Neue Mozilla-Fanartikel in den Regalen
+Aufgepasst! Neue Mozilla-Fanartikel
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -99,4 +99,4 @@ Diese Augen haben es in sich
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/eyes
 ;Get an eye-catching new theme
-Holen Sie sich ein neues Theme, das ins Auge fällt.
+Holen Sie sich ein neues Theme
