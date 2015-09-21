@@ -6,22 +6,22 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: Pesquisa de produto
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Qual a probabilidade de você recomendar o Firefox Hello para um amigo ou colega? (Escala: 0 não é muito provável que recomendo e 10 é extremamente provável que recomendo)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+O que podemos fazer para melhorar o Firefox Hello para você?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Como podemos melhorar o Firefox Hello para torná-lo mais provável de ser recomendado?
 
 
 # q-11
@@ -51,7 +51,7 @@ Obrigado!
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Obrigado pelo tempo dedicado para concluir nossa pesquisa. Sua resposta é muito importante para nós e vai ajudar a tornar o Firefox Hello melhor para os nossos usuários.
 
 
 # required
@@ -61,7 +61,7 @@ Esta questão é necessária
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Por favor selecione --
 
 
 # survey_closed
@@ -71,7 +71,7 @@ Esta pesquisa não está aceitando respostas adicionais neste momento. Obrigado!
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Você já concluiu a esta pesquisa.
 
 
 # language_bar_select_text
@@ -106,6 +106,6 @@ Limpar
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Houve um erro na sua página. Por favor corrija qualquer campo exigido e envie novamente. Vá para o primeiro erro
 
 
