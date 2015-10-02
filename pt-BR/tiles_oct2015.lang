@@ -11,7 +11,7 @@
 # Displayed under the tile's image
 # Link: https://gear.mozilla.org/
 ;Mozilla Gear
-Mozilla Gear
+Mozilla Gear {ok}
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -35,7 +35,7 @@ Shop the new gear
 # Displayed under the tile's image
 # Link: https://getpocket.com/firefox/
 ;Pocket for Firefox
-Pocket for Firefox
+Pocket para Firefox
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -51,7 +51,7 @@ Save all your Web finds for later
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://getpocket.com/firefox/
 ;Try Pocket
-Try Pocket
+Experimente o Pocket
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -59,7 +59,7 @@ Try Pocket
 # Displayed under the tile's image
 # Link: https://support.mozilla.org/kb/firefox-reader-view-clutter-free-web-pages
 ;Reader View
-Reader View
+Leitor
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -83,7 +83,7 @@ Get easy reading with Reader View
 # Displayed under the tile's image
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/eyes
 ;Theme collection
-Theme collection
+Coleção de temas
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -99,6 +99,6 @@ The eyes have it
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/eyes
 ;Get an eye-catching new theme
-Get an eye-catching new theme
+Obter um novo tema atraente
 
 
