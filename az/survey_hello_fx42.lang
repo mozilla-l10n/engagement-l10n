@@ -16,96 +16,96 @@ How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:�
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Firefox Hello-nu sizə görə yaxşılaşdırmaq üçün nə edə bilərik?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Bizi başqalarına məsləhət görməyiniz üçün Firefox Hello-da nəyi dəyişdirməliyik?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+Firefox Hello ilə olan təcrübənizi bu qədər yaxşı edən xüsusi vurğulamaq istədiyiniz özəllik oldu mu?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+Lütfən zənginizin keyfiyyətini qiymətləndirin.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - Çox zəif
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - Əla
 
 
 # p-2
 ;Thank You!
-Thank You!
+Təşəkkürlər!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Anketimizi cavablamağa vaxt ayırdığınız üçün təşəkkürlər. Cavablarınız bizim üçün çox vacibdir və Firefox Hello-nu istifadəçilərimiz üçün daha yaxşı etməkdə kömək edəcək.
 
 
 # required
 ;This question is required
-This question is required
+Bu suala cavab tələb edilir
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Lütfən Seçin --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Bu anket hazırda əlavə cavablar qəbul etmir. Təşəkkürlər!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Siz artıq bu anketi cavablayıbsınız.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Digər dili seçin
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Digər dildə davam etmək üçün, lütfən aşağıdakı keçidlərdən birinə klikləyin.
 
 
 # back_button
 ;Back
-Back
+Geri
 
 
 # next_button
 ;Next
-Next
+Sonrakı
 
 
 # submit_button
 ;Submit
-Submit
+Göndər
 
 
 # clear_button
 ;Clear
-Clear
+Təmizlə
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Sizin səhifədə xəta oldu. Lütfən tələb edilən bölmələri düzəldin və bir daha göndərin. İlk xətaya get
 
 
