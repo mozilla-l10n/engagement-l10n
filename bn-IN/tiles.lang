@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+আরও জানুন। আরও করুন। ভাল করুন।
+
+
+# Tile 1 back
+;Get Involved
+যোগদান করুন
+
+
+# Tile 1 description
+;Mozilla Community
+Mozilla কমিউনিটি
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+আমরা %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+উন্নতির প্রচেষ্টা আমাদের বিধিগত উদ্দেশ্য
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+বাণিজ্যিক নয় ফায়ারফক্সের অন্তরালে
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> Android এর জন্য
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+Oct 24-26, 2014 {ok}
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+লন্ডন, গ্রেট ব্রিটেন|রাভেন্সবর্ন
+
+
+# Tile 5 description
+;Mozilla Festival
+Mozilla ফেস্টিভাল
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+<strong>আামাদের 10 টি</strong> নীতিগুলি
+
+
+# Tile 6 description
+;Mozilla Principles
+Mozilla নীতিগুলো
+
+
+# Tile 7 front and back
+;More ways to customize
+কাস্টমাইজ করতে আরো উপায় অাছে
+
+
+# Tile 7 front and back
+;Themes
+থিম
+
+
+# Tile 7 front and back
+;Add-ons
+Add-ons {ok}
+
+
+# Tile 7 front and back
+;Awesome Bar
+বিস্ময়কর বার
+
+
+# Tile 7 description
+;Customize Firefox
+Firefox কাস্টমাইজ করুন
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+ওপেন ওয়েব জন্য ভাগকরা তথ্য ও জ্ঞান
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Mozilla ডেভেলপার নেটওয়ার্ক
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Firefox -এর জন্য নতুন এপস্ পান
+
+
+# Tile 9 description
+;Firefox Marketplace
+Firefox মার্কেটপ্লেস
+
+

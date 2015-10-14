@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+اعرف أكثر. افعل أكثر. افعل أفضل.
+
+
+# Tile 1 back
+;Get Involved
+انضم إلينا
+
+
+# Tile 1 description
+;Mozilla Community
+مجتمع موزيلا
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+نحن %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+فعل الخير هو أحد مبادئنا
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+المنظمة غير الربحية خلف فَيَرفُكس
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>فَيَرفُكس</span> لأندرويد
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+٢٤–٢٦ أكتوبر، ٢٠١٤
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+لندن، بريطانيا | ريفينزبورن
+
+
+# Tile 5 description
+;Mozilla Festival
+مهرجان موزيلا
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+مبادئنا <strong>العشرة</strong>
+
+
+# Tile 6 description
+;Mozilla Principles
+مبادئ موزيلا
+
+
+# Tile 7 front and back
+;More ways to customize
+طُرق أكثر للتخصيص
+
+
+# Tile 7 front and back
+;Themes
+سمات
+
+
+# Tile 7 front and back
+;Add-ons
+إضافات
+
+
+# Tile 7 front and back
+;Awesome Bar
+شريط أدوات ذكي
+
+
+# Tile 7 description
+;Customize Firefox
+خصّص فَيَرفُكس
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+معرفة مشاعة لوب مفتوحة
+
+
+# Tile 8 description
+;Mozilla Developer Network
+شبكة مطوري موزيلا
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+احصل على تطبيقات جديدة و طازجة لفَيَرفُكس
+
+
+# Tile 9 description
+;Firefox Marketplace
+متجر فَيَرفُكس
+
+

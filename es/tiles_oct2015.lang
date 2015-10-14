@@ -1,0 +1,104 @@
+## NOTE: Reference bug 1204157, deadline 11 October 2015.
+## NOTE: These strings are used to generate tiles in New tab, e.g. https://bug1167339.bugzilla.mozilla.org/attachment.cgi?id=8628294
+## NOTE: The static and roll-over text will be used to create images displayed in the tiles. The title is displayed under the tile.
+## NOTE: Since the actual width will vary based on the characters used ("m" is larger than "l"), we set a lenght limit of a few characters.
+## NOTE: Experimental view to check titles https://l10n.mozilla-community.org/~flod/tiles_demo/?file=tiles_sep2015.lang
+## NOTE: (should autodetect your locale as soon as translations are available).
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Mozilla Gear
+# Displayed under the tile's image
+# Link: https://gear.mozilla.org/
+;Mozilla Gear
+Accesorios Mozilla
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Mozilla Gear
+# State: normal (displayed without user interaction)
+# Link: https://gear.mozilla.org/
+;Restock alert! New Mozilla swag on the shelves
+No te pierdas la última moda en accesorios Mozilla
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Mozilla Gear
+# State: roll-over (displayed when the user moves the mouse on the tile)
+# Link: https://gear.mozilla.org/
+;Shop the new gear
+Adquiere nuevos accesorios
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Pocket for Firefox
+# Displayed under the tile's image
+# Link: https://getpocket.com/firefox/
+;Pocket for Firefox
+Pocket para Firefox
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Pocket for Firefox
+# State: normal (displayed without user interaction)
+# Link: https://getpocket.com/firefox/
+;Save all your Web finds for later
+Guarda todo lo que encuentras en la Web
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Pocket for Firefox
+# State: roll-over (displayed when the user moves the mouse on the tile)
+# Link: https://getpocket.com/firefox/
+;Try Pocket
+Prueba Pocket
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Reader View
+# Displayed under the tile's image
+# Link: https://support.mozilla.org/kb/firefox-reader-view-clutter-free-web-pages
+;Reader View
+Vista de lectura
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Reader View
+# State: normal (displayed without user interaction)
+# Link: https://support.mozilla.org/kb/firefox-reader-view-clutter-free-web-pages
+;Cut the Web clutter
+Céntrate en lo que te gusta
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Reader View
+# State: roll-over (displayed when the user moves the mouse on the tile)
+# Link: https://support.mozilla.org/kb/firefox-reader-view-clutter-free-web-pages
+;Get easy reading with Reader View
+Disfruta leyendo con la vista de lectura
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Theme collection
+# Displayed under the tile's image
+# Link: https://addons.mozilla.org/firefox/collections/mozmj/eyes
+;Theme collection
+Colección temática
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Theme collection
+# State: normal (displayed without user interaction)
+# Link: https://addons.mozilla.org/firefox/collections/mozmj/eyes
+;The eyes have it
+Está en la mirada
+
+
+# LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
+# Title: Theme collection
+# State: roll-over (displayed when the user moves the mouse on the tile)
+# Link: https://addons.mozilla.org/firefox/collections/mozmj/eyes
+;Get an eye-catching new theme
+Obtén un tema que atraiga las miradas
+
+

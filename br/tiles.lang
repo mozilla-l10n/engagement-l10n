@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+Deskiñ muioc'h. Ober muioc'h. Ober gwelloc'h.
+
+
+# Tile 1 back
+;Get Involved
+Kemerit perzh enni
+
+
+# Tile 1 description
+;Mozilla Community
+Kumuniezh Mozilla
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+%(mozilla_wordmark)s omp ni
+
+
+# Tile 2 front
+;Doing good is part of our code
+Ober mat zo perzh eus hor boneg
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+An diazezadenn hep pal arc'hantus a-dreñv Firefox
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> evit Android
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+D'ar 24-26 a viz Here 2014
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+London, Rouantelezh Unaned | Ravensbourne
+
+
+# Tile 5 description
+;Mozilla Festival
+Festival Mozilla
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+<strong>Hon 10</strong> pennaenn
+
+
+# Tile 6 description
+;Mozilla Principles
+Pennaennoù Mozilla
+
+
+# Tile 7 front and back
+;More ways to customize
+Doareoù all evit personelaat
+
+
+# Tile 7 front and back
+;Themes
+Dodennoù
+
+
+# Tile 7 front and back
+;Add-ons
+Askouezhioù
+
+
+# Tile 7 front and back
+;Awesome Bar
+Barrennad dispar
+
+
+# Tile 7 description
+;Customize Firefox
+Personelaat Firefox
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+Gouiziegezhioù rannet a-zivout ar Web digor
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Rouedad an diorroerien Mozilla
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Kaout arloadoù nevez evit Firefox
+
+
+# Tile 9 description
+;Firefox Marketplace
+Marketplace Firefox
+
+

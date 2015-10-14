@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+Узнайте больше. Сделайте больше. Делайте лучше.
+
+
+# Tile 1 back
+;Get Involved
+Присоединяйтесь к сообществу
+
+
+# Tile 1 description
+;Mozilla Community
+Сообщество Mozilla
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+Мы - %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+Стремление делать добро заложено в нашем коде
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+Некоммерческая организация, создавшая Firefox
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> для Android
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+24-26 октября 2014
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+Лондон, Великобритания | Ravensbourne
+
+
+# Tile 5 description
+;Mozilla Festival
+Фестиваль Mozilla
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+<strong>Наши 10</strong> Принципов
+
+
+# Tile 6 description
+;Mozilla Principles
+Принципы Mozilla
+
+
+# Tile 7 front and back
+;More ways to customize
+Более гибкая настройка
+
+
+# Tile 7 front and back
+;Themes
+Темы
+
+
+# Tile 7 front and back
+;Add-ons
+Дополнения
+
+
+# Tile 7 front and back
+;Awesome Bar
+Умная строка адреса
+
+
+# Tile 7 description
+;Customize Firefox
+Настройте под себя Firefox
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+Общее знание для Открытого Интернета
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Сеть разработчиков Mozilla
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Получите новые свежие приложения для Firefox
+
+
+# Tile 9 description
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+

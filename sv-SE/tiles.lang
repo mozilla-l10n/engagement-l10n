@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+Förstå mer. Gör mer. Bli bättre.
+
+
+# Tile 1 back
+;Get Involved
+Engagera dig
+
+
+# Tile 1 description
+;Mozilla Community
+Mozillagemenskapen
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+Vi är %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+Att göra gott är en del av vår kod
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+Det ideella bakom Firefox
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> för Android
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+24-26 okt 2014
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+London, Storbritannien | Ravensbourne
+
+
+# Tile 5 description
+;Mozilla Festival
+Mozillafestivalen
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+<strong>Våra 10</strong> grundsatser
+
+
+# Tile 6 description
+;Mozilla Principles
+Mozillas grundsatser
+
+
+# Tile 7 front and back
+;More ways to customize
+Fler sätt att anpassa
+
+
+# Tile 7 front and back
+;Themes
+Teman
+
+
+# Tile 7 front and back
+;Add-ons
+Tillägg
+
+
+# Tile 7 front and back
+;Awesome Bar
+Smart adressfält
+
+
+# Tile 7 description
+;Customize Firefox
+Anpassa Firefox
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+Delad kunskap för den öppna webben
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Mozillas nätverk för utvecklare
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Hämta fräscha, nya appar för Firefox
+
+
+# Tile 9 description
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+

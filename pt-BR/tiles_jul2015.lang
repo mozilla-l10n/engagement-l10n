@@ -1,0 +1,62 @@
+## NOTE: Reference bug 1179979, deadline 13 Jul 2015.
+## NOTE: These strings are used as titles for tiles in New tab, e.g. https://bug1167339.bugzilla.mozilla.org/attachment.cgi?id=8628294
+## NOTE: Since the actual width will vary based on the characters used ("m" is larger than "l"), we set a lenght limit of 32 characters.
+## NOTE: experimental view for this file https://l10n.mozilla-community.org/~flod/tiles_demo/?file=tiles_jul2015.lang
+## NOTE: (should autodetect your locale as soon as there are translations available).
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Follow us on social
+Siga-nos no social
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Firefox Add-ons
+Complementos para o Firefox
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Sign up for newsletter
+Assine nosso boletim informativo
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Follow us!
+Siga-nos!
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Try an add-on.
+Experimente um complemento.
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Sign up to learn more.
+Cadastre-se para saber mais.
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Sign up for a Firefox Account.
+Crie uma conta Firefox.
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Firefox Accounts
+Contas Firefox
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Pocket for Firefox
+Pocket para Firefox
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Save Web content for later
+Salve o conteúdo para mais tarde
+
+
+# LIMIT: average is about 32 characters. Make sure you check the demo site if using a longer string.
+;Official Mozilla Gear is here.
+Produtos oficiais da Mozilla.
+
+

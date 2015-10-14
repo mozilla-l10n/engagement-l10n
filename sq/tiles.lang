@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+Njihni më shumë. Bëni më shumë. Bëjini më mirë.
+
+
+# Tile 1 back
+;Get Involved
+Përfshihuni
+
+
+# Tile 1 description
+;Mozilla Community
+Bashkësia Mozilla
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+Ne jemi %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+Të bëjmë mirë është pjesë e kodit tonë
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+Organizmi Jofitimprurës Pas Firefox-it
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> për Android
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+24-26 Tetor, 2014
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+Londër, UK | Ravensbourne
+
+
+# Tile 5 description
+;Mozilla Festival
+Festivali Mozilla
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+<strong>10</strong> Parimet Tona
+
+
+# Tile 6 description
+;Mozilla Principles
+Parimet e Mozilla-s
+
+
+# Tile 7 front and back
+;More ways to customize
+Më tepër rrugë personalizimi
+
+
+# Tile 7 front and back
+;Themes
+Tema
+
+
+# Tile 7 front and back
+;Add-ons
+Shtesa
+
+
+# Tile 7 front and back
+;Awesome Bar
+Shtylla e Mahnitshme
+
+
+# Tile 7 description
+;Customize Firefox
+Personalizoni Firefox-in
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+Dije të Përbashkëta për Web të Hapur
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Rrjeti i Zhvilluesve Mozilla
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Merrni për Firefox-in aplikacione të reja dhe të freskëta
+
+
+# Tile 9 description
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+

@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+멋진 지식과 활동 소식을 제공합니다.
+
+
+# Tile 1 back
+;Get Involved
+참여하기
+
+
+# Tile 1 description
+;Mozilla Community
+Mozilla 커뮤니티
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+We are %(mozilla_wordmark)s {ok}
+
+
+# Tile 2 front
+;Doing good is part of our code
+웹으로 세상을 바꾸고 있습니다.
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+비영리 활동을 통한Firefox
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+안드로이드용 <span>Firefox</span>
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+Oct 24-26, 2014 {ok}
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+London, UK | Ravensbourne {ok}
+
+
+# Tile 5 description
+;Mozilla Festival
+Mozilla 페스티벌
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+<strong>10가지</strong> 원칙
+
+
+# Tile 6 description
+;Mozilla Principles
+Mozilla 원칙
+
+
+# Tile 7 front and back
+;More ways to customize
+다양한 개인화 방법
+
+
+# Tile 7 front and back
+;Themes
+테마
+
+
+# Tile 7 front and back
+;Add-ons
+부가 기능
+
+
+# Tile 7 front and back
+;Awesome Bar
+주소창 자동 완성
+
+
+# Tile 7 description
+;Customize Firefox
+Firefox 개인화
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+열린 웹을 위한 지식 공유
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Mozilla 개발자 네트워크
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Firefox 신규 앱 보기
+
+
+# Tile 9 description
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+

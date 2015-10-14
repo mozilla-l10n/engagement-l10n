@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+Знајте повеќе. Правете повеќе. Правете подобро.
+
+
+# Tile 1 back
+;Get Involved
+Приклучете се
+
+
+# Tile 1 description
+;Mozilla Community
+Заедница на Mozilla
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+Ние сме %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+Да правиме добро е дел од нашиот кодекс
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+Непрофитната организација зад Firefox
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> за Android
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+24-26 октомври 2014 г.
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+Лондон, ОК | Рејвенсбурн
+
+
+# Tile 5 description
+;Mozilla Festival
+Фестивал Mozilla
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+<strong>Нашите 10</strong> принципи
+
+
+# Tile 6 description
+;Mozilla Principles
+Приципи на Mozilla
+
+
+# Tile 7 front and back
+;More ways to customize
+Повеќе начини на прилагодување
+
+
+# Tile 7 front and back
+;Themes
+Теми
+
+
+# Tile 7 front and back
+;Add-ons
+Додатоци
+
+
+# Tile 7 front and back
+;Awesome Bar
+Супер лента
+
+
+# Tile 7 description
+;Customize Firefox
+Прилагоди го Firefox
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+Споделено знаење за отворениот Интернет
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Mozilla Developer Network {ok}
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Земете свежи и нови апликации за Firefox
+
+
+# Tile 9 description
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+

@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+了解更多，做得更多，做得更好。
+
+
+# Tile 1 back
+;Get Involved
+参与
+
+
+# Tile 1 description
+;Mozilla Community
+Mozilla 社区
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+我们是 %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+做好事，是我们代码的一部分
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+支持 Firefox 的非盈利组织
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> Android 版
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+2014年10月24日～26日
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+英国伦敦 | 雷文斯
+
+
+# Tile 5 description
+;Mozilla Festival
+Mozilla 的节日
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+我们的<strong>十大原则</strong>
+
+
+# Tile 6 description
+;Mozilla Principles
+Mozilla 的原则
+
+
+# Tile 7 front and back
+;More ways to customize
+更多的定制方式
+
+
+# Tile 7 front and back
+;Themes
+主题
+
+
+# Tile 7 front and back
+;Add-ons
+附加组件
+
+
+# Tile 7 front and back
+;Awesome Bar
+智能地址栏
+
+
+# Tile 7 description
+;Customize Firefox
+定制 Firefox
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+分享开放网络的知识
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Mozilla 开发者网络
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+获取最新亮相的 Firefox 应用
+
+
+# Tile 9 description
+;Firefox Marketplace
+火狐应用市场
+
+

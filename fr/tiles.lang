@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+Apprendre davantage. Faire plus. Faire mieux.
+
+
+# Tile 1 back
+;Get Involved
+Contribuer
+
+
+# Tile 1 description
+;Mozilla Community
+Communauté Mozilla
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+Nous sommes %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+Un Web plus juste, c'est dans nos co{r}des
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+La fondation sans but lucratif à l'origine de Firefox
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> pour Android
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+24-26 oct. 2014
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+Londres, Royaume-Uni | Ravensbourne
+
+
+# Tile 5 description
+;Mozilla Festival
+Mozilla Festival {ok}
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+<strong>Nos 10</strong> principes
+
+
+# Tile 6 description
+;Mozilla Principles
+Principes de Mozilla
+
+
+# Tile 7 front and back
+;More ways to customize
+Encore plus de personnalisation
+
+
+# Tile 7 front and back
+;Themes
+Thèmes
+
+
+# Tile 7 front and back
+;Add-ons
+Modules complémentaires
+
+
+# Tile 7 front and back
+;Awesome Bar
+Barre d'adresse intelligente
+
+
+# Tile 7 description
+;Customize Firefox
+Personnaliser Firefox
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+Des connaissances partagées sur le Web ouvert
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Mozilla Developer Network {ok}
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Obtenir de nouvelles applications pour Firefox
+
+
+# Tile 9 description
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+

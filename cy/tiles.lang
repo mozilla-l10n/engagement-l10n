@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+Gwybod mwy. Gwneud mwy. Gwneud yn well
+
+
+# Tile 1 back
+;Get Involved
+Ymuno â Ni
+
+
+# Tile 1 description
+;Mozilla Community
+Cymuned Mozilla
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+Ni yw %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+Mae gwneud daioni'n rhan o'n cod
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+Y Dim er Elw tu ôl i Firefox
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> Android
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+Hyd 24-26, 2014
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+Llundain, DU | Ravensbourne
+
+
+# Tile 5 description
+;Mozilla Festival
+Gŵyl Mozilla
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+<strong>Ein 10</strong> Egwyddor
+
+
+# Tile 6 description
+;Mozilla Principles
+Egwyddorion Mozilla
+
+
+# Tile 7 front and back
+;More ways to customize
+Rhagor o ffyrdd i gyfaddasu
+
+
+# Tile 7 front and back
+;Themes
+Themâu
+
+
+# Tile 7 front and back
+;Add-ons
+Ychwanegion
+
+
+# Tile 7 front and back
+;Awesome Bar
+Y Bar Rhagorol
+
+
+# Tile 7 description
+;Customize Firefox
+Cyfaddasu Firefox
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+Rhannu gwybodaeth am y We Agored
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Rhwydwaith Datblygwyr Mozilla
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Estynnwch apiau newydd a ffresh Firefox
+
+
+# Tile 9 description
+;Firefox Marketplace
+Marchnad Firefox
+
+

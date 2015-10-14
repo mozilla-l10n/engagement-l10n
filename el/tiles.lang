@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+Μάθετε περισσότερα. Κάντε περισσότερα. Κάντε τα καλύτερα.
+
+
+# Tile 1 back
+;Get Involved
+Συμμετέχετε
+
+
+# Tile 1 description
+;Mozilla Community
+Κοινότητα Mozilla
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+Είμαστε η κοινότητα %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+Το να κάνουμε το σωστό είναι μέρος του κώδικά μας
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+Ο μη κερδοσκοπικός οργανισμός πίσω απο τον Firefox
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+<span>Firefox</span> για Android
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+24-26 Οκτ , 2014
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+Λονδίνο, Ηνωμένο Βασίλειο | Ravensbourne
+
+
+# Tile 5 description
+;Mozilla Festival
+Φεστιβάλ Mozilla
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+<strong>Οι 10</strong> αρχές μας
+
+
+# Tile 6 description
+;Mozilla Principles
+Οι αρχές του Mozilla
+
+
+# Tile 7 front and back
+;More ways to customize
+Περισσότεροι τρόποι προσαρμογής
+
+
+# Tile 7 front and back
+;Themes
+Θέματα
+
+
+# Tile 7 front and back
+;Add-ons
+Πρόσθετα
+
+
+# Tile 7 front and back
+;Awesome Bar
+Γραμμή διευθύνσεων
+
+
+# Tile 7 description
+;Customize Firefox
+Προσαρμόστε τον Firefox
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+Μοιραστείτε τη γνώση για τον ανοιχτό ιστό
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Mozilla Developer Network {ok}
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Λάβετε φρέσκες και νέες εφαρμογές για τον Firefox
+
+
+# Tile 9 description
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+

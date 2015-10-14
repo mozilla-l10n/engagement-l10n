@@ -1,0 +1,108 @@
+## NOTE: strings for Firefox Tiles, reference bug 1062287
+
+
+# Tile 1 front
+;Know more. Do more. Do better.
+もっと知ろう。もっと行動しよう。もっと良いことをしよう。
+
+
+# Tile 1 back
+;Get Involved
+Mozilla に参加しよう
+
+
+# Tile 1 description
+;Mozilla Community
+Mozilla コミュニティ
+
+
+# Tile 2 front. Do not translate %(mozilla_wordmark)s.
+;We are %(mozilla_wordmark)s
+私たちは %(mozilla_wordmark)s
+
+
+# Tile 2 front
+;Doing good is part of our code
+世の中の役に立つ活動をすることが、私たちの務めです
+
+
+# Tile 2 description
+;The Non-profit Behind Firefox
+Firefox を提供している非営利法人
+
+
+# Tile 4 back and description. Do not translate <span>Firefox</span>.
+;<span>Firefox</span> for Android
+Android 版 <span>Firefox</span>
+
+
+# Tile 5 back
+;Oct 24-26, 2014
+2014 年 10 月 24 〜 26 日
+
+
+# Tile 5 back
+;London, UK | Ravensbourne
+イギリス・ロンドン | レイベンズボーン芸術大学
+
+
+# Tile 5 description
+;Mozilla Festival
+Mozilla Festival {ok}
+
+
+# Tile 6 front
+;<strong>Our 10</strong> Principles
+私たちの <strong>10 の原則</strong>
+
+
+# Tile 6 description
+;Mozilla Principles
+Mozilla 原則
+
+
+# Tile 7 front and back
+;More ways to customize
+カスタマイズ自由自在
+
+
+# Tile 7 front and back
+;Themes
+テーマ
+
+
+# Tile 7 front and back
+;Add-ons
+アドオン
+
+
+# Tile 7 front and back
+;Awesome Bar
+スマートロケーションバー
+
+
+# Tile 7 description
+;Customize Firefox
+Firefox のカスタマイズ
+
+
+# Tile 8 front
+;Shared Knowledge for the Open Web
+Open Web のための共有知識
+
+
+# Tile 8 description
+;Mozilla Developer Network
+Mozilla Developer Network {ok}
+
+
+# Tile 9 back
+;Get fresh and new apps for Firefox
+Firefox 向け新着アプリを手に入れよう
+
+
+# Tile 9 description
+;Firefox Marketplace
+Firefox Marketplace {ok}
+
+

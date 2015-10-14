@@ -1,0 +1,121 @@
+## NOTE: for reference see the English infographic https://drive.google.com/open?id=0B19__hKNwbafZU1mZDFtam5oc1U&authuser=0
+
+
+;How user data is protected on <b>Firefox New Tab</b>
+Wie Ihre Nutzerdaten auf der <b>Neuer-Tab-Seite in Firefox</b> geschützt werden
+
+
+;Suggested tiles are powered by a recommendation system that acts on behalf of the user, delivering relevance while respecting privacy. Here is basically how it works: We only send a limited amount of data back to our tiles selection server, Onyx, and store that raw data in our storage and analysis server, Disco, for a short period of time before aggregating it in our data warehouse. High-level aggregate reports are then shared with our partners.
+Vorgeschlagene Kacheln werden durch ein Empfehlungssystem generiert, welches sich aus dem Nutzerverhalten ergibt. Hierzu werden relevante Daten unter Wahrung der Privatsphäre erhoben. Im Grunde funktioniert es so: Wir senden lediglich bestimmte Daten an unseren Kachelvorschlags-Server Onyx und speichern diese Rohdaten für eine kurze Zeit auf unserem Speicher- und Analyseserver Disco, bevor sie in unserem Datenspeicher zusammengefasst werden. Diese hochgradig aggregierten Statistiken teilen wir dann mit unseren Partnern.
+
+
+;Still have questions?
+Sie haben noch Fragen?
+
+
+# Strings used from 1 to 9 in the image (string order follow the process steps)
+;1st
+1.
+
+
+;Clicking on a tile may establish a <b>first party relationship</b> with the website. Like any other web link, the site owner has the option to establish or identify the user through a first-party cookie.
+Der Klick auf eine Kachel stellt eine <b>dem Aufrufen der Website entsprechende Beziehung</b> zur Website her. Wie bei jedem anderen Weblink hat der Seitenanbieter die Möglichkeit, den Nutzer mittels eines gesetzten Cookies zu identifizieren.
+
+
+;Partner
+Partner {ok}
+
+
+;Tiles Authoring
+Kachelerstellung
+
+
+;Adserver
+Werbeserver
+
+
+;<b>Final tiles decisioning happens within Firefox,</b> based on the user’s browsing history.
+<b>Die endgültige Kachelauswahl trifft Firefox</b> ausgehend von der bisherigen Internetnutzung.
+
+
+;User
+Nutzer
+
+
+;Data Storage/Analysis
+Datenspeicherung/Auswertung
+
+
+;Data Warehouse
+Datenspeicher
+
+
+;REPORT
+BERICHT
+
+
+;Aggregate totals reported:
+Gemeldete kumulierte Beiträge:
+
+
+;locations (country)
+Standort (Land)
+
+
+;times displayed
+Wie oft angezeigt
+
+
+;pins/blocks
+Wie oft angeheftet/entfernt
+
+
+;clicks
+Klicks
+
+
+;no personal data is shared!
+Keine Weitergabe persönlicher Daten!
+
+
+;<b>A partner</b> submits their tile campaign assets to <b>Mozilla</b>.
+<b>Ein Partner</b> übermittelt seine Kachel-Materialien an <b>Mozilla</b>.
+
+
+;<b>Mozilla</b> reviews the assets and campaign rules before entering them into <b>Splice</b>, a tiles authoring and campaign management server.
+<b>Mozilla</b> überprüft die Materialien und Aktionsbedingungen, bevor es sie an <b>Splice</b> übermittelt, den Server, der die Kacheln erstellt und die Aktion verwaltet.
+
+
+;<b>Splice</b> hands this information to <b>Onyx</b>, which is responsible for tiles delivery to any user.
+<b>Splice</b> übermittelt diese Informationen an <b>Onyx</b>, welches für den Kachelvorschlag an jeden Nutzer verantwortlich ist.
+
+
+;<b>The browser</b> fetches all available suggested tiles based on country and language from <b>Onyx</b> without using cookies or other user tracking identifiers.
+<b>Der Browser</b> ruft basierend auf Land und Sprache alle verfügbaren vorgeschlagenen Kacheln bei <b>Onyx</b> ab. Dabei verwendet er weder Cookies noch andere Software zur Identifizierung.
+
+
+# Links point to https://www.mozilla.org/privacy/ and https://www.mozilla.org/privacy/principles/
+;<b>User interactions</b>, such as clicks, pins and blocks, are examples of data that may be measured and processed. View <a>Mozilla’s Privacy Policy</a> or our <a>Data Privacy Principles</a> for more information.
+<b>Nutzeraktivitäten</b> wie Klicks, Kachelauswahlen und -ablehnungen sind ein gutes Beispiel für Daten, die erhoben und verarbeitet werden. Lesen Sie die <a>Mozilla-Datenschutzerklärung</a> oder unsere <a>Datenschutzgrundsätze</a> für weitere Informationen.
+
+
+;<b>Onyx</b> submits the interaction data to <b>Disco</b>, a restricted access database for large-scale analysis.
+<b>Onyx</b> übermittelt die Interaktionen an <b>Disco</b>, eine gesicherte Datenbank für Großanalysen.
+
+
+;<b>Disco</b> aggregates all Firefox tiles interactions, anonymizing personally identifiable data before sending to <b>Redshift</b> for reporting.
+<b>Disco</b> fasst alle Kachelnutzungen bei Firefox zusammen und anonymisiert sie, bevor es sie an <b>Redshift</b> zur Auswertung weiterleitet.
+
+
+;Charts and reports are pulled from <b>Redshift</b> using Zenko, a Content Services reporting tool, for analysis by <b>Mozilla</b>.
+Diagramme und Berichte zur Analyse durch <b>Mozilla</b> werden von <b>Redshift</b> unter Verwendung von Zenko bezogen, einem Berichtsprogramm für Inhalte.
+
+
+;<b>Mozilla</b> sends this report to the <b>partner</b> shortly after the campaign ends.
+<b>Mozilla</b> schickt diesen Bericht kurz nach Ende der Aktion an den <b>Partner</b>.
+
+
+;<b>For technical details,</b> visit https://wiki.mozilla.org/tiles
+Besuchen Sie <b>für technische Details</b> https://wiki.mozilla.org/tiles
+
+
