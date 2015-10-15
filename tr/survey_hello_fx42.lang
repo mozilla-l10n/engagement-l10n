@@ -6,7 +6,7 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: Ürün Anketi
 
 
 # q-2
@@ -76,7 +76,7 @@ You have already completed this survey.
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Başka bir dil seçin
 
 
 # language_bar_description_text
@@ -86,22 +86,22 @@ To continue in another language, please click one of the links below.
 
 # back_button
 ;Back
-Back
+Geri
 
 
 # next_button
 ;Next
-Next
+İleri
 
 
 # submit_button
 ;Submit
-Submit
+Gönder
 
 
 # clear_button
 ;Clear
-Clear
+Temizle
 
 
 # page_error_message
