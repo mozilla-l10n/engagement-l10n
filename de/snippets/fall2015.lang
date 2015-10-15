@@ -200,7 +200,7 @@ Der Android-Browser mit Schutz vor Aktivitätenverfolgung
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Third party trackers slow browsers down. Surf faster using Private Browsing with Tracking Protection. Send yourself a download link.
-Verfolgung durch Dritte kann Browser ausbremsen. Mit privatem Surfen mit Schutz vor Aktivitätenverfolgung geht’s schneller. Senden Sie sich einen Download-Link.
+Verfolgung durch Dritte kann Browser ausbremsen. Mit privatem Surfen mit Schutz vor Verfolgung geht’s schneller. Senden Sie sich einen Download-Link.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
