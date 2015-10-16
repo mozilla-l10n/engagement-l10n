@@ -6,106 +6,105 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+سلام فایرفاکس: پرسشنامه محصول
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-
+چقدر ممکن است که شما «فایرفاکس سلام» را به یک دوست یا همکار معرفی کنید؟ (مقیاس:  ۰ زیاد امکان ندارد اینکار را بکنید و ۱۰ مطمئنا اینکار را خواهید کرد)
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+ما چه کاری برای بهتر کردن «فایرفاکس سلام» برای شما می‌توانیم انجام دهیم؟
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+چطور می‌توانیم «فایرفاکس سلام» را بهبود بدهیم تا شما ما را به دیگران پیشنهاد بدهید؟
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+آیا امکان خاصی وجود داشت که بتوانید استفاده از «فایرفاکس سلام» را یک تجربه مثبت ارزیابی کنید؟
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+لطفا به کیفیت تماس خود امتیاز دهید.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+۱ - خیلی بد
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+۵ - عالی
 
 
 # p-2
 ;Thank You!
-Thank You!
+متشکریم!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+از شما بابت زمانی که برای این پرسشنامه گذاشتید متشکریم. بازخورد شما برای ما بسیار مهم است و باعث می‌شود فایرفاکس برای کاربرانش بهتر شود.
 
 
 # required
 ;This question is required
-This question is required
+جواب این سوال لازم است
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- لطفا انتخاب کنید --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+این پرسشنامه در حال حاضر پاسخ‌های بیشتری قبول نمی‌کند. از شما متشکریم!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+شما قبلا این پرسشنامه را پر کرده‌اید.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+یک زبان دیگر انتخاب کنید
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+برای ادامه دادن با یک زبان دیگر، لطفا بر روی یکی از لینک‌های زیر کلیک کنید.
 
 
 # back_button
 ;Back
-Back
+بازگشت
 
 
 # next_button
 ;Next
-Next
+بعدی
 
 
 # submit_button
 ;Submit
-Submit
+ثبت
 
 
 # clear_button
 ;Clear
-Clear
+پاک کردن
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+یک خطا در صفحه شما رخ داد. لطفا اطلاعات لازم را تکمیل و مجددا ثبت کنید. برو به خطا اول
 
 
