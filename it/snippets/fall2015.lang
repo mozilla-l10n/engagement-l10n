@@ -5,21 +5,21 @@
 # Campaign: desktop snippets
 # Link: SmartOn Tracking page, currently N/A
 ;Do you ever wonder what companies do with the personal information they collect about you? Get Smart On Tracking.
-Ti chiedi mai come le società web usano i dati personali che raccolgono su di te? Diventa esperto di tracciamento.
+Mentre navighi ti sei mai chiesto come vengono utilizzati i tuoi dati personali raccolti dalle aziende? Diventa esperto di tracciamento.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: SmartOn Tracking page, currently N/A
 ;Learn how the online bread crumbs you leave behind can be picked up to reconstruct your whereabouts, preferences and identity. Get Smart On Tracking.
-Scopri come, dalle tracce che lasci sul Web, terzi possono ricostruire la tua posizione, le tue preferenze e identità. Diventa esperto di tracciamento.
+Scopri come, dalle tracce che lasci sul Web, altri possono ricostruire la tua posizione, le tue preferenze e la tua identità. Diventa esperto di tracciamento.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: SmartOn Cybersecurity page, currently N/A
 ;Are you protecting your online information as securely as your personal property? Get Smart On Cybersecurity, right here.
-Proteggi le tue informazioni online come proteggeresti i tuoi oggetti personali? Diventa esperto di sicurezza online.
+Proteggi le tue informazioni online come proteggeresti i tuoi oggetti più cari? Diventa esperto di sicurezza online.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -40,7 +40,7 @@ Il governo ha il diritto di frugare tra le tue email e le tue foto? Diventa espe
 # Campaign: desktop snippets
 # Link: SmartOn Surveillance page, currently N/A
 ;Law enforcement stake-outs have moved beyond binoculars, bugs and bad guys. It’s gone digital. Take a few easy steps to get Smart On surveillance.
-La sorveglianza delle forze dell’ordine va ormai oltre binocoli, cimici e malfattori: ora sono passati al digitale. Diventa esperto di sorveglianza in pochi, semplici passi.
+La sorveglianza delle forze dell’ordine non si ferma a binocoli, cimici e criminali: ora sono passati al digitale. Diventa esperto di sorveglianza in pochi, semplici passi.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -48,7 +48,7 @@ La sorveglianza delle forze dell’ordine va ormai oltre binocoli, cimici e malf
 # Link: (for reference, temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 # Snippet will display a doorhanger to highlight the new Tracking Protection feature in Private Browsing
 ;Third party trackers follow, follow, follow your trail around the Web. Smash them with Private Browsing in Firefox, the only browser with Tracking Protection. Try it.
-Terze parti seguono di continuo le tue tracce sul Web. Sbaragliali con la Navigazione anonima di Firefox, unico browser con protezione antitracciamento. Provalo.
+Terze parti seguono di continuo le tue tracce sul Web. Seminali con la Navigazione anonima di Firefox, l’unico browser con protezione antitracciamento. Provala subito.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -64,7 +64,7 @@ Nascosti tra le pieghe delle pagine web, alcuni soggetti ti tracciano seguendo o
 # Link: (for reference, temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 # Snippet will display a doorhanger to highlight the new Tracking Protection feature in Private Browsing
 ;Take a break from Big Data. Use Private Browsing with Tracking Protection, only in Firefox. Try it.
-Basta con i Big Data. Usa la Navigazione anonima con protezione antitracciamento, solo su Firefox. Provala.
+Metti un freno alla raccolta dati. Usa la Navigazione anonima con protezione antitracciamento, solo su Firefox. Provala.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -72,7 +72,7 @@ Basta con i Big Data. Usa la Navigazione anonima con protezione antitracciamento
 # Link: (for reference, temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 # Snippet will display a doorhanger to highlight the new Tracking Protection feature in Private Browsing
 ;Private Browsing with Tracking Protection stops third party trackers cold. Look for the shield and take control over the data you share. Try it, only in Firefox.
-La Navigazione anonima con protezione antitracciamento blocca chi ti spia. Condividi i dati solo quando vuoi tu grazie all’icona dello scudo. Provalo, solo su Firefox.
+La Navigazione anonima con protezione antitracciamento blocca chi ti spia. Condividi i dati solo quando vuoi tu grazie all’icona dello scudo. Provala, solo su Firefox.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -80,7 +80,7 @@ La Navigazione anonima con protezione antitracciamento blocca chi ti spia. Condi
 # Link: (for reference, temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 # Snippet will display a doorhanger to highlight the new Tracking Protection feature in Private Browsing
 ;Firefox for Android now features Private Browsing with Tracking Protection. Say goodbye to trackers and hello to faster mobile browsing. Get it only in Firefox.
-Ora la Navigazione anonima con protezione antitracciamento è anche su Firefox per Android. Addio, elementi traccianti! Benvenuta, navigazione rapida su cellulare! Solo su Firefox.
+Ora la Navigazione anonima con protezione antitracciamento è anche su Firefox per Android. Addio elementi traccianti! Benvenuta navigazione rapida su cellulare! Solo su Firefox.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -128,7 +128,7 @@ Per una navigazione rapida installa Firefox, ora su App Store. Invia il link al 
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;The wait is over, Apple fans.
-L’attesa è finita per i fan di Apple.
+Fan di Apple, l’attesa è finita!
 
 
 # LIMIT: 150 characters (body). Please rephrase as needed to fit.
@@ -152,7 +152,7 @@ Usi un iPhone o iPad?
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Skip the stock browser. Upgrade to Firefox, now available for iOS. Send yourself a download link
-Lascia perdere il browser predefinito. Passa a Firefox, ora anche per iOS. Invia il link al dispositivo.
+Dimentica il browser predefinito. Passa a Firefox, ora anche per iOS. Invia il link al dispositivo.
 
 
 # LIMIT: 40 characters (title). Please rephrase as needed to fit.
@@ -184,7 +184,7 @@ Firefox mobile, sempre con te.
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Fast, private, independent. The new Firefox is here for Android and iOS. Send yourself a download link.
-Veloce, privato, indipendente. Il nuovo Firefox, ora anche per Android e iOS. Invia un link al dispositivo.
+Veloce, personale, indipendente. Il nuovo Firefox, ora anche per Android e iOS. Invia un link al dispositivo.
 
 
 # LIMIT: 60 characters (title). Please rephrase as needed to fit.
@@ -192,7 +192,7 @@ Veloce, privato, indipendente. Il nuovo Firefox, ora anche per Android e iOS. In
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Get the only Android browser with Tracking Protection
-Scegli il browser Android con protezione antitracciamento
+L’unico browser Android con protezione antitracciamento
 
 
 # LIMIT: 150 characters (body). Please rephrase as needed to fit.
@@ -207,28 +207,28 @@ Gli elementi traccianti rallentano il browser. Vai più veloce in Navigazione an
 # Campaign: mobile snippets
 # Link: SmartOn Tracking page, currently N/A
 ;Ever wonder what companies do with the information they collect about you? Get Smart On Tracking.
-Ti chiedi mai come le società web usano i dati personali che raccolgono su di te? Diventa esperto di tracciamento.
+Mentre navighi ti sei mai chiesto come vengono utilizzati i tuoi dati personali raccolti dalle aziende? Diventa esperto di tracciamento.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: SmartOn Cybersecurity page, currently N/A
 ;Have you protected your online info as securely as your property? Get Smart On Cybersecurity.
-Proteggi le tue informazioni online come proteggeresti i tuoi oggetti personali? Diventa esperto di sicurezza online.
+Proteggi le tue informazioni online come proteggeresti i tuoi oggetti più cari? Diventa esperto di sicurezza online.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: SmartOn Surveillance page, currently N/A
 ;Learn how government surveillance has gone digital, and what that means for your phone.
-Scopri come la sorveglianza governativa sia passata al digitale e ciò che significa per il tuo telefono.
+Scopri come la sorveglianza governativa sia passata al digitale e cosa significa per il tuo telefono.
 
 
 # LIMIT: 140 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: (temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 ;Outsmart the trackers with with Private Browsing in Firefox. Learn more.
-Raggira chi ti vuole tracciare con la Navigazione anonima di Firefox. Ulteriori informazioni.
+Semina chi ti vuole tracciare con la Navigazione anonima di Firefox. Ulteriori informazioni.
 
 
 # LIMIT: 140 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -242,7 +242,7 @@ Navigazione anonima, ora con protezione antitracciamento. Solo su Firefox. Prova
 # Campaign: mobile snippets
 # Link: (temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 ;Take a break from Big Data. Private Browsing with Tracking Protection, only in Firefox.
-Addio Big Data. Navigazione anonima con protezione antitracciamento, solo su Firefox.
+Metti un freno alla raccolta dati. Navigazione anonima con protezione antitracciamento, solo su Firefox.
 
 
 # LIMIT: 140 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -255,13 +255,13 @@ Non permettere a terze parti di farsi gli affari tuoi, prova la Navigazione anon
 # LIMIT: 140 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: EOY fundraising
 ;Will you help us stand for an open Web for all? If everyone reading this chipped in $3, we would be supported for another year. Donate now.
-Sostieni con noi un Web aperto per tutti. Se ogni utente donasse $3, Mozilla sarebbe sovvenzionata per un anno intero. Fai una donazione.
+Appoggia un Web aperto per tutti. Se ogni utente donasse $3 potremmo sostenere Mozilla per un anno intero. Fai una donazione.
 
 
 # LIMIT: 140 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: EOY fundraising
 ;Firefox users: will you donate to Mozilla, the non-profit behind Firefox? If we all chipped in $3, we would be supported for another year.
-Sostieni Mozilla, l’organizzazione non-profit responsabile di Firefox. Se ognuno di noi donasse $3, saremmo sovvenzionati per un altro anno.
+Appoggia Mozilla, l’organizzazione non-profit alla base di Firefox. Se ognuno di noi donasse $3 potremmo sostenere Mozilla un altro anno.
 
 
 # LIMIT: 140 characters (will be used on desktop). Please rephrase as needed to fit.
