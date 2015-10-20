@@ -9,7 +9,7 @@
 # Displayed under the tile's image
 # Link: SmartOn Tracking page, currently N/A
 ;Get Smart On Tracking
-Get Smart On Tracking
+Diventa un esperto di tracciamento
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -17,7 +17,7 @@ Get Smart On Tracking
 # State: normal (displayed without user interaction)
 # Link: SmartOn Tracking page, currently N/A
 ;Ever wonder…
-Ever wonder…
+Ti sei mai chiesto…
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -25,7 +25,7 @@ Ever wonder…
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: SmartOn Tracking page, currently N/A
 ;Why some ads seem to be following you?
-Why some ads seem to be following you?
+Perché alcuni annunci pubblicitari sembrano inseguirti?
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -33,7 +33,7 @@ Why some ads seem to be following you?
 # Displayed under the tile's image
 # Link: SmartOn Cybersecurity page, currently N/A
 ;Get Smart On Cybersecurity
-Get Smart On Cybersecurity
+Diventa un esperto di sicurezza online
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -41,7 +41,7 @@ Get Smart On Cybersecurity
 # State: normal (displayed without user interaction)
 # Link: SmartOn Cybersecurity page, currently N/A
 ;How strong is your password?
-How strong is your password?
+Quanto sicura è la password che usi?
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -49,7 +49,8 @@ How strong is your password?
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: SmartOn Cybersecurity page, currently N/A
 ;Protect yourself from cyber attacks
-Protect yourself from cyber attacks
+Proteggiti dagli attacchi informatici
+
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -57,7 +58,7 @@ Protect yourself from cyber attacks
 # Displayed under the tile's image
 # Link: SmartOn Surveillance page, currently N/A
 ;Get Smart On Surveillance
-Get Smart On Surveillance
+Diventa un esperto di sorveglianza
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -65,7 +66,7 @@ Get Smart On Surveillance
 # State: normal (displayed without user interaction)
 # Link: SmartOn Surveillance page, currently N/A
 ;If you’re not under investigation…
-If you’re not under investigation…
+Se non sei sotto indagine…
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -73,7 +74,7 @@ If you’re not under investigation…
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: SmartOn Surveillance page, currently N/A
 ;Should the government be able to track you?
-Should the government be able to track you?
+È giusta la sorveglianza di Stato?
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -81,7 +82,7 @@ Should the government be able to track you?
 # Displayed under the tile's image
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Private Browsing with Tracking Protection
-Private Browsing with Tracking Protection
+Navigazione anonima con protezione antitracciamento
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -89,7 +90,7 @@ Private Browsing with Tracking Protection
 # State: normal (displayed without user interaction). Original English text: "Outfox the trackers"
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Outsmart the trackers
-Outsmart the trackers
+Supera i controllori in astuzia
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -97,7 +98,7 @@ Outsmart the trackers
 # State: roll-over (displayed when the user moves the mouse on the tile). Will be also used as title for "Only in Firefox" tile
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Only in Firefox
-Only in Firefox
+Solo con Firefox
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -105,7 +106,8 @@ Only in Firefox
 # State: normal (displayed without user interaction)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Take a break from Big Data.
-Take a break from Big Data.
+Metti un freno ai Big Data.
+
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -113,7 +115,7 @@ Take a break from Big Data.
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Use Private Browsing with Tracking Protection.
-Use Private Browsing with Tracking Protection.
+Utilizza la navigazione anonima con protezione antitracciamento.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -121,7 +123,7 @@ Use Private Browsing with Tracking Protection.
 # Displayed under the tile's image
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Firefox for Android
-Firefox for Android
+Firefox per Android
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -129,7 +131,7 @@ Firefox for Android
 # State: normal (displayed without user interaction)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Browse faster
-Browse faster
+Naviga più velocemente
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -137,7 +139,7 @@ Browse faster
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;With Private Browsing featuring Tracking Protection. Try it now.
-With Private Browsing featuring Tracking Protection. Try it now.
+Con la navigazione anonima abbinata alla protezione antitracciamento. Provala ora.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -145,7 +147,7 @@ With Private Browsing featuring Tracking Protection. Try it now.
 # State: normal (displayed without user interaction)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Private Browsing now features Tracking Protection
-Private Browsing now features Tracking Protection
+Ora la navigazione anonima si accompagna alla protezione antitracciamento
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -153,7 +155,7 @@ Private Browsing now features Tracking Protection
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Goodbye trackers, hello speed. Try it now.
-Goodbye trackers, hello speed. Try it now.
+Addio spioni. Benvenuta navigazione veloce. Provala ora.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -161,7 +163,7 @@ Goodbye trackers, hello speed. Try it now.
 # Displayed under the tile's image
 # Link: https://www.mozilla.org/firefox/ios/
 ;Firefox for iOS
-Firefox for iOS
+Firefox per iOS
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -169,7 +171,7 @@ Firefox for iOS
 # State: normal (displayed without user interaction)
 # Link: https://www.mozilla.org/firefox/ios/
 ;New. Fast. Smart. Firefox for iOS is here.
-New. Fast. Smart. Firefox for iOS is here.
+Nuovo. Veloce. Intelligente. È arrivato Firefox per iOS.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -177,6 +179,6 @@ New. Fast. Smart. Firefox for iOS is here.
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www.mozilla.org/firefox/ios/
 ;Get it for your iPhone, iPad or iPod touch
-Get it for your iPhone, iPad or iPod touch
+Installalo su iPhone, iPad o iPod touch
 
 
