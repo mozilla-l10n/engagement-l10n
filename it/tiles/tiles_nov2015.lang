@@ -9,7 +9,7 @@
 # Displayed under the tile's image
 # Link: SmartOn Tracking page, currently N/A
 ;Get Smart On Tracking
-Diventa un esperto di tracciamento
+Diventa esperto di tracciamento
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -25,7 +25,7 @@ Ti sei mai chiesto…
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: SmartOn Tracking page, currently N/A
 ;Why some ads seem to be following you?
-Perché alcuni annunci pubblicitari sembrano inseguirti?
+Perché alcune pubblicità sembrano inseguirti?
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -33,7 +33,7 @@ Perché alcuni annunci pubblicitari sembrano inseguirti?
 # Displayed under the tile's image
 # Link: SmartOn Cybersecurity page, currently N/A
 ;Get Smart On Cybersecurity
-Diventa un esperto di sicurezza online
+Diventa esperto di sicurezza online
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -41,7 +41,7 @@ Diventa un esperto di sicurezza online
 # State: normal (displayed without user interaction)
 # Link: SmartOn Cybersecurity page, currently N/A
 ;How strong is your password?
-Quanto sicura è la password che usi?
+Quanto sicure sono le tue password?
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -57,7 +57,7 @@ Proteggiti dagli attacchi informatici
 # Displayed under the tile's image
 # Link: SmartOn Surveillance page, currently N/A
 ;Get Smart On Surveillance
-Diventa un esperto di sorveglianza
+Diventa esperto di sorveglianza
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -73,7 +73,7 @@ Se non sei sotto indagine…
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: SmartOn Surveillance page, currently N/A
 ;Should the government be able to track you?
-È giusta la sorveglianza di Stato?
+Lo Stato ha il diritto di spiarti?
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -105,7 +105,7 @@ Solo con Firefox
 # State: normal (displayed without user interaction)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Take a break from Big Data.
-Metti un freno ai Big Data.
+Smarcati dai Big Data.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -113,7 +113,7 @@ Metti un freno ai Big Data.
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Use Private Browsing with Tracking Protection.
-Utilizza la navigazione anonima con protezione antitracciamento.
+Usa la navigazione anonima con protezione antitracciamento.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -129,7 +129,7 @@ Firefox per Android
 # State: normal (displayed without user interaction)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Browse faster
-Naviga più velocemente
+Naviga più veloce
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -137,7 +137,7 @@ Naviga più velocemente
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;With Private Browsing featuring Tracking Protection. Try it now.
-Con la navigazione anonima abbinata alla protezione antitracciamento. Provala ora.
+In navigazione anonima con protezione antitracciamento. Provala ora.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -145,7 +145,7 @@ Con la navigazione anonima abbinata alla protezione antitracciamento. Provala or
 # State: normal (displayed without user interaction)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Private Browsing now features Tracking Protection
-Ora la navigazione anonima si accompagna alla protezione antitracciamento
+Navigazione anonima, ora con protezione antitracciamento
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -153,7 +153,7 @@ Ora la navigazione anonima si accompagna alla protezione antitracciamento
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Goodbye trackers, hello speed. Try it now.
-Addio spioni. Benvenuta navigazione veloce. Provala ora.
+Addio spioni. Benvenuta velocità. Provala ora.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -169,7 +169,7 @@ Firefox per iOS
 # State: normal (displayed without user interaction)
 # Link: https://www.mozilla.org/firefox/ios/
 ;New. Fast. Smart. Firefox for iOS is here.
-Nuovo. Veloce. Intelligente. È arrivato Firefox per iOS.
+Nuovo. Veloce. Intelligente. Benvenuto Firefox per iOS.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
