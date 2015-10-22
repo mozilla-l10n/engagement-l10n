@@ -6,102 +6,102 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: Өнім бойынша сауалнама
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Firefox Hello-ны досыңызға немесе жұмыстасқа ұсынуға қалай қарайсыз? (Шкала:  0 - мүмкіндік өте аз және 10 - ұсыну мүмкіндігі өте жоғары)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Сіз үшін Firefox Hello-ны қалай жақсарта аламыз?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Firefox Hello-ны бізді ұсына алу мүмкіндігіңізді арттыру үшін тағы қалай жақсарта аламыз?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+Firefox Hello-ның сізге осыншама пайдалы болған қандай мүмкіндігін атай аласыз?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+Қоңырауыңыздың сапасын бағалаңыз.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - Өте нашар
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - Тамаша
 
 
 # p-2
 ;Thank You!
-Thank You!
+Рахмет!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Сауалнаманы толтырғаныңыз үшін рахмет. Сіздің жауабыңыз біз үшін өте маңызды және Firefox Hello-ны жақсартуға көмектеседі.
 
 
 # required
 ;This question is required
-This question is required
+Бұл сұрақ міндетті
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Таңдаңыз --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Бұл сауалнама ағымдағы уақытта қосымша жауаптарды қабылдамайды. Рахмет!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Сіз бұл сауалнамаға қатысқансыз.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Басқа тілді таңдау
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Басқа тілде жалғастыру үшін, төмендегі сілтемелердің біреуіне шертіңіз.
 
 
 # back_button
 ;Back
-Back
+Артқа
 
 
 # next_button
 ;Next
-Next
+Келесі
 
 
 # submit_button
 ;Submit
-Submit
+Жіберу
 
 
 # clear_button
 ;Clear
-Clear
+Тазарту
 
 
 # page_error_message
