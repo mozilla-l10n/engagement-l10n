@@ -80,7 +80,7 @@ Private Browsing with Tracking Protection stops third party trackers cold. Look 
 # Link: (for reference, temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 # Snippet will display a doorhanger to highlight the new Tracking Protection feature in Private Browsing
 ;Firefox for Android now features Private Browsing with Tracking Protection. Say goodbye to trackers and hello to faster mobile browsing. Get it only in Firefox.
-Firefox for Android now features Private Browsing with Tracking Protection. Say goodbye to trackers and hello to faster mobile browsing. Get it only in Firefox.
+O Firefox para Android agora vem com o recurso de navegação privativa com proteção contra rastreamento. Diga adeus aos rastreadores e olá à navegação rápida. Apenas no Firefox.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -88,7 +88,7 @@ Firefox for Android now features Private Browsing with Tracking Protection. Say 
 # Link: (for reference, temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 # Snippet will display a doorhanger to highlight the new Tracking Protection feature in Private Browsing
 ;Goodbye third party trackers, hello speed. Firefox for Android now features faster Private Browsing with Tracking Protection. Get it only in Firefox.
-Goodbye third party trackers, hello speed. Firefox for Android now features faster Private Browsing with Tracking Protection. Get it only in Firefox.
+Adeus rastreadores de terceiros, Olá velocidade. O Firefox para Android apresenta a mais rápida navegação privativa com proteção contra rastreamento. Apenas no Firefox.
 
 
 # LIMIT: 40 characters (title). Please rephrase as needed to fit.
@@ -96,7 +96,7 @@ Goodbye third party trackers, hello speed. Firefox for Android now features fast
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Fast, smart and ready to rock.
-Fast, smart and ready to rock.
+Rápido, inteligente e pronto para usar.
 
 
 # LIMIT: 150 characters (body). Please rephrase as needed to fit.
@@ -104,7 +104,7 @@ Fast, smart and ready to rock.
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;It’s time for a better browser. Get Firefox for your iPhone, iPad or iPod touch. Send yourself a download link.
-It’s time for a better browser. Get Firefox for your iPhone, iPad or iPod touch. Send yourself a download link.
+É hora de um navegador melhor. Instale o Firefox no seu iPhone, iPad ou iPod touch. Envie um link para download para o seu dispositivo.
 
 
 # LIMIT: 40 characters (title). Please rephrase as needed to fit.
@@ -112,7 +112,7 @@ It’s time for a better browser. Get Firefox for your iPhone, iPad or iPod touc
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Have an iPhone, iPad or iPod touch?
-Have an iPhone, iPad or iPod touch?
+Tem um iPhone, iPad ou iPod touch?
 
 
 # LIMIT: 150 characters (body). Please rephrase as needed to fit.
@@ -120,7 +120,7 @@ Have an iPhone, iPad or iPod touch?
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;For fast mobile browsing, install Firefox, newly available from the App Store. Send yourself a download link.
-For fast mobile browsing, install Firefox, newly available from the App Store. Send yourself a download link.
+Para uma navegação rápida, instale o Firefox, disponível na App Store. Envie um link para download para o seu dispositivo.
 
 
 # LIMIT: 40 characters (title). Please rephrase as needed to fit.
@@ -128,7 +128,7 @@ For fast mobile browsing, install Firefox, newly available from the App Store. S
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;The wait is over, Apple fans.
-The wait is over, Apple fans.
+A espera acabou, fãs da Apple.
 
 
 # LIMIT: 150 characters (body). Please rephrase as needed to fit.
@@ -136,7 +136,7 @@ The wait is over, Apple fans.
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Get fast mobile browsing for your iPhone, iPad or iPod touch. Send yourself a download link.
-Get fast mobile browsing for your iPhone, iPad or iPod touch. Send yourself a download link.
+Navegação rápida no seu iPhone, iPad or iPod touch. Envie um link para download para o seu dispositivo.
 
 
 # LIMIT: 40 characters (title). Please rephrase as needed to fit.
@@ -144,7 +144,7 @@ Get fast mobile browsing for your iPhone, iPad or iPod touch. Send yourself a do
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Have an iPhone or iPad?
-Have an iPhone or iPad?
+Tem um iPhone ou iPad?
 
 
 # LIMIT: 150 characters (body). Please rephrase as needed to fit.
@@ -152,7 +152,7 @@ Have an iPhone or iPad?
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Skip the stock browser. Upgrade to Firefox, now available for iOS. Send yourself a download link
-Skip the stock browser. Upgrade to Firefox, now available for iOS. Send yourself a download link
+Saia do navegador padrão. Mude para o Firefox, agora disponível para iOS. Envie um link para download para o seu dispositivo
 
 
 # LIMIT: 40 characters (title). Please rephrase as needed to fit.
@@ -176,7 +176,7 @@ Get the non-profit, non-corporate browser for your iPad or iPod touch today. Sen
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Firefox on mobile, everywhere.
-Firefox on mobile, everywhere.
+Firefox no celular, em todos os lugares.
 
 
 # LIMIT: 150 characters (body). Please rephrase as needed to fit.
@@ -184,7 +184,7 @@ Firefox on mobile, everywhere.
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Fast, private, independent. The new Firefox is here for Android and iOS. Send yourself a download link.
-Fast, private, independent. The new Firefox is here for Android and iOS. Send yourself a download link.
+Rápido, privativo, independente. O novo Firefox está aqui para Android e iOS. Envie um link para download para seu dispositivo.
 
 
 # LIMIT: 60 characters (title). Please rephrase as needed to fit.
@@ -192,7 +192,7 @@ Fast, private, independent. The new Firefox is here for Android and iOS. Send yo
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Get the only Android browser with Tracking Protection
-Get the only Android browser with Tracking Protection
+Baixe o único navegador Android com proteção contra rastreamento
 
 
 # LIMIT: 150 characters (body). Please rephrase as needed to fit.
@@ -221,7 +221,7 @@ Have you protected your online info as securely as your property? Get Smart On C
 # Campaign: mobile snippets
 # Link: SmartOn Surveillance page, currently N/A
 ;Learn how government surveillance has gone digital, and what that means for your phone.
-Learn how government surveillance has gone digital, and what that means for your phone.
+Aprenda como a vigilância do governo se tornou digital e o que isso significa para seu telefone.
 
 
 # LIMIT: 140 characters (will be used on desktop). Please rephrase as needed to fit.
