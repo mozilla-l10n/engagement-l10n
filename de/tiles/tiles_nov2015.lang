@@ -41,7 +41,7 @@ Get Smart On Cybersecurity
 # State: normal (displayed without user interaction)
 # Link: SmartOn Cybersecurity page, currently N/A
 ;How strong is your password?
-How strong is your password?
+Wie sicher ist Ihr Passwort?
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -97,7 +97,7 @@ Outsmart the trackers
 # State: roll-over (displayed when the user moves the mouse on the tile). Will be also used as title for "Only in Firefox" tile
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Only in Firefox
-Only in Firefox
+Nur in Firefox
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -129,7 +129,7 @@ Firefox for Android
 # State: normal (displayed without user interaction)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Browse faster
-Browse faster
+Schneller surfen
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -137,7 +137,7 @@ Browse faster
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;With Private Browsing featuring Tracking Protection. Try it now.
-With Private Browsing featuring Tracking Protection. Try it now.
+Mithilfe des Schutzes vor Verfolgung von Aktivitäten beim privaten Surfen. Probieren Sie es jetzt aus.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -161,7 +161,7 @@ Goodbye trackers, hello speed. Try it now.
 # Displayed under the tile's image
 # Link: https://www.mozilla.org/firefox/ios/
 ;Firefox for iOS
-Firefox for iOS
+Firefox für iOS
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
