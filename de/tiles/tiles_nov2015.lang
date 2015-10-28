@@ -25,7 +25,7 @@ Haben Sie sich schon einmal gefragt…
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: SmartOn Tracking page, currently N/A
 ;Why some ads seem to be following you?
-Warum Sie manche Anzeigen zu verfolgen scheinen?
+Warum Ihnen manche Werbung folgt?
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -33,7 +33,7 @@ Warum Sie manche Anzeigen zu verfolgen scheinen?
 # Displayed under the tile's image
 # Link: SmartOn Cybersecurity page, currently N/A
 ;Get Smart On Cybersecurity
-Erfahren Sie mehr über Sicherheit im Internet
+Mehr Infos zu Sicherheit im Internet
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -81,7 +81,7 @@ Sollte die Regierung Sie verfolgen können?
 # Displayed under the tile's image
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Private Browsing with Tracking Protection
-Privates Surfen mit Schutz vor Aktivitätenverfolgung
+Privates Surfen mit Schutz vor Verfolgung
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -113,7 +113,7 @@ Machen Sie eine Pause von Big Data.
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Use Private Browsing with Tracking Protection.
-Surfen Sie privat mit dem Schutz vor Aktivitätenverfolgung.
+Privates Surfen mit Schutz vor Verfolgung
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -137,7 +137,7 @@ Schneller surfen
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;With Private Browsing featuring Tracking Protection. Try it now.
-Mithilfe des Schutzes vor Verfolgung von Aktivitäten beim privaten Surfen. Probieren Sie es jetzt aus.
+und ohne Verfolger im privaten Modus.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -145,7 +145,7 @@ Mithilfe des Schutzes vor Verfolgung von Aktivitäten beim privaten Surfen. Prob
 # State: normal (displayed without user interaction)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Private Browsing now features Tracking Protection
-Das private Surfen enthält nun einen Schutz vor Verfolgung von Aktivitäten
+Privates Surfen schützt nun vor Verfolgung.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -153,7 +153,7 @@ Das private Surfen enthält nun einen Schutz vor Verfolgung von Aktivitäten
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Goodbye trackers, hello speed. Try it now.
-Auf Wiedersehen Verfolgung. Hallo Geschwindigkeit. Probieren Sie es jetzt aus.
+Tschüss Verfolgung, hallo Geschwindigkeit.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -169,7 +169,7 @@ Firefox für iOS
 # State: normal (displayed without user interaction)
 # Link: https://www.mozilla.org/firefox/ios/
 ;New. Fast. Smart. Firefox for iOS is here.
-Neu. Schnell. Intelligent. Firefox für iOS ist da.
+Neu. Schnell. Intelligent: Firefox für iOS.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -177,6 +177,6 @@ Neu. Schnell. Intelligent. Firefox für iOS ist da.
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www.mozilla.org/firefox/ios/
 ;Get it for your iPhone, iPad or iPod touch
-Installieren Sie ihn auf Ihrem iPhone, iPad oder iPod touch
+Für iPhone, iPad oder iPod touch
 
 
