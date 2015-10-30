@@ -48,7 +48,7 @@ Law enforcement stake-outs have moved beyond binoculars, bugs and bad guys. It�
 # Link: (for reference, temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 # Snippet will display a doorhanger to highlight the new Tracking Protection feature in Private Browsing
 ;Third party trackers follow, follow, follow your trail around the Web. Smash them with Private Browsing in Firefox, the only browser with Tracking Protection. Try it.
-Rastreadores seguem, seguem, seguem todo o seu trajeto na internet. Esmague eles com a navegação privativa no Firefox, o único navegador com proteção contra rastreamento. Experimente.
+Rastreadores seguem, seguem, seguem o seu trajeto na internet. Esmague-os com a navegação privativa no Firefox, o único navegador com proteção contra rastreamento. Experimente.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -72,7 +72,7 @@ Faça uma pausa no grande volume de dados. Navegação privativa com proteção 
 # Link: (for reference, temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 # Snippet will display a doorhanger to highlight the new Tracking Protection feature in Private Browsing
 ;Private Browsing with Tracking Protection stops third party trackers cold. Look for the shield and take control over the data you share. Try it, only in Firefox.
-A navegação privativa com proteção contra rastreamento pára os rastreadores de terceiros rastreadores. Procure o escudo e assuma o controle sobre os dados que você compartilha. Experimente, apenas no Firefox.
+A navegação privativa com proteção contra rastreamento pára os rastreadores. Procure o escudo e assuma o controle sobre os dados que compartilha. Experimente, apenas no Firefox.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -192,7 +192,7 @@ Rápido, privativo, independente. O novo Firefox está aqui para Android e iOS. 
 # This is a special widget displayed in about:home which allows users to email or text themselves a mobile download link
 # The widget will look like this http://cl.ly/image/3U1G0u1Y3n1b
 ;Get the only Android browser with Tracking Protection
-Baixe o único navegador Android com proteção contra rastreamento
+O único navegador Android com proteção contra rastreamento
 
 
 # LIMIT: 150 characters (body). Please rephrase as needed to fit.
@@ -261,12 +261,12 @@ Você nos ajudará a lutar por uma web aberta para todos? Se todos que lêem ist
 # LIMIT: 140 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: EOY fundraising
 ;Firefox users: will you donate to Mozilla, the non-profit behind Firefox? If we all chipped in $3, we would be supported for another year.
-Usuários Firefox: Vocês doariam para a Mozilla, a fundação sem fins lucrativos por trás do Firefox? Se todos ajudarem com $3, nós nos manteríamos por mais um ano.
+Usuários Firefox: Vocês doariam para a Mozilla, a fundação por trás do Firefox? Se todos ajudarem com $3, teríamos recursos por mais um ano.
 
 
 # LIMIT: 140 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: EOY fundraising
 ;Take a personal stand against big data and donate to Mozilla. As a non-profit, we're protecting your rights on the Web. Donate now.
-Tome uma posição pessoal contra o grande volume de dados e doe para a Mozilla. Como um fundação sem fins lucrativos, estamos protegendo os seus direitos na Web. Doe agora.
+Tome uma posição pessoal e doe para a Mozilla. Como um fundação sem fins lucrativos, estamos protegendo os seus direitos na Web. Doe agora.
 
 
