@@ -19,14 +19,14 @@
 # Campaign: desktop snippets
 # Link: SmartOn Cybersecurity page, currently N/A
 ;Are you protecting your online information as securely as your personal property? Get Smart On Cybersecurity, right here.
-Вы защищаете свой информацию в Интернете так же надежно, как и личную собственность? Узнайте больше об киберзащите, прямо здесь.
+Вы защищаете свою информацию в Интернете так же надежно, как и личную собственность? Узнайте больше о киберзащите, прямо здесь.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: SmartOn Cybersecurity page, currently N/A
 ;Cybersecurity is actually quite simple. It just means protecting yourself and your information online. Get Smart On Cybersecurity.
-На самом деле понятие киберзащиты довольно несложно. Это просто означает защиту себя и своей информации в Интернете. Узнайте больше об киберзащите.
+На самом деле понятие киберзащиты довольно несложно. Это просто означает защиту себя и своей информации в Интернете. Узнайте больше о киберзащите.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -88,7 +88,7 @@ Firefox для Android теперь имеет Приватный просмот
 # Link: (for reference, temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 # Snippet will display a doorhanger to highlight the new Tracking Protection feature in Private Browsing
 ;Goodbye third party trackers, hello speed. Firefox for Android now features faster Private Browsing with Tracking Protection. Get it only in Firefox.
-Прощайте, чужие трекеры — привет, скорость. Firefox для Android повысил скорость Приватного просмотра и добавил Защиту от отслеживания. Получите его — только в Firefox.
+Прощайте, сторонние трекеры — привет, скорость. Firefox для Android повысил скорость Приватного просмотра и добавил Защиту от отслеживания. Получите его — только в Firefox.
 
 
 # LIMIT: 40 characters (title). Please rephrase as needed to fit.
@@ -214,7 +214,7 @@ Firefox на всех мобильных устройствах.
 # Campaign: mobile snippets
 # Link: SmartOn Cybersecurity page, currently N/A
 ;Have you protected your online info as securely as your property? Get Smart On Cybersecurity.
-Вы защищаете свой информацию в Интернете так же надежно, как и личную собственность? Узнайте больше о киберзащите.
+Вы защищаете свою информацию в Интернете так же надежно, как и личную собственность? Узнайте больше о киберзащите.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
@@ -235,7 +235,7 @@ Firefox на всех мобильных устройствах.
 # Campaign: mobile snippets
 # Link: (temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 ;Private Browsing now features Tracking Protection, only in Firefox. Try it.
-Приватный просмотр теперь имеет Защиту от отслеживания, только в Firefox. Попробуйте.
+В Приватный просмотр теперь добавлена Защита от отслеживания, только в Firefox. Попробуйте.
 
 
 # LIMIT: 140 characters (will be used on desktop). Please rephrase as needed to fit.
