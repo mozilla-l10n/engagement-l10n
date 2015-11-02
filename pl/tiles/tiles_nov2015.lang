@@ -17,7 +17,7 @@ Zrozum śledzenie
 # State: normal (displayed without user interaction)
 # Link: SmartOn Tracking page, currently N/A
 ;Ever wonder…
-Czy zastanawia Cię…
+Czy zastanawia Ciebie…
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -25,7 +25,7 @@ Czy zastanawia Cię…
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: SmartOn Tracking page, currently N/A
 ;Why some ads seem to be following you?
-Czemu niektóre reklamy sprawiają wrażenie, że Cię śledzą?
+Czemu niektóre reklamy sprawiają wrażenie, że Ciebie śledzą?
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -49,7 +49,7 @@ Jak mocne jest Twoje hasło?
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: SmartOn Cybersecurity page, currently N/A
 ;Protect yourself from cyber attacks
-Zapezpiecz się przed cyber atakami
+Zabezpiecz się przed cyber atakami
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -73,7 +73,7 @@ Jeśli nie jesteś podejrzany…
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: SmartOn Surveillance page, currently N/A
 ;Should the government be able to track you?
-Czy rząd powinien mieć prawo Cię śledzić?
+Czy rząd powinien mieć prawo Ciebie śledzić?
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -81,7 +81,7 @@ Czy rząd powinien mieć prawo Cię śledzić?
 # Displayed under the tile's image
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Private Browsing with Tracking Protection
-Prywatne przeglądanie i ochrona przed śledzeniem
+Przeglądanie prywatne i ochrona przed śledzeniem
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -89,7 +89,7 @@ Prywatne przeglądanie i ochrona przed śledzeniem
 # State: normal (displayed without user interaction). Original English text: "Outfox the trackers"
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Outsmart the trackers
-Przechytrz tych, którzy Cię śledzą
+Przechytrz śledzących
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -97,7 +97,7 @@ Przechytrz tych, którzy Cię śledzą
 # State: roll-over (displayed when the user moves the mouse on the tile). Will be also used as title for "Only in Firefox" tile
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Only in Firefox
-Tylko w Firefoksie
+Tylko w Firefoksie
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -113,7 +113,7 @@ Odpocznij od Big Data
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Use Private Browsing with Tracking Protection.
-Używaj prywatnego przeglądania i ochrony przed śledzeniem
+Używaj przeglądania prywatnego i ochrony przed śledzeniem
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -137,7 +137,7 @@ Przeglądaj szybciej
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;With Private Browsing featuring Tracking Protection. Try it now.
-Z prywatnym przeglądaniem oraz ochroną przed śledzeniem. Wypróbuj teraz.
+Z przeglądaniem prywatnym oraz ochroną przed śledzeniem. Wypróbuj teraz.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -145,7 +145,7 @@ Z prywatnym przeglądaniem oraz ochroną przed śledzeniem. Wypróbuj teraz.
 # State: normal (displayed without user interaction)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Private Browsing now features Tracking Protection
-Prywatne przeglądanie ma teraz ochronę przed śledzeniem
+Przeglądanie prywatne ma teraz ochronę przed śledzeniem
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -177,6 +177,6 @@ Nowy. Szybki. Sprytny. Firefox dla iOS już jest.
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www.mozilla.org/firefox/ios/
 ;Get it for your iPhone, iPad or iPod touch
-Pobierz go na urządzenia iPhone, iPad oraz iPod touch
+Pobierz go na iPhone, iPad oraz iPod touch
 
 
