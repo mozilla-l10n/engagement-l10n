@@ -105,7 +105,7 @@ Tylko w Firefoksie
 # State: normal (displayed without user interaction)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Take a break from Big Data.
-Odpocznij od Big Data
+Odpocznij od Big data
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -121,7 +121,7 @@ Używaj przeglądania prywatnego i ochrony przed śledzeniem
 # Displayed under the tile's image
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Firefox for Android
-Firefox dla Androida
+Firefox na Androida
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -161,7 +161,7 @@ Pożegnaj śledzących, powitaj szybkość. Wypróbuj teraz.
 # Displayed under the tile's image
 # Link: https://www.mozilla.org/firefox/ios/
 ;Firefox for iOS
-Firefox dla iOS
+Firefox na iOSa
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -169,7 +169,7 @@ Firefox dla iOS
 # State: normal (displayed without user interaction)
 # Link: https://www.mozilla.org/firefox/ios/
 ;New. Fast. Smart. Firefox for iOS is here.
-Nowy. Szybki. Sprytny. Firefox dla iOS już jest.
+Nowy. Szybki. Sprytny. Firefox na iOSa już jest.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -177,6 +177,6 @@ Nowy. Szybki. Sprytny. Firefox dla iOS już jest.
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www.mozilla.org/firefox/ios/
 ;Get it for your iPhone, iPad or iPod touch
-Pobierz go na iPhone, iPad oraz iPod touch
+Pobierz go na iPhone’a, iPada oraz iPoda touch
 
 
