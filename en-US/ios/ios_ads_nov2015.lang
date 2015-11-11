@@ -1,84 +1,119 @@
-## NOTE: The following text is for Facebook and Twitter ads: 1). text goes on the top and 2) bottom of the images 3) as well as going on the images as embedded text. Reference transvision.org to leverage some of the localized strings. 
+## NOTE: This file will be used to create ads for Firefox for iOS used on Facebook and Twitter. Reference bug: https://bugzilla.mozilla.org/show_bug.cgi?id=1223613
+## NOTE: You’ll be asked to review the final images when ready.
 
 
-# Facebook and Twitter Ads on top of images (limit to under 114 characters)
+## MAX_LENGTH: 116
+# LIMIT: 116 characters.
+# This text will be used on top of the image and as a tweet.
 ;Guess who's now available for iPhone.
 Guess who's now available for iPhone.
 
 
+## MAX_LENGTH: 116
+# LIMIT: 116 characters.
+# This text will be used on top of the image and as a tweet.
 ;Firefox for iOS is here. Celebrate accordingly.
 Firefox for iOS is here. Celebrate accordingly.
 
 
+## MAX_LENGTH: 116
+# LIMIT: 116 characters.
+# This text will be used on top of the image and as a tweet.
 ;Firefox for iOS is here. Tell your friends.
 Firefox for iOS is here. Tell your friends.
 
 
-# Apple has a "Shot on iPhone" campaign. This rhymes with it. 
-;Hot on iPhone 
-Hot on iPhone 
+## MAX_LENGTH: 116
+# LIMIT: 116 characters.
+# This text will be used on top of the image and as a tweet.
+# Apple has a "Shot on iPhone" campaign. This rhymes with it.
+;Hot on iPhone
+Hot on iPhone
 
 
-# Facebook Headline below image (limit to under 25 characters)
+## MAX_LENGTH: 25
+# LIMIT: 25 characters.
+# Used as Facebook headline below the image.
 ;Introducing Firefox for iOS
 Introducing Firefox for iOS
 
 
-# Facebook Copy below headline (limit to under 90 characters)
+## MAX_LENGTH: 90
+# LIMIT: 90 characters.
+# Used as Facebook headline below the image.
 ;Sorry to have kept you waiting.
 Sorry to have kept you waiting.
 
 
+## MAX_LENGTH: 90
+# LIMIT: 90 characters.
+# Used as Facebook headline below the image.
 ;Finally here, and here for good.
 Finally here, and here for good.
 
 
+## MAX_LENGTH: 90
+# LIMIT: 90 characters.
+# Used as Facebook headline below the image.
 ;New. Here. Now.
 New. Here. Now.
 
 
+## MAX_LENGTH: 90
+# LIMIT: 90 characters.
+# Used as Facebook headline below the image.
 ;Good things come to those who wait.
 Good things come to those who wait.
 
 
+## MAX_LENGTH: 90
+# LIMIT: 90 characters.
+# Used as Facebook headline below the image.
 ;Now on iOS? Oh, yes.
 Now on iOS? Oh, yes.
 
 
-# Text Ads - text embbeded in the image
+# Text Ads (embedded in the image). Try to keep the same length as English where possible.
 ;Hot on iPhone 6s
 Hot on iPhone 6s
 
 
+# Text Ads (embedded in the image). Try to keep the same length as English where possible.
 ;Fast as you know what.
 Fast as you know what.
 
 
+# Text Ads (embedded in the image). Try to keep the same length as English where possible.
 ;Fast. Clever. Nonprofit.
 Fast. Clever. Nonprofit.
 
 
-;Firefox for iOS. New. Here. Now.
-Firefox for iOS. New. Here. Now.
+# Text Ads (embedded in the image). Try to keep the same length as English where possible.
+;Firefox for iOS.<br> New.<br> Here.<br> Now.
+Firefox for iOS.<br> New.<br> Here.<br> Now.
 
 
+# Text Ads (embedded in the image). Try to keep the same length as English where possible.
 ;More than meets the iPhone.
 More than meets the iPhone.
 
 
+# Text Ads (embedded in the image). Try to keep the same length as English where possible.
 ;Firefox for iOS is here!
 Firefox for iOS is here!
 
 
+# Text Ads (embedded in the image). Try to keep the same length as English where possible.
 ;All you've waited for and more.
 All you've waited for and more.
 
 
-# CAll to Action
+# Call to Action
 ;Get Firefox for iOS
 Get Firefox for iOS
 
 
+# Call to Action
 ;Install Now
 Install Now
 
