@@ -6,106 +6,106 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: 제품 조사
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Firefox Hello를 친구나 동료에게 얼마나 추천하시겠어요? (척도: 0은 전대 추천하지 않음이고 10은 가장 적극적으로 추천함)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Firefox Hello를 개선하기위해 어떤 일이 필요할까요?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Firefox Hello를 추천하기 위해 무엇을 개선해야 할까요?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+Firefox Hello가 긍정적인 경험을 하게 해준 특별한 무엇이 있나요?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+통화 품질을 평가해 주세요.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - 아주 나쁨
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - 완벽함
 
 
 # p-2
 ;Thank You!
-Thank You!
+감사합니다!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+시간내어 조사에 참가해 주셔서 감사합니다. 응답해주신 내용은 Firefox Hello를 개선하는데 유용하게 사용될 것입니다.
 
 
 # required
 ;This question is required
-This question is required
+필수항목입니다
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- 선택해 주세요 --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+지금은 추가적인 응답을 필요로 하지 않습니다. 감사합니다!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+이미 조사에 참가하셨습니다.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+다른 언어 선택
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+다른 언어로 진행하시려면 아래 링크중에 하나를 클릭하세요.
 
 
 # back_button
 ;Back
-Back
+뒤로
 
 
 # next_button
 ;Next
-Next
+다음
 
 
 # submit_button
 ;Submit
-Submit
+전송
 
 
 # clear_button
 ;Clear
-Clear
+지우기
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+페이지에 오류가 있습니다. 필수 항목을 수정하고 다시 전송해 주세요. 첫번째 오류로 가기
 
 
