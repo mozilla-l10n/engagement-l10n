@@ -3,62 +3,62 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+ଅଧିକ ଜାଣନ୍ତୁ । ଅଧିକ କାମ କରନ୍ତୁ । ଭଲ ଭାବେ କରନ୍ତୁ ।
 
 
 # Tile 1 back
 ;Get Involved
-ଅନ୍ତର୍ଭୁକ୍ତ ହୋଇ
+ଯୋଗଦିଅନ୍ତୁ
 
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Mozilla ସମାଜ
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s
+ଆମେ %(mozilla_wordmark)
 
 
 # Tile 2 front
 ;Doing good is part of our code
-Doing good is part of our code
+କିଛି ଭଲ କରିବା ଆମ କୋଡ଼ର ଏକ ଅଂଶ
 
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+Firefox ପଛରେ ଥିବା ଅଣ-ଲାଭକାରୀ ସଂଗଠନ
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
 ;<span>Firefox</span> for Android
-<span>Firefox</span> for Android
+Android ପାଇଁ <span>Firefox</span>
 
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+ଅକ୍ଟୋବର 24-26, 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+ଲଣ୍ଡନ, ଯୁକ୍ତରାଜ୍ୟ | ରାଭେନ୍ସବୋର୍ଣ୍ଣ
 
 
 # Tile 5 description
 ;Mozilla Festival
-Mozilla Festival
+Mozilla ଫେଷ୍ଟିଭାଲ
 
 
 # Tile 6 front
 ;<strong>Our 10</strong> Principles
-<strong>Our 10</strong> Principles
+<strong>ଆମ 10ଟି</strong> ନୀତି
 
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Mozilla ନୀତି
 
 
 # Tile 7 front and back
@@ -68,7 +68,7 @@ Mozilla Principles
 
 # Tile 7 front and back
 ;Themes
-Themes
+ଥିମ
 
 
 # Tile 7 front and back
@@ -78,31 +78,31 @@ Themes
 
 # Tile 7 front and back
 ;Awesome Bar
-ଅଦ୍ଭୁତ ପଟି
+ସୁନ୍ଦର ପଟି
 
 
 # Tile 7 description
 ;Customize Firefox
-Firefox କୁ ଇଚ୍ଛାମୂତାବକ ସଜାନ୍ତୁ
+Firefoxକୁ ଇଚ୍ଛାମୁତାବକ ସଜାନ୍ତୁ
 
 
 # Tile 8 front
 ;Shared Knowledge for the Open Web
-Shared Knowledge for the Open Web
+ଖୋଲା ୱେବ ପାଇଁ ଜ୍ଞାନ ବିତରଣ କରନ୍ତୁ
 
 
 # Tile 8 description
 ;Mozilla Developer Network
-Mozilla Developer Network
+Mozilla Developer Network {ok}
 
 
 # Tile 9 back
 ;Get fresh and new apps for Firefox
-Get fresh and new apps for Firefox
+Firefox ପାଇଁ ନୂଆ ଓ ସତେଜ ଆପ ପାଆନ୍ତୁ
 
 
 # Tile 9 description
 ;Firefox Marketplace
-Firefox Marketplace
+Firefox ମାର୍କେଟପ୍ଲେସ
 
 
