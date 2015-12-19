@@ -1,4 +1,4 @@
-## NOTE: Reference bug 1233252, deadline Jan 14, 2016.
+## NOTE: Reference bug 1233252: deadline Jan 14, 2016.
 ## NOTE: These strings are used to generate tiles in New tab, e.g. https://bug1167339.bugzilla.mozilla.org/attachment.cgi?id=8628294
 ## NOTE: The static and roll-over text will be used to create images displayed in the tiles. The title is displayed under the tile.
 ## NOTE: Since the actual width will vary based on the characters used ("m" is larger than "l"), we can't set a fixed lenght limit.
@@ -17,7 +17,7 @@ La raccolta del mese
 # State: normal (displayed without user interaction)
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/fo/
 ;Explore foxy themes
-Scopri i temi della “volpe”
+Scopri i temi della volpe
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -33,7 +33,7 @@ Ispirati al logo di Firefox
 # Displayed under the tile's image
 # Link: https://addons.mozilla.org//firefox/collections/mozmj/organization/
 ;New year, new habits
-Anno nuovo, nuovi vestiti
+Anno nuovo, nuove abitudini
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -49,7 +49,7 @@ Organizza la tua vita online…
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://addons.mozilla.org//firefox/collections/mozmj/organization/
 ;With these five add-ons
-–con questi cinque componenti aggiuntivi
+–con queste cinque estensioni
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -57,7 +57,7 @@ Organizza la tua vita online…
 # Displayed under the tile's image
 # Link: https://www.mozilla.org/teach/smarton/surveillance
 ;Get Smart On Surveillance
-Diventa esperto in sorveglianza di Stato
+Diventa esperto in sorveglianza
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -73,7 +73,7 @@ Lo Stato ha il diritto di spiarti?
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www.mozilla.org/teach/smarton/surveillance
 ;Learn more about Mozilla's position
-Conosci il pensiero di Mozilla sul tema
+Scopri l’opinione di Mozilla in merito
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -81,7 +81,7 @@ Conosci il pensiero di Mozilla sul tema
 # Displayed under the tile's image
 # Link: https://www.mozilla.org/privacy/tips/
 ;January 28 is Data Privacy Day
-Il 28 gennaio sarà il giorno della privacy
+28 gennaio: giorno della privacy
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -89,7 +89,7 @@ Il 28 gennaio sarà il giorno della privacy
 # State: normal (displayed without user interaction)
 # Link: https://www.mozilla.org/privacy/tips/
 ;Take control of your privacy in four easy steps
-Difendi la tua privacy con quattro semplici mosse
+Difendi la tua privacy in quattro semplici mosse
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -97,6 +97,6 @@ Difendi la tua privacy con quattro semplici mosse
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www.mozilla.org/privacy/tips/
 ;Get Smart On Privacy
-Diventa un esperto in privacy
+Diventa un esperto di privacy
 
 
