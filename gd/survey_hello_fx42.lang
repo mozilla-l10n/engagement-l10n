@@ -6,106 +6,106 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: Suirbhidh bathair
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Am moladh tu Firefox Hello do charaid no co-obraiche? (Tha 0 a’ ciallachadh nach eil dòigh fon ghrèin gum moladh agus 10 gum moladh tu e gun teagamh sam bith)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Ciamar a dhèanamaid Firefox Hello nas fhearr dhut?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Ciamar a leasaicheamaid Firefox Hello ach am moladh tu e do dhaoine eile?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+A bheil rud sònraichte ann mu dhèidhinn Firefox Hello a rinn cho tlachdmhor dhut e?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+Dè cho math ’s a bha a’ ghairm?
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - Glè bhochd
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - Air leth
 
 
 # p-2
 ;Thank You!
-Thank You!
+Gun robh math agad!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Mòran taing airson an t-suirbhidh againn a lìonadh. Tha do bheachdan air cudromach dhuinn agus nì sinn nas fhearr Firefox Hello dhan a h-uile duine an cois bheachdan mar seo.
 
 
 # required
 ;This question is required
-This question is required
+Feumaidh tu a’ cheist seo a fhreagairt
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Dèan taghadh --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Chan eil an t-suirbhidh a’ gabhail ri freagairtean eile aig an àm seo ach tapadh leat!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Lìon thu an t-suirbhidh seo roimhe.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Tagh cànan eile
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Briog air aon dhe na ceanglaichean gu h-ìosal a leantainn air adhart ann an cànan eile.
 
 
 # back_button
 ;Back
-Back
+Air ais
 
 
 # next_button
 ;Next
-Next
+Air adhart
 
 
 # submit_button
 ;Submit
-Submit
+Cuir
 
 
 # clear_button
 ;Clear
-Clear
+Falamhaich
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Bha mearachd air an duilleag agad. Coilean raon sam bith a tha riatanach agus cuir a-rithist e. Till gun chiad mhearachd
 
 
