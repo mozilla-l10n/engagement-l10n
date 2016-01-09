@@ -12,14 +12,14 @@
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/privacy/tips/
 ;You have the power to take (back) control of your Web experience. <a>Learn about online privacy issues like surveillance, cybersecurity and tracking</a>.
-You have the power to take (back) control of your Web experience. <a>Learn about online privacy issues like surveillance, cybersecurity and tracking</a>.
+У вас есть право (снова) взять под контроль свое пребывание в Интернете. <a>Узнайте о таких проблемах с приватностью как наблюдение, отслеживание и кибербезопасность</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/private-browsing/
 ;Private Browsing with Tracking Protection stops third party trackers cold. Look for the shield and take control over the data you share. <a>Try it, only in Firefox</a>.
-Приватный просмотр с Защитой от отслеживания мгновенно останавливает сторонние трекеры. Найдите значок щита и возьмите под контроль данные. <a>Попробуйте — только в Firefox</a>.
+Приватный просмотр с Защитой от отслеживания мгновенно останавливают сторонние трекеры. Найдите значок щита и возьмите под контроль данные. <a>Попробуйте — только в Firefox</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -47,14 +47,14 @@ You have the power to take (back) control of your Web experience. <a>Learn about
 # Campaign: desktop snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/fo/
 ;Inspired by our logo, theme designers have taken the Firefox love to new heights. <a>Check out this month's foxy theme collection</a>.
-Inspired by our logo, theme designers have taken the Firefox love to new heights. <a>Check out this month's foxy theme collection</a>.
+Вдохновленные нашим логотипом, дизайнеры тем подняли любовь к Firefox на новую высоту. <a>Взгляните на подборку тем Firefox в этом месяце</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: none. Thanking users for donating to our End of Year Fundraising campaign.
 ;You made our year! Thanks to your generous donations, Mozilla can work even harder to ensure the Internet is a global public resource, open and accessible to all.
-You made our year! Thanks to your generous donations, Mozilla can work even harder to ensure the Internet is a global public resource, open and accessible to all.
+Большое спасибо! Благодаря вашим щедрым пожертвованиям Mozilla сможет ещё больше работать над тем, чтобы Интернет был публичным ресурсом, открытым и доступным для всех и каждого.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -62,14 +62,14 @@ You made our year! Thanks to your generous donations, Mozilla can work even hard
 # Link: https://addons.mozilla.org//firefox/collections/mozmj/organization/
 # “Turn over a leaf” is an idiomatic expression, it means “to begin anew, make a fresh start”.
 ;Turning over a new leaf in the new year? Here are five great add-ons to keep your online life organized. <a>Try one today</a>.
-Turning over a new leaf in the new year? Here are five great add-ons to keep your online life organized. <a>Try one today</a>.
+Переворачиваете в новом году новую страницу? Вот пять отличных дополнений, которые помогут организовать вашу жизнь в онлайне. <a>Попробуйте одно из них прямо сегодня</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://accounts.firefox.com/signup
 ;On the go? Your bookmarks, history, tabs and more are a convenient click away, everywhere you use Firefox. <a>Get it with your Firefox Account</a>.
-On the go? Your bookmarks, history, tabs and more are a convenient click away, everywhere you use Firefox. <a>Get it with your Firefox Account</a>.
+Находитесь в пути? Ваши закладки, история, вкладки и многое другое будут всего на расстоянии щелчка — везде, где вы используете Firefox. <a>Получите это с Аккаунтом Firefox</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -90,35 +90,35 @@ On the go? Your bookmarks, history, tabs and more are a convenient click away, e
 # Campaign: desktop snippets
 # Link: https://support.mozilla.org/
 ;Need assistance with a feature in Firefox? Find answers to your questions from our support team. <a>Get help now</a>.
-Нужна помощь с функцией в Firefox? Узнайте ответы на ваши вопросы у нашей службы поддержки. <a>Получите помощь прямо сейчас</a>.
+Нужна помощь с функцией из Firefox? Узнайте ответы на ваши вопросы у нашей службы поддержки. <a>Получите помощь прямо сейчас</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/pocket/
 ;Tag those informative-at-some-point cooking/parenting/sports/travel articles for later reading with Pocket in Firefox. <a>Try it now</a>.
-Tag those informative-at-some-point cooking/parenting/sports/travel articles for later reading with Pocket in Firefox. <a>Try it now</a>.
+Отметьте эти полезные-в-будущем статьи о рецептах/воспитании/спорте/путешествиях, чтобы прочитать их позже с помощью Pocket в Firefox. <a>Попробуйте это сейчас</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: none. It's a mobile widget asking users to send themselves a download link via text or email.
 ;Did you get a new phone for the new year? Start out right by getting Firefox on your mobile.
-На новый год вы обзавелись новым телефоном? Начните год, установив на него Firefox.
+Обзавелись на новый год новым телефоном? Начните год, установив на него Firefox.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: none. It's a mobile widget asking users to send themselves a download link via text or email.
 ;Did you get a new iPhone, iPad or iPod touch this holiday season? Give yourself the gift of Firefox on your new toy.
-В этот праздничный сезон вы получили новый iPhone, iPad или iPod touch? Подарите себе Firefox и установите его на свою новую игрушку.
+В этот праздничный сезон вы приобрели новый iPhone, iPad или iPod touch? Подарите себе Firefox и установите его на свою новую игрушку.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: none. It's a mobile widget asking users to send themselves a download link via text or email.
 ;Did you get a new Android smart phone or tablet this holiday season? Add Firefox, the perfect accessory.
-В этот праздничный сезон вы получили новый смартфон или планшет на Android? Добавьте в него идеальный аксессуар — Firefox.
+В этот праздничный сезон вы приобрели новый смартфон или планшет на Android? Добавьте в него идеальный аксессуар — Firefox.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -146,14 +146,14 @@ Firefox был создан для безупречной работы с Window
 # Campaign: mobile snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/fo/
 ;Check out this month's Firefoxy theme collection.
-Взгляните на подборку тем Firefox для этого месяца.
+Взгляните на подборку тем Firefox в этом месяце.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: None. Thanking users for donating to our End of Year Fundraising campaign.
 ;Thank you for your generous donations to Mozilla. You made our year!
-Благодарим вас за ваши щедрые пожертвования в Mozilla. Вы сделали нас очень счастливыми!
+Благодарим вас за ваши щедрые пожертвования в Mozilla. Большое спасибо!
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
