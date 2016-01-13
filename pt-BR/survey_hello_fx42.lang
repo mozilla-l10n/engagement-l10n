@@ -11,22 +11,22 @@ Firefox Hello: Pesquisa de produto
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-Qual a probabilidade de você recomendar o Firefox Hello para um amigo ou colega? (Escala: 0 não é muito provável que recomendo e 10 é extremamente provável que recomendo)
+Qual a probabilidade de recomendar o Firefox Hello a um amigo ou colega? (Escala: 0 se não for provável e 10 se for extremamente provável)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-O que podemos fazer para melhorar o Firefox Hello para você?
+O que podemos fazer para melhorar o Firefox Hello?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-Como podemos melhorar o Firefox Hello para torná-lo mais provável de ser recomendado?
+Como podemos melhorar o Firefox Hello para torná-lo mais recomendável?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Houve alguma coisa em particular que fez do Firefox Hello uma experiência positiva para você?
+Teve algo em particular que fez do Firefox Hello uma experiência positiva para você?
 
 
 # q-23
@@ -51,7 +51,7 @@ Obrigado!
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Obrigado pelo tempo dedicado para concluir nossa pesquisa. Sua resposta é muito importante para nós e vai ajudar a tornar o Firefox Hello melhor para os nossos usuários.
+Obrigado pelo tempo dedicado para concluir nossa pesquisa. Sua resposta é muito importante para nós e ajudará a tornar o Firefox Hello melhor para os nossos usuários.
 
 
 # required
@@ -61,27 +61,27 @@ Esta questão é necessária
 
 # selectone
 ;-- Please Select --
--- Por favor selecione --
+-- Por favor, selecione --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-Esta pesquisa não está aceitando respostas adicionais neste momento. Obrigado!
+Esta pesquisa não está aceitando mais respostas neste momento. Obrigado!
 
 
 # block_by_message
 ;You have already completed this survey.
-Você já concluiu a esta pesquisa.
+Já concluiu esta pesquisa.
 
 
 # language_bar_select_text
 ;Select another language
-Selecione outro idioma
+Selecionar outro idioma
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-Para continuar em outro idioma, por favor clique em um dos links abaixo.
+Para continuar em outro idioma, clique em um dos links abaixo.
 
 
 # back_button
@@ -106,6 +106,6 @@ Limpar
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-Houve um erro na sua página. Por favor corrija qualquer campo exigido e envie novamente. Vá para o primeiro erro
+Houve um erro na sua página. Por favor corrija qualquer campo necessário e envie novamente. Ir para o primeiro erro
 
 
