@@ -3,7 +3,7 @@
 
 # Tile 1 front
 ;Know more. Do more. Do better.
-Know more. Do more. Do better.
+გაიგეთ მეტი. გააკეთეთ მეტი. გააკეთეთ უკეთ.
 
 
 # Tile 1 back
@@ -13,22 +13,22 @@ Know more. Do more. Do better.
 
 # Tile 1 description
 ;Mozilla Community
-Mozilla Community
+Mozilla საზოგადება
 
 
 # Tile 2 front. Do not translate %(mozilla_wordmark)s.
 ;We are %(mozilla_wordmark)s
-We are %(mozilla_wordmark)s
+ჩვენ ვართ %(mozilla_wordmark)s
 
 
 # Tile 2 front
 ;Doing good is part of our code
-Doing good is part of our code
+კარგის კეთება ჩვენი კოდის ნაწილია
 
 
 # Tile 2 description
 ;The Non-profit Behind Firefox
-The Non-profit Behind Firefox
+არაკომერციული ორგანიზაცია Firefox-ის უკან
 
 
 # Tile 4 back and description. Do not translate <span>Firefox</span>.
@@ -38,32 +38,32 @@ The Non-profit Behind Firefox
 
 # Tile 5 back
 ;Oct 24-26, 2014
-Oct 24-26, 2014
+ოქტ. 24-26, 2014
 
 
 # Tile 5 back
 ;London, UK | Ravensbourne
-London, UK | Ravensbourne
+ლონდონი, დბ | რეივენსბურნი
 
 
 # Tile 5 description
 ;Mozilla Festival
-Mozilla Festival
+Mozilla ფესტივალი
 
 
 # Tile 6 front
 ;<strong>Our 10</strong> Principles
-<strong>Our 10</strong> Principles
+<strong>ჩვენი 10</strong> პრინციპი
 
 
 # Tile 6 description
 ;Mozilla Principles
-Mozilla Principles
+Mozilla-ს პრინციპები
 
 
 # Tile 7 front and back
 ;More ways to customize
-More ways to customize
+მეტი გზა მოსარგებად
 
 
 # Tile 7 front and back
@@ -73,17 +73,17 @@ More ways to customize
 
 # Tile 7 front and back
 ;Add-ons
-პაკეტები
+დამატებები
 
 
 # Tile 7 front and back
 ;Awesome Bar
-Awesome Bar
+მისამართის ჭკვიანი ზოლი
 
 
 # Tile 7 description
 ;Customize Firefox
-Customize Firefox
+მოირგეთ Firefox
 
 
 # Tile 8 front
