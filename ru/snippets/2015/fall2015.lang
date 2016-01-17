@@ -72,7 +72,7 @@
 # Link: (for reference, temporary) https://www-demo5.allizom.org/firefox/private-browsing/
 # Snippet will display a doorhanger to highlight the new Tracking Protection feature in Private Browsing
 ;Private Browsing with Tracking Protection stops third party trackers cold. Look for the shield and take control over the data you share. Try it, only in Firefox.
-Приватный просмотр с Защитой от отслеживания мгновенно останавливает стороние трекеры. Найдите значок щита и возьмите под контроль свои данные. Попробуйте это — только в Firefox.
+Приватный просмотр с Защитой от отслеживания мгновенно останавливает сторонние трекеры. Найдите значок щита и возьмите под контроль свои данные. Попробуйте это — только в Firefox.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
