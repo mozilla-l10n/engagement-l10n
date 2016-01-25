@@ -6,7 +6,7 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: Survei Produk
 
 
 # q-2
@@ -16,12 +16,12 @@ How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:Â
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Apa yang dapat kami lakukan untuk meningkatkan Firefox Hello?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Bagaimana kami dapat meningkatkan Firefox Hello untuk membuat anda lebih tertarik untuk merekomendasikannya?
 
 
 # q-11
@@ -36,7 +36,7 @@ Please rate the quality of your call.
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - Sangat Kurang
 
 
 # q-23-o-10081
@@ -46,7 +46,7 @@ Please rate the quality of your call.
 
 # p-2
 ;Thank You!
-Thank You!
+Terima Kasih!
 
 
 # q-1
@@ -61,7 +61,7 @@ This question is required
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Pilih --
 
 
 # survey_closed
@@ -76,7 +76,7 @@ You have already completed this survey.
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Pilih bahasa lain
 
 
 # language_bar_description_text
@@ -86,7 +86,7 @@ To continue in another language, please click one of the links below.
 
 # back_button
 ;Back
-Back
+Kembali
 
 
 # next_button
