@@ -1,0 +1,111 @@
+## NOTE: Survey for Firefox Hello and Firefox 42. Reference: bug 1184838
+## NOTE: This survey will be proposed to Firefox Hello users after a call.
+## NOTE: It will be used when Firefox 42 enters Beta (Sep 22), but team needs at least a week to import translations in SurveyGizmo.
+## NOTE: Comment like 'survey-title', 'q-2' are used to automated the export in Excel format, don't modify them.
+
+
+# survey-title
+;Firefox Hello: Product Survey
+Firefox Hello: Анкета о производу
+
+
+# q-2
+;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Која је вероватноћа да препоручите пријатељу или колеги Firefox Hello? (Оцењивање: 0 значи да је јако мала шанса да бисте препоручили, а 10 значи да бисте дефинитивно препоручили)
+
+
+# q-8
+;What could we do to improve Firefox Hello for you?
+Шта можемо учинити како бисмо унапредили Firefox Hello?
+
+
+# q-9
+;How can we improve Firefox Hello to make you more likely to recommend us?
+Како можемо унапредити Firefox Hello да бисмо повећали шансе да нас препоручите?
+
+
+# q-11
+;Was there anything in particular that made Firefox Hello such a positive experience for you?
+Да ли постоји нешто специфично што је оставило тако позитиван утисак о Firefox Hello?
+
+
+# q-23
+;Please rate the quality of your call.
+Оцените квалитет позива.
+
+
+# q-23-o-10077
+;1 - Very Poor
+1 - Јако лош
+
+
+# q-23-o-10081
+;5 - Excellent
+5 - Одличан
+
+
+# p-2
+;Thank You!
+Хвала!
+
+
+# q-1
+;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Захваљујемо се што сте издвојили време за ову анкету. Ваши одговори су нам од великог значаја и помоћиће нам да учинимо Firefox Hello бољим за наше кориснике.
+
+
+# required
+;This question is required
+Ово питање је обавезно
+
+
+# selectone
+;-- Please Select --
+-- Изаберите --
+
+
+# survey_closed
+;This survey is not accepting additional responses at this time. Thank You!
+Ова анкета не прима накнадне одговоре у ово време. Хвала!
+
+
+# block_by_message
+;You have already completed this survey.
+Већ сте попунили ову анкету.
+
+
+# language_bar_select_text
+;Select another language
+Изаберите други језик
+
+
+# language_bar_description_text
+;To continue in another language, please click one of the links below.
+Да бисте наставили на другом језику, кликните на један од линкова испод.
+
+
+# back_button
+;Back
+Назад
+
+
+# next_button
+;Next
+Следеће
+
+
+# submit_button
+;Submit
+Пошаљи
+
+
+# clear_button
+;Clear
+Избриши
+
+
+# page_error_message
+;There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Дошло је до грешке на страници. Исправите обавезна поља и поново пошаљите. Пређите на прву грешку
+
+

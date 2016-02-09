@@ -1,0 +1,111 @@
+## NOTE: Survey for Firefox Hello and Firefox 42. Reference: bug 1184838
+## NOTE: This survey will be proposed to Firefox Hello users after a call.
+## NOTE: It will be used when Firefox 42 enters Beta (Sep 22), but team needs at least a week to import translations in SurveyGizmo.
+## NOTE: Comment like 'survey-title', 'q-2' are used to automated the export in Excel format, don't modify them.
+
+
+# survey-title
+;Firefox Hello: Product Survey
+Firefox Hello: Produktundersøgelse
+
+
+# q-2
+;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Hvor sandsynligt er det, at du vil anbefale Firefox Hello til en ven eller kollega? (Skala:  0 betyder ikke særligt sandsynligt og 10 betyder særdeles sandsynligt)
+
+
+# q-8
+;What could we do to improve Firefox Hello for you?
+Hvad kan vi gøre for at forbedre Firefox Hello?
+
+
+# q-9
+;How can we improve Firefox Hello to make you more likely to recommend us?
+Hvordan kan vi forbedre Firefox Hello, så det er mere sandsynligt, at du vil anbefale os?
+
+
+# q-11
+;Was there anything in particular that made Firefox Hello such a positive experience for you?
+Var der noget specielt, der gjorde Firefox Hello til en positiv oplevelse for dig?
+
+
+# q-23
+;Please rate the quality of your call.
+Bedøm kvaliteten af dit samtale.
+
+
+# q-23-o-10077
+;1 - Very Poor
+1 - Meget dårlig
+
+
+# q-23-o-10081
+;5 - Excellent
+5 - Fremragende
+
+
+# p-2
+;Thank You!
+Tak!
+
+
+# q-1
+;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Tak fordi du tog tid til at gennemføre vores undersøgelse. Dine svar er meget vigtige for os og vil hjælpe os med at forbedre Firefox Hello for vores brugere.
+
+
+# required
+;This question is required
+Dette spørgsmål skal besvares
+
+
+# selectone
+;-- Please Select --
+-- Vælg --
+
+
+# survey_closed
+;This survey is not accepting additional responses at this time. Thank You!
+Undersøgelsen modtager ikke flere svar i øjeblikket. Tak!
+
+
+# block_by_message
+;You have already completed this survey.
+Du har allerede besvaret denne undersøgelse.
+
+
+# language_bar_select_text
+;Select another language
+Vælg andet sprog
+
+
+# language_bar_description_text
+;To continue in another language, please click one of the links below.
+Klik på et af linkene nedenunder for at fortsætte på et andet sprog.
+
+
+# back_button
+;Back
+Tilbage
+
+
+# next_button
+;Next
+Næste
+
+
+# submit_button
+;Submit
+Indsend
+
+
+# clear_button
+;Clear
+Ryd
+
+
+# page_error_message
+;There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Der er en fejl på din side. Udfyld eventuelle obligatoriske felter og indsend igen. Gå til den første fejl
+
+

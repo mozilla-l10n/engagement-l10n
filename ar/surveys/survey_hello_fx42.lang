@@ -1,0 +1,111 @@
+## NOTE: Survey for Firefox Hello and Firefox 42. Reference: bug 1184838
+## NOTE: This survey will be proposed to Firefox Hello users after a call.
+## NOTE: It will be used when Firefox 42 enters Beta (Sep 22), but team needs at least a week to import translations in SurveyGizmo.
+## NOTE: Comment like 'survey-title', 'q-2' are used to automated the export in Excel format, don't modify them.
+
+
+# survey-title
+;Firefox Hello: Product Survey
+Firefox Hello: استبيان للمنتج
+
+
+# q-2
+;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+ماهي احتمالية أن توصي بـ Firefox Hello لصديق أو زميل؟ (مقياس: 0 ليس من المُرجح جدا و10  مُرجح للغاية)
+
+
+# q-8
+;What could we do to improve Firefox Hello for you?
+ما يمكن عمله لتحسين Firefox Hello لك؟
+
+
+# q-9
+;How can we improve Firefox Hello to make you more likely to recommend us?
+كيف يمكننا تحسين Firefox Hello لكي توصي به أكثر؟
+
+
+# q-11
+;Was there anything in particular that made Firefox Hello such a positive experience for you?
+هل هناك شيء محدد جعل تجربتك مع Firefox Hello جيدة؟
+
+
+# q-23
+;Please rate the quality of your call.
+رجاءا اختر جودة المكالمة.
+
+
+# q-23-o-10077
+;1 - Very Poor
+1 - سيئة جدا
+
+
+# q-23-o-10081
+;5 - Excellent
+5 - ممتازة
+
+
+# p-2
+;Thank You!
+شكرا!
+
+
+# q-1
+;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+شكرا لك لإكمال استبياننا. ردك هو مهم جدا بالنسبة لنا، وسوف تساعد على جعل Firefox Hello أفضل لمستخدمينا.
+
+
+# required
+;This question is required
+هذا السؤال اجباري
+
+
+# selectone
+;-- Please Select --
+-- رجاءا اختر --
+
+
+# survey_closed
+;This survey is not accepting additional responses at this time. Thank You!
+هذا الاستبيان لا يقبل ردود إضافية في هذا الوقت. شكرا!
+
+
+# block_by_message
+;You have already completed this survey.
+قمت مسبقا بتعبئة الاستبيان.
+
+
+# language_bar_select_text
+;Select another language
+اختر لغة أخرى
+
+
+# language_bar_description_text
+;To continue in another language, please click one of the links below.
+لكي تكمل بلغة أخرى، رجاءا انقر على احد الروابط ادناه.
+
+
+# back_button
+;Back
+رجوع
+
+
+# next_button
+;Next
+التالي
+
+
+# submit_button
+;Submit
+أرسل
+
+
+# clear_button
+;Clear
+امسح
+
+
+# page_error_message
+;There was an error on your page. Please correct any required fields and submit again. Go to the first error
+وجِد خطأ في صفحتك. يرجى تصحيح أي الحقول المطلوبة وأرسله مرة أخرى. انتقل إلى الخطأ الأول
+
+

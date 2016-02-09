@@ -1,0 +1,111 @@
+## NOTE: Survey for Firefox Hello and Firefox 42. Reference: bug 1184838
+## NOTE: This survey will be proposed to Firefox Hello users after a call.
+## NOTE: It will be used when Firefox 42 enters Beta (Sep 22), but team needs at least a week to import translations in SurveyGizmo.
+## NOTE: Comment like 'survey-title', 'q-2' are used to automated the export in Excel format, don't modify them.
+
+
+# survey-title
+;Firefox Hello: Product Survey
+Firefox Hello: Retschertga davart il product
+
+
+# q-2
+;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Con probabel recumondas ti Firefox Hello ad in ami u collega? (Scala: 0 munta betg probabel e 10 munta fitg probabel)
+
+
+# q-8
+;What could we do to improve Firefox Hello for you?
+Tge pudessan nus far per far meglier Firefox Hello per tai?
+
+
+# q-9
+;How can we improve Firefox Hello to make you more likely to recommend us?
+Co pudain nus meglierar Firefox Hello per ch'i daventa pli probabel che ti recumondas il product?
+
+
+# q-11
+;Was there anything in particular that made Firefox Hello such a positive experience for you?
+Datti insatge spezial che ha fatg che Firefox Hello è ina experientscha uschè positiva per tai?
+
+
+# q-23
+;Please rate the quality of your call.
+Giuditgescha la qualitad dal clom.
+
+
+# q-23-o-10077
+;1 - Very Poor
+1- Fitg nausch
+
+
+# q-23-o-10081
+;5 - Excellent
+5- Excellent
+
+
+# p-2
+;Thank You!
+Grazia fitg!
+
+
+# q-1
+;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Grazia per prender il temp dad emplenir la retschertga. Tia resposta è fitg impurtanta per nus ed ans gida da far meglier Firefox Hello per noss utilisaders.
+
+
+# required
+;This question is required
+Questa dumonda è necessaria
+
+
+# selectone
+;-- Please Select --
+-- Tscherna p.pl. --
+
+
+# survey_closed
+;This survey is not accepting additional responses at this time. Thank You!
+Questa retschertga n'accepta actualmain naginas respostas. Grazia!
+
+
+# block_by_message
+;You have already completed this survey.
+Ti has gia emplenì questa retschertga.
+
+
+# language_bar_select_text
+;Select another language
+Tscherner in'autra lingua
+
+
+# language_bar_description_text
+;To continue in another language, please click one of the links below.
+Per cuntinuar en in'autra lingua pos ti cliccar sin ina da las colliaziuns sutvart.
+
+
+# back_button
+;Back
+Enavos
+
+
+# next_button
+;Next
+Enavant
+
+
+# submit_button
+;Submit
+Trametter
+
+
+# clear_button
+;Clear
+Svidar
+
+
+# page_error_message
+;There was an error on your page. Please correct any required fields and submit again. Go to the first error
+I dat ina errur sin tia pagina. Curregia p.pl. tut ils champs basegnads e trametta danovamain. Ir a l'emprima errur
+
+

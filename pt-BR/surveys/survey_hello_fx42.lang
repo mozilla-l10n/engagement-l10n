@@ -1,0 +1,111 @@
+## NOTE: Survey for Firefox Hello and Firefox 42. Reference: bug 1184838
+## NOTE: This survey will be proposed to Firefox Hello users after a call.
+## NOTE: It will be used when Firefox 42 enters Beta (Sep 22), but team needs at least a week to import translations in SurveyGizmo.
+## NOTE: Comment like 'survey-title', 'q-2' are used to automated the export in Excel format, don't modify them.
+
+
+# survey-title
+;Firefox Hello: Product Survey
+Firefox Hello: Pesquisa de produto
+
+
+# q-2
+;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Qual a probabilidade de recomendar o Firefox Hello a um amigo ou colega? (Escala: 0 se não for provável e 10 se for extremamente provável)
+
+
+# q-8
+;What could we do to improve Firefox Hello for you?
+O que podemos fazer para melhorar o Firefox Hello?
+
+
+# q-9
+;How can we improve Firefox Hello to make you more likely to recommend us?
+Como podemos melhorar o Firefox Hello para torná-lo mais recomendável?
+
+
+# q-11
+;Was there anything in particular that made Firefox Hello such a positive experience for you?
+Teve algo em particular que fez do Firefox Hello uma experiência positiva para você?
+
+
+# q-23
+;Please rate the quality of your call.
+Por favor, classifique a qualidade da sua chamada.
+
+
+# q-23-o-10077
+;1 - Very Poor
+1 - muito ruim
+
+
+# q-23-o-10081
+;5 - Excellent
+5 - Excelente
+
+
+# p-2
+;Thank You!
+Obrigado!
+
+
+# q-1
+;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Obrigado pelo tempo dedicado para concluir nossa pesquisa. Sua resposta é muito importante para nós e ajudará a tornar o Firefox Hello melhor para os nossos usuários.
+
+
+# required
+;This question is required
+Esta questão é necessária
+
+
+# selectone
+;-- Please Select --
+-- Por favor, selecione --
+
+
+# survey_closed
+;This survey is not accepting additional responses at this time. Thank You!
+Esta pesquisa não está aceitando mais respostas neste momento. Obrigado!
+
+
+# block_by_message
+;You have already completed this survey.
+Já concluiu esta pesquisa.
+
+
+# language_bar_select_text
+;Select another language
+Selecionar outro idioma
+
+
+# language_bar_description_text
+;To continue in another language, please click one of the links below.
+Para continuar em outro idioma, clique em um dos links abaixo.
+
+
+# back_button
+;Back
+Voltar
+
+
+# next_button
+;Next
+Próxima
+
+
+# submit_button
+;Submit
+Enviar
+
+
+# clear_button
+;Clear
+Limpar
+
+
+# page_error_message
+;There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Houve um erro na sua página. Por favor corrija qualquer campo necessário e envie novamente. Ir para o primeiro erro
+
+

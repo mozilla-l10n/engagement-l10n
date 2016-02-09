@@ -1,0 +1,110 @@
+## NOTE: Survey for Firefox Hello and Firefox 42. Reference: bug 1184838
+## NOTE: This survey will be proposed to Firefox Hello users after a call.
+## NOTE: It will be used when Firefox 42 enters Beta (Sep 22), but team needs at least a week to import translations in SurveyGizmo.
+## NOTE: Comment like 'survey-title', 'q-2' are used to automated the export in Excel format, don't modify them.
+
+
+# survey-title
+;Firefox Hello: Product Survey
+Firefox Hello: Sondo de produkto
+
+
+# q-2
+;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Kiel probable estas ke vi rekomendu Firefox Hello al amiko aŭ kunlaboranto? (Skalo:  0 estas ne tre probable kaj 10 estas treege probable)
+
+
+# q-8
+;What could we do to improve Firefox Hello for you?
+Kion ni povus fari por plibonigi Firefox Hello por vi?
+
+
+# q-9
+;How can we improve Firefox Hello to make you more likely to recommend us?
+Kiel ni povas plibonigi Firefox Hello por ke estu pli probable ke vi ĝin rekomendu?
+
+
+# q-11
+;Was there anything in particular that made Firefox Hello such a positive experience for you?
+Ĉu estis io specifa, kio igis vian sperton kun Firefox Hello tiel bona?
+
+
+# q-23
+;Please rate the quality of your call.
+Bonvolu taksi la kvaliton de via voko.
+
+
+# q-23-o-10077
+;1 - Very Poor
+1 - Tre malbona
+
+
+# q-23-o-10081
+;5 - Excellent
+5 - Bonega
+
+
+# p-2
+;Thank You!
+Dankon!
+
+
+# q-1
+;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Dankon pro la tempo kiun vi uzis por kompletigi nian sondon. Via respondo estas tre grava por ni kaj ĝi helpos nin igi Firefox Hello pli bona por niaj uzantoj.
+
+# required
+;This question is required
+Tiu ĉi demando estas deviga
+
+
+# selectone
+;-- Please Select --
+-- Bonvolu elekti --
+
+
+# survey_closed
+;This survey is not accepting additional responses at this time. Thank You!
+Tiu ĉi sondo nuntempe ne akceptas aldonajn respondojn. Dankon!
+
+
+# block_by_message
+;You have already completed this survey.
+Vi jam kompletigis tiun ĉi sondon.
+
+
+# language_bar_select_text
+;Select another language
+Elekti alian lingvon
+
+
+# language_bar_description_text
+;To continue in another language, please click one of the links below.
+Por daŭrigi en alia lingvo, bonvolu alklaki unu el la malsupraj ligiloj.
+
+
+# back_button
+;Back
+Malantaŭen
+
+
+# next_button
+;Next
+Antaŭen
+
+
+# submit_button
+;Submit
+Sendi
+
+
+# clear_button
+;Clear
+Viŝi
+
+
+# page_error_message
+;There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Okazis eraro en via paĝo. Bonvolu korekti devigajn kampojn kaj sendi denove. Iru al la unua eraro
+
+

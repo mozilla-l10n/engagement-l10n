@@ -1,0 +1,111 @@
+## NOTE: Survey for Firefox Hello and Firefox 42. Reference: bug 1184838
+## NOTE: This survey will be proposed to Firefox Hello users after a call.
+## NOTE: It will be used when Firefox 42 enters Beta (Sep 22), but team needs at least a week to import translations in SurveyGizmo.
+## NOTE: Comment like 'survey-title', 'q-2' are used to automated the export in Excel format, don't modify them.
+
+
+# survey-title
+;Firefox Hello: Product Survey
+Firefox Hello: termékfelmérés
+
+
+# q-2
+;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Mennyire valószínű, hogy a Firefox Hellot egy ismerősének vagy kollégájának ajánlaná? (Értékek: 0 = nem valószínű, 10 = nagyon valószínű, hogy ajánlaná)
+
+
+# q-8
+;What could we do to improve Firefox Hello for you?
+Mivel fejleszthetnénk a Firefox Hellon?
+
+
+# q-9
+;How can we improve Firefox Hello to make you more likely to recommend us?
+Hogyan fejleszthetnénk a Firefox Hellon, hogy nagyobb eséllyel ajánljon minket?
+
+
+# q-11
+;Was there anything in particular that made Firefox Hello such a positive experience for you?
+Volt valami konkrétum, ami a Firefox Hellot ennyire pozitív élménnyé tette?
+
+
+# q-23
+;Please rate the quality of your call.
+Értékelje a hívás minőségét.
+
+
+# q-23-o-10077
+;1 - Very Poor
+1 - nagyon rossz
+
+
+# q-23-o-10081
+;5 - Excellent
+5 - kitűnő
+
+
+# p-2
+;Thank You!
+Köszönjük!
+
+
+# q-1
+;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Köszönjük, hogy kitöltötte a felmérésünket. A válasza nagyon fontos számunkra, és segíteni fog a Firefox Hellot jobbá tenni felhasználóink számára.
+
+
+# required
+;This question is required
+Erre kötelező válaszolni
+
+
+# selectone
+;-- Please Select --
+-- Válasszon --
+
+
+# survey_closed
+;This survey is not accepting additional responses at this time. Thank You!
+Ez a felmérés már nem fogad további válaszokat. Köszönjük!
+
+
+# block_by_message
+;You have already completed this survey.
+Már kitöltötte ezt a felmérést.
+
+
+# language_bar_select_text
+;Select another language
+Válasszon másik nyelvet
+
+
+# language_bar_description_text
+;To continue in another language, please click one of the links below.
+Más nyelven való folytatáshoz kattintson az egyik alábbi hivatkozásra.
+
+
+# back_button
+;Back
+Vissza
+
+
+# next_button
+;Next
+Tovább
+
+
+# submit_button
+;Submit
+Beküldés
+
+
+# clear_button
+;Clear
+Törlés
+
+
+# page_error_message
+;There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Hiba történt az oldalon. Javítsa a kötelező mezőket, és küldje be újra. Lépjen az első hibára.
+
+
