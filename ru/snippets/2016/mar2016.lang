@@ -155,30 +155,34 @@ Firefox позволяет легко делиться Веб-страницам
 Гостевая сессия позволяет другу использовать Firefox на вашем мобильном, сохраняя ваши персональные данные в безопасности.
 
 
-# LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
-# Campaign: mobile widget
-# Link: Mobile Widget asking users to send themselves a download link via text or email.
+# LIMIT: 50 characters. Please rephrase as needed to fit.
+# Mobile Widget asking users to send themselves a download link via text or email.
+# e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
+# This string will be used as a title.
 ;Firefox for iOS 2.0 is here!
 Firefox для iOS 2.0 уже здесь!
 
 
-# LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
-# Campaign: mobile widget
-# Link: Mobile Widget asking users to send themselves a download link via text or email.
+# LIMIT: 120 characters. Please rephrase as needed to fit.
+# Mobile Widget asking users to send themselves a download link via text or email.
+# e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
+# This string will be used as a description.
 ;Get a more personal experience on your iPhone, iPad and iPod touch. Upgrade today.
 Получите больше личного опыта на ваших iPhone, iPad и iPod touch. Обновитесь сегодня.
 
 
-# LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
-# Campaign: mobile widget
-# Link: Mobile Widget asking users to send themselves a download link via text or email.
+# LIMIT: 50 characters. Please rephrase as needed to fit.
+# Mobile Widget asking users to send themselves a download link via text or email.
+# e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
+# This string will be used as a title.
 ;Have an iPhone, iPad and iPod touch?
 Владеете iPhone, iPad или iPod touch?
 
 
-# LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
-# Campaign: mobile widget
-# Link: Mobile Widget asking users to send themselves a download link via text or email.
+# LIMIT: 120 characters. Please rephrase as needed to fit.
+# Mobile Widget asking users to send themselves a download link via text or email.
+# e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
+# This string will be used as a description.
 ;Firefox for iOS 2.0 makes browsing simpler and more fun. Upgrade today!
 Firefox для iOS 2.0 делает просмотр проще и веселее. Обновитесь сегодня!
 

@@ -177,34 +177,38 @@ Looking to expand your search options? Tap here to modify your Firefox search en
 A Guest Session lets a friend use Firefox on your phone while keeping your personal data safe.
 
 
-## MAX_LENGTH: 140
-# LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
-# Campaign: mobile widget
-# Link: Mobile Widget asking users to send themselves a download link via text or email.
+## MAX_LENGTH: 50
+# LIMIT: 50 characters. Please rephrase as needed to fit.
+# Mobile Widget asking users to send themselves a download link via text or email.
+# e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
+# This string will be used as a title.
 ;Firefox for iOS 2.0 is here!
 Firefox for iOS 2.0 is here!
 
 
-## MAX_LENGTH: 140
-# LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
-# Campaign: mobile widget
-# Link: Mobile Widget asking users to send themselves a download link via text or email.
+## MAX_LENGTH: 120
+# LIMIT: 120 characters. Please rephrase as needed to fit.
+# Mobile Widget asking users to send themselves a download link via text or email.
+# e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
+# This string will be used as a description.
 ;Get a more personal experience on your iPhone, iPad and iPod touch. Upgrade today.
 Get a more personal experience on your iPhone, iPad and iPod touch. Upgrade today.
 
 
-## MAX_LENGTH: 140
-# LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
-# Campaign: mobile widget
-# Link: Mobile Widget asking users to send themselves a download link via text or email.
+## MAX_LENGTH: 50
+# LIMIT: 50 characters. Please rephrase as needed to fit.
+# Mobile Widget asking users to send themselves a download link via text or email.
+# e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
+# This string will be used as a title.
 ;Have an iPhone, iPad and iPod touch?
 Have an iPhone, iPad and iPod touch?
 
 
-## MAX_LENGTH: 140
-# LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
-# Campaign: mobile widget
-# Link: Mobile Widget asking users to send themselves a download link via text or email.
+## MAX_LENGTH: 120
+# LIMIT: 120 characters. Please rephrase as needed to fit.
+# Mobile Widget asking users to send themselves a download link via text or email.
+# e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
+# This string will be used as a description.
 ;Firefox for iOS 2.0 makes browsing simpler and more fun. Upgrade today!
 Firefox for iOS 2.0 makes browsing simpler and more fun. Upgrade today!
 
