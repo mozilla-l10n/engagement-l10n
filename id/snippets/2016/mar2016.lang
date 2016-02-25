@@ -82,7 +82,7 @@ Apakah anda meninggalkan jejak digital yang dapat menunjukkan keberadaan, prefer
 # Campaign: desktop snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/vernal-equinox/
 ;It's time to beat the winter blues and spring for a new look in your browser.
-Saatnya mengalahkan kesenduan musim dingin dan meloncat menuju tampilan baru peramban anda.
+Saatnya mengalahkan kesenduan musim dingin dan meloncatlah menuju tampilan baru peramban anda.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -96,63 +96,63 @@ Cobalah tema Musim Semi baru untuk Firefox Anda. Lihatlah koleksi bulan ini.
 # Campaign: mobile snippets
 # Link: This will link to the google play store, prompting users to update to a newer version.
 ;Attention: Update Firefox for the newest features and best security. Install it now.
-Attention: Update Firefox for the newest features and best security. Install it now.
+Perhatian: Perbarui Firefox untuk fitur terbaru dan keamanan terbaik. Pasanglah sekarang.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://support.mozilla.org/kb/make-firefox-default-browser-android
 ;Set Firefox as your preferred Android app for all Web links. Here's how.
-Set Firefox as your preferred Android app for all Web links. Here's how.
+Atur Firefox sebagai aplikasi Android pilihan anda untuk seluruh tautan Web. Begini caranya.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: Sign up form for Firefox + You newsletter.
 ;Sign up for short, sweet emails about getting the most out of your Firefox.
-Sign up for short, sweet emails about getting the most out of your Firefox.
+Mendaftarlah untuk mendapatkan email pendek yang manis tentang cara memanfaatkan Firefox Anda sepenuhnya.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://support.mozilla.org/kb/private-browsing-firefox-android
 ;Use a private tab to visit websites without being tracked or saving them to your history.
-Use a private tab to visit websites without being tracked or saving them to your history.
+Gunakan tab privat untuk mengunjungi situs tanpa dilacak atau menyimpannya dalam riwayat anda.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/vernal-equinox/
 ;No matter how long the winter, spring is sure to follow. Spring for a new look in your browser.
-No matter how long the winter, spring is sure to follow. Spring for a new look in your browser.
+Tak peduli lamanya musim dingin, musim semi pasti datang mengikuti. Meloncatlah menuju tampilan baru peramban anda.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://support.mozilla.org/kb/voice-input-firefox-android
 ;Avoid fat finger typos by turning on Firefox voice input instead of using the keyboard.
-Avoid fat finger typos by turning on Firefox voice input instead of using the keyboard.
+Hindari kesalahan ketik akibat jari gemuk dengan menyalakan input suara di Firefox alih-alih menggunakan papan ketik.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://support.mozilla.org/kb/voice-input-firefox-android
 ;Say goodbye to typing errors. Enable voice input to speak to your browser.
-Say goodbye to typing errors. Enable voice input to speak to your browser.
+Ucapkan selamat tinggal pada kesalahan ketik. Aktifkan input suara untuk bicara pada peramban Anda.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://support.mozilla.org/kb/manage-my-default-search-engines-firefox-android
 ;Looking to expand your search options? Tap here to modify your Firefox search engine preferences.
-Looking to expand your search options? Tap here to modify your Firefox search engine preferences.
+Ingin menambah pilihan pencarian Anda? Ketuk di sini untuk mengubah pilihan mesin pencari Firefox anda.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://support.mozilla.org/kb/share-your-android-device-firefox-guest-session
 ;A Guest Session lets a friend use Firefox on your phone while keeping your personal data safe.
-A Guest Session lets a friend use Firefox on your phone while keeping your personal data safe.
+Sesi Tamu memungkinkan teman menggunakan Firefox di ponsel anda sembari menjaga data personal anda tetap aman.
 
 
 # LIMIT: 50 characters. Please rephrase as needed to fit.
@@ -160,7 +160,7 @@ A Guest Session lets a friend use Firefox on your phone while keeping your perso
 # e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
 # This string will be used as a title.
 ;Firefox for iOS 2.0 is here!
-Firefox for iOS 2.0 is here!
+Firefox untuk iOS 2.0 telah hadir!
 
 
 # LIMIT: 120 characters. Please rephrase as needed to fit.
@@ -168,7 +168,7 @@ Firefox for iOS 2.0 is here!
 # e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
 # This string will be used as a description.
 ;Get a more personal experience on your iPhone, iPad and iPod touch. Upgrade today.
-Get a more personal experience on your iPhone, iPad and iPod touch. Upgrade today.
+Dapatkan pengalaman yang lebih pribadi di iPhone, iPad dan iPod touch anda. Tingkatkan hari ini.
 
 
 # LIMIT: 50 characters. Please rephrase as needed to fit.
@@ -176,7 +176,7 @@ Get a more personal experience on your iPhone, iPad and iPod touch. Upgrade toda
 # e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
 # This string will be used as a title.
 ;Have an iPhone, iPad and iPod touch?
-Have an iPhone, iPad and iPod touch?
+Punya iPhone, iPad dan iPod touch?
 
 
 # LIMIT: 120 characters. Please rephrase as needed to fit.
@@ -184,28 +184,28 @@ Have an iPhone, iPad and iPod touch?
 # e.g. https://bug1248100.bmoattachments.org/attachment.cgi?id=8719179
 # This string will be used as a description.
 ;Firefox for iOS 2.0 makes browsing simpler and more fun. Upgrade today!
-Firefox for iOS 2.0 makes browsing simpler and more fun. Upgrade today!
+Firefox untuk iOS 2.0 membuat penjelajahan lebih mudah dan lebih menyenangkan. Tingkatkan hari ini!
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;The newest Firefox for iOS is now available! Learn more about the new features and add it to your iPhone, iPad and iPod touch today.
-The newest Firefox for iOS is now available! Learn more about the new features and add it to your iPhone, iPad and iPod touch today.
+Firefox terbaru untuk iOS kini tersedia! Pelajari fitur barunya dan tambahkan ke iPhone, iPad dan iPod touch anda hari ini.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;Rated 5-stars by over a million users! Get Firefox for Android.
-Rated 5-stars by over a million users! Get Firefox for Android.
+Diberi 5-bintang oleh lebih dari sejuta pengguna! Dapatkan Firefox untuk Android.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;Experience a fast, smart and personal Web, everywhere you browse. Get Firefox.
-Experience a fast, smart and personal Web, everywhere you browse. Get Firefox.
+Alami Web yang cepat, cerdas dan personal, di manapun anda menjelajah. Dapatkan Firefox.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
@@ -214,13 +214,13 @@ Experience a fast, smart and personal Web, everywhere you browse. Get Firefox.
 # TL;DR is an abbreviation for "Too Long;Didn't Read", and it's followed by a summary of a long message.
 # The meaning is "No need for summary in our newsletter".
 ;We take the tl;dr out of email newsletters. Sign up for short, sweet messages about getting the most out of your Firefox.
-We take the tl;dr out of email newsletters. Sign up for short, sweet messages about getting the most out of your Firefox.
+Kami mengeluarkan tl;dr dari surel nawala. Mendaftarlah, dapatkan email pendek yang manis tentang cara memanfaatkan Firefox Anda sepenuhnya.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: This will go above a form asking users to sign up for the Firefox + You newsletter.
 ;Sign up for short, sweet emails about getting the most out of your Firefox. Subscribe to Firefox + You.
-Sign up for short, sweet emails about getting the most out of your Firefox. Subscribe to Firefox + You.
+Mendaftarlah untuk mendapatkan email pendek yang manis tentang cara memanfaatkan Firefox Anda sepenuhnya. Mendaftarlah ke Firefox + Anda.
 
 
