@@ -60,7 +60,7 @@ Compartir pestañas con Firefox Hello facilita la colaboración y la toma de dec
 # This string is particularly long in English. If needed, try cutting the "like videos, documents and more" part.
 # Link: https://support.mozilla.org/kb/applications-panel-set-how-firefox-handles-files
 ;Ever click on a file and it didn't open the way you wanted? That's easy to fix by choosing how Firefox handles various file types, like videos, documents and more. Learn how.
-¿Alguna vez has hecho clic en un archivo y no se ha abierto como querías? Es fácil solucionarlo escogiendo la forma en la que Firefox maneja distintos tipos de archivos, como vídeos, documentos y más. Descubre cómo.
+¿Alguna vez un archivo no se abrió como querías? Es muy fácil escoger la forma en la que Firefox maneja distintos tipos de archivos, como vídeos, documentos y más. Descubre cómo.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -152,7 +152,7 @@ Descubre cómo hacer que tu historial sea un misterio, porque solo tú deberías
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;Firefox for iOS is packed with even more great features like fingerprint security, autocomplete for Web addresses and more. Install it on your Apple device now.
-Firefox para iOS incluye ahora funciones aún más geniales como seguridad con huella dactilar, autocompletado en páginas web y mucho más. Instálalo ahora en tu dispositivo Apple.
+Firefox para iOS incluye funciones aún más geniales como seguridad con huella dactilar, autocompletado en páginas web y más. Instálalo ahora en tu dispositivo Apple.
 
 
 # LIMIT: 170 characters (will be used on mobile). Please rephrase as needed to fit.
