@@ -5,7 +5,7 @@
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/products/
 ;Get your Web on the go. Add the latest Firefox for your mobile devices.
-Dapatkan akses ke Web Anda di perjalanan. Tambahkan Firefox terbaru untuk perangkat bergerak Anda.
+Dapatkan akses ke Web Anda di manapun. Tambahkan Firefox terbaru untuk perangkat bergerak Anda.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -44,7 +44,7 @@ Berbelanja online bersama teman menjadi lebih cepat dan mudah. Jelajahi halaman 
 # You already translated "Get on the same page" in https://transvision.mozfr.org/string/?entity=mozilla_org/firefox/hello-2016.lang:f0e4fa94&repo=mozilla_org
 # Link: https://www.mozilla.org/firefox/hello/
 ;Firefox Hello automatically shares the Web page you’re viewing when you invite a friend to join you. Try co-browsing with a friend now.
-Firefox Hello bagikan laman Web yang Anda lihat secara otomatis ketika Anda mengundang teman untuk bergabung. Coba berjelajah bersama teman sekarang.
+Firefox Hello membagi laman Web yang Anda lihat secara otomatis ketika Anda mengundang teman untuk bergabung. Coba berjelajah bersama teman sekarang.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -52,7 +52,7 @@ Firefox Hello bagikan laman Web yang Anda lihat secara otomatis ketika Anda meng
 # You already translated "Get on the same page" in https://transvision.mozfr.org/string/?entity=mozilla_org/firefox/hello-2016.lang:f0e4fa94&repo=mozilla_org
 # Link: https://www.mozilla.org/firefox/hello/
 ;Tab sharing in Firefox Hello helps you collaborate and make faster decisions in real time. Invite a friend to get on the same page. Here's how.
-Berbagi tab di Firefox Hello membantu Anda berkolaborasi dan memutuskan sesuatu lebih cepat dalam waktu bersamaan. Undah teman untuk menjelajah laman yang sama. Ini caranya.
+Berbagi tab di Firefox Hello membantu Anda berkolaborasi dan memutuskan sesuatu lebih cepat dalam waktu bersamaan. Undang teman untuk menjelajah laman yang sama. Ini caranya.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -60,7 +60,7 @@ Berbagi tab di Firefox Hello membantu Anda berkolaborasi dan memutuskan sesuatu 
 # This string is particularly long in English. If needed, try cutting the "like videos, documents and more" part.
 # Link: https://support.mozilla.org/kb/applications-panel-set-how-firefox-handles-files
 ;Ever click on a file and it didn't open the way you wanted? That's easy to fix by choosing how Firefox handles various file types, like videos, documents and more. Learn how.
-Pernah klik berkas dan dibuka tak sesuai harapan? Cukup dengan memilih bagaimana Firefox menangani berbagai tipe berkas, seperti video, dokumen dan lainnya. Pelajari lebih lanjut.
+Pernah klik berkas dan hasilnya tak sesuai harapan? Firefox akan dengan mudah menangani berbagai tipe berkas, seperti video, dokumen dan lainnya. Pelajari lebih lanjut.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -75,14 +75,14 @@ Buat Firefox Anda bersinar dengan sebuah tema dari koleksi berkilau bulan ini.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/sync/
 ;Firefox Sync gives handy access to your personal bookmarks, add-ons and history everywhere you browse. Set it up and get in sync.
-Firefox Sync memberikan kemudahan akses ke markah pribadi, pengaya dan histori Anda di manapun Anda menjelajah. Atur sekarang dan segera tersinkronisasi.
+Firefox Sync memberikan kemudahan akses ke markah pribadi, pengaya dan riwayat di manapun Anda menjelajah. Atur sekarang dan segera tersinkronisasi.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/mission/
 ;Mozilla's mission is to ensure the Internet is a global public resource, open and accessible to all. Learn more about our ten guiding principles.
-Misi Mozilla adalah memastikan Internet adalah sumber daya global yang publik, terbuka dan dapat diakses oleh siapapun. Pelajari lebih lanjut tentang 10 prinsip panduan kami.
+Misi Mozilla adalah memastikan Internet menjadi sumber daya global yang publik, terbuka dan dapat diakses oleh siapapun. Pelajari lebih lanjut tentang 10 prinsip panduan kami.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -96,7 +96,7 @@ Temukan semua cara untuk dapat bersihkan data pribadi Anda dari Firefox.
 # Campaign: desktop snippets
 # Link: https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox
 ;What's hidden in your history? That's for you to know and no one else to find out. Learn how to keep your history a mystery.
-Apa yang tersembunyi di dalam histori Anda? Itu perlu Anda ketahui dan tidak oleh siapapun. Pelajari bagaimana menjaga histori Anda menjadi sebuah misteri.
+Apa yang tersembunyi di dalam riwayat Anda? Hanya Anda yang berhak mengetahuinya dan bukan orang lain. Pelajari cara menjaga riwayat Anda agar tetap menjadi sebuah misteri.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
@@ -110,21 +110,21 @@ Ketika berbicara keamanan, jangan sampai tertipu. Simak apa yang perlu dilihat k
 # Campaign: mobile widget
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/sparkle/
 ;Turn up the dazzle with this month's theme collection.
-Hadir mempesona dengan koleksi tema bulan ini.
+Hadirkan pesona dengan koleksi tema bulan ini.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: https://support.mozilla.org/kb/block-or-load-images-over-wifi-firefox-android
 ;Limited data plan? Block images or load them over Wi-Fi to help save on data while browsing the Web.
-Kuota data terbatas? Blok gambar atau muat mereka lewat Wi-Fi untuk bantu menghemat data ketika menjelajahi Web.
+Kuota data terbatas? Blok gambar atau muat lewat Wi-Fi untuk membantu menghemat data ketika menjelajahi Web.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: https://www.mozilla.org/mission/
 ;Mozilla's mission is to ensure the Internet is a global public resource, open and accessible to all.
-Misi Mozilla adalah memastikan Internet adalah sumber daya global yang publik, terbuka dan dapat diakses oleh siapapun.
+Misi Mozilla adalah memastikan Internet menjadi sumber daya global yang publik, terbuka dan dapat diakses oleh siapapun.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
@@ -138,48 +138,48 @@ Firefox mendukung Anda. Jadikanlah sebagai peramban utama di Android Anda.
 # Campaign: mobile widget
 # Link: https://support.mozilla.org/kb/using-tabs-firefox-android
 ;Check out these tips for creating and managing multiple mobile tabs.
-Simak tips berikut untuk membuat dan mengelola mobile tab berjumlah banyak.
+Simak kiat-kiat berikut untuk membuat dan mengelola tab berjumlah banyak di perangkat bergerak.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-data
 ;Learn how to keep your history a mystery, because it's for you to know and no one else to find out.
-Pelajari bagaimana untuk menjaga histori Anda tetap menjadi misteri, karena itu bagi Anda untuk diketahui dan tak satupun mengetahuinya.
+Pelajari cara untuk menjaga riwayat tetap menjadi misteri, karena hanya Anda-lah yang berhak untuk mengetahuinya bukan orang lain.
 
 
 # LIMIT: 170 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;Firefox for iOS is packed with even more great features like fingerprint security, autocomplete for Web addresses and more. Install it on your Apple device now.
-Firefox untuk iOS dilengkapi dengan fitur yang lebih keren lagi seperti keamanan sidik jari, pelengkapan-otomatis untuk alamat Web dan lain-lain. Pasanglah di perangkat Apple Anda sekarang.
+Firefox untuk iOS dilengkapi fitur yang lebih keren seperti keamanan sidik jari, pelengkap-otomatis untuk alamat Web dan lainnya. Pasang di perangkat Apple Anda sekarang.
 
 
 # LIMIT: 170 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;The newest Firefox for iOS works with Apple's Touch ID to protect your passwords with your passcode or fingerprint. Install it on your Apple device today.
-Firefox untuk iOS terbaru berfungsi dengan Touch ID milik Apple untuk melindungi sandi dengan sandi kunci Anda atau sidik jari. Pasanglah di piranti Apple Anda sekarang.
+Firefox untuk iOS terbaru berfungsi dengan Touch ID milik Apple untuk melindungi sandi dengan kode sandi atau sidik jari. Pasanglah di perangkat Apple Anda sekarang.
 
 
 # LIMIT: 170 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;The latest Firefox for iOS lets you access popular web pages quickly and keeps your saved passwords safer. Get it for your Apple device today!
-Firefox untuk iOS terbaru membolehkan Anda akses laman Web terkenal secara cepat dan menjaga sandi Anda yang tersimpan lebih aman. Dapatkan untuk piranti Apple Anda hari ini!
+Firefox untuk iOS terbaru memungkinkan akses laman Web terkenal secara cepat dan menjaga sandi yang tersimpan lebih aman. Dapatkan untuk perangkat Apple Anda sekarang!
 
 
 # LIMIT: 150 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;The latest Firefox for iOS gets you to your favorite websites fast. Install it on your iPhone, iPad or iPod touch today.
-Firefox untuk iOS terbaru membantu Anda akses situs Web favorit lebih cepat. Pasang sekarang di iPhone, iPad atau iPod touch Anda hari ini.
+Firefox untuk iOS terbaru membantu Anda mengakses situs Web favorit lebih cepat. Pasang sekarang juga di iPhone, iPad atau iPod touch Anda.
 
 
 # LIMIT: 150 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;Get your Web on the go. Add the latest Firefox to your mobile devices.
-Dapatkan Web Anda saat di perjalanan. Tambahkan Firefox terbaru di piranti bergerak Anda.
+Terhubunglah ke Web di manapun Anda berada. Tambahkan Firefox terbaru di perangkat bergerak Anda.
 
 
