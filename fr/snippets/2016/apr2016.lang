@@ -60,7 +60,7 @@ Partagez vos onglets pour décider plus rapidement ensemble. Invitez un ami sur 
 # This string is particularly long in English. If needed, try cutting the "like videos, documents and more" part.
 # Link: https://support.mozilla.org/kb/applications-panel-set-how-firefox-handles-files
 ;Ever click on a file and it didn't open the way you wanted? That's easy to fix by choosing how Firefox handles various file types, like videos, documents and more. Learn how.
-Il vous arrive de cliquer sur un fichier qui refuse de s’ouvrir ? Réglez facilement le problème en choisissant comment Firefox gère les divers types de fichiers. Voyez comment.
+Il vous arrive de cliquer sur un fichier qui refuse de s’ouvrir comme voulu ? Réglez le problème en choisissant comment Firefox gère les divers types de fichiers. Voyez comment.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -68,7 +68,7 @@ Il vous arrive de cliquer sur un fichier qui refuse de s’ouvrir ? Réglez fac
 # This string is particularly long in English. If needed, try cutting the "like videos, documents and more" part.
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/sparkle/
 ;Make your Firefox shine with a theme from this month's sparkling collection.
-Ce mois-ci, faites brillez votre Firefox de mille feux avec cette collection étincelante.
+Ce mois-ci, faites briller votre Firefox de mille feux avec cette collection étincelante.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -103,7 +103,7 @@ Qu’est-ce qui se cache dans votre historique ? — Ça ne regarde que vous�
 # Campaign: mobile widget
 # Link: https://support.mozilla.org/kb/mixed-content-blocker-firefox-android
 ;When it comes to safety, don't be fooled. Read up on what to look for when secure browsing matters.
-On ne plaisante pas avec la sécurité. Voyez un peu comment vous protéger quand la navigation privée est en jeu. 
+On ne plaisante pas avec la sécurité. Voyez un peu comment vous protéger quand votre navigation doit rester privée. 
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
@@ -145,14 +145,14 @@ Découvrez comment créer et gérer plusieurs onglets sur mobile.
 # Campaign: mobile widget
 # Link: https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-data
 ;Learn how to keep your history a mystery, because it's for you to know and no one else to find out.
-L’historique de votre navigation ne regarde que vous, apprenez comment le garder secret.
+L’historique de votre navigation ne regarde que vous. Apprenez comment le garder secret.
 
 
 # LIMIT: 170 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;Firefox for iOS is packed with even more great features like fingerprint security, autocomplete for Web addresses and more. Install it on your Apple device now.
-Firefox pour iOS dispose d’une sécurité via empreintes digitales, de l’auto-complétion des adresses web, et bien plus. Installez-le sur votre appareil Apple.
+Firefox pour iOS dispose d’une sécurité via empreintes digitales, de l’autocomplétion des adresses web, et bien plus. Installez-le sur votre appareil Apple.
 
 
 # LIMIT: 170 characters (will be used on mobile). Please rephrase as needed to fit.
