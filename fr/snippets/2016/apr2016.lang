@@ -5,14 +5,14 @@
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/products/
 ;Get your Web on the go. Add the latest Firefox for your mobile devices.
-Get your Web on the go. Add the latest Firefox for your mobile devices.
+Le nouveau Firefox pour vos mobiles : votre Web, partout avec vous.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/products/
 ;Fast, customizable, secure. Get the latest Firefox for your mobile devices.
-Fast, customizable, secure. Get the latest Firefox for your mobile devices.
+Rapide, fiable et personnalisable. Adoptez la dernière version de Firefox pour mobiles.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -20,7 +20,7 @@ Fast, customizable, secure. Get the latest Firefox for your mobile devices.
 # You already translated "Get on the same page" in https://transvision.mozfr.org/string/?entity=mozilla_org/firefox/hello-2016.lang:f0e4fa94&repo=mozilla_org
 # Link: https://www.mozilla.org/firefox/hello/
 ;Planning travel and shopping online with a friend is faster and easier. Get on the same page with Firefox Hello.
-Planning travel and shopping online with a friend is faster and easier. Get on the same page with Firefox Hello.
+Planifiez vos voyages et vos achats en commun : retrouvez vos amis sur la même page avec Firefox Hello.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -28,7 +28,7 @@ Planning travel and shopping online with a friend is faster and easier. Get on t
 # You already translated "Get on the same page" in https://transvision.mozfr.org/string/?entity=mozilla_org/firefox/hello-2016.lang:f0e4fa94&repo=mozilla_org
 # Link: https://www.mozilla.org/firefox/hello/
 ;Planning travel with a friend is faster and easier. Get on the same page with Firefox Hello.
-Planning travel with a friend is faster and easier. Get on the same page with Firefox Hello.
+Prévoir un voyage ensemble, c’est plus simple et plus rapide quand on partage la même page avec Firefox Hello.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -36,7 +36,7 @@ Planning travel with a friend is faster and easier. Get on the same page with Fi
 # You already translated "Get on the same page" in https://transvision.mozfr.org/string/?entity=mozilla_org/firefox/hello-2016.lang:f0e4fa94&repo=mozilla_org
 # Link: https://www.mozilla.org/firefox/hello/
 ;Shopping online with a friend is faster and easier. Get on the same page with Firefox Hello.
-Shopping online with a friend is faster and easier. Get on the same page with Firefox Hello.
+Choisir un beau cadeau commun, c’est plus simple et plus rapide quand on partage la même page avec Firefox Hello.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -44,7 +44,7 @@ Shopping online with a friend is faster and easier. Get on the same page with Fi
 # You already translated "Get on the same page" in https://transvision.mozfr.org/string/?entity=mozilla_org/firefox/hello-2016.lang:f0e4fa94&repo=mozilla_org
 # Link: https://www.mozilla.org/firefox/hello/
 ;Firefox Hello automatically shares the Web page you’re viewing when you invite a friend to join you. Try co-browsing with a friend now.
-Firefox Hello automatically shares the Web page you’re viewing when you invite a friend to join you. Try co-browsing with a friend now.
+Avec Firefox Hello, partagez automatiquement la page web que vous parcourez quand vous invitez un ami à vous rejoindre. Naviguez ensemble sur la même page.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -52,7 +52,7 @@ Firefox Hello automatically shares the Web page you’re viewing when you invite
 # You already translated "Get on the same page" in https://transvision.mozfr.org/string/?entity=mozilla_org/firefox/hello-2016.lang:f0e4fa94&repo=mozilla_org
 # Link: https://www.mozilla.org/firefox/hello/
 ;Tab sharing in Firefox Hello helps you collaborate and make faster decisions in real time. Invite a friend to get on the same page. Here's how.
-Tab sharing in Firefox Hello helps you collaborate and make faster decisions in real time. Invite a friend to get on the same page. Here's how.
+Partagez vos onglets pour décider plus rapidement ensemble. Invitez un ami sur la même page que vous. Voici comment faire.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -60,7 +60,7 @@ Tab sharing in Firefox Hello helps you collaborate and make faster decisions in 
 # This string is particularly long in English. If needed, try cutting the "like videos, documents and more" part.
 # Link: https://support.mozilla.org/kb/applications-panel-set-how-firefox-handles-files
 ;Ever click on a file and it didn't open the way you wanted? That's easy to fix by choosing how Firefox handles various file types, like videos, documents and more. Learn how.
-Ever click on a file and it didn't open the way you wanted? That's easy to fix by choosing how Firefox handles various file types, like videos, documents and more. Learn how.
+Il vous arrive de cliquer sur un fichier qui refuse de s’ouvrir ? Réglez facilement le problème en choisissant comment Firefox gère les divers types de fichiers. Voyez comment.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -68,118 +68,118 @@ Ever click on a file and it didn't open the way you wanted? That's easy to fix b
 # This string is particularly long in English. If needed, try cutting the "like videos, documents and more" part.
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/sparkle/
 ;Make your Firefox shine with a theme from this month's sparkling collection.
-Make your Firefox shine with a theme from this month's sparkling collection.
+Ce mois-ci, faites brillez votre Firefox de mille feux avec cette collection étincelante.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/sync/
 ;Firefox Sync gives handy access to your personal bookmarks, add-ons and history everywhere you browse. Set it up and get in sync.
-Firefox Sync gives handy access to your personal bookmarks, add-ons and history everywhere you browse. Set it up and get in sync.
+Firefox Sync vous permet de retrouver vos marque-pages, modules et historique sur tous vos appareils. Créez un compte et synchronisez.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/mission/
 ;Mozilla's mission is to ensure the Internet is a global public resource, open and accessible to all. Learn more about our ten guiding principles.
-Mozilla's mission is to ensure the Internet is a global public resource, open and accessible to all. Learn more about our ten guiding principles.
+La mission de Mozilla est de s’assurer qu’Internet demeure une ressource publique, ouverte et accessible à tous. Voyez les 10 principes qui nous guident.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox
 ;Discover all the ways you can clear your personal data from Firefox.
-Discover all the ways you can clear your personal data from Firefox.
+Découvrez tous les moyens d'effacer vos données personnelles dans Firefox.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://support.mozilla.org/kb/delete-browsing-search-download-history-firefox
 ;What's hidden in your history? That's for you to know and no one else to find out. Learn how to keep your history a mystery.
-What's hidden in your history? That's for you to know and no one else to find out. Learn how to keep your history a mystery.
+Qu’est-ce qui se cache dans votre historique ? — Ça ne regarde que vous ! Voyez comment garder secret votre historique.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: https://support.mozilla.org/kb/mixed-content-blocker-firefox-android
 ;When it comes to safety, don't be fooled. Read up on what to look for when secure browsing matters.
-When it comes to safety, don't be fooled. Read up on what to look for when secure browsing matters.
+On ne plaisante pas avec la sécurité. Voyez un peu comment vous protéger quand la navigation privée est en jeu. 
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/sparkle/
 ;Turn up the dazzle with this month's theme collection.
-Turn up the dazzle with this month's theme collection.
+Ce mois-ci, offrez une parure étincelante à votre Firefox.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: https://support.mozilla.org/kb/block-or-load-images-over-wifi-firefox-android
 ;Limited data plan? Block images or load them over Wi-Fi to help save on data while browsing the Web.
-Limited data plan? Block images or load them over Wi-Fi to help save on data while browsing the Web.
+Vous êtes limité en données ? Bloquez les images ou chargez-les en Wi-Fi pour consommer moins en naviguant sur le Web.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: https://www.mozilla.org/mission/
 ;Mozilla's mission is to ensure the Internet is a global public resource, open and accessible to all.
-Mozilla's mission is to ensure the Internet is a global public resource, open and accessible to all.
+La mission de Mozilla est de s’assurer qu’Internet demeure une ressource publique, ouverte et accessible à tous.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: https://support.mozilla.org/kb/make-firefox-default-browser-android
 ;Firefox has your back. Set it as your default browser on your Android.
-Firefox has your back. Set it as your default browser on your Android.
+Firefox est votre compagnon. Faites-en votre navigateur par défaut sur Android.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: https://support.mozilla.org/kb/using-tabs-firefox-android
 ;Check out these tips for creating and managing multiple mobile tabs.
-Check out these tips for creating and managing multiple mobile tabs.
+Découvrez comment créer et gérer plusieurs onglets sur mobile.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: https://support.mozilla.org/kb/clear-your-browsing-history-and-other-personal-data
 ;Learn how to keep your history a mystery, because it's for you to know and no one else to find out.
-Learn how to keep your history a mystery, because it's for you to know and no one else to find out.
+L’historique de votre navigation ne regarde que vous, apprenez comment le garder secret.
 
 
 # LIMIT: 170 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;Firefox for iOS is packed with even more great features like fingerprint security, autocomplete for Web addresses and more. Install it on your Apple device now.
-Firefox for iOS is packed with even more great features like fingerprint security, autocomplete for Web addresses and more. Install it on your Apple device now.
+Firefox pour iOS dispose d’une sécurité via empreintes digitales, de l’auto-complétion des adresses web, et bien plus. Installez-le sur votre appareil Apple.
 
 
 # LIMIT: 170 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;The newest Firefox for iOS works with Apple's Touch ID to protect your passwords with your passcode or fingerprint. Install it on your Apple device today.
-The newest Firefox for iOS works with Apple's Touch ID to protect your passwords with your passcode or fingerprint. Install it on your Apple device today.
+Firefox pour iOS utilise désormais Touch ID d’Apple pour protéger vos mots de passe avec un code d’accès ou votre empreinte. Installez-le sur votre appareil Apple.
 
 
 # LIMIT: 170 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;The latest Firefox for iOS lets you access popular web pages quickly and keeps your saved passwords safer. Get it for your Apple device today!
-The latest Firefox for iOS lets you access popular web pages quickly and keeps your saved passwords safer. Get it for your Apple device today!
+Firefox pour iOS permet maintenant d’accéder plus rapidement aux pages web populaires et protège mieux vos mots de passe. Installez-le sur votre appareil Apple.
 
 
 # LIMIT: 150 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;The latest Firefox for iOS gets you to your favorite websites fast. Install it on your iPhone, iPad or iPod touch today.
-The latest Firefox for iOS gets you to your favorite websites fast. Install it on your iPhone, iPad or iPod touch today.
+Firefox pour iOS permet de vous rendre sur vos sites web préférés en un éclair. Installez-le sur votre iPhone, iPad ou iPod touch sans plus attendre.
 
 
 # LIMIT: 150 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile widget
 # Link: Mobile Widget asking users to send themselves a download link via text or email.
 ;Get your Web on the go. Add the latest Firefox to your mobile devices.
-Get your Web on the go. Add the latest Firefox to your mobile devices.
+Votre Web, toujours avec vous. Installez Firefox sur vos appareils mobiles.
 
 
