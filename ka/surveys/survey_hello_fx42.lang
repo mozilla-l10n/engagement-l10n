@@ -6,106 +6,106 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: გამოკითხვა
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+აპირებთ თუ არა, ურჩიოთ მეგობრებს ან თანამშრომლებს ისარგებლონ Firefox Hello-ით? (შეფასება: 0 ნიშნავს რომ არ აპირებთ ურჩიოთ, ხოლო 10 ნიშნავს რომ აუცილებლად ურჩევთ)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+თქვენი აზრით, რითი შეგვიძლია Firefox Hello გავაუმჯობესოთ?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+რითი შეგვიძლია Firefox Hello-ს გაუმჯობესება, თქვენგან დადებითი დახასიათების მისაღებად?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+იყო რამე განსაკუთრებული, რომელმაც დადებითი შთაბეჭდილება მოახდინა თქვენზე Firefox Hello-ს გამოყენებისას?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+გთხოვთ შეაფასოთ ზარის ხარისხი.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - ძალიან ცუდი
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - შესანიშნავი
 
 
 # p-2
 ;Thank You!
-Thank You!
+გმადლობთ!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+გმადლობთ, რომ მიიღეთ გამოკითხვაში მონაწილეობა. თქვენი გამოხმაურება ძალიან მნიშვნელოვანია ჩვენთვის და დაგვეხმარება გავხადოთ Firefox Hello უკეთესი ჩვენი მომხმარებლებისთვის.
 
 
 # required
 ;This question is required
-This question is required
+შეკითხვაზე პასუხი სავალდებულოა
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- გთხოვთ აირჩიეთ --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+ეს გამოკითხვა, ჯერჯერობით დამატებითი გამოხმაურების საშუალებას არ იძლევა. გმადლობთ!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+ამ გამოკითხვაში უკვე გაქვთ მონაწილეობა მიღებული.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+აირჩიეთ სხვა ენა
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+სხვა ენაზე გასაგრძელებლად, გთხოვთ დააწკაპოთ ქვემოთ მოცემულ ერთ-ერთ ბმულზე.
 
 
 # back_button
 ;Back
-Back
+უკან
 
 
 # next_button
 ;Next
-Next
+შემდეგი
 
 
 # submit_button
 ;Submit
-Submit
+გაგზავნა
 
 
 # clear_button
 ;Clear
-Clear
+გასუფთავება
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+მოხდა შეცდომა. გთხოვთ, შეასწოროთ ყველა სავალდებულო ველი და გადააგზავნოთ ხელახლა. პირველ შეცდომაზე გადასვლა
 
 
