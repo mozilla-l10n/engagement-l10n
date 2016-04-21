@@ -5,8 +5,8 @@
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets for German
 # Link: http://goo.gl/forms/7rVrFWW6dF
-;<a>Answer a quick survey<a> about what you'd like to see in the future of Firefox and you might win a prize pack.
-<a>Answer a quick survey<a/> about what you'd like to see in the future of Firefox and you might win a prize pack.
+;<a>Answer a quick survey</a> about what you'd like to see in the future of Firefox and you might win a prize pack.
+<a>Answer a quick survey</a> about what you'd like to see in the future of Firefox and you might win a prize pack.
 
 
 ## MAX_LENGTH: 180
