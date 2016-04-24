@@ -7,7 +7,7 @@
 # This is based on a English wordplay (to rock, rock, stone). If nothing similar
 # exists in your language, feel free to come up with different ideas.
 ;Ready to rock a fresh theme? <a>Nine new looks are just a stone's throw away.</a>
-Ready to rock a fresh theme? <a>Nine new looks are just a stone's throw away.</a>
+Готовы зажечь со свежей темой? <a>9 новых образов на расстоянии вытянутой руки.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -16,21 +16,21 @@ Ready to rock a fresh theme? <a>Nine new looks are just a stone's throw away.</a
 # This is based on a English wordplay (to rock, rock, stone). If nothing similar
 # exists in your language, feel free to come up with different ideas.
 ;These themes rock.
-These themes rock.
+Эти темы зажигают.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
 ;Need to clear your browser history quickly? <a>The Forget button can do that for you.</a>
-Need to clear your browser history quickly? <a>The Forget button can do that for you.</a>
+Нужно быстро очистить историю вашего браузера? <a>Кнопка Забыть сделает то, что вам нужно.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
 ;Dump your browser history with the Forget button.
-Dump your browser history with the Forget button.
+Быстро удалите историю вашего браузера с кнопкой Забыть.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -38,56 +38,56 @@ Dump your browser history with the Forget button.
 # Link: https://support.mozilla.org/kb/avoid-crashes-tips-and-tricks
 # Tip-top simply mean excellent, of the very best class or quality.
 ;<a>Here are some easy things you can do</a> to avoid crashes and keep Firefox running in tip-top shape.
-<a>Here are some easy things you can do</a> to avoid crashes and keep Firefox running in tip-top shape.
+<a>Вот несколько простых вещей, которые вы можете делать,</a> чтобы избежать падений и сделать классной работу вашего Firefox.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/private-browsing/
 ;If you don't like your clicks, taps and swipes being tracked whenever you're online, <a>we have a solution for that.</a>
-If you don't like your clicks, taps and swipes being tracked whenever you're online, <a>we have a solution for that.</a>
+Если вам не нравятся щелчки, нажатия и жесты, отслеживаемых другими, когда вы в Интернете, то <a>у нас есть для этого решение.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/private-browsing/
 ;Private Browsing with Tracking Protection prevents your clicks, taps and swipes from being tracked. <a>Try it.</a>
-Private Browsing with Tracking Protection prevents your clicks, taps and swipes from being tracked. <a>Try it.</a>
+Приватный просмотр с Защитой от Отслеживания предотвращает отслеживание ваших щелчков, нажатий и жестов. <a>Попробуйте его.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/boosters/
 ;Get serious about tab organization, password typos, price comparisons and more with <a>this add-on booster pack.</a>
-Get serious about tab organization, password typos, price comparisons and more with <a>this add-on booster pack.</a>
+Займитесь серьезно за организацию вкладок, защиту от опечаток в паролях, сравнения цен и многое другое с <a>этой подборкой дополнений.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/boosters/
 ;Looking for a productivity boost? <a>Try these efficiency add-ons.</a>
-Looking for a productivity boost? <a>Try these efficiency add-ons.</a>
+Хотите повысить свою продуктивность? <a>Попробуйте дополнения, повышающие эффективность.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/boosters/
 ;Six easy add-ons to improve your online life. <a>Check out the efficiency booster pack.</a>
-Six easy add-ons to improve your online life. <a>Check out the efficiency booster pack.</a>
+6 простых дополнений, которые улучшат вашу работу в Интернете. <a>Посмотрите подборку эффективных дополнений.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/sync/
 ;Sync delivers your web everywhere you use Firefox. It just makes life easier. <a>Give it a go.</a>
-Sync delivers your web everywhere you use Firefox. It just makes life easier. <a>Give it a go.</a>
+Синхронизация доставляет ваш Интернет в любое место, где бы вы ни использовали Firefox. Она просто делает жизнь легче. <a>Попробуйте.</a>
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/sync/
 ;Sync lets you view your computer's open tabs on your phone. Pretty slick.
-Sync lets you view your computer's open tabs on your phone. Pretty slick.
+Синхронизация позволяет вам просматривать открытые вкладки вашего компьютера на вашем телефоне. Довольно удобно.
 
 
 # LIMIT: 140 characters (will be used on both desktop) and mobile. Please rephrase as needed to fit.
@@ -96,7 +96,7 @@ Sync lets you view your computer's open tabs on your phone. Pretty slick.
 # This is based on a English wordplay (cat, fur/for). If nothing similar exists
 # in your language, feel free to come up with different ideas. For example use simply "Click for suggestions".
 ;Admin cat here. Time to update your browser theme. <a>Click fur suggestions</a>.
-Admin cat here. Time to update your browser theme. <a>Click fur suggestions</a>.
+Привет, я - кот админа. Время обновить тему вашего браузера. <a>Щёлкните для предложений</a>.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
@@ -105,58 +105,58 @@ Admin cat here. Time to update your browser theme. <a>Click fur suggestions</a>.
 # This is based on a English wordplay (to rock, rock, stone). If nothing similar
 # exists in your language, feel free to come up with different ideas.
 ;New themes to rock your Firefox.
-New themes to rock your Firefox.
+Новые темы, которые заведут ваш Firefox.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://addons.mozilla.org/android/extensions/?sort=featured
 ;Improve your on-the-go browsing with our featured add-ons.
-Improve your on-the-go browsing with our featured add-ons.
+Улучшите ваш мобильный веб-сёрфинг с помощью наших избранных дополнений.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://support.mozilla.org/kb/manage-your-top-sites-firefox-android
 ;Pin favorite sites to your home screen so you can get to them in a quick tap.
-Pin favorite sites to your home screen so you can get to them in a quick tap.
+Закрепите любимые сайты на вашем домашнем экране и вы сможете заходить на них быстрым нажатием.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://www.mozilla.org/firefox/private-browsing/
 ;If you don't want your taps and swipes to be tracked, browse privately instead.
-If you don't want your taps and swipes to be tracked, browse privately instead.
+Если вы не хотите, чтобы ваши нажатия и жесты отслеживались - используйте Приватный Просмотр.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
 # Campaign: mobile snippets
 # Link: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
 ;Need to clear your browser history quickly? Here's how.
-Need to clear your browser history quickly? Here's how.
+Нужно быстро очистить историю вашего браузера? Вот как это сделать.
 
 
 # LIMIT: 40 characters. Please rephrase as needed to fit.
 # Used as headline in a mobile "Send to" widget for installation
 ;Get the latest Firefox for your iOS device
-Get the latest Firefox for your iOS device
+Загрузите последний Firefox для iOS
 
 
 # LIMIT: 150 characters. Please rephrase as needed to fit.
 # Used as body in a mobile "Send to" widget for installation
 ;The awesome bar is now even more awesome! Search your bookmarks, history and tabs in your address bar with the latest Firefox.
-The awesome bar is now even more awesome! Search your bookmarks, history and tabs in your address bar with the latest Firefox.
+Умная строка адреса стала ещё умнее! Ищите в ваших закладках, истории и вкладках прямо из строки адреса в последнем Firefox.
 
 
 # LIMIT: 40 characters. Please rephrase as needed to fit.
 # Used as headline in a mobile "Send to" widget for installation
 ;Firefox for iOS, now with extra awesome
-Firefox for iOS, now with extra awesome
+Firefox для iOS, теперь стал ещё круче
 
 
 # LIMIT: 150 characters. Please rephrase as needed to fit.
 # Used as body in a mobile "Send to" widget for installation
 ;You asked for it, we made it. Search your bookmarks, history and tabs in your address bar with the latest Firefox.
-You asked for it, we made it. Search your bookmarks, history and tabs in your address bar with the latest Firefox.
+Вы это просили - мы это сделали. Ищите в ваших закладках, истории и вкладках прямо из строки адреса в последнем Firefox.
 
 
