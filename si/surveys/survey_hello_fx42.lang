@@ -6,102 +6,102 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: නිපැයුම් සමීක්ෂණය
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+ඔබ කොපමණ දුරකට Firefox Hello ඔබේ මිතුරකුට  හදුන්වා දීමට කැමති ද? (පරිමාණය:  0 යනු නිර්දේශ කිරීමට අකමැති සහ  10 යනු අතිශයින් නිර්දේශ කල යුතු)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+ඔබ වෙනුවෙන් Firefox Hello දියුණු කිරීමට අප කුමක් සිදු කළ යුතු ද?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+වඩා වැඩියෙන් නිර්දේශ කිරීමට නම් අප Firefox Hello දියුණු කළ යුත්තෙ කෙසේ ද?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+Firefox Hello භාවිතය ඉතා හොඳ අත්දැකීමක් වීමට කිසියම් විශේෂ දෙයක් බල පැව ද?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+කරුණාකර ඔබේ ඇමතුමේ ගුණාත්මක බවේ ප්‍රමාණය දක්වන්න.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - ඉතා දුර්වලයි
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - අනර්ඝයි
 
 
 # p-2
 ;Thank You!
-Thank You!
+ඔබට ස්තුතියි!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+මෙම සමීක්ෂණය නිම කිරීමට කාලය ගත කිරිමට ස්තුතියි. ඔබේ ප්‍රතිචාරය අපට ඉතා වටිනා අතර මෙය අපගේ  පරිශීලකයන් සඳහා වඩා හොඳ Firefox Hello නිපද වීමට උපකාරි වේ.
 
 
 # required
 ;This question is required
-This question is required
+මෙම ප්‍රශ්ණය අවශ්‍යම වේ
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- කරුණාකර තෝරන්න --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+මෙම සමීක්ෂණය මෙම අවස්ථාවේ අමතර ප්‍රතිචාර බාර නොගනි. ඔබට ස්තුතියි!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+ඔබ මෙම සමීක්ෂණය දැනටමත් සම්පූර්ණ කර ඇත.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+වෙනත් භාෂාවක් තෝරන්න
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+වෙනත් භාෂාවකින් ඇරඹීමට, පහත සැබඳි වලින් එකක් ක්ලික් කරන්න.
 
 
 # back_button
 ;Back
-Back
+ආපසු
 
 
 # next_button
 ;Next
-Next
+මීළඟ
 
 
 # submit_button
 ;Submit
-Submit
+යවන්න
 
 
 # clear_button
 ;Clear
-Clear
+මකන්න
 
 
 # page_error_message
