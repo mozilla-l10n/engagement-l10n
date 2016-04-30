@@ -6,106 +6,106 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Product Survey
+Firefox Hello: produktspørjeskjema
 
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
+Kor sannsynleg er det at du vil tilrå Firefox Hello till ein ven eller kollega? (Frå 0 til 10, der 0 ikkje er særleg sannsynleg og 10 er svært sannsynleg)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-What could we do to improve Firefox Hello for you?
+Kva kan vi gjera for å gjera Firefox Hello betre for deg?
 
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-How can we improve Firefox Hello to make you more likely to recommend us?
+Korleis kan vi forbetra Firefox Hello for at du skal vurdera å tilrå oss?
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Was there anything in particular that made Firefox Hello such a positive experience for you?
+Var det noko særskilt som gjorde Firefox Hello til ei positiv oppleving for deg?
 
 
 # q-23
 ;Please rate the quality of your call.
-Please rate the quality of your call.
+Vurder samtalekvaliteten.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - Very Poor
+1 - Svært dårleg
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - Excellent
+5 - Utmerkt
 
 
 # p-2
 ;Thank You!
-Thank You!
+Takk skal du ha!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
+Takk for at du tok deg tid til å fullføra undersøkinga vår. Svaret ditt er svært viktig for oss, og vil bidra til å gjera Firefox Hello betre for brukarane våre.
 
 
 # required
 ;This question is required
-This question is required
+Dette spørsmålet er obligatorisk
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Vel --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Denna undersøkinga tek ikkje lenger mot svar frå nye deltakarar. Takk for att du ville vera med!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Du har allereie svart på denne undersøkinga.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Vel eit anna språk
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+For å fortsetja på eit anna språk, klikk på ei av lenkene under.
 
 
 # back_button
 ;Back
-Back
+Tilbake
 
 
 # next_button
 ;Next
-Next
+Neste
 
 
 # submit_button
 ;Submit
-Submit
+Send inn
 
 
 # clear_button
 ;Clear
-Clear
+Tøm
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-There was an error on your page. Please correct any required fields and submit again. Go to the first error
+Noko var feil på sida di. Rett eventuelle feil i obligatoriske felt og send inn på nytt. Gå til den fyrste feilen
 
 
