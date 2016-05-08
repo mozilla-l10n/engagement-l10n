@@ -7,7 +7,7 @@
 # This is based on a English wordplay (to rock, rock, stone). If nothing similar
 # exists in your language, feel free to come up with different ideas.
 ;Ready to rock a fresh theme? <a>Nine new looks are just a stone's throw away.</a>
-Ready to rock a fresh theme? <a>Nine new looks are just a stone's throw away.</a>
+Envie d’un nouveau thème ? <a>En voici neuf à portée de clic</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -16,7 +16,7 @@ Ready to rock a fresh theme? <a>Nine new looks are just a stone's throw away.</a
 # This is based on a English wordplay (to rock, rock, stone). If nothing similar
 # exists in your language, feel free to come up with different ideas.
 ;These themes rock.
-These themes rock.
+Ces thèmes ont été littéralement taillés dans la roche.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -45,7 +45,7 @@ Supprimez rapidement votre historique de navigation avec le bouton Effacer des d
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/private-browsing/
 ;If you don't like your clicks, taps and swipes being tracked whenever you're online, <a>we have a solution for that.</a>
-If you don't like your clicks, taps and swipes being tracked whenever you're online, <a>we have a solution for that.</a>
+Si vous ne voulez pas que vos clics et gestes sur l’écran ne soient pistés lorsque vous naviguez, <a>nous avons une solution pour vous</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -59,7 +59,7 @@ La navigation privée avec la protection contre le pistage empêche que vos clic
 # Campaign: desktop snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/boosters/
 ;Get serious about tab organization, password typos, price comparisons and more with <a>this add-on booster pack.</a>
-Get serious about tab organization, password typos, price comparisons and more with <a>this add-on booster pack.</a>
+Devenez un pro de la gestion des onglets, des corrections de mots de passe, des comparateurs de prix et de bien plus avec <a>cette collection de modules</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -105,7 +105,7 @@ Ces thèmes vont faire ronronner votre navigateur, chat ch’est chur ! <a>Voici
 # This is based on a English wordplay (to rock, rock, stone). If nothing similar
 # exists in your language, feel free to come up with different ideas.
 ;New themes to rock your Firefox.
-New themes to rock your Firefox.
+Faites d’une pierre deux coups en installant ces nouveaux thèmes Firefox.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
