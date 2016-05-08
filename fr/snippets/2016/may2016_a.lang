@@ -23,14 +23,14 @@ These themes rock.
 # Campaign: desktop snippets
 # Link: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
 ;Need to clear your browser history quickly? <a>The Forget button can do that for you.</a>
-Need to clear your browser history quickly? <a>The Forget button can do that for you.</a>
+Besoin d’effacer rapidement votre historique de navigation ? <a>Le bouton Effacer des données est fait pour vous</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
 ;Dump your browser history with the Forget button.
-Dump your browser history with the Forget button.
+Supprimez rapidement votre historique de navigation avec le bouton Effacer des données.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -38,7 +38,7 @@ Dump your browser history with the Forget button.
 # Link: https://support.mozilla.org/kb/avoid-crashes-tips-and-tricks
 # Tip-top simply mean excellent, of the very best class or quality.
 ;<a>Here are some easy things you can do</a> to avoid crashes and keep Firefox running in tip-top shape.
-<a>Here are some easy things you can do</a> to avoid crashes and keep Firefox running in tip-top shape.
+<a>Voici quelques astuces faciles à mettre en œuvre</a> pour éviter les plantages et garder Firefox en pleine forme.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -52,7 +52,7 @@ If you don't like your clicks, taps and swipes being tracked whenever you're onl
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/private-browsing/
 ;Private Browsing with Tracking Protection prevents your clicks, taps and swipes from being tracked. <a>Try it.</a>
-Private Browsing with Tracking Protection prevents your clicks, taps and swipes from being tracked. <a>Try it.</a>
+La navigation privée avec la protection contre le pistage empêche que vos clics et gestes sur l’écran ne soient pistés. <a>Essayez-la</a> !
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -66,21 +66,21 @@ Get serious about tab organization, password typos, price comparisons and more w
 # Campaign: desktop snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/boosters/
 ;Looking for a productivity boost? <a>Try these efficiency add-ons.</a>
-Looking for a productivity boost? <a>Try these efficiency add-ons.</a>
+Besoin d’un coup de pouce pour améliorer votre productivité ? <a>Jetez un œil à ces extensions</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://addons.mozilla.org/firefox/collections/mozmj/boosters/
 ;Six easy add-ons to improve your online life. <a>Check out the efficiency booster pack.</a>
-Six easy add-ons to improve your online life. <a>Check out the efficiency booster pack.</a>
+Six extensions toutes simples qui vont changer votre vie numérique. <a>Essayez-les pour améliorer votre productivité</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/sync/
 ;Sync delivers your web everywhere you use Firefox. It just makes life easier. <a>Give it a go.</a>
-Sync delivers your web everywhere you use Firefox. It just makes life easier. <a>Give it a go.</a>
+Sync vous simplifie la vie et vous permet d’accéder à votre Web partout où vous utilisez Firefox. <a>Voyez par vous-même</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -96,7 +96,7 @@ Sync vous permet d’afficher sur votre téléphone les onglets ouverts depuis v
 # This is based on a English wordplay (cat, fur/for). If nothing similar exists
 # in your language, feel free to come up with different ideas. For example use simply "Click for suggestions".
 ;Admin cat here. Time to update your browser theme. <a>Click fur suggestions</a>.
-Admin cat here. Time to update your browser theme. <a>Click fur suggestions</a>.
+Ces thèmes vont faire ronronner votre navigateur, chat ch’est chur ! <a>Voici notre sélection, au poil</a>.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
