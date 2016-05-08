@@ -45,14 +45,14 @@ Supprimez rapidement votre historique de navigation avec le bouton Effacer des d
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/private-browsing/
 ;If you don't like your clicks, taps and swipes being tracked whenever you're online, <a>we have a solution for that.</a>
-Si vous ne voulez pas que vos clics et gestes sur l’écran ne soient pistés lorsque vous naviguez, <a>nous avons une solution pour vous</a>.
+Si vous ne voulez pas que votre activité en ligne soit pistée, <a>nous avons une solution pour vous</a>.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://www.mozilla.org/firefox/private-browsing/
 ;Private Browsing with Tracking Protection prevents your clicks, taps and swipes from being tracked. <a>Try it.</a>
-La navigation privée avec la protection contre le pistage empêche que vos clics et gestes sur l’écran ne soient pistés. <a>Essayez-la</a> !
+La navigation privée avec la protection contre le pistage empêche que votre activité en ligne soit pistée. <a>Essayez-la</a> !
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -105,7 +105,7 @@ Ces thèmes vont faire ronronner votre navigateur. <a>Voici notre sélection, au
 # This is based on a English wordplay (to rock, rock, stone). If nothing similar
 # exists in your language, feel free to come up with different ideas.
 ;New themes to rock your Firefox.
-Faites d’une pierre deux coups en installant ces nouveaux thèmes Firefox.
+Ces nouveaux thèmes Firefox ne vous laisseront pas de marbre…
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
@@ -126,7 +126,7 @@ Améliorez votre navigation mobile avec nos modules en vedette.
 # Campaign: mobile snippets
 # Link: https://www.mozilla.org/firefox/private-browsing/
 ;If you don't want your taps and swipes to be tracked, browse privately instead.
-Si vous ne voulez pas que les gestes effectués sur mobile soient pistés, passez en navigation privée.
+Pour éviter que votre activité en ligne sur vos appareils mobiles soit pistée, passez en navigation privée.
 
 
 # LIMIT: 140 characters (will be used on mobile). Please rephrase as needed to fit.
