@@ -46,7 +46,7 @@ Please rate the quality of your call.
 
 # p-2
 ;Thank You!
-Thank You!
+Paldies!
 
 
 # q-1
@@ -56,12 +56,12 @@ Thank you for taking the time to complete our survey. Your response is very impo
 
 # required
 ;This question is required
-This question is required
+Ir nepieciešams atbildēt šim jautājumam
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Lūdzu izvēlieties --
 
 
 # survey_closed
@@ -86,22 +86,22 @@ To continue in another language, please click one of the links below.
 
 # back_button
 ;Back
-Back
+Atpakaļ
 
 
 # next_button
 ;Next
-Next
+Nākamais
 
 
 # submit_button
 ;Submit
-Submit
+Iesniegt
 
 
 # clear_button
 ;Clear
-Clear
+Attīrīt
 
 
 # page_error_message
