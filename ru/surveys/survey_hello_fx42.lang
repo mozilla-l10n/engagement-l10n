@@ -58,7 +58,7 @@ Firefox Hello: Исследование продукта
 
 # selectone
 ;-- Please Select --
--- Пожалуйста выберите --
+-- Пожалуйста, выберите --
 
 
 # survey_closed
@@ -108,16 +108,16 @@ Firefox Hello: Исследование продукта
 
 # Question
 ;Have you ever tried Firefox Hello before today?
-Have you ever tried Firefox Hello before today?
+Пробовали ли вы Firefox Hello до сегодняшнего дня?
 
 
 # Answer-1
 ;Yes
-Yes
+Да
 
 
 # Answer-2
 ;No
-No
+Нет
 
 
