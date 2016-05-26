@@ -1,7 +1,4 @@
-## NOTE: Survey for Firefox Hello and Firefox 42. Reference: bug 1184838
-## NOTE: This survey will be proposed to Firefox Hello users after a call.
-## NOTE: It will be used when Firefox 42 enters Beta (Sep 22), but team needs at least a week to import translations in SurveyGizmo.
-## NOTE: Comment like 'survey-title', 'q-2' are used to automated the export in Excel format, don't modify them.
+## NOTE: Survey for Firefox Hello and Firefox. Added a new question in bug 1275894
 
 
 # survey-title
@@ -107,5 +104,20 @@ Clear
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
 There was an error on your page. Please correct any required fields and submit again. Go to the first error
+
+
+# Question
+;Have you ever tried Firefox Hello before today?
+Have you ever tried Firefox Hello before today?
+
+
+# Answer-1
+;Yes
+Yes
+
+
+# Answer-2
+;No
+No
 
 
