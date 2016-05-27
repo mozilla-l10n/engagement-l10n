@@ -108,16 +108,16 @@ Hubo un error en tu página. Corrige los campos obligatorios y vuelve a enviar l
 
 # Question
 ;Have you ever tried Firefox Hello before today?
-Have you ever tried Firefox Hello before today?
+¿Habías probado antes Firefox Hello?
 
 
 # Answer-1
 ;Yes
-Yes
+Sí
 
 
 # Answer-2
 ;No
-No
+No {ok}
 
 
