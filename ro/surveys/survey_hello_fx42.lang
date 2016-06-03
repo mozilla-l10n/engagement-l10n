@@ -8,12 +8,12 @@ Firefox Hello: Sondaj cu privire la produs
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-Care este probabilitatea să recomandați Firefox Hello unui prieten sau coleg? (Scară: 0 nu foarte probabil să îl recomandați și 10 extrem de probabil să îl recomandați)
+Care este probabilitatea să recomanzi Firefox Hello unui prieten sau coleg? (Scară: 0 nu foarte probabil să îl recomanzi și 10 extrem de probabil să îl recomanzi)
 
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-Ce am putea face pentru a îmbunătăți Firefox Hello pentru dumneavoastră?
+Ce am putea face pentru a îmbunătăți Firefox Hello pentru tine?
 
 
 # q-9
@@ -23,32 +23,32 @@ Cum putem îmbunătăți Firefox Hello pentru a crește probabilitatea de a-l re
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-A fost ceva anume care a făcut din Firefox Hello o experiență atât de bună pentru dumneavoastră?
+A fost ceva anume care a făcut din Firefox Hello o experiență atât de bună pentru tine?
 
 
 # q-23
 ;Please rate the quality of your call.
-Vă rugăm să dați un punctaj pentru calitatea convorbirii.
+Te rugăm să acorzi un punctaj pentru calitatea convorbirii.
 
 
 # q-23-o-10077
 ;1 - Very Poor
-1 - foarte slabă
+1 - Foarte slabă
 
 
 # q-23-o-10081
 ;5 - Excellent
-5 - excelentă
+5 - Excelentă
 
 
 # p-2
 ;Thank You!
-Vă mulțumim!
+Îți mulțumim!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Vă mulțumim pentru timpul acordat ca să completați acest sondaj. Răspunsul dumneavoastră este foarte important pentru noi și ne va ajuta să îmbunătățim Firefox Hello pentru utilizatori.
+Îți mulțumim pentru timpul acordat ca să completezi sondajul nostru. Răspunsul tău este foarte important pentru noi și ne va ajuta să îmbunătățim Firefox Hello pentru utilizatorii noștri.
 
 
 # required
@@ -58,27 +58,27 @@ Această întrebare este necesară
 
 # selectone
 ;-- Please Select --
--- Vă rugăm să selectați --
+-- Te rugăm să selectezi --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-Acest sondaj nu acceptă răspunsuri suplimentare în momentul de față. Vă mulțumim!
+Acest sondaj nu acceptă răspunsuri suplimentare în momentul de față. Îți mulțumim!
 
 
 # block_by_message
 ;You have already completed this survey.
-Ați completat deja acest sondaj.
+Ai completat deja acest sondaj.
 
 
 # language_bar_select_text
 ;Select another language
-Selectați o altă limbă.
+Selectează o altă limbă
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-Pentru a continua într-o altă limbă, vă rugăm dați clic pe unul din linkurile de mai jos.
+Pentru a continua într-o altă limbă, te rugăm să dai clic pe unul din linkurile de mai jos.
 
 
 # back_button
@@ -108,16 +108,16 @@ S-a produs o eroare pe pagina dumneavoastră. Vă rugăm să corectați câmpuri
 
 # Question
 ;Have you ever tried Firefox Hello before today?
-Have you ever tried Firefox Hello before today?
+Ai încercat vreodată Firefox Hello înainte de ziua de azi?
 
 
 # Answer-1
 ;Yes
-Yes
+Da
 
 
 # Answer-2
 ;No
-No
+Nu
 
 
