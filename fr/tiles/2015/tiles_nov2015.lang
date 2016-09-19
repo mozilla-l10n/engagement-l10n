@@ -65,7 +65,7 @@ Devenez expert en surveillance
 # State: normal (displayed without user interaction)
 # Link: SmartOn Surveillance page, currently N/A
 ;If you’re not under investigation…
-Si vous ne faites pas l'objet d'une enquête…
+Si vous ne faites pas l’objet d’une enquête…
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
@@ -153,7 +153,7 @@ La navigation privée inclut maintenant la protection contre le pistage.
 # State: roll-over (displayed when the user moves the mouse on the tile)
 # Link: https://www-demo5.allizom.org/firefox/private-browsing/
 ;Goodbye trackers, hello speed. Try it now.
-Adieu les traqueurs, bonjour la vitesse. Faites l'essai.
+Adieu les traqueurs, bonjour la vitesse. Faites l’essai.
 
 
 # LIMIT: Try to keep about the same length of English. There are no automatic warnings for excessive length.
