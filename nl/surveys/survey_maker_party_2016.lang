@@ -140,7 +140,7 @@ How old are you?
 
 # p-2
 ;Thank You!
-Thank You!
+Bedankt!
 
 
 # q-1
@@ -150,17 +150,17 @@ Thank you for taking our survey. Your response is very important to us.
 
 # next_button
 ;Next
-Next
+Volgende
 
 
 # back_button
 ;Back
-Back
+Terug
 
 
 # submit_button
 ;Submit
-Submit
+Verzenden
 
 
 # required-hover
@@ -170,32 +170,32 @@ This question is required.
 
 # required
 ;This question is required
-This question is required
+Deze vraag is vereist
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Selecteer --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Dit onderzoek accepteert momenteel geen reacties meer. Bedankt!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+U hebt dit onderzoek al ingevuld.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Andere taal selecteren
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Klik op een van de onderstaande koppelingen om in een andere taal door te gaan.
 
 
 # page_error_message

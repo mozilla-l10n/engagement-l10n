@@ -140,7 +140,7 @@ How old are you?
 
 # p-2
 ;Thank You!
-Thank You!
+Grazie!
 
 
 # q-1
@@ -150,17 +150,17 @@ Thank you for taking our survey. Your response is very important to us.
 
 # next_button
 ;Next
-Next
+Avanti
 
 
 # back_button
 ;Back
-Back
+Indietro
 
 
 # submit_button
 ;Submit
-Submit
+Invia
 
 
 # required-hover
@@ -170,32 +170,32 @@ This question is required.
 
 # required
 ;This question is required
-This question is required
+È obbligatorio rispondere a questa domanda
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Seleziona una voce --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Non è più possibile rispondere a questo sondaggio. Grazie comunque.
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Hai già risposto a questo sondaggio.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Seleziona un’altra lingua
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Per utilizzare un’altra lingua, fai clic su uno dei seguenti link.
 
 
 # page_error_message
