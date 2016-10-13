@@ -3,139 +3,139 @@
 
 # survey-title
 ;Maker Party Attendee Survey
-Maker Party Attendee Survey
+Anketa pro účastníky Maker Party
 
 
 # p-3
 ;How'd It Go?
-How'd It Go?
+Jaké to bylo?
 
 
 # q-8
 ;On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
-On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
+Na stupnici od 1 do 7, jak pravděpodobně byste doporučili zúčastnit se Maker Party svým přátelům?
 
 
 # q-8-o-10217
 ;7 – Very Likely
-7 – Very Likely
+7 – velmi pravděpodobně
 
 
 # q-8-o-10223
 ;1 – Not At All Likely
-1 – Not At All Likely
+1 - vůbec ne
 
 
 # q-16
 ;What could have been better about the Maker Party you attended?
-What could have been better about the Maker Party you attended?
+Co mohlo být na Maker Party, které jste se zúčastnili, uděláno lépe?
 
 
 # q-17
 ;What did you particularly like about the Maker Party you attended?
-What did you particularly like about the Maker Party you attended?
+Co se vám na Maker Party, které jste se zúčastnili, líbilo nejvíce?
 
 
 # q-7
 ;What activity did you participate in at the Maker Party you attended?
-What activity did you participate in at the Maker Party you attended?
+Jakých aktivit jste se během Maker Party zúčastnili?
 
 
 # q-7-o-10211
 ;Post Crimes
-Post Crimes
+Post Crimes {ok}
 
 
 # q-7-o-10212
 ;Meme School
-Meme School
+Škola meme
 
 
 # q-7-o-10213
 ;Contributing to the Commons
-Contributing to the Commons
+Přispívání do Commons
 
 
 # q-7-o-10214
 ;Super Party
-Super Party
+Super Party {ok}
 
 
 # q-10
 ;How engaging did you think the facilitator of the event was?
-How engaging did you think the facilitator of the event was?
+Jak poutavý byl pro vás organizátor celé události?
 
 
 # q-10-o-10226
 ;7 – Highly Engaging
-7 – Highly Engaging
+7 – velmi poutavý
 
 
 # q-10-o-10232
 ;1 – Not At All Engaging
-1 – Not At All Engaging
+1 – vůbec
 
 
 # q-11
 ;Would you like to share additional feedback about how the Maker Party was facilitated? What was great? What could be improved?
-Would you like to share additional feedback about how the Maker Party was facilitated? What was great? What could be improved?
+Chcete nám zaslat podrobnější zpětnou vazbu k organizaci Maker Party? Co se povedlo? Co by si zasloužilo vylepšit?
 
 
 # p-4
 ;Looking Forward
-Looking Forward
+Pohled do budoucna
 
 
 # q-12
 ;How much awareness did you have of EU copyright policy prior to attending the event?
-How much awareness did you have of EU copyright policy prior to attending the event?
+Kolik jste věděli o autorských právech v EU před účastí na události?
 
 
 # q-13-o-10246
 # q-12-o-10237
 ;7 – A Great Deal
-7 – A Great Deal
+7 – je to velmi důležité
 
 
 # q-13-o-10252
 # q-12-o-10243
 ;1 – None
-1 – None
+1 – nezajímá mne to
 
 
 # q-13
 ;How much interest do you have in learning more about EU copyright policy now?
-How much interest do you have in learning more about EU copyright policy now?
+Jak moc se nyní zajímáte o další informace o autorských právech v EU?
 
 
 # q-14
 ;If you would like us to contact you again about your responses or participating in future Mozilla events, please share your name and email below:
-If you would like us to contact you again about your responses or participating in future Mozilla events, please share your name and email below:
+Pokud si přejete, abychom vás mohli kontaktovat ohledně vašich odpovědí nebo účasti na dalších událostech Mozilly, vyplňte prosím níže své jméno a e-mailovou adresu:
 
 
 # q-14-o-10259
 ;Name
-Name
+Jméno
 
 
 # q-14-o-10260
 ;Email
-Email
+E-mail
 
 
 # p-1
 ;About You
-About You
+O vás
 
 
 # q-5
 ;What country are you located in?
-What country are you located in?
+Z jaké pocházíte země?
 
 
 # q-6
 ;How old are you?
-How old are you?
+Jak jste staří?
 
 
 # p-2
@@ -145,7 +145,7 @@ Děkujeme vám!
 
 # q-1
 ;Thank you for taking our survey. Your response is very important to us.
-Thank you for taking our survey. Your response is very important to us.
+Děkujeme vám za vyplnění ankety. Vaše odpověď je pro nás velmi důležitá.
 
 
 # next_button
@@ -165,7 +165,7 @@ Odeslat
 
 # required-hover
 ;This question is required.
-This question is required.
+Tato otázka je povinná.
 
 
 # required
@@ -200,11 +200,11 @@ Pro pokračování v jiném jazyce prosím klepněte na jeden z odkazů níže.
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-There was an error on your page. Please correct any required fields and submit again.
+Na vaší stránce došlo k chybě. Opravte prosím všechna povinná pole a odešlete ji znovu.
 
 
 # first_error
 ;Go to the first error
-Go to the first error
+Přejít na první chybnou stránku
 
 
