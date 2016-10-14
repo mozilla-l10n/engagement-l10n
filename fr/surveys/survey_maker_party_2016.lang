@@ -8,7 +8,7 @@ Maker Party Attendee Survey
 
 # p-3
 ;How'd It Go?
-How'd It Go?
+C’était comment ?
 
 
 # q-8
@@ -33,7 +33,7 @@ What could have been better about the Maker Party you attended?
 
 # q-17
 ;What did you particularly like about the Maker Party you attended?
-What did you particularly like about the Maker Party you attended?
+Qu’avez-vous aimé en particulier à la Maker Party à laquelle vous avez participé ?
 
 
 # q-7
@@ -43,22 +43,22 @@ What activity did you participate in at the Maker Party you attended?
 
 # q-7-o-10211
 ;Post Crimes
-Post Crimes
+Délits publics
 
 
 # q-7-o-10212
 ;Meme Around
-Meme Around
+Mèmes engagés
 
 
 # q-7-o-10213
 ;Contributing to the Commons
-Contributing to the Commons
+Liberté partagée
 
 
 # q-7-o-10214
 ;Super Party
-Super Party
+Super Party {ok}
 
 
 # q-10
@@ -115,17 +115,17 @@ If you would like us to contact you again about your responses or participating 
 
 # q-14-o-10259
 ;Name
-Name
+Nom
 
 
 # q-14-o-10260
 ;Email
-Email
+Courriel
 
 
 # p-1
 ;About You
-About You
+À propos de vous
 
 
 # q-5
@@ -135,7 +135,7 @@ What country are you located in?
 
 # q-6
 ;How old are you?
-How old are you?
+Quel âge avez-vous ?
 
 
 # p-2
@@ -165,7 +165,7 @@ Envoyer
 
 # required-hover
 ;This question is required.
-This question is required.
+Cette question est obligatoire.
 
 
 # required
