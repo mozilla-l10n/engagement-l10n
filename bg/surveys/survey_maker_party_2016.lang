@@ -3,27 +3,27 @@
 
 # survey-title
 ;Maker Party Attendee Survey
-Maker Party Attendee Survey
+Проучване между участниците в Maker Party
 
 
 # p-3
 ;How'd It Go?
-How'd It Go?
+Как беше?
 
 
 # q-8
 ;On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
-On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
+По скалата от 1 до 7 как бихте препоръчали Maker Party на приятел?
 
 
 # q-8-o-10217
 ;7 – Very Likely
-7 – Very Likely
+7 – Силно препоръчвам
 
 
 # q-8-o-10223
 ;1 – Not At All Likely
-1 – Not At All Likely
+1 – Не препоръчвам
 
 
 # q-16
@@ -38,47 +38,47 @@ What did you particularly like about the Maker Party you attended?
 
 # q-7
 ;What activity did you participate in at the Maker Party you attended?
-What activity did you participate in at the Maker Party you attended?
+С каква дейност участвахте в Maker Party?
 
 
 # q-7-o-10211
 ;Post Crimes
-Post Crimes
+Снимки на престъпления
 
 
 # q-7-o-10212
 ;Meme School
-Meme School
+Училище за мемета
 
 
 # q-7-o-10213
 ;Contributing to the Commons
-Contributing to the Commons
+Допринасяне в Commons
 
 
 # q-7-o-10214
 ;Super Party
-Super Party
+Супер парти
 
 
 # q-10
 ;How engaging did you think the facilitator of the event was?
-How engaging did you think the facilitator of the event was?
+Според вас колко ангажиращ беше организаторът на събитието?
 
 
 # q-10-o-10226
 ;7 – Highly Engaging
-7 – Highly Engaging
+7 – Силно ангажиращ
 
 
 # q-10-o-10232
 ;1 – Not At All Engaging
-1 – Not At All Engaging
+1 – Изобщо неангажиращ
 
 
 # q-11
 ;Would you like to share additional feedback about how the Maker Party was facilitated? What was great? What could be improved?
-Would you like to share additional feedback about how the Maker Party was facilitated? What was great? What could be improved?
+Бихте ли споделили допълнителна обратна връзка за това как беше организирано това събитие? Кое беше страхотно? Какво би могло да бъде подобрено?
 
 
 # p-4
@@ -115,12 +115,12 @@ If you would like us to contact you again about your responses or participating 
 
 # q-14-o-10259
 ;Name
-Name
+Име
 
 
 # q-14-o-10260
 ;Email
-Email
+Електронна поща
 
 
 # p-1
@@ -140,7 +140,7 @@ How old are you?
 
 # p-2
 ;Thank You!
-Thank You!
+Благодарим ви!
 
 
 # q-1
@@ -160,22 +160,22 @@ Back
 
 # submit_button
 ;Submit
-Submit
+Изпращане
 
 
 # required-hover
 ;This question is required.
-This question is required.
+Въпросът е задължителен.
 
 
 # required
 ;This question is required
-This question is required
+Въпросът е задължителен
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+–– изберете ––
 
 
 # survey_closed
