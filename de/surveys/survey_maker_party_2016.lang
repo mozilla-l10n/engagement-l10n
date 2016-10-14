@@ -3,139 +3,139 @@
 
 # survey-title
 ;Maker Party Attendee Survey
-Maker Party Attendee Survey
+Umfrage für Maker-Party-Teilnehmer
 
 
 # p-3
 ;How'd It Go?
-How'd It Go?
+Wie war’s?
 
 
 # q-8
 ;On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
-On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
+Wie wahrscheinlich ist es auf einer Skala von 1 bis 7, dass Sie Maker Party einem Freund empfehlen?
 
 
 # q-8-o-10217
 ;7 – Very Likely
-7 – Very Likely
+7 – Sehr wahrscheinlich
 
 
 # q-8-o-10223
 ;1 – Not At All Likely
-1 – Not At All Likely
+1 – Sehr unwahrscheinlich
 
 
 # q-16
 ;What could have been better about the Maker Party you attended?
-What could have been better about the Maker Party you attended?
+Was hätte an der Maker Party, die Sie besucht haben, besser sein können?
 
 
 # q-17
 ;What did you particularly like about the Maker Party you attended?
-What did you particularly like about the Maker Party you attended?
+Was hat Ihnen an der Maker Party, die Sie besucht haben, besonders gefallen?
 
 
 # q-7
 ;What activity did you participate in at the Maker Party you attended?
-What activity did you participate in at the Maker Party you attended?
+An welcher Aktivität haben Sie auf der Maker Party, die Sie besucht haben, teilgenommen?
 
 
 # q-7-o-10211
 ;Post Crimes
-Post Crimes
+Verbrechen posten
 
 
 # q-7-o-10212
 ;Meme School
-Meme School
+Meme-Schule
 
 
 # q-7-o-10213
 ;Contributing to the Commons
-Contributing to the Commons
+Mitwirken am Gemeingut
 
 
 # q-7-o-10214
 ;Super Party
-Super Party
+Super-Party
 
 
 # q-10
 ;How engaging did you think the facilitator of the event was?
-How engaging did you think the facilitator of the event was?
+Wie motivierend fanden Sie den Helfer der Veranstaltung?
 
 
 # q-10-o-10226
 ;7 – Highly Engaging
-7 – Highly Engaging
+7 – Sehr motivierend
 
 
 # q-10-o-10232
 ;1 – Not At All Engaging
-1 – Not At All Engaging
+1 – Gar nicht motivierend
 
 
 # q-11
 ;Would you like to share additional feedback about how the Maker Party was facilitated? What was great? What could be improved?
-Would you like to share additional feedback about how the Maker Party was facilitated? What was great? What could be improved?
+Möchten Sie sonst noch etwas zur Unterstützung der Maker Party sagen? War hat gut funktioniert? Was ist verbesserungsfähig?
 
 
 # p-4
 ;Looking Forward
-Looking Forward
+Blick nach vorn
 
 
 # q-12
 ;How much awareness did you have of EU copyright policy prior to attending the event?
-How much awareness did you have of EU copyright policy prior to attending the event?
+Wie viel wussten Sie vor der Veranstaltung von EU-Urheberrechtsgesetzen?
 
 
 # q-13-o-10246
 # q-12-o-10237
 ;7 – A Great Deal
-7 – A Great Deal
+7 – Sehr viel
 
 
 # q-13-o-10252
 # q-12-o-10243
 ;1 – None
-1 – None
+1 – Nichts
 
 
 # q-13
 ;How much interest do you have in learning more about EU copyright policy now?
-How much interest do you have in learning more about EU copyright policy now?
+Wie sehr interessieren Sie sich jetzt dafür, mehr über EU-Urheberrechtsgesetze zu erfahren?
 
 
 # q-14
 ;If you would like us to contact you again about your responses or participating in future Mozilla events, please share your name and email below:
-If you would like us to contact you again about your responses or participating in future Mozilla events, please share your name and email below:
+Wenn Sie möchten, dass wir uns bezüglich Ihrer Antworten melden oder Sie über zukünftige Mozilla-Veranstaltungen informieren, geben Sie bitte hier Ihren Namen und Ihre E-Mail-Adresse ein:
 
 
 # q-14-o-10259
 ;Name
-Name
+Name {ok}
 
 
 # q-14-o-10260
 ;Email
-Email
+E-Mail
 
 
 # p-1
 ;About You
-About You
+Über Sie
 
 
 # q-5
 ;What country are you located in?
-What country are you located in?
+In welchem Land leben Sie?
 
 
 # q-6
 ;How old are you?
-How old are you?
+Wie alt sind Sie?
 
 
 # p-2
@@ -145,7 +145,7 @@ Vielen Dank!
 
 # q-1
 ;Thank you for taking our survey. Your response is very important to us.
-Thank you for taking our survey. Your response is very important to us.
+Vielen Dank für das Ausfüllen der Umfrage. Ihre Antwort ist uns sehr wichtig.
 
 
 # next_button
@@ -165,7 +165,7 @@ Absenden
 
 # required-hover
 ;This question is required.
-This question is required.
+Diese Frage muss beantwortet werden.
 
 
 # required
@@ -200,11 +200,11 @@ Um eine andere Sprache auszuwählen klicken Sie bitte einen der folgenden Links 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-There was an error on your page. Please correct any required fields and submit again.
+Auf dieser Seite ist ein Fehler aufgetreten. Bitte korrigieren Sie Pflichtfelder und senden Sie die Umfrage erneut ab.
 
 
 # first_error
 ;Go to the first error
-Go to the first error
+Zum ersten Fehler springen
 
 
