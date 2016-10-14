@@ -125,17 +125,17 @@
 
 # p-1
 ;About You
-About You
+За вас
 
 
 # q-5
 ;What country are you located in?
-What country are you located in?
+В коя страна се намирате?
 
 
 # q-6
 ;How old are you?
-How old are you?
+На колко години сте?
 
 
 # p-2
@@ -145,17 +145,17 @@ How old are you?
 
 # q-1
 ;Thank you for taking our survey. Your response is very important to us.
-Thank you for taking our survey. Your response is very important to us.
+Благодарим ви, че участвахте в нашето проучване. Вашите отговори са много важни за нас.
 
 
 # next_button
 ;Next
-Next
+Напред
 
 
 # back_button
 ;Back
-Back
+Назад
 
 
 # submit_button
@@ -180,31 +180,31 @@ Back
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Това проучване в момента не приема допълнителни отговори. Благодарим ви!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Вече сте участвали в това проучване.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Избор на език
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+За да продължите на друг език, моля посетете някоя от препратките отдолу.
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-There was an error on your page. Please correct any required fields and submit again.
+Възникна грешка. Моля, проверете всички задължителни полета и изпратете отново.
 
 
 # first_error
 ;Go to the first error
-Go to the first error
+Към първата грешка
 
 
