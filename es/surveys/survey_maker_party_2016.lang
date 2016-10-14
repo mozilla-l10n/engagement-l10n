@@ -3,114 +3,114 @@
 
 # survey-title
 ;Maker Party Attendee Survey
-Maker Party Attendee Survey
+Encuesta de asistentes a la Maker Party
 
 
 # p-3
 ;How'd It Go?
-How'd It Go?
+¿Qué te ha parecido?
 
 
 # q-8
 ;On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
-On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
+En una escala del 1 al 7, ¿recomendarías Maker Party a un amigo?
 
 
 # q-8-o-10217
 ;7 – Very Likely
-7 – Very Likely
+7– Seguramente
 
 
 # q-8-o-10223
 ;1 – Not At All Likely
-1 – Not At All Likely
+1– No lo creo
 
 
 # q-16
 ;What could have been better about the Maker Party you attended?
-What could have been better about the Maker Party you attended?
+¿Qué se podría mejorar de la Maker Party a la que asististe?
 
 
 # q-17
 ;What did you particularly like about the Maker Party you attended?
-What did you particularly like about the Maker Party you attended?
+¿Qué te gustó más de la Maker Party a la que asististe?
 
 
 # q-7
 ;What activity did you participate in at the Maker Party you attended?
-What activity did you participate in at the Maker Party you attended?
+¿En qué actividades participaste en la Maker Party a la que asististe?
 
 
 # q-7-o-10211
 ;Post Crimes
-Post Crimes
+Post Crimes {ok}
 
 
 # q-7-o-10212
 ;Meme School
-Meme School
+Escuela de memes
 
 
 # q-7-o-10213
 ;Contributing to the Commons
-Contributing to the Commons
+Colaborar con Commons
 
 
 # q-7-o-10214
 ;Super Party
-Super Party
+Super Party {ok}
 
 
 # q-10
 ;How engaging did you think the facilitator of the event was?
-How engaging did you think the facilitator of the event was?
+¿Crees que el organizador del evento estuvo comprometido?
 
 
 # q-10-o-10226
 ;7 – Highly Engaging
-7 – Highly Engaging
+7– Muy comprometido
 
 
 # q-10-o-10232
 ;1 – Not At All Engaging
-1 – Not At All Engaging
+1– Apenas comprometido
 
 
 # q-11
 ;Would you like to share additional feedback about how the Maker Party was facilitated? What was great? What could be improved?
-Would you like to share additional feedback about how the Maker Party was facilitated? What was great? What could be improved?
+¿Te gustaría compartir tu opinión sobre la organización de la Maker Party? ¿Qué te gustó? ¿Qué se podría mejorar?
 
 
 # p-4
 ;Looking Forward
-Looking Forward
+Estoy deseando
 
 
 # q-12
 ;How much awareness did you have of EU copyright policy prior to attending the event?
-How much awareness did you have of EU copyright policy prior to attending the event?
+¿Cuánto sabías de la ley de copyright europea antes de asistir al evento?
 
 
 # q-12-o-10237
 # q-13-o-10246
 ;7 – A Great Deal
-7 – A Great Deal
+7– Bastante
 
 
 # q-12-o-10243
 # q-13-o-10252
 ;1 – None
-1 – None
+1– Nada
 
 
 # q-13
 ;How much interest do you have in learning more about EU copyright policy now?
-How much interest do you have in learning more about EU copyright policy now?
+¿Tienes interés en seguir descubriendo más sobre la ley de copyright europea?
 
 
 # q-14
 ;If you would like us to contact you again about your responses or participating in future Mozilla events, please share your name and email below:
-If you would like us to contact you again about your responses or participating in future Mozilla events, please share your name and email below:
+Si quieres que nos pongamos en contacto para hablar de tus respuestas o informarte de próximos eventos de Mozilla, escribe más abajo tu nombre y dirección de correo:
 
 
 # q-14-o-10259
