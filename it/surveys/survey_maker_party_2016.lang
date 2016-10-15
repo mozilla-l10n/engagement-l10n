@@ -3,7 +3,7 @@
 
 # survey-title
 ;Maker Party Attendee Survey
-Sondaggio per i partecipanti a un evento Maker Party
+Sondaggio per partecipanti Maker Party
 
 
 # p-3
@@ -13,7 +13,7 @@ Com’è andata?
 
 # q-8
 ;On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
-In una scala da 1 a 7, quanto ti senti propenso a consigliare Maker Party a un amico?
+Su una scala da 1 a 7, quanto ti senti propenso a consigliare Maker Party a un amico?
 
 
 # q-8-o-10217
@@ -28,17 +28,17 @@ In una scala da 1 a 7, quanto ti senti propenso a consigliare Maker Party a un a
 
 # q-16
 ;What could have been better about the Maker Party you attended?
-Quali aspetti dell’evento Maker Party a cui hai partecipato ritieni potessero essere curati meglio?
+Quali aspetti dell’evento Maker Party avrebbero potuto essere curati meglio?
 
 
 # q-17
 ;What did you particularly like about the Maker Party you attended?
-Che cosa ti è piaciuto maggiormente dell’evento Maker Party a cui hai partecipato?
+Che cosa ti è piaciuto maggiormente in questo evento Maker Party?
 
 
 # q-7
 ;What activity did you participate in at the Maker Party you attended?
-A quale attività hai preso parte all’evento Maker Party a cui hai partecipato?
+A quale attività hai preso parte durante l’evento Maker Party?
 
 
 # q-7-o-10211
@@ -53,7 +53,7 @@ Meme Around {ok}
 
 # q-7-o-10213
 ;Contributing to the Commons
-Risorse Commons
+Contributing to the Commons {ok}
 
 
 # q-7-o-10214
@@ -98,17 +98,17 @@ Prima di partecipare all’evento, quanto eri interessato ad approfondire la pol
 # q-12-o-10243
 # q-13-o-10252
 ;1 – None
-1 – Nessun interesse
+1 – Per niente interessato
 
 
 # q-13
 ;How much interest do you have in learning more about EU copyright policy now?
-Quanto sei interessato ora a conoscere meglio la politica europea in materia di copyright?
+E adesso quanto sei interessato ad approfondire la politica europea in materia di copyright?
 
 
 # q-14
 ;If you would like us to contact you again about your responses or participating in future Mozilla events, please share your name and email below:
-Se desideri essere contattato personalmente per discutere delle tue risposte al sondaggio o per partecipare a futuri eventi Mozilla, compila i campi sottostanti fornendoci il tuo nome e l’indirizzo email:
+Se desideri essere ricontattato riguardo a questo sondaggio o a futuri eventi Mozilla, compila i campi sottostanti con nome e indirizzo email:
 
 
 # q-14-o-10259
@@ -198,7 +198,7 @@ Per utilizzare un’altra lingua, fai clic su uno dei seguenti link.
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-Sono stati rilevati degli errori nella pagina delle risposte al sondaggio. Assicurati di aver compilato tutti i campi obbligatori e invia nuovamente i dati.
+Sono stati rilevati degli errori nelle risposte al sondaggio. Assicurati di aver compilato tutti i campi obbligatori e invia nuovamente i dati.
 
 
 # first_error
