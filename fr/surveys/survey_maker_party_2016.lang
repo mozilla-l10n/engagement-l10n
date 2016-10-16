@@ -3,7 +3,7 @@
 
 # survey-title
 ;Maker Party Attendee Survey
-Maker Party Attendee Survey
+Sondage destiné aux participants de la Maker Party
 
 
 # p-3
@@ -28,7 +28,7 @@ Sur une échelle de 1 à 7, recommanderiez-vous une Maker Party à un ami  ?
 
 # q-16
 ;What could have been better about the Maker Party you attended?
-What could have been better about the Maker Party you attended?
+Qu’est-ce qui aurait pu améliorer la Maker Party à laquelle vous avez assisté ?
 
 
 # q-17
@@ -38,7 +38,7 @@ Qu’avez-vous aimé en particulier à la Maker Party à laquelle vous avez part
 
 # q-7
 ;What activity did you participate in at the Maker Party you attended?
-What activity did you participate in at the Maker Party you attended?
+À quelle activité avez-vous participé lors de la Maker Party à laquelle vous avez assisté ?
 
 
 # q-7-o-10211
@@ -130,7 +130,7 @@ Courriel
 
 # q-5
 ;What country are you located in?
-What country are you located in?
+Dans quel pays vous trouvez-vous ?
 
 
 # q-6
@@ -145,7 +145,7 @@ Nous vous remercions.
 
 # q-1
 ;Thank you for taking our survey. Your response is very important to us.
-Thank you for taking our survey. Your response is very important to us.
+Merci d’avoir répondu à notre sondage. Nous accordons la plus grande importance à vos retours.
 
 
 # next_button
@@ -200,11 +200,11 @@ Pour poursuivre dans une autre langue, veuillez cliquer sur l’un des liens ci-
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-There was an error on your page. Please correct any required fields and submit again.
+Une erreur est survenue sur votre page. Veuillez corriger les champs obligatoires et soumettre le formulaire à nouveau.
 
 
 # first_error
 ;Go to the first error
-Go to the first error
+Aller à la première erreur
 
 
