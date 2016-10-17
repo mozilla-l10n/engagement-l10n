@@ -3,139 +3,139 @@
 
 # survey-title
 ;Maker Party Attendee Survey
-Maker Party Attendee Survey
+Maker Party-deelnemersenquête
 
 
 # p-3
 ;How'd It Go?
-How'd It Go?
+Hoe is het gegaan?
 
 
 # q-8
 ;On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
-On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
+Op een schaal van 1 t/m 7, hoe waarschijnlijk is het dat u Maker Party bij een vriend aanbeveelt?
 
 
 # q-8-o-10217
 ;7 – Very Likely
-7 – Very Likely
+7 – Zeer waarschijnlijk
 
 
 # q-8-o-10223
 ;1 – Not At All Likely
-1 – Not At All Likely
+1 – Helemaal niet waarschijnlijk
 
 
 # q-16
 ;What could have been better about the Maker Party you attended?
-What could have been better about the Maker Party you attended?
+Wat had er beter gekund bij de Maker Party waaraan u hebt deelgenomen?
 
 
 # q-17
 ;What did you particularly like about the Maker Party you attended?
-What did you particularly like about the Maker Party you attended?
+Wat vond u vooral leuk bij de Maker Party waaraan u hebt deelgenomen??
 
 
 # q-7
 ;What activity did you participate in at the Maker Party you attended?
-What activity did you participate in at the Maker Party you attended?
+Aan welke activiteit hebt u meegedaan bij de Maker Party waaraan u hebt deelgenomen?
 
 
 # q-7-o-10211
 ;Post Crimes
-Post Crimes
+Post Crimes {ok}
 
 
 # q-7-o-10212
 ;Meme Around
-Meme Around
+Omgang met memes
 
 
 # q-7-o-10213
 ;Contributing to the Commons
-Contributing to the Commons
+Meewerken aan gemeengoed
 
 
 # q-7-o-10214
 ;Super Party
-Super Party
+Super Party {ok}
 
 
 # q-10
 ;How engaging did you think the facilitator of the event was?
-How engaging did you think the facilitator of the event was?
+Hoe betrokken vond u de organisator van het evenement?
 
 
 # q-10-o-10226
 ;7 – Highly Engaging
-7 – Highly Engaging
+7 – Zeer betrokken
 
 
 # q-10-o-10232
 ;1 – Not At All Engaging
-1 – Not At All Engaging
+1 – Helemaal niet betrokken
 
 
 # q-11
 ;Would you like to share additional feedback about how the Maker Party was facilitated? What was great? What could be improved?
-Would you like to share additional feedback about how the Maker Party was facilitated? What was great? What could be improved?
+Wilt u extra feedback geven over hoe de Maker Party was georganiseerd? Wat was er geweldig? Wat kan er worden verbeterd?
 
 
 # p-4
 ;Looking Forward
-Looking Forward
+Vooruitkijkend
 
 
 # q-12
 ;How much awareness did you have of EU copyright policy prior to attending the event?
-How much awareness did you have of EU copyright policy prior to attending the event?
+Wat wist u van het EU-auteursrechtbeleid voordat u het evenement bezocht?
 
 
 # q-12-o-10237
 # q-13-o-10246
 ;7 – A Great Deal
-7 – A Great Deal
+7 – Zeer veel
 
 
 # q-12-o-10243
 # q-13-o-10252
 ;1 – None
-1 – None
+1 – Niets
 
 
 # q-13
 ;How much interest do you have in learning more about EU copyright policy now?
-How much interest do you have in learning more about EU copyright policy now?
+Hoeveel interesse hebt u nu om meer over het EU-auteursrechtbeleid te weten te komen?
 
 
 # q-14
 ;If you would like us to contact you again about your responses or participating in future Mozilla events, please share your name and email below:
-If you would like us to contact you again about your responses or participating in future Mozilla events, please share your name and email below:
+Als u wilt dat we nog eens contact met u opnemen over uw reacties of deelname aan toekomstige Mozilla-evenementen, voer dan hieronder uw naam en e-mailadres in:
 
 
 # q-14-o-10259
 ;Name
-Name
+Naam
 
 
 # q-14-o-10260
 ;Email
-Email
+E-mailadres
 
 
 # p-1
 ;About You
-About You
+Over u
 
 
 # q-5
 ;What country are you located in?
-What country are you located in?
+In welk land bevindt u zich?
 
 
 # q-6
 ;How old are you?
-How old are you?
+Hoe oud bent u?
 
 
 # p-2
@@ -145,7 +145,7 @@ Bedankt!
 
 # q-1
 ;Thank you for taking our survey. Your response is very important to us.
-Thank you for taking our survey. Your response is very important to us.
+Bedankt voor het invullen van de enquête. Uw reactie is voor ons heel belangrijk.
 
 
 # next_button
@@ -165,7 +165,7 @@ Verzenden
 
 # required-hover
 ;This question is required.
-This question is required.
+Deze vraag is vereist.
 
 
 # required
@@ -180,12 +180,12 @@ Deze vraag is vereist
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-Dit onderzoek accepteert momenteel geen reacties meer. Bedankt!
+Deze enquête accepteert momenteel geen nieuwe reacties meer. Bedankt!
 
 
 # block_by_message
 ;You have already completed this survey.
-U hebt dit onderzoek al ingevuld.
+U hebt deze enquête al ingevuld.
 
 
 # language_bar_select_text
@@ -200,11 +200,11 @@ Klik op een van de onderstaande koppelingen om in een andere taal door te gaan.
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-There was an error on your page. Please correct any required fields and submit again.
+Er is een fout op de pagina opgetreden. Corrigeer de vereiste velden en verzend opnieuw.
 
 
 # first_error
 ;Go to the first error
-Go to the first error
+Naar de eerste fout
 
 
