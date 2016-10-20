@@ -25,7 +25,7 @@ Protect yourself, protect the Web. Sign up for the Mozilla newsletter to get tip
 ## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
-# Link: https://www.mozilla.org/en-US/newsletter/mozilla/
+# Link: https://www.mozilla.org/newsletter/mozilla/
 ;The Web is wide. The Web is weird. The Web is wonderful. <a>Sign up for the Mozilla newsletter</a> to learn more about it.
 The Web is wide. The Web is weird. The Web is wonderful. <a>Sign up for the Mozilla newsletter</a> to learn more about it.
 
@@ -33,7 +33,7 @@ The Web is wide. The Web is weird. The Web is wonderful. <a>Sign up for the Mozi
 ## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
-# Link: https://www.mozilla.org/en-US/newsletter/firefox/
+# Link: https://www.mozilla.org/newsletter/firefox/
 ;<a>Get more fox in your inbox.</a> Sign up for monthly user tips, booster packs, and Internet intel.
 <a>Get more fox in your inbox.</a> Sign up for monthly user tips, booster packs, and Internet intel.
 
@@ -41,7 +41,7 @@ The Web is wide. The Web is weird. The Web is wonderful. <a>Sign up for the Mozi
 ## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
-# Link: https://www.mozilla.org/en-US/newsletter/firefox/
+# Link: https://www.mozilla.org/newsletter/firefox/
 ;Make the most of every click. <a>Sign up</a> for the Firefox monthly newsletter.
 Make the most of every click. <a>Sign up</a> for the Firefox monthly newsletter.
 
