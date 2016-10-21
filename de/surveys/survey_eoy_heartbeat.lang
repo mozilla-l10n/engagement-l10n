@@ -3,147 +3,147 @@
 
 # q-21
 ;Thanks for taking the time to let us know how you feel about this prompt. Your feedback will help us to make decisions that make Firefox better for <strong>all</strong> users.
-Thanks for taking the time to let us know how you feel about this prompt. Your feedback will help us to make decisions that make Firefox better for <strong>all</strong> users.
+Danke, dass Sie uns mitteilen, was Sie von dieser Nachricht halten. Ihre Meinung hilft uns, Firefox im Sinne <strong>aller</strong> Nutzer zu verbessern.
 
 
 # q-8
 ;How did this prompt make you feel?
-How did this prompt make you feel?
+Wie fühlen Sie sich bei dieser Nachricht?
 
 
 # q-8-o-10009
 ;Sad
-Sad
+Traurig
 
 
 # q-8-o-10010
 ;Somewhat Sad
-Somewhat Sad
+Etwas traurig
 
 
 # q-8-o-10011
 ;Neither Happy nor Sad
-Neither Happy nor Sad
+Weder froh noch traurig
 
 
 # q-8-o-10012
 ;Somewhat Happy
-Somewhat Happy
+Etwas froh
 
 
 # q-8-o-10013
 ;Happy
-Happy
+Froh
 
 
 # q-19
 ;For what categories of messaging would you be okay with Mozilla Firefox showing you with the style of prompt that brought you here?
-For what categories of messaging would you be okay with Mozilla Firefox showing you with the style of prompt that brought you here?
+Welche Botschaften darf Mozilla Firefox aus Ihrer Sicht über die Art Nachricht verbreiten, die Sie hierher geführt hat?
 
 
 # q-19-o-10023
 ;Fundraising
-Fundraising
+Spendensammlungen
 
 
 # q-19-o-10024
 ;Firefox Updates
-Firefox Updates
+Firefox-Updates
 
 
 # q-19-o-10025
 ;Surveys about potential new features
-Surveys about potential new features
+Umfragen über mögliche neue Funktionen
 
 
 # q-19-o-10026
 ;Security Bulletins
-Security Bulletins
+Sicherheitshinweise
 
 
 # q-19-o-10027
 ;Recommended add-ons or features for users like you
-Recommended add-ons or features for users like you
+Empfohlene Add-ons oder Funktionen für Nutzer wie Sie
 
 
 # q-19-o-10028
 ;None of the above
-None of the above
+Nichts davon
 
 
 # q-9
 ;How much do you agree or disagree with the following statements about the fundraising prompt that brought you here:
-How much do you agree or disagree with the following statements about the fundraising prompt that brought you here:
+Wie sehr stimmen Sie den folgenden Aussagen über die Nachricht zur Spendensammlung zu, die Sie hierher geführt hat:
 
 
 # q-10
 ;It interrupted my workflow
-It interrupted my workflow
+Sie hat mich bei der Arbeit gestört
 
 
 # q-11
 ;I don't want to see it <strong>right now</strong>
-I don't want to see it <strong>right now</strong>
+Ich will sie <strong>gerade jetzt</strong> nicht sehen
 
 
 # q-16
 ;I don't want to see it <strong>ever</strong>
-I don't want to see it <strong>ever</strong>
+Ich will sie <strong>gar nicht</strong> sehen
 
 
 # q-17
 ;Mozilla shouldn't ask for donations <strong>here</strong>
-Mozilla shouldn't ask for donations <strong>here</strong>
+Mozilla sollte <strong>hier</strong> nicht um Spenden bitten
 
 
 # q-18
 ;Mozilla shouldn't ask for donations <strong>anywhere</strong>
-Mozilla shouldn't ask for donations <strong>anywhere</strong>
+Mozilla sollte <strong>nirgendwo</strong> um Spenden bitten
 
 
 # q-18-o-10014
 ;Strongly Disagree
-Strongly Disagree
+Stimme überhaupt nicht zu
 
 
 # q-18-o-10015
 ;Disagree
-Disagree
+Stimme nicht zu
 
 
 # q-18-o-10019
 ;Neither Agree nor Disagree
-Neither Agree nor Disagree
+Stimme weder zu noch nicht zu
 
 
 # q-18-o-10020
 ;Agree
-Agree
+Stimme zu
 
 
 # q-18-o-10021
 ;Strongly Agree
-Strongly Agree
+Stimme voll zu
 
 
 # q-18-o-10022
 ;I'm not sure
-I'm not sure
+Ich bin nicht sicher
 
 
 # q-20
 ;We're sorry if this prompt was upsetting. Mozilla seeks to put our users first, and this was a fundraising test on a small percentage of our users to determine their opinions of this method of reaching out to users. Thank you for using Firefox!
-We're sorry if this prompt was upsetting. Mozilla seeks to put our users first, and this was a fundraising test on a small percentage of our users to determine their opinions of this method of reaching out to users. Thank you for using Firefox!
+Es tut uns leid, wenn diese Nachricht Sie gestört hat. Für Mozilla kommen unsere Nutzer zuerst und wir testen hier an wenigen Nutzern die Spendensammelnachricht, um diese Art der Kommunikation mit unseren Nutzern zu bewerten. Danke, dass Sie Firefox verwenden!
 
 
 # q-7
 ;Do you have anything else to tell us about this promotion?
-Do you have anything else to tell us about this promotion?
+Möchten Sie uns über diese Kampagne noch etwas mitteilen?
 
 
 # q-7-description
 ;<span style="font-size:10px;">(optional)</span>
-<span style="font-size:10px;">(optional)</span>
+<span style="font-size:10px;">(freiwillig)</span>
 
 
 # p-2
@@ -153,7 +153,7 @@ Vielen Dank!
 
 # q-1
 ;Thank you for taking our survey. Your response will help make Firefox better for all users.
-Thank you for taking our survey. Your response will help make Firefox better for all users.
+Danke, dass Sie unsere Umfrage ausfüllen. Ihre Antwort hilft uns, Firefox im Sinne aller Nutzer zu verbessern.
 
 
 # next_button
@@ -213,36 +213,36 @@ Zum ersten Fehler springen
 
 # q-29
 ;Will you donate to Mozilla, the nonprofit organization behind Firefox? Thanks!
-Will you donate to Mozilla, the nonprofit organization behind Firefox? Thanks!
+Spenden Sie an Mozilla, die gemeinnützige Organisation hinter Firefox? Vielen Dank!
 
 
 # q-23
 ;Did you know that Mozilla, the maker of Firefox, is a nonprofit dependent on donations of users like you?
-Did you know that Mozilla, the maker of Firefox, is a nonprofit dependent on donations of users like you?
+Wussten Sie, dass Firefox-Entwickler Mozilla eine gemeinnützige Organisation ist, die von Spenden von Nutzern wie Ihnen abhängig ist?
 
 
 # q-24
 ;If everyone reading this chipped in $3, Mozilla would be supported for another year.
-If everyone reading this chipped in $3, Mozilla would be supported for another year.
+Wenn jeder, der das liest, 3$ spenden würde, hätte Mozilla genug für ein weiteres Jahr.
 
 
 # q-25
 ;Donate
-Donate
+Spenden
 
 
 # q-26
 ;Donate Now
-Donate Now
+Jetzt spenden
 
 
 # q-27
 ;Give Feedback
-Give Feedback
+Ihre Meinung sagen
 
 
 # q-28
 ;I Don't Like This
-I Don't Like This
+Das gefällt mir nicht
 
 
