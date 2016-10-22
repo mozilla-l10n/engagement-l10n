@@ -8,7 +8,7 @@ Firefox Hello: 製品に関する調査
 
 # q-2
 ;How likely are you to recommend Firefox Hello to a friend or colleague? (Scale:  0 is not very likely to recommend and 10 is extremely likely to recommend)
-友達や同僚に Firefox Hello をおすすめできますか？（0：全くできない、10：つよくすすめる）
+友達や同僚に Firefox Hello をお勧めできますか？ (0: まったくできない、10: 強く勧める)
 
 
 # q-8
@@ -48,7 +48,7 @@ Firefox Hello を使って、良いと感じた点を教えてください。
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-調査にご協力いただきましてありがとうございました。いただいた回答をもとに、Firefox Hello を改善してまいります。
+調査にご協力いただきありがとうございました。いただいた回答を元に、Firefox Hello を改善していきます。
 
 
 # required
@@ -63,7 +63,7 @@ Firefox Hello を使って、良いと感じた点を教えてください。
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-調査は以上になります。ご協力、ありがとうございました。
+調査は以上になります。ご協力ありがとうございました。
 
 
 # block_by_message
@@ -73,7 +73,7 @@ Firefox Hello を使って、良いと感じた点を教えてください。
 
 # language_bar_select_text
 ;Select another language
-他の言語を選ぶ
+他の言語を選択
 
 
 # language_bar_description_text

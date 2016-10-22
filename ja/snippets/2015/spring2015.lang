@@ -52,14 +52,14 @@ App Store や Google Play からもダウンロードできます
 
 # Part of the interactive SMS/email snippet
 ;Try it now
-おためしください
+今すぐ試す
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: iOS and Android
 # This is used in an interactive snippet with an input field and a button (see example at https://snippets.allizom.org/show/83/)
 ;The wait is over. Get Firefox for iOS today. Email a download link straight to your iPhone or iPad.
-お待たせいたしました。iOS でもついに Firefox が使えるようになりました！メールアドレスを入力いただくと、ダウンロードページをメールでお知らせします。
+お待たせしました。iOS でもついに Firefox が使えるようになりました！メールアドレスを入力いただくと、ダウンロードページをメールでお知らせします。
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -122,7 +122,7 @@ Firefox のウェブ体験をモバイルでも。メールアドレスを入力
 # Campaign: iOS and Android
 # This is used in an interactive snippet with an input field and a button (see example at https://snippets.allizom.org/show/83/)
 ;Love Firefox on your computer? Add it to your mobile devices, too. Free yourself with Firefox. Email an official download link.
-Firefox のウェブ体験をモバイルでも。メールアドレスを入力すると、ダウンロードページがメールされます。
+Firefox のウェブ体験をモバイルでも。メールアドレスを入力すると、ダウンロードページへのリンクがメールで送られます。
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
