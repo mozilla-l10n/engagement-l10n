@@ -1,0 +1,37 @@
+## NOTE: reference bug 1318151, deadline Dec 5th, 2016
+## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAK (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+
+
+## MAX_LENGTH: 180
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Campaign: desktop snippets
+# Link: https://addons.mozilla.org/en-US/firefox/themes/
+;Customize. Create. Explore. <a>We’ve got themes galore</a>.
+Customize. Create. Explore. <a>We’ve got themes galore</a>.
+
+
+## MAX_LENGTH: 180
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Campaign: desktop snippets
+# Link: https://developer.mozilla.org/en-US/docs/Learn
+;Decode the code! Learn HTML and JavaScript in our intensely straightforward <a>Learning Area</a>.
+Decode the code! Learn HTML and JavaScript in our intensely straightforward <a>Learning Area</a>.
+
+
+# For PC users
+# Differnt ways of saying "freak" can be panic or worry.
+# Use the corresponding letter in your language in Control + Shift + T
+;Accidentally closed a tab? Don’t freak. There’s a quick way to get it back: Control + Shift + T. Now breathe.
+Accidentally closed a tab? Don’t freak. There’s a quick way to get it back: Control + Shift + T. Now breathe.
+
+
+# For MAC users
+# Differnt ways of saying "freak" can be panic or worry.
+# Use the corresponding letter in your language in Control + Shift + T
+;Accidentally closed a tab? Don’t freak. There’s a quick way to get it back: Command + Shift + T. Now breathe.
+Accidentally closed a tab? Don’t freak. There’s a quick way to get it back: Command + Shift + T. Now breathe.
+
+
+# For MAC users
+;There’s no time like the present. We also enjoy Good Times, Snack Time, Bed Time, and of course, Free Time.
+There’s no time like the present. We also enjoy Good Times, Snack Time, Bed Time, and of course, Free Time.
