@@ -1,5 +1,5 @@
 ## NOTE: reference bug 1318151, deadline Dec 5th, 2016
-## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAK (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
 
 
 ## MAX_LENGTH: 180
@@ -21,6 +21,7 @@ Decode the code! Learn HTML and JavaScript in our intensely straightforward <a>L
 ## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # For PC users
+# This snippet has no link.
 # You can use panic or worry instead of freak
 ;Accidentally closed a tab? Don’t freak. There’s a quick way to get it back: Control + Shift + T. Now breathe.
 Accidentally closed a tab? Don’t freak. There’s a quick way to get it back: Control + Shift + T. Now breathe.
@@ -29,6 +30,7 @@ Accidentally closed a tab? Don’t freak. There’s a quick way to get it back: 
 ## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # For Mac users
+# This snippet has no link.
 # You can use panic or worry instead of freak
 ;Accidentally closed a tab? Don’t freak. There’s a quick way to get it back: Command + Shift + T. Now breathe.
 Accidentally closed a tab? Don’t freak. There’s a quick way to get it back: Command + Shift + T. Now breathe.
@@ -36,6 +38,6 @@ Accidentally closed a tab? Don’t freak. There’s a quick way to get it back: 
 
 ## MAX_LENGTH: 180
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
-# For Mac users
+# This snippet has no link.
 ;There’s no time like the present. We also enjoy Good Times, Snack Time, Bed Time, and of course, Free Time.
 There’s no time like the present. We also enjoy Good Times, Snack Time, Bed Time, and of course, Free Time.
