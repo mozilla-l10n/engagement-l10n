@@ -1,0 +1,52 @@
+## NOTE: reference bug 1319916, deadline Jan 6th, 2017
+## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+## NOTE: Link URL: https://testpilot.firefox.com/; applicable to all snippets
+## NOTE: Campaign: Test Pilot
+
+
+## MAX_LENGTH: 180 characters
+;You're one in a million. Enter the Test Pilot program to drive experimental features before everyone else. <a>Grab your parachute</a>.
+You're one in a million. Enter the Test Pilot program to drive experimental features before everyone else. <a>Grab your parachute</a>.
+
+
+## MAX_LENGTH: 180 characters
+;Browse outside your comfort zone. <a>Try the latest experimental</a> features in Test Pilot and give us your feedback.
+Browse outside your comfort zone. <a>Try the latest experimental</a> features in Test Pilot and give us your feedback.
+
+
+## MAX_LENGTH: 180 characters
+# Here "what's cooking" means "what's happening" or "what's new".
+;Only Test Pilots get early access to the experimental features we're creating in our test kitchen. <a>Sign up to get a taste of what's cooking.</a>
+Only Test Pilots get early access to the experimental features we're creating in our test kitchen. <a>Sign up to get a taste of what's cooking.</a>
+
+
+## MAX_LENGTH: 180 characters
+;Want to help us build Firefox? As a Test Pilot for Firefox, you can gain access to experimental new features and test them out before anyone else. <a>Learn more.</a>
+Want to help us build Firefox? As a Test Pilot for Firefox, you can gain access to experimental new features and test them out before anyone else. <a>Learn more.</a>
+
+
+## MAX_LENGTH: 180 characters
+;Calling all early adopters! If you want to try out new Firefox features before they are released to millions of people all over the world, <a>sign up for Test Pilot.</a>
+Calling all early adopters! If you want to try out new Firefox features before they are released to millions of people all over the world, <a>sign up for Test Pilot.</a>
+
+
+## MAX_LENGTH: 180 characters
+;Become a Firefox insider by testing out new features before they’re released to the rest of the world. <a>Sign up for Test Pilot.</a>
+Become a Firefox insider by testing out new features before they’re released to the rest of the world. <a>Sign up for Test Pilot.</a>
+
+
+## MAX_LENGTH: 180 characters
+;Be among the first to try out new features in Firefox. <a>Sign up to be a Test Pilot today.</a>
+Be among the first to try out new features in Firefox. <a>Sign up to be a Test Pilot today.</a>
+
+
+## MAX_LENGTH: 180 characters
+# Reference to the Mini Vid feature https://testpilot.firefox.com/experiments/min-vid/ where videos "pop out" and you can continue to watch as you move across tabs.
+;Pop those cat vids on top of your tabs. Get your paws on the latest <a>Test Pilots experiments.</a>
+Pop those cat vids on top of your tabs. Get your paws on the latest <a>Test Pilots experiments.</a>
+
+
+## MAX_LENGTH: 180 characters
+# Reference to the Mini Vid feature. Think of a culturally relevant metaphor of a visually engaging video moment.
+;When watching a rabbit eating berries, you don’t want to miss a second. </a>Keep videos front and center in Test Pilot.</a>
+When watching a rabbit eating berries, you don’t want to miss a second. </a>Keep videos front and center in Test Pilot.</a>
