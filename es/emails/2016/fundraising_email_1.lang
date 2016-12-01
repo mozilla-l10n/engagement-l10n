@@ -3,29 +3,29 @@
 
 # Email subject
 ;You’re helping save the Internet
-You’re helping save the Internet
+Estás ayudando a proteger Internet
 
 
 ;Dear [name],
-Dear [name],
+Hola, [name]:
 
 
 ;2016 was a big year for the internet. Across the EU, we saw new laws, products, and trends — both good and bad — that impacted the internet’s health.
-2016 was a big year for the internet. Across the EU, we saw new laws, products, and trends — both good and bad — that impacted the internet’s health.
+El 2016 ha sido un año importante para Internet. En la Unión Europea hemos visto el impacto sobre la integridad de Internet que ha supuesto la aparición de nuevos productos y de nuevas tendencias y normativas.
 
 
 ;2016 was also a big year for the open internet movement. That means you, Mozilla and everyone else fighting for a better web. We worked together to protect privacy and free expression online, and to fight against surveillance and exclusion online.
-2016 was also a big year for the open internet movement. That means you, Mozilla and everyone else fighting for a better web. We worked together to protect privacy and free expression online, and to fight against surveillance and exclusion online.
+El 2016 también ha sido un año importante para el movimiento en favor de un Internet abierto, es decir, para ti, para Mozilla y para todos aquellos que luchamos por una Web mejor. Hemos trabajado juntos para proteger la privacidad y la libertad de expresión, y para hacer un frente común en contra de la vigilancia y la exclusión en Internet.
 
 
 # Will be used in a button
 ;Donate now
-Donate now
+Donar ahora
 
 
 # This sentence will be in bold
 ;At Mozilla, we have one mission: keep the internet healthy.
-At Mozilla, we have one mission: keep the internet healthy.
+En Mozilla tenemos una misión: mantener la integridad de Internet.
 
 
 ;And we’re proud of the work we’ve done with your support over the past 12 months. In the EU, we fought hard for copyright reform. We worked alongside you to share videos, collect signatures and send postcards to Members of the European Parliament (MEPs). We worked alongside you to fix copyright for the 21st century.
@@ -46,6 +46,6 @@ Will you stand up for a better internet — in the EU and around the world — i
 
 # Email sign-off before Mark Surman’s signature
 ;Thank you for all you do,
-Thank you for all you do,
+Gracias por todo lo que haces.
 
 
