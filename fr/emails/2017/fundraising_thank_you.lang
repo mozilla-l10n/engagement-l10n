@@ -3,7 +3,7 @@
 
 # Email subject
 ;Thanks!
-Thanks!
+Merci !
 
 
 # Preheader (only displayed in thread view https://www.campaignmonitor.com/assets/uploads/2015/08/preheader-text-on-mobile.png), try to keep the translation around 40-50 characters, you can rephrase as needed.
@@ -13,11 +13,11 @@ Now choose your own thank-you adventure.
 
 # Do not translate [name], it will be replaced by the name of the person, when available
 ;Hello [name],
-Hello [name],
+Bonjour [name],
 
 
 ;Thank <em>you</em>. Thank <em>you</em>! THANK <em>YOU</em>!
-Thank <em>you</em>. Thank <em>you</em>! THANK <em>YOU</em>!
+Merci. Merci ! MERCI !
 
 
 ;I want to thank <b>you</b> for donating to the Mozilla Foundation. Your commitment to keeping the Internet healthy and accessible to everyone is inspiring. Thank you for being amazing!
@@ -25,22 +25,22 @@ I want to thank <b>you</b> for donating to the Mozilla Foundation. Your commitme
 
 
 ;To show our gratitude, we put together a little “Choose Your Own Thank You Adventure.” We just couldn’t decide on one best way to thank you for your support. So we created three ways and decided to let you choose what you want.
-To show our gratitude, we put together a little “Choose Your Own Thank You Adventure.” We just couldn’t decide on one best way to thank you for your support. So we created three ways and decided to let you choose what you want.
+Pour vous montrer toute notre gratitude, nous avons réalisé une petite « histoire dont vous êtes le héros ». Nous n’arrivions pas à décider du meilleur moyen de vous remercier pour votre aide, alors nous vous offrons le choix parmi trois possibilités.
 
 
 # Title associated to a smiley
 ;Funny Thank You
-Funny Thank You
+Remerciement amusant
 
 
 # Title associated to a red heart
 ;Sincere Thank You
-Sincere Thank You
+Remerciement sincère
 
 
 # Title associated to a puppy emoji
 ;Cute Thank You
-Cute Thank You
+Remerciement mignon
 
 
 ;Click on whichever thank you <em>you</em> like (and you know what, if you want to click all three and be thanked more than once, be our guest, you deserve it!)
