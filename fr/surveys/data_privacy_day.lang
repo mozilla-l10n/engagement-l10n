@@ -303,6 +303,11 @@ Email Address (optional) - We’ll use this to contact you if/when Mozilla has p
 Country (optional)
 
 
+# selectone
+;-- Please Select --
+-- Veuillez sélectionner --
+
+
 # p-2
 ;Thank You!
 Nous vous remercions.
@@ -366,5 +371,3 @@ Une erreur est survenue sur votre page. Veuillez corriger les champs obligatoire
 # first_error
 ;Go to the first error
 Aller à la première erreur
-
-
