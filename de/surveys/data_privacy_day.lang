@@ -3,169 +3,169 @@
 
 # survey-title
 ;Privacy survey
-Privacy survey
+Datenschutzumfrage
 
 
 # q-5
 ;My knowledge of how to protect myself online is best described as:
-My knowledge of how to protect myself online is best described as:
+Meine Kenntnisse zum Datenschutz im Internet lassen sich am besten beschreiben als:
 
 
 # q-5-o-10003
 ;I’m all over it. I know all about encryption, 2FA, all of it. I’m basically Mr. Robot.
-I’m all over it. I know all about encryption, 2FA, all of it. I’m basically Mr. Robot.
+Ich bin Profi. Ich weiß alles über Verschlüsselung, Zwei-Faktor-Authentifizierung. Ich bin sozusagen Mr. Robot.
 
 
 # q-5-o-10004
 ;I know a little, but not enough.
-I know a little, but not enough.
+Ich weiß ein bisschen, aber nicht genug.
 
 
 # q-5-o-10002
 ;Hey, I’ve never been hacked. So I’m good, right?
-Hey, I’ve never been hacked. So I’m good, right?
+Ich wurde noch nie gehackt. Dann bin ich wohl gut.
 
 
 # q-5-o-10005
 ;I know nothing. Help me.
-I know nothing. Help me.
+Ich weiß nichts. Hilfe!
 
 
 # q-6
 ;Which best describes your knowledge of encryption:
-Which best describes your knowledge of encryption:
+Was beschreibt Ihr Wissen zum Thema Verschlüsselung am besten:
 
 
 # q-6-o-10006
 ;I use it all the time. Love it. I’m basically Alan Turing.
-I use it all the time. Love it. I’m basically Alan Turing.
+Ich nutze sie ständig und finde sie klasse. Ich bin sozusagen Alan Turing.
 
 
 # q-6-o-10007
 ;I know a little about encryption. I wish I knew more.
-I know a little about encryption. I wish I knew more.
+Ich weiß ein bisschen was über Verschlüsselung. Ich wüsste gern mehr.
 
 
 # q-6-o-10008
 ;Eh, I’ve heard of it. I think my iPhone is encrypted or something.
-Eh, I’ve heard of it. I think my iPhone is encrypted or something.
+Ich habe davon gehört. Mein iPhone ist verschlüsselt, glaube ich.
 
 
 # q-6-o-10009
 ;Encryption? What’s encryption? Sounds fancy.
-Encryption? What’s encryption? Sounds fancy.
+Verschlüsselung? Was soll das sein? Klingt interessant.
 
 
 # q-7
 ;I feel I have power and control over my personal information online:
-I feel I have power and control over my personal information online:
+Ich habe den Eindruck, dass ich im Internet die Kontrolle über meine persönlichen Daten habe:
 
 
 # q-7-o-10010
 ;Always — People only know the things about me I want them to know
-Always — People only know the things about me I want them to know
+Immer – Die Leute wissen über mich nur, was sie wissen sollen
 
 
 # q-7-o-10011
 ;Sometimes — I do my best, but there is only so much I can do
-Sometimes — I do my best, but there is only so much I can do
+Manchmal – Ich gebe mein bestes, aber das hat Grenzen
 
 
 # q-7-o-10012
 ;Rarely — Why bother trying to protect my personal information when Google and Facebook already know everything there is to know about me?
-Rarely — Why bother trying to protect my personal information when Google and Facebook already know everything there is to know about me?
+Kaum – Warum soll ich mich um den Schutz meiner persönlichen Daten kümmern, wenn Google und Facebook sowieso schon alles über mich wissen?
 
 
 # q-7-o-10013
 ;Never — I feel like Big Brother is watching me and I have no privacy
-Never — I feel like Big Brother is watching me and I have no privacy
+Nie – Ich glaube, der große Bruder beobachtet mich und ich habe keine Privatsphäre
 
 
 # q-8
 ;In the past year, I’ve changed my behaviors online because I’m worried about my online privacy:
-In the past year, I’ve changed my behaviors online because I’m worried about my online privacy:
+Im letzten Jahr habe ich mein Online-Verhalten geändert, weil ich mir Sorgen um meine Privatsphäre im Internet mache:
 
 
 # q-8-o-10028
 # q-19-o-10044
 ;Yes
-Yes
+Ja
 
 
 # q-8-o-10029
 # q-19-o-10045
 ;No
-No
+Nein
 
 
 # q-16
 ;If you answered Yes, please give some examples:
-If you answered Yes, please give some examples:
+Wenn Sie mit „Ja“ geantwortet haben, nennen Sie bitte ein paar Beispiele:
 
 
 # q-17
 ;I’m most concerned about which of the following (check your top 3).
-I’m most concerned about which of the following (check your top 3).
+Ich sorge mich am meisten um Folgendes (geben Sie Ihre Top 3 an).
 
 
 # q-17-o-10032
 ;Being hacked by a stranger
-Being hacked by a stranger
+Von Fremden gehackt zu werden
 
 
 # q-17-o-10033
 ;My accounts being accessed by friends or family
-My accounts being accessed by friends or family
+Meine Konten werden von Freunden oder der Familie genutzt
 
 
 # q-17-o-10034
 ;My accounts being accessed by people I work with
-My accounts being accessed by people I work with
+Meine Konten werden von Arbeitskollegen genutzt
 
 
 # q-17-o-10035
 ;My accounts being accessed by someone attempting to troll (harass) me
-My accounts being accessed by someone attempting to troll (harass) me
+Meine Konten werden von Trollen oder Stalkern genutzt
 
 
 # q-17-o-10036
 ;Advertisers tracking me
-Advertisers tracking me
+Werbefirmen verfolgen mich
 
 
 # q-17-o-10037
 ;My own government tracking me
-My own government tracking me
+Meine Regierung verfolgt mich
 
 
 # q-17-o-10038
 ;Other governments tracking me
-Other governments tracking me
+Andere Regierungen verfolgen mich
 
 
 # q-17-o-10039
 ;Law enforcement tracking me
-Law enforcement tracking me
+Die Strafverfolgungsbehörden verfolgen mich
 
 
 # q-18
 ;In the debate over allowing law enforcement access to computers, phones, and data, which statement most accurately reflects how you feel?
-In the debate over allowing law enforcement access to computers, phones, and data, which statement most accurately reflects how you feel?
+Welche Aussage trifft am ehesten Ihre Haltung zum Thema Zugang der Strafverfolgungsbehörden zu Computern, Handys und Daten?
 
 
 # q-18-o-10040
 ;I want my devices and data to be fully secure so that only I can determine who gets to see what’s on them, always.
-I want my devices and data to be fully secure so that only I can determine who gets to see what’s on them, always.
+Ich möchte, dass mein Gerät und meine Daten immer völlig sicher sind, damit nur ich entscheiden kann, wer darauf Zugriff hat.
 
 
 # q-18-o-10041
 ;Law enforcement should have ways to access data on computers and phones to help protect us.
-Law enforcement should have ways to access data on computers and phones to help protect us.
+Die Strafverfolgungsbehörden sollten zu unserem Schutz auf Daten auf Computern und Handys zugreifen können.
 
 
 # q-18-o-10042
 ;I’m not sure, I want my information to be safe and secure. I also understand sometimes law enforcement needs to access devices and data to do their job and protect us.
-I’m not sure, I want my information to be safe and secure. I also understand sometimes law enforcement needs to access devices and data to do their job and protect us.
+Ich weiß nicht, ich will, dass meine Daten sicher sind. Aber ich verstehe auch, dass die Strafverfolgungsbehörden zu unserem Schutz manchmal auf Geräte und Daten zugreifen müssen.
 
 
 # q-19
