@@ -295,12 +295,12 @@ Meine Privatsphäre zu berücksichtigen, wenn ich einkaufe.
 
 # q-25
 ;Email Address (optional) - We’ll use this to contact you if/when Mozilla has privacy or security information we think you’d find interesting.
-Email Address (optional) - We’ll use this to contact you if/when Mozilla has privacy or security information we think you’d find interesting.
+E-Mail-Adresse (freiwillig) – Darüber kontaktieren wir Sie, wenn Mozilla Informationen zu Datenschutz oder Sicherheit hat, die Sie interessieren könnten.
 
 
 # q-26
 ;Country (optional)
-Country (optional)
+Land (freiwillig)
 
 
 # p-2
@@ -366,5 +366,3 @@ Auf dieser Seite ist ein Fehler aufgetreten. Bitte korrigieren Sie Pflichtfelder
 # first_error
 ;Go to the first error
 Zum ersten Fehler springen
-
-
