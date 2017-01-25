@@ -28,7 +28,7 @@ Répondez à notre bref sondage (3 min)
 
 # Do not translate [name], it will be replaced by the name of the person, when available
 ;Hello [name],
-Hello [name],
+Bonjour [name],
 
 
 ;Happy Data Privacy Day!
