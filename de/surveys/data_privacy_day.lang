@@ -309,13 +309,13 @@ Land (freiwillig)
 
 
 # p-2
-;Thank You!
-Vielen Dank!
+;Thank you for taking the survey!
+Thank you for taking the survey!
 
 
 # q-1
-;Thank you for taking our privacy survey. If you want to learn more about how to protect your privacy online, <a href="https://www.mozilla.org/internet-health/privacy-security/">here’s some easy tips</a> to get you started.
-Vielen Dank für Ihre Teilnahme an unserer Datenschutzumfrage. Wenn Sie mehr darüber erfahren möchten, wie Sie Ihre Privatsphäre im Internet schützen können, <a href="https://www.mozilla.org/internet-health/privacy-security/">finden Sie hier ein paar einfache Tipps</a> für den Einstieg.
+;<span style="font-size:20px;">If you’d like for us to follow up with you with the results and other information on how to protect your privacy online, please <strong><a href="https://www.mozilla.org/newsletter/mozilla/?utm_source=surveygizmo&utm_medium=referral&utm_campaign=privacysurvey0117&utm_content=form">sign up here</a></strong>.</span><br />
+<span style="font-size:20px;">If you’d like for us to follow up with you with the results and other information on how to protect your privacy online, please <strong><a href="https://www.mozilla.org/newsletter/mozilla/?utm_source=surveygizmo&utm_medium=referral&utm_campaign=privacysurvey0117&utm_content=form">sign up here</a></strong>.</span><br />
 
 
 # next_button
@@ -371,3 +371,5 @@ Auf dieser Seite ist ein Fehler aufgetreten. Bitte korrigieren Sie Pflichtfelder
 # first_error
 ;Go to the first error
 Zum ersten Fehler springen
+
+
