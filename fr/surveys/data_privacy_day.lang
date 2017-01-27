@@ -18,7 +18,7 @@ Je maîtrise la question. Je sais tout sur le chiffrement, l’authentification 
 
 # q-5-o-10004
 ;I know a little, but not enough.
-I know a little, but not enough.
+J’ai quelques connaissances, mais pas suffisamment.
 
 
 # q-5-o-10002
@@ -28,12 +28,12 @@ Hey, I’ve never been hacked. So I’m good, right?
 
 # q-5-o-10005
 ;I know nothing. Help me.
-I know nothing. Help me.
+Je n’y connais rien, aidez-moi.
 
 
 # q-6
 ;Which best describes your knowledge of encryption:
-Which best describes your knowledge of encryption:
+Quelle phrase décrit le mieux votre niveau de connaissance du chiffrement :
 
 
 # q-6-o-10006
@@ -43,12 +43,12 @@ I use it all the time. Love it. I’m basically Alan Turing.
 
 # q-6-o-10007
 ;I know a little about encryption. I wish I knew more.
-I know a little about encryption. I wish I knew more.
+J’ai quelques connaissances à propos du chiffrement. J’aimerais en savoir davantage.
 
 
 # q-6-o-10008
 ;Eh, I’ve heard of it. I think my iPhone is encrypted or something.
-Eh, I’ve heard of it. I think my iPhone is encrypted or something.
+Hum, j’en ai entendu parler. Je crois bien que mon iPhone est chiffré, quelque chose comme ça.
 
 
 # q-6-o-10009
@@ -58,17 +58,17 @@ Le chiffrement ? Qu’est-ce donc ? Ça a l’air chouette.
 
 # q-7
 ;I feel I have power and control over my personal information online:
-I feel I have power and control over my personal information online:
+Je pense avoir le pouvoir et le contrôle sur mes données personnelles en ligne :
 
 
 # q-7-o-10010
 ;Always — People only know the things about me I want them to know
-Always — People only know the things about me I want them to know
+Toujours : les gens ne savent de moi que ce que je veux qu’ils sachent.
 
 
 # q-7-o-10011
 ;Sometimes — I do my best, but there is only so much I can do
-Sometimes — I do my best, but there is only so much I can do
+Parfois : je fais de mon mieux, mais ce n’est peut-être pas assez.
 
 
 # q-7-o-10012
@@ -295,7 +295,7 @@ Take my privacy into consideration when making purchasing decisions.
 
 # q-25
 ;Email Address (optional) - We’ll use this to contact you if/when Mozilla has privacy or security information we think you’d find interesting.
-Email Address (optional) - We’ll use this to contact you if/when Mozilla has privacy or security information we think you’d find interesting.
+Adresse électronique (facultative) — Nous l’utiliserons dans le cas où Mozilla souhaiterait vous transmettre des informations qui pourraient vous intéresser concernant la protection des données personnelles ou la sécurité.
 
 
 # q-26
