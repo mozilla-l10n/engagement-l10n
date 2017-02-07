@@ -79,12 +79,42 @@ Unlike your attic, Firefox is easy to clean. <a>Just click the Forget Button and
 
 
 ## MAX_LENGTH: 180 characters
-# Link: https://www.mozilla.org/internet-health/privacy-security/
-;A healthy you is happy and spritely. <a>A healthy Internet is secure and private.</a>
-A healthy you is happy and spritely. <a>A healthy Internet is secure and private.</a>
-
-
-## MAX_LENGTH: 180 characters
 # Link: https://addons.mozilla.org/firefox/themes
 ;Your browser is ready for a makeover. Don’t worry, you’ve got tons of options. <a>Check them out here.</a>
 Your browser is ready for a makeover. Don’t worry, you’ve got tons of options. <a>Check them out here.</a>
+
+
+# Appears on Mobile Activation screen; Refer to the screenshot.
+;Send
+Send
+
+
+# Appears on Mobile Activation screen; Refer to the screenshot.
+;Enter your email
+Enter your email
+
+
+# Appears on Mobile Activation screen; Refer to the screenshot.
+;App store
+App store
+
+
+# Appears on Mobile Activation screen.
+;Google play
+Google play
+
+
+# Appears on Mobile Activation screen; Refer to the screenshot.
+# Link: https://www.mozilla.org/privacy/firefox/#snippets. Page is only available in a few languages.
+;Learn more on our <a>privacy policy</a>
+Learn more on our <a>privacy policy</a>
+
+
+# Appears on Mobile Activation screen; Refer to the screenshot.
+;Your download link was sent
+Your download link was sent
+
+
+# Reference attachment in the bug.
+;Check your device for the email
+Check your device for the email
