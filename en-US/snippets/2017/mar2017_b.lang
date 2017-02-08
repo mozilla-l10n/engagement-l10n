@@ -120,8 +120,9 @@ Your browser is ready for a makeover. Don’t worry, you’ve got tons of option
 Send
 
 
-# This is a tool tip.
+# This is a tool tip on the UI element to dismiss the widget.
 ;Remove this
+Remove this
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
 ;Enter your email
