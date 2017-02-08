@@ -115,26 +115,27 @@ Your browser is ready for a makeover. Don’t worry, you’ve got tons of option
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
-# This is a button. Be mindful of the character limit.
+# This is a button. Keep the translation short.
 ;Send
 Send
 
+
+# This is a tool tip.
+;Remove this
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
 ;Enter your email
 Enter your email
 
 
-# Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
-# Be sure to adhere to Apple's branding guideline; check your localized Apple product to determine whether this product name is translated/transliterated.
-;App store
-App store
+# Appears on Mobile Activation screen.
+;App Store
+App Store
 
 
 # Appears on Mobile Activation screen.
-# Be sure to adhere to Google's branding guideline; check your localized Google product to determine whether this product name is translated/transliterated.
-;Google play
-Google play
+;Google Play
+Google Play
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
