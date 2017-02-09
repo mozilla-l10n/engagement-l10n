@@ -32,13 +32,13 @@ Send yourself a download link and go anywhere you want.
 # LIMIT: 120 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 ;Browse unbound
-Browse unbound
+Menjelajah tanpa batas
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 ;Send Firefox to your iPhone and go anywhere you want.
-Send Firefox to your iPhone and go anywhere you want.
+Kirim Firefox ke iPhone Anda dan jelajahi ke mana pun Anda inginkan.
 
 
 # LIMIT: 120 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -69,7 +69,7 @@ Send yourself a download link for a Web without limits.
 # Campaign: desktop snippets
 # "Citation needed" is meant to be humorous.
 ;Fun fact: Firefox users are the smartest, funniest, best-looking people on the Web. [Citation needed]
-Fun fact: Firefox users are the smartest, funniest, best-looking people on the Web. [Citation needed]
+Fakta menarik: Pengguna Firefox adalah orang paling cerdas, paling menyenangkan, serta paling menarik di Web. [Rujukan?]
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -89,14 +89,14 @@ Nonconformist Hall of Fame: RIP original mic dropper Oscar Wilde. To wit: “Alw
 # Campaign: desktop snippets
 # Link: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
 ;Unlike your attic, Firefox is easy to clean. <a>Just click the Forget Button and presto!</a> No more browser history.
-Unlike your attic, Firefox is easy to clean. <a>Just click the Forget Button and presto!</a> No more browser history.
+Tidak seperti kamar Anda, Firefox mudah untuk dibersihkan. <a>Cukup klik Tombol Lupakan dan sim salabim!</a> Tidak ada lagi riwayat peramban tersisa.
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # Link: https://addons.mozilla.org/firefox/themes
 ;Your browser is ready for a makeover. Don’t worry, you’ve got tons of options. <a>Check them out here.</a>
-Your browser is ready for a makeover. Don’t worry, you’ve got tons of options. <a>Check them out here.</a>
+Siap mempermak peramban Anda? Jangan khawatir, Anda punya banyak pilihan. <a>Cek di sini.</a>
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
@@ -107,7 +107,7 @@ Kirim
 
 # This is a tool tip on the UI element to dismiss the widget.
 ;Remove this
-Remove this
+Hapus ini
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
