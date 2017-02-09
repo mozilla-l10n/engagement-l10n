@@ -117,27 +117,27 @@ Masukkan surel Anda
 
 # Appears on Mobile Activation screen.
 ;App Store
-App Store
+App Store {ok}
 
 
 # Appears on Mobile Activation screen.
 ;Google Play
-Google Play
+Google Play {ok}
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
 # Link: https://www.mozilla.org/privacy/firefox/#snippets. Page is only available in a few languages.
 ;Learn more on our <a>privacy policy</a>
-Learn more on our <a>privacy policy</a>
+Pelajari lebih lanjut tentang <a>kebijakan privasi</a> kami
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
 ;Your download link was sent
-Your download link was sent
+Tautan unduhan telah dikirim
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
 ;Check your device for the email
-Check your device for the email
+Periksa email pada perangkat Anda
 
 
