@@ -62,14 +62,14 @@ Go beyond
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 ;Send yourself a download link for a Web without limits.
-Send yourself a download link for a Web without limits.
+寄送下載鏈結給自己，讓您上網不受限。
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Campaign: desktop snippets
 # "Citation needed" is meant to be humorous.
 ;Fun fact: Firefox users are the smartest, funniest, best-looking people on the Web. [Citation needed]
-Fun fact: Firefox users are the smartest, funniest, best-looking people on the Web. [Citation needed]
+豆知識: Firefox 使用者是網路上最聰明、最有趣、長得最好看的人。 [來源請求]
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
@@ -102,42 +102,42 @@ Your browser is ready for a makeover. Don’t worry, you’ve got tons of option
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
 # This is a button. Keep the translation short.
 ;Send
-Send
+傳送
 
 
 # This is a tool tip on the UI element to dismiss the widget.
 ;Remove this
-Remove this
+移除這個
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
 ;Enter your email
-Enter your email
+輸入您的電子郵件信箱
 
 
 # Appears on Mobile Activation screen.
 ;App Store
-App Store
+App Store {ok}
 
 
 # Appears on Mobile Activation screen.
 ;Google Play
-Google Play
+Google Play {ok}
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
 # Link: https://www.mozilla.org/privacy/firefox/#snippets. Page is only available in a few languages.
 ;Learn more on our <a>privacy policy</a>
-Learn more on our <a>privacy policy</a>
+到我們的 <a>隱私權保護政策</a> 了解更多
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
 ;Your download link was sent
-Your download link was sent
+已寄出下載鏈結給您
 
 
 # Appears on Mobile Activation screen; For context, refer to https://bug1336204.bmoattachments.org/attachment.cgi?id=8833047
 ;Check your device for the email
-Check your device for the email
+請到裝置上收信
 
 
