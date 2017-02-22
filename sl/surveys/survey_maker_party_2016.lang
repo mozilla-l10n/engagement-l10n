@@ -3,52 +3,52 @@
 
 # survey-title
 ;Maker Party Attendee Survey
-Maker Party Attendee Survey
+Vprašalnik za udeležence dogodka Maker Party
 
 
 # p-3
 ;How'd It Go?
-How'd It Go?
+Kako je bilo?
 
 
 # q-8
 ;On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
-On a scale of 1 to 7, how likely are you to recommend Maker Party to a friend?
+Na lestvici od 1 do 7 označite, kako verjetno bi dogodek priporočili prijatelju?
 
 
 # q-8-o-10217
 ;7 – Very Likely
-7 – Very Likely
+7 – zelo verjetno
 
 
 # q-8-o-10223
 ;1 – Not At All Likely
-1 – Not At All Likely
+1 – Sploh ne
 
 
 # q-16
 ;What could have been better about the Maker Party you attended?
-What could have been better about the Maker Party you attended?
+Kaj bi bilo lahko boljše na dogodku Maker Party, ki ste se ga udeležili?
 
 
 # q-17
 ;What did you particularly like about the Maker Party you attended?
-What did you particularly like about the Maker Party you attended?
+Kaj vam je bilo na dogodku Maker Party, ki ste se ga udeležili, še posebej všeč?
 
 
 # q-7
 ;What activity did you participate in at the Maker Party you attended?
-What activity did you participate in at the Maker Party you attended?
+Katerih dejavnosti na dogodku Maker Party ste se udeležili?
 
 
 # q-7-o-10211
 ;Post Crimes
-Post Crimes
+Zločin objave
 
 
 # q-7-o-10212
 ;Meme Around
-Meme Around
+Meme vsepovsod
 
 
 # q-7-o-10213
@@ -58,22 +58,22 @@ Contributing to the Commons
 
 # q-7-o-10214
 ;Super Party
-Super Party
+Super zabava
 
 
 # q-10
 ;How engaging did you think the facilitator of the event was?
-How engaging did you think the facilitator of the event was?
+Kako dober se vam je zdel vodja dogodka?
 
 
 # q-10-o-10226
 ;7 – Highly Engaging
-7 – Highly Engaging
+7 – zelo dober
 
 
 # q-10-o-10232
 ;1 – Not At All Engaging
-1 – Not At All Engaging
+1 – zelo slab
 
 
 # q-11
