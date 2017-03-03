@@ -1,0 +1,155 @@
+## NOTE: Survey to gather stories about copyright: https://www.surveygizmo.com/s3/3396771/0dd689990417
+
+# survey-title
+;EU Copyright Story Ask
+EU Copyright Story Ask
+
+
+# q-33
+;First Name/Pseudonym
+First Name/Pseudonym
+
+
+# q-34
+;Last Name (optional)
+Last Name (optional)
+
+
+# q-26
+;Country (optional)
+Country (optional)
+
+
+# selectone
+;-- Please Select --
+-- Please Select --
+
+
+# q-35
+;Why do you care about copyright?
+Why do you care about copyright?
+
+
+# q-36
+;How has overly restrictive copyright law affected you personally?<br />(For example, have you ever pulled back from posting something online or had your creative freedoms stifled because of outdated copyright law? Have you ever received a takedown notice for something original that <span style="font-weight:700;">you</span> created?)
+How has overly restrictive copyright law affected you personally?<br />(For example, have you ever pulled back from posting something online or had your creative freedoms stifled because of outdated copyright law? Have you ever received a takedown notice for something original that <span style="font-weight:700;">you</span> created?)
+
+
+# q-37
+;I’d be willing to have you follow up with me about doing more (check all that apply):
+I’d be willing to have you follow up with me about doing more (check all that apply):
+
+
+# q-37-o-10490
+;Video
+Video
+
+
+# q-37-o-10492
+;Audio
+Audio
+
+
+# q-37-o-10491
+;Photo
+Photo
+
+
+# q-37-o-10493
+;Make a meme
+Make a meme
+
+
+# q-38
+;Email so we can follow-up with you:
+Email so we can follow-up with you:
+
+
+# q-39
+;I’m happy with my story (First name, story and country) being shared on social email, in emails and with decision makers.
+I’m happy with my story (First name, story and country) being shared on social email, in emails and with decision makers.
+
+
+# q-39-o-10496
+;Yes
+Yes
+
+
+# q-39-o-10498
+;No
+No
+
+
+# p-2
+;Thank you for taking the survey!
+Thank you for taking the survey!
+
+
+# next_button
+;Next
+Next
+
+
+# back_button
+;Back
+Back
+
+
+# submit_button
+;Submit
+Submit
+
+
+# required-hover
+;This question is required.
+This question is required.
+
+
+# required
+;This question is required
+This question is required
+
+
+# survey_closed
+;This survey is not accepting additional responses at this time. Thank You!
+This survey is not accepting additional responses at this time. Thank You!
+
+
+# block_by_message
+;You have already completed this survey.
+You have already completed this survey.
+
+
+# language_bar_select_text
+;Select another language
+Select another language
+
+
+# language_bar_description_text
+;To continue in another language, please click one of the links below.
+To continue in another language, please click one of the links below.
+
+
+# page_error_message
+;There was an error on your page. Please correct any required fields and submit again.
+There was an error on your page. Please correct any required fields and submit again.
+
+
+# first_error
+;Go to the first error
+Go to the first error
+
+
+# too_many_words
+;You have typed more words than allowed (:wordcount of :limit words)
+You have typed more words than allowed (:wordcount of :limit words)
+
+
+# invalid_email
+;":value" is not a valid email address
+":value" is not a valid email address
+
+
+# max_words
+;Words used: :value out of :max.
+Words used: :value out of :max.
