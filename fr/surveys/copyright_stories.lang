@@ -18,12 +18,12 @@ Last Name (optional)
 
 # q-26
 ;Country (optional)
-Country (optional)
+Pays (facultatif)
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Veuillez sélectionner --
 
 
 # q-35
@@ -73,72 +73,72 @@ I’m happy with my story (First name, story and country) being shared on social
 
 # q-39-o-10496
 ;Yes
-Yes
+Oui
 
 
 # q-39-o-10498
 ;No
-No
+Non
 
 
 # p-2
 ;Thank you for taking the survey!
-Thank you for taking the survey!
+Merci d’avoir répondu à notre sondage !
 
 
 # next_button
 ;Next
-Next
+Suivant
 
 
 # back_button
 ;Back
-Back
+Retour
 
 
 # submit_button
 ;Submit
-Submit
+Envoyer
 
 
 # required-hover
 ;This question is required.
-This question is required.
+Cette question est obligatoire.
 
 
 # required
 ;This question is required
-This question is required
+Cette question est obligatoire
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Ce sondage n’accepte plus de nouvelles réponses. Merci à vous.
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Vous avez déjà répondu à ce sondage.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Sélectionner une autre langue
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Pour poursuivre dans une autre langue, veuillez cliquer sur l’un des liens ci-dessous.
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-There was an error on your page. Please correct any required fields and submit again.
+Une erreur est survenue sur votre page. Veuillez corriger les champs obligatoires et soumettre le formulaire à nouveau.
 
 
 # first_error
 ;Go to the first error
-Go to the first error
+Aller à la première erreur
 
 
 # too_many_words

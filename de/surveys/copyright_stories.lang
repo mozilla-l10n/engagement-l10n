@@ -18,12 +18,12 @@ Last Name (optional)
 
 # q-26
 ;Country (optional)
-Country (optional)
+Land (freiwillig)
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Bitte auswählen --
 
 
 # q-35
@@ -73,72 +73,72 @@ I’m happy with my story (First name, story and country) being shared on social
 
 # q-39-o-10496
 ;Yes
-Yes
+Ja
 
 
 # q-39-o-10498
 ;No
-No
+Nein
 
 
 # p-2
 ;Thank you for taking the survey!
-Thank you for taking the survey!
+Danke für Ihre Teilnahme an der Umfrage!
 
 
 # next_button
 ;Next
-Next
+Weiter
 
 
 # back_button
 ;Back
-Back
+Zurück
 
 
 # submit_button
 ;Submit
-Submit
+Absenden
 
 
 # required-hover
 ;This question is required.
-This question is required.
+Diese Frage muss beantwortet werden.
 
 
 # required
 ;This question is required
-This question is required
+Diese Frage muss beantwortet werden
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Diese Umfrage akzeptiert derzeit keine weiteren Antworten. Vielen Dank!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Sie haben diese Umfrage bereits ausgefüllt.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Andere Sprache auswählen
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Um eine andere Sprache auszuwählen klicken Sie bitte einen der folgenden Links an.
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-There was an error on your page. Please correct any required fields and submit again.
+Auf dieser Seite ist ein Fehler aufgetreten. Bitte korrigieren Sie Pflichtfelder und senden Sie die Umfrage erneut ab.
 
 
 # first_error
 ;Go to the first error
-Go to the first error
+Zum ersten Fehler springen
 
 
 # too_many_words
