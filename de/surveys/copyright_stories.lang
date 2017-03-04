@@ -3,17 +3,17 @@
 
 # survey-title
 ;EU Copyright Story Ask
-EU Copyright Story Ask
+EU-Urheberrecht: Geschichten von Betroffenen
 
 
 # q-33
 ;First Name/Pseudonym
-First Name/Pseudonym
+Vorname/Pseudonym
 
 
 # q-34
 ;Last Name (optional)
-Last Name (optional)
+Nachname (optional)
 
 
 # q-26
@@ -28,47 +28,47 @@ Land (freiwillig)
 
 # q-35
 ;Why do you care about copyright?
-Why do you care about copyright?
+Warum ist Ihnen Urheberrecht wichtig?
 
 
 # q-36
 ;How has overly restrictive copyright law affected you personally?<br />(For example, have you ever pulled back from posting something online or had your creative freedoms stifled because of outdated copyright law? Have you ever received a takedown notice for something original that <span style="font-weight:700;">you</span> created?)
-How has overly restrictive copyright law affected you personally?<br />(For example, have you ever pulled back from posting something online or had your creative freedoms stifled because of outdated copyright law? Have you ever received a takedown notice for something original that <span style="font-weight:700;">you</span> created?)
+Wie hat Sie das zu restriktive Urheberrecht persönlich betroffen?<br />(Haben Sie zum Beispiel wegen des veralteten Urheberrechts auf eine Online-Veröffentlichung verzichtet oder wurde ihre Kunstfreiheit eingeschränkt? Haben Sie schon einmal eine Sperre für etwas bekommen, das <span style="font-weight:700;">Sie</span> ursprünglich erstellt haben?)
 
 
 # q-37
 ;I’d be willing to have you follow up with me about doing more (check all that apply):
-I’d be willing to have you follow up with me about doing more (check all that apply):
+Ich bin einverstanden, dass Mozilla mich zu den folgenden Themen kontaktiert (alle zutreffenden auswählen):
 
 
 # q-37-o-10490
 ;Video
-Video
+Video {ok}
 
 
 # q-37-o-10492
 ;Audio
-Audio
+Audio {ok}
 
 
 # q-37-o-10491
 ;Photo
-Photo
+Foto
 
 
 # q-37-o-10493
 ;Make a meme
-Make a meme
+Erstellen eines Memes
 
 
 # q-38
 ;Email so we can follow-up with you:
-Email so we can follow-up with you:
+E-Mail-Adresse, über die wir Sie erreichen können:
 
 
 # q-39
 ;I’m happy with my story (First name, story and country) being shared on social email, in emails and with decision makers.
-I’m happy with my story (First name, story and country) being shared on social email, in emails and with decision makers.
+Ich bin einverstanden, dass meine Geschichte (Vorname, Geschichte und Land) über soziale Medien, E-Mails und mit Entscheidungsträgern geteilt wird.
 
 
 # q-39-o-10496
@@ -143,16 +143,16 @@ Zum ersten Fehler springen
 
 # too_many_words
 ;You have typed more words than allowed (:wordcount of :limit words)
-You have typed more words than allowed (:wordcount of :limit words)
+Sie haben zu viele Wörter eingegeben (:wordcount von :limit Wörtern)
 
 
 # invalid_email
 ;":value" is not a valid email address
-":value" is not a valid email address
+„:value“ ist keine gültige E-Mail-Adresse
 
 
 # max_words
 ;Words used: :value out of :max.
-Words used: :value out of :max.
+:value von :max Wörtern verwendet.
 
 
