@@ -3,17 +3,17 @@
 
 # survey-title
 ;EU Copyright Story Ask
-EU Copyright Story Ask
+Votre anecdote sur le droit d’auteur
 
 
 # q-33
 ;First Name/Pseudonym
-First Name/Pseudonym
+Prénom/Pseudonyme
 
 
 # q-34
 ;Last Name (optional)
-Last Name (optional)
+Nom (facultatif)
 
 
 # q-26
@@ -43,27 +43,27 @@ I’d be willing to have you follow up with me about doing more (check all that 
 
 # q-37-o-10490
 ;Video
-Video
+Vidéo
 
 
 # q-37-o-10492
 ;Audio
-Audio
+Audio {ok}
 
 
 # q-37-o-10491
 ;Photo
-Photo
+Photo {ok}
 
 
 # q-37-o-10493
 ;Make a meme
-Make a meme
+La réalisation de mèmes
 
 
 # q-38
 ;Email so we can follow-up with you:
-Email so we can follow-up with you:
+Adresse électronique afin que nous puissions vous recontacter :
 
 
 # q-39
@@ -143,16 +143,16 @@ Aller à la première erreur
 
 # too_many_words
 ;You have typed more words than allowed (:wordcount of :limit words)
-You have typed more words than allowed (:wordcount of :limit words)
+Vous avez dépassé le nombre de mots autorisé (:wordcount mots sur :limit)
 
 
 # invalid_email
 ;":value" is not a valid email address
-":value" is not a valid email address
+« :value » n’est pas une adresse électronique valide
 
 
 # max_words
 ;Words used: :value out of :max.
-Words used: :value out of :max.
+Mots utilisés : :value sur :max.
 
 
