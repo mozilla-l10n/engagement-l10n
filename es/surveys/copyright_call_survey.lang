@@ -63,46 +63,46 @@ The EU is reforming copyright law, and what makes the internet awesome is at sta
 
 # submit_button
 ;Submit
-Submit
+Enviar
 
 
 # required-hover
 ;This question is required.
-This question is required.
+Esta pregunta es obligatoria.
 
 
 # required
 ;This question is required
-This question is required
+Esta pregunta es obligatoria
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Esta encuesta ya no acepta más respuestas. ¡Gracias!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Ya has rellenado esta encuesta.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Selecciona otro idioma
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Para continuar en otro idioma, haz clic en uno de los enlaces más abajo.
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-There was an error on your page. Please correct any required fields and submit again.
+Se produjo un error en la página. Corrige los campos necesarios y vuelve a enviarla.
 
 
 # first_error
 ;Go to the first error
-Go to the first error
+Ir al primer error
 
 
