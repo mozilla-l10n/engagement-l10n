@@ -43,12 +43,12 @@ Firefox Hello: Έρευνα Προϊόντος
 
 # p-2
 ;Thank You!
-Σας ευχαριστούμε!
+Σάς ευχαριστούμε!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Σας ευχαριστούμε για το χρόνο που δεσμεύσατε για να συμπληρώσετε την φόρμα μας. Η ανταπόκριση σας είναι πολύ σημαντική για εμάς και θα συμβάλει στη βελτίωση του Firefox Hello για τους χρήστες μας.
+Σάς ευχαριστούμε για το χρόνο που διαθέσατε για να συμπληρώσετε τη φόρμα μας. Η ανταπόκριση σας είναι πολύ σημαντική για εμάς και θα συμβάλει στη βελτίωση του Firefox Hello για τους χρήστες μας.
 
 
 # required
@@ -58,7 +58,7 @@ Firefox Hello: Έρευνα Προϊόντος
 
 # selectone
 ;-- Please Select --
--- Επιλογή --
+-- Παρακαλούμε επιλέξτε --
 
 
 # survey_closed
