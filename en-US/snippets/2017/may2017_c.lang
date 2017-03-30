@@ -1,0 +1,51 @@
+## NOTE: reference bug 1351798; Deadline: 19 April, 2017
+## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+## NOTE: For locale cs only
+## NOTE: Campaign: Desktop Snippets
+
+
+## MAX_LENGTH: 180
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+;Almost anywhere can be an office. Get outside and work from somewhere else for an hour today.
+Almost anywhere can be an office. Get outside and work from somewhere else for an hour today.
+
+
+## MAX_LENGTH: 180
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+;Free thought: Eat dessert first today. Your tastebuds will thank you.
+Free thought: Eat dessert first today. Your tastebuds will thank you.
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# "Citation needed" is meant to be humorous.
+;Fun fact: Firefox users are the smartest, funniest, best-looking people on the Web. [Citation needed]
+Fun fact: Firefox users are the smartest, funniest, best-looking people on the Web. [Citation needed]
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+;Now seems like as good a time as any for an important reminder: Never read the comments.
+Now seems like as good a time as any for an important reminder: Never read the comments.
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters. Please rephrase as needed to fit.
+;Free thought: Never let a dress code get in the way of fun socks.
+Free thought: Never let a dress code get in the way of fun socks.
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters. Please rephrase as needed to fit.
+# "Hack” here means to make something easier.
+;Life hack: The easiest way to open a banana is to pinch the end without the stem. Just like monkeys do it.
+Life hack: The easiest way to open a banana is to pinch the end without the stem. Just like monkeys do it.
+
+
+# This is a tool tip on the UI element to dismiss the widget.
+;Remove this
+Remove this
