@@ -1,0 +1,126 @@
+## NOTE: Reference bug 1351798; Deadline: 19 April, 2017
+## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+## NOTE: Link for Google Play: https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp
+## NOTE: Locales: de, es, fr, id, pt-BR, ru, and zh-TW
+## NOTE: Campaign: Desktop Snippets
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# 'Begone vile pulldown menu'. can be paraphrased as 'Go away, the little useless pulldown menu'.
+;Email hack: Hyperlink your selected text by pressing [Ctrl + K] then pasting a link. Begone vile pulldown menu.
+Email hack: Hyperlink your selected text by pressing [Ctrl + K] then pasting a link. Begone vile pulldown menu.
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# 'Begone vile pulldown menu'. can be paraphrased as 'Go away, the little useless pulldown menu'.
+;Email hack: Hyperlink your selected text by pressing [Cmd + K] then pasting a link. Begone, vile pulldown menu.
+Email hack: Hyperlink your selected text by pressing [Cmd + K] then pasting a link. Begone, vile pulldown menu.
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+;Gosh, you’ve been looking at your screen for a while. Take a snack break — the Web will be here when you get back.
+Gosh, you’ve been looking at your screen for a while. Take a snack break — the Web will be here when you get back.
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# Link: https://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+;“Try to learn something about everything and everything about something.” — <a>Thomas Henry Huxley</a>
+“Try to learn something about everything and everything about something.” — <a>Thomas Henry Huxley</a>
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# Link:https://en.wikipedia.org/wiki/Bathysphere
+;The Bathysphere is a) a sensory deprivation tank, b) world's first deep-ocean exploration device or c) a famous DJ. <a">Explore the truth for yourself.</a>
+The Bathysphere is a) a sensory deprivation tank, b) world's first deep-ocean exploration device or c) a famous DJ. <a">Explore the truth for yourself.</a>
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# Links to Google Play
+;Have a question too embarrassing to ask your usual browser? Try Firefox Focus, the Web browser with built-in amnesia. <a>Get it for Android.</a>
+Have a question too embarrassing to ask your usual browser? Try Firefox Focus, the Web browser with built-in amnesia. <a>Get it for Android.</a>
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# Links to Google Play
+;Explore without a trace. <a>Get Firefox Focus</a>, the private browser for Android.
+Explore without a trace. <a>Get Firefox Focus</a>, the private browser for Android.
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# Links to Google Play
+;Ask “What’s this thing on my arm?” without waking up the whole Internet. Browse boldly with Firefox Focus for Android. <a>Download it now.</a>
+Ask “What’s this thing on my arm?” without waking up the whole Internet. Browse boldly with Firefox Focus for Android. <a>Download it now.</a>
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# Links to Google Play
+;Go ahead. Ask us anything. We’ll never tell. Discover next-level private browsing with <a>Firefox Focus on Android.</a>
+Go ahead. Ask us anything. We’ll never tell. Discover next-level private browsing with <a>Firefox Focus on Android.</a>
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# Links to Google Play
+;Search boldly. Leave no trace. Explore next-level private browsing with <a>Firefox Focus on Android.</a>
+Search boldly. Leave no trace. Explore next-level private browsing with <a>Firefox Focus on Android.</a>
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+;<a>Run wild and free</a>
+<a>Run wild and free</a>
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+;Send a link for Firefox Focus for Android and start browsing better everywhere.
+Send a link for Firefox Focus for Android and start browsing better everywhere.
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+;<a>Dance — no one’s watching</a>
+<a>Dance — no one’s watching</a>
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+;Send a link for Firefox Focus straight to your phone and experience ultimate privacy.
+Send a link for Firefox Focus straight to your phone and experience ultimate privacy.
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+;<a>Search boldly</a>
+<a>Search boldly</a>
+
+
+## MAX_LENGTH: 180 characters
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+;Send a link for Firefox Focus to your phone and explore next-level private browsing.
+Send a link for Firefox Focus to your phone and explore next-level private browsing.
