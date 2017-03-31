@@ -1,0 +1,33 @@
+## NOTE: Reference bug 1351798; Deadline: 19 April, 2017
+## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+## NOTE: Link for Google Play: https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp
+## NOTE: Locales: ar, fa, he, and ur
+## NOTE: Campaign: Desktop Snippets
+
+
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# Links to Google Play
+;Go beyond. <a>Download Firefox on your Android phone</a> for a Web without limits.
+Go beyond. <a>Download Firefox on your Android phone</a> for a Web without limits.
+
+
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# Links to Google Play
+;Take your Android further. <a>Get Firefox on your Android phone</a> for a Web without limits.
+Take your Android further. <a>Get Firefox on your Android phone</a> for a Web without limits.
+
+
+# LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
+# Desktop snippet
+# Links to Google Play
+;<a>Download Firefox on your Android phone</a> and roam free on the open Web.
+<a>Download Firefox on your Android phone</a> and roam free on the open Web.
+
+
+# This is a tool tip on the UI element to dismiss the widget.
+;remove this
+remove this
+
+
