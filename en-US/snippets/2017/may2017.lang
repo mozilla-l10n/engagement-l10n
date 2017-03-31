@@ -1,13 +1,14 @@
 ## NOTE: Reference bug 1351798; Deadline: 19 April, 2017
 ## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
 ## NOTE: Link for Google Play: https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp
-## NOTE: Locales: cs, de, es, fr, id, pt-BR, ru, and zh-TW
+## NOTE: Locales: de, es, fr, id, pt-BR, ru, and zh-TW
 ## NOTE: Campaign: Desktop Snippets
 
 
 ## MAX_LENGTH: 180 characters
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
-# Dsktop snippet
+# Desktop snippet
+# 'Begone vile pulldown menu'. can be paraphrased as 'Go away, the little useless pulldown menu'.
 ;Email hack: Hyperlink your selected text by pressing [Ctrl + K] then pasting a link. Begone vile pulldown menu.
 Email hack: Hyperlink your selected text by pressing [Ctrl + K] then pasting a link. Begone vile pulldown menu.
 
@@ -15,8 +16,9 @@ Email hack: Hyperlink your selected text by pressing [Ctrl + K] then pasting a l
 ## MAX_LENGTH: 180 characters
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Desktop snippet
-;Email hack: Hyperlink your selected text by pressing [Cmd + K] then pasting a link. Begone vile pulldown menu.
-Email hack: Hyperlink your selected text by pressing [Cmd + K] then pasting a link. Begone vile pulldown menu.
+# 'Begone vile pulldown menu'. can be paraphrased as 'Go away, the little useless pulldown menu'.
+;Email hack: Hyperlink your selected text by pressing [Cmd + K] then pasting a link. Begone, vile pulldown menu.
+Email hack: Hyperlink your selected text by pressing [Cmd + K] then pasting a link. Begone, vile pulldown menu.
 
 
 ## MAX_LENGTH: 180 characters
@@ -45,7 +47,7 @@ The Bathysphere is a) a sensory deprivation tank, b) world's first deep-ocean ex
 ## MAX_LENGTH: 180 characters
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Desktop snippet
-# Links to google play
+# Links to Google Play
 ;Have a question too embarrassing to ask your usual browser? Try Firefox Focus, the Web browser with built-in amnesia. <a>Get it for Android.</a>
 Have a question too embarrassing to ask your usual browser? Try Firefox Focus, the Web browser with built-in amnesia. <a>Get it for Android.</a>
 
@@ -53,7 +55,7 @@ Have a question too embarrassing to ask your usual browser? Try Firefox Focus, t
 ## MAX_LENGTH: 180 characters
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Desktop snippet
-# Links to google play
+# Links to Google Play
 ;Explore without a trace. <a>Get Firefox Focus</a>, the private browser for Android.
 Explore without a trace. <a>Get Firefox Focus</a>, the private browser for Android.
 
@@ -61,7 +63,7 @@ Explore without a trace. <a>Get Firefox Focus</a>, the private browser for Andro
 ## MAX_LENGTH: 180 characters
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Desktop snippet
-# Links to google play
+# Links to Google Play
 ;Ask “What’s this thing on my arm?” without waking up the whole Internet. Browse boldly with Firefox Focus for Android. <a>Download it now.</a>
 Ask “What’s this thing on my arm?” without waking up the whole Internet. Browse boldly with Firefox Focus for Android. <a>Download it now.</a>
 
@@ -69,7 +71,7 @@ Ask “What’s this thing on my arm?” without waking up the whole Internet. B
 ## MAX_LENGTH: 180 characters
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Desktop snippet
-# Links to google play
+# Links to Google Play
 ;Go ahead. Ask us anything. We’ll never tell. Discover next-level private browsing with <a>Firefox Focus on Android.</a>
 Go ahead. Ask us anything. We’ll never tell. Discover next-level private browsing with <a>Firefox Focus on Android.</a>
 
@@ -77,7 +79,7 @@ Go ahead. Ask us anything. We’ll never tell. Discover next-level private brows
 ## MAX_LENGTH: 180 characters
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Desktop snippet
-# Links to google play
+# Links to Google Play
 ;Search boldly. Leave no trace. Explore next-level private browsing with <a>Firefox Focus on Android.</a>
 Search boldly. Leave no trace. Explore next-level private browsing with <a>Firefox Focus on Android.</a>
 
@@ -92,8 +94,8 @@ Search boldly. Leave no trace. Explore next-level private browsing with <a>Firef
 ## MAX_LENGTH: 180 characters
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Desktop snippet
-;Send a link for Firefox Focus Android and start browsing better everywhere.
-Send a link for Firefox Focus Android and start browsing better everywhere.
+;Send a link for Firefox Focus for Android and start browsing better everywhere.
+Send a link for Firefox Focus for Android and start browsing better everywhere.
 
 
 ## MAX_LENGTH: 180 characters
