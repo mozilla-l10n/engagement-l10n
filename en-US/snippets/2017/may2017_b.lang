@@ -10,8 +10,8 @@
 # Desktop snippet
 # Links to Google Play
 # Replace YOURLANGUAGE with Arabic, Farsi, Hebrew or Urdu, the language you are localizing in.
-;Firefox for Android now supports YOURLANGUAGE. Hooray!” <a>Get it now.</a>
-Firefox for Android now supports YOURLANGUAGE. Hooray!” <a>Get it now.</a>
+;Firefox for Android now supports YOURLANGUAGE. Hooray! <a>Get it now.</a>
+Firefox for Android now supports YOURLANGUAGE. Hooray! <a>Get it now.</a>
 
 
 ## MAX_LENGTH: 180 characters
