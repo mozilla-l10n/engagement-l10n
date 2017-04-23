@@ -1,7 +1,6 @@
 ## NOTE: Reference bug 1358315; Deadline: 12 May, 2017
 ## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
 ## NOTE: Link for Google Play: https://play.google.com/store/apps/details?id=org.mozilla.firefox&amp
-## NOTE: Locales: cs, de, es, fr, id, pt-BR, ru, and zh-TW
 ## NOTE: Campaign: Desktop Snippets
 
 
@@ -30,6 +29,7 @@ Scientists discovered <a>a supermassive black hole</a> at the center of the Milk
 
 
 # Link:https://en.wikipedia.org/wiki/Lunar_phase?
+# Waxing is referring to the moon changing phases.
 # Desktop snippet
 ;How can you tell when <a>the moon is waxing?</a> The dark side is on the left. #NowYouKnow
 How can you tell when <a>the moon is waxing?</a> The dark side is on the left. #NowYouKnow
