@@ -7,14 +7,14 @@
 # Link is to https://www.mozilla.org/firefox/channel/desktop/#nightly
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Localizers, <a>install Nightly</a> to help localize and test Firefox in your language.
-Localizers, <a>install Nightly</a> to help localize and test Firefox in your language.
+Vertalers, <a>installeer Nightly</a> om Firefox in uw taal te helpen vertalen en testen.
 
 
 # Desktop snippet
 # LIMIT: 180 characters. Please rephrase as needed to fit.
 # Link is to https://blog.mozilla.org/l10n/2017/04/18/localizing-nightly-by-default/
 ;Want to help us bring Firefox to everyone? We need your translation skills! <a>Learn more.</a>
-Want to help us bring Firefox to everyone? We need your translation skills! <a>Learn more.</a>
+Wilt u ons helpen Firefox voor iedereen beschikbaar te maken? We hebben uw vertaalvaardigheden nodig! <a>Lees meer.</a>
 
 
 # Desktop snippet
@@ -22,7 +22,7 @@ Want to help us bring Firefox to everyone? We need your translation skills! <a>L
 # Link is to https://www.mozilla.org/firefox/channel/desktop/#nightly
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Want to help us test and improve Firefox in your language? <a>Install Nightly</a> to find the latest strings.
-Want to help us test and improve Firefox in your language? <a>Install Nightly</a> to find the latest strings.
+Wilt u ons helpen Firefox in uw taal te testen en te verbeteren? <a>Installeer Nightly</a> om de nieuwste strings te vinden.
 
 
 # Desktop snippet
@@ -30,6 +30,6 @@ Want to help us test and improve Firefox in your language? <a>Install Nightly</a
 # Link is to https://blog.mozilla.org/l10n/2017/04/18/localizing-nightly-by-default/
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Want to help us localize Firefox in your language? Install Nightly to find the latest strings. <a>Learn more</a>
-Want to help us localize Firefox in your language? Install Nightly to find the latest strings. <a>Learn more</a>
+Wilt u ons helpen Firefox naar uw taal te vertalen? Installeer Nightly om de nieuwste strings te vinden. <a>Lees meer.</a>
 
 
