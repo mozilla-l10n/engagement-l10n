@@ -7,14 +7,14 @@
 # Link is to https://www.mozilla.org/firefox/channel/desktop/#nightly
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Localizers, <a>install Nightly</a> to help localize and test Firefox in your language.
-Localizers, <a>install Nightly</a> to help localize and test Firefox in your language.
+<a>Zainstaluj Nightly</a>, aby pomóc nam tłumaczyć i testować Firefoksa po polsku.
 
 
 # Desktop snippet
 # LIMIT: 180 characters. Please rephrase as needed to fit.
 # Link is to https://blog.mozilla.org/l10n/2017/04/18/localizing-nightly-by-default/
 ;Want to help us bring Firefox to everyone? We need your translation skills! <a>Learn more.</a>
-Want to help us bring Firefox to everyone? We need your translation skills! <a>Learn more.</a>
+Chcesz pomóc, aby Firefox był dostępny dla wszystkich? Potrzebujemy Twoich umiejętności tłumaczeniowych. <a>Więcej informacji.</a>
 
 
 # Desktop snippet
@@ -22,7 +22,7 @@ Want to help us bring Firefox to everyone? We need your translation skills! <a>L
 # Link is to https://www.mozilla.org/firefox/channel/desktop/#nightly
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Want to help us test and improve Firefox in your language? <a>Install Nightly</a> to find the latest strings.
-Want to help us test and improve Firefox in your language? <a>Install Nightly</a> to find the latest strings.
+Chcesz pomóc nam testować i ulepszać Firefoksa po polsku? <a>Zainstaluj Nightly</a>, aby mieć najnowsze teksty.
 
 
 # Desktop snippet
