@@ -7,7 +7,7 @@
 # Link is to https://www.mozilla.org/firefox/channel/desktop/#nightly
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Localizers, <a>install Nightly</a> to help localize and test Firefox in your language.
-Localizers, <a>install Nightly</a> to help localize and test Firefox in your language.
+<a>Installez Nightly</a> pour nous aider à traduire et tester Firefox en français.
 
 
 # Desktop snippet
@@ -22,7 +22,7 @@ Want to help us bring Firefox to everyone? We need your translation skills! <a>L
 # Link is to https://www.mozilla.org/firefox/channel/desktop/#nightly
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Want to help us test and improve Firefox in your language? <a>Install Nightly</a> to find the latest strings.
-Want to help us test and improve Firefox in your language? <a>Install Nightly</a> to find the latest strings.
+Vous souhaitez nous aider à tester et améliorer Firefox en français ? <a>Installez Nightly</a> pour bénéficier des dernières traductions.
 
 
 # Desktop snippet
