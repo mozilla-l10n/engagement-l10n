@@ -7,14 +7,14 @@
 # Link is to https://www.mozilla.org/firefox/channel/desktop/#nightly
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Localizers, <a>install Nightly</a> to help localize and test Firefox in your language.
-Localizers, <a>install Nightly</a> to help localize and test Firefox in your language.
+Sei un localizzatore? <a>Installa Nightly</a> per collaborare ai test e alla traduzione di Firefox in italiano.
 
 
 # Desktop snippet
 # LIMIT: 180 characters. Please rephrase as needed to fit.
 # Link is to https://blog.mozilla.org/l10n/2017/04/18/localizing-nightly-by-default/
 ;Want to help us bring Firefox to everyone? We need your translation skills! <a>Learn more.</a>
-Want to help us bring Firefox to everyone? We need your translation skills! <a>Learn more.</a>
+Vuoi aiutarci a rendere Firefox accessibile per tutti? Ci servono le tue capacità di traduttore! <a>Scopri di più</a>.
 
 
 # Desktop snippet
@@ -22,7 +22,7 @@ Want to help us bring Firefox to everyone? We need your translation skills! <a>L
 # Link is to https://www.mozilla.org/firefox/channel/desktop/#nightly
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Want to help us test and improve Firefox in your language? <a>Install Nightly</a> to find the latest strings.
-Want to help us test and improve Firefox in your language? <a>Install Nightly</a> to find the latest strings.
+Vuoi aiutarci a migliorare la traduzione di Firefox in italiano? <a>Installa Nightly</a> per accedere alle ultime stringhe.
 
 
 # Desktop snippet
@@ -30,6 +30,6 @@ Want to help us test and improve Firefox in your language? <a>Install Nightly</a
 # Link is to https://blog.mozilla.org/l10n/2017/04/18/localizing-nightly-by-default/
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Want to help us localize Firefox in your language? Install Nightly to find the latest strings. <a>Learn more</a>
-Want to help us localize Firefox in your language? Install Nightly to find the latest strings. <a>Learn more</a>
+Vuoi collaborare alla localizzazione di Firefox in italiano? Installa Nightly per avere accesso alle ultime stringhe. <a>Scopri di più</a>.
 
 
