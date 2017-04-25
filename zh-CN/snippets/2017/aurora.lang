@@ -7,14 +7,14 @@
 # Link is to https://www.mozilla.org/firefox/channel/desktop/#nightly
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Localizers, <a>install Nightly</a> to help localize and test Firefox in your language.
-Localizers, <a>install Nightly</a> to help localize and test Firefox in your language.
+有志于翻译？<a>安装 Nightly</a> 检查和体验最新的简体中文版翻译。
 
 
 # Desktop snippet
 # LIMIT: 180 characters. Please rephrase as needed to fit.
 # Link is to https://blog.mozilla.org/l10n/2017/04/18/localizing-nightly-by-default/
 ;Want to help us bring Firefox to everyone? We need your translation skills! <a>Learn more.</a>
-Want to help us bring Firefox to everyone? We need your translation skills! <a>Learn more.</a>
+愿意为更多人带去 Firefox？欢迎你来参与翻译！<a>详细了解</a>
 
 
 # Desktop snippet
@@ -22,7 +22,7 @@ Want to help us bring Firefox to everyone? We need your translation skills! <a>L
 # Link is to https://www.mozilla.org/firefox/channel/desktop/#nightly
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Want to help us test and improve Firefox in your language? <a>Install Nightly</a> to find the latest strings.
-Want to help us test and improve Firefox in your language? <a>Install Nightly</a> to find the latest strings.
+是否想测试最新的简体中文版 Firefox？<a>安装 Nightly</a>，体验最新的功能与翻译。
 
 
 # Desktop snippet
@@ -30,6 +30,6 @@ Want to help us test and improve Firefox in your language? <a>Install Nightly</a
 # Link is to https://blog.mozilla.org/l10n/2017/04/18/localizing-nightly-by-default/
 # You can replace "your language" with the name of your language, e.g. "in French"
 ;Want to help us localize Firefox in your language? Install Nightly to find the latest strings. <a>Learn more</a>
-Want to help us localize Firefox in your language? Install Nightly to find the latest strings. <a>Learn more</a>
+是否想测试最新的简体中文版 Firefox？安装 Nightly 体验最新的功能与翻译。<a>详细了解</a>
 
 
