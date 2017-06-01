@@ -3,47 +3,47 @@
 
 # Subject line
 ;Your MozFest session proposal
-Your MozFest session proposal
+Ihr Vorschlag für eine MozFest-Veranstaltung
 
 
 # Do not localize the [First Name] variable
 ;Hi [First Name],
-Hi [First Name],
+Guten Tag [First Name],
 
 
 ;Thank you for submitting a session proposal for MozFest!
-Thank you for submitting a session proposal for MozFest!
+danke für Ihren Vorschlag für eine Veranstaltung beim MozFest!
 
 
 ;Our session curation process takes place on GitHub in the MozFest 2017 Program repo. Curation will begin in August when the Call for Proposals closes. In September, you’ll be notified whether your session has been accepted or not.
-Our session curation process takes place on GitHub in the MozFest 2017 Program repo. Curation will begin in August when the Call for Proposals closes. In September, you’ll be notified whether your session has been accepted or not.
+Unser Verwaltungsprozess für Veranstaltungen findet auf GitHub im Verzeichnis „MozFest 2017 Program“ statt. Die Verwaltung beginnt im August, wenn der Zeitrahmen für Vorschläge endet. Im September wird Ihnen mitgeteilt, ob Ihre Veranstaltung angenommen oder nicht angenommen wurde.
 
 
 ;Your session is documented in this issue:
-Your session is documented in this issue:
+Ihre Veranstaltung wird in diesem Bericht dokumentiert:
 
 
 ;We encourage you to follow the curation process. You can chat with Space Wranglers (the people who curate sessions for each MozFest space), ask questions and develop your session with a network of collaborators in the comments section of your issue.
-We encourage you to follow the curation process. You can chat with Space Wranglers (the people who curate sessions for each MozFest space), ask questions and develop your session with a network of collaborators in the comments section of your issue.
+Wir empfehlen Ihnen, den Verwaltungsprozess zu verfolgen. Sie können mit Space Wranglers (die die Veranstaltungen für jeden MozFest-Ort verwalten) chatten, Fragen stellen und Ihre Veranstaltung mit einem Netzwerk von Mitwirkenden im Kommentarbereich Ihres Berichts entwickeln.
 
 
 ;If you’re new to GitHub, this 45 seconds video will walk you through signing up for a free account.
-If you’re new to GitHub, this 45 seconds video will walk you through signing up for a free account.
+Wenn Sie bei GitHub neu sind, zeigt Ihnen dieses 45-sekündige Video, wie Sie sich für ein kostenloses Benutzerkonto registrieren.
 
 
 ;Questions? Please reach out to festival@mozilla.org
-Questions? Please reach out to festival@mozilla.org
+Fragen? Bitte melden Sie sich bei festival@mozilla.org
 
 
 ;Best,
-Best,
+Beste Grüße
 
 
 ;The MozFest Team
-The MozFest Team
+Das MozFest-Team
 
 
 ;PS - MozFest curation takes place in the open. This means some information, like your name and details about your proposed session, are visible in your GitHub ticket. If you would like this information removed for privacy reasons, please let us know at festival@mozilla.org
-PS - MozFest curation takes place in the open. This means some information, like your name and details about your proposed session, are visible in your GitHub ticket. If you would like this information removed for privacy reasons, please let us know at festival@mozilla.org
+PS: Die MozFest-Verwaltung findet öffentlich statt. Daher sind einige Daten wie Ihr Name und Details zu Ihrer Veranstaltung in Ihrem GitHub-Bericht einsehbar. Wenn diese Informationen aus Datenschutzgründen entfernt werden sollen, melden Sie sich bitte unter festival@mozilla.org
 
 
