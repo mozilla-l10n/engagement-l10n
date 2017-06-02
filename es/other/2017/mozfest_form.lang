@@ -1,4 +1,12 @@
-## NOTE: Strings for the MozFest 2017 Call for Proposals, will be used in a Google Form: https://docs.google.com/a/mozillafoundation.org/forms/d/e/1FAIpQLSfMc0q2OfsPX-XY3PnBlTFoTppsP0Z0IBDwN_6ZgEVcJCEKXg/viewform
+## NOTE: Strings for the MozFest 2017 Call for Proposals, will be used in a page similar to this one: https://mozillafestival.org/proposals
+
+
+;Call for Proposals
+Call for Proposals
+
+
+;Deadline for submissions is August 1, 2017
+Deadline for submissions is August 1, 2017
 
 
 ;Welcome to the MozFest 2017 Call for Proposals
@@ -57,8 +65,12 @@ Twitter handle
 GitHub handle
 
 
-;Additional facilitators for your session (separate multiple names with a comma: Lois Haibt, Feng-hsiung Hsu, Alan Turing)
-Additional facilitators for your session (separate multiple names with a comma: Lois Haibt, Feng-hsiung Hsu, Alan Turing)
+;Additional facilitators for your session
+Additional facilitators for your session
+
+
+;+ Add another
++ Add another
 
 
 ;Festival Spaces
@@ -211,5 +223,13 @@ Not an valid email.
 
 ;You have typed more words than allowed.
 You have typed more words than allowed.
+
+
+;(required)
+(required)
+
+
+;Submit
+Submit
 
 
