@@ -1,7 +1,7 @@
 ## NOTE: Reference bug 1369192; Deadline: 19 July, 2017
 ## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
 ## NOTE: Campaign: Desktop Snippets
-## NOTE: No character length limit, but try to keep it short.
+## NOTE: No character length limit, but try not to exceed English length.
 
 
 # Desktop Snippet
@@ -70,7 +70,6 @@ Small app + major freedom = Firefox Focus, your new favorite private browser. Se
 
 
 # Desktop Snippet
-# Try to find words that mean small but also rhyme.
 ;<a>Strong and mighty. Teeny tiny.</a>
 <a>Strong and mighty. Teeny tiny.</a>
 
@@ -91,6 +90,7 @@ Stay hidden from trackers. Save space on your phone. Get Firefox Focus, the supe
 
 
 # Desktop Snippet
+# Here 36 refers to the minutes one spends on the app.
 ;<a>Focus: 36 and counting. Ads: 0.</a>
 <a>Focus: 36 and counting. Ads: 0.</a>
 
