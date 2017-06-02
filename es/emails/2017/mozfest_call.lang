@@ -8,7 +8,7 @@ Your MozFest session proposal
 
 # Do not localize the [First Name] variable
 ;Hi [First Name],
-Hi [First Name],
+Hola, [First Name]
 
 
 ;Thank you for submitting a session proposal for MozFest!
@@ -36,11 +36,11 @@ Questions? Please reach out to festival@mozilla.org
 
 
 ;Best,
-Best,
+Saludos,
 
 
 ;The MozFest Team
-The MozFest Team
+El equipo de MozFest
 
 
 ;PS - MozFest curation takes place in the open. This means some information, like your name and details about your proposed session, are visible in your GitHub ticket. If you would like this information removed for privacy reasons, please let us know at festival@mozilla.org
