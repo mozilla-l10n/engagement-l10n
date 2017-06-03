@@ -3,24 +3,24 @@
 
 # Subject line
 ;Your MozFest session proposal
-Your MozFest session proposal
+Votre proposition de session au MozFest
 
 
 # Do not localize the [First Name] variable
 ;Hi [First Name],
-Hi [First Name],
+Bonjour [First Name],
 
 
 ;Thank you for submitting a session proposal for MozFest!
-Thank you for submitting a session proposal for MozFest!
+Merci beaucoup d’avoir proposé une session pour le MozFest&nbsp;!
 
 
 ;Our session curation process takes place on GitHub in the MozFest 2017 Program repo. Curation will begin in August when the Call for Proposals closes. In September, you’ll be notified whether your session has been accepted or not.
-Our session curation process takes place on GitHub in the MozFest 2017 Program repo. Curation will begin in August when the Call for Proposals closes. In September, you’ll be notified whether your session has been accepted or not.
+Notre processus de sélection se déroule sur GitHub dans le dépôt «&nbsp;MozFest 2017 Program&nbsp;». La sélection aura lieu en août lorsque l’appel à proposition sera terminé. Courant septembre, vous serez averti·e si votre session a été retenue ou non.
 
 
 ;Your session is documented in this issue:
-Your session is documented in this issue:
+Votre session est enregistrée dans ce ticket&nbsp;:
 
 
 ;We encourage you to follow the curation process. You can chat with Space Wranglers (the people who curate sessions for each MozFest space), ask questions and develop your session with a network of collaborators in the comments section of your issue.
@@ -28,22 +28,22 @@ We encourage you to follow the curation process. You can chat with Space Wrangle
 
 
 ;If you’re new to GitHub, this 45 seconds video will walk you through signing up for a free account.
-If you’re new to GitHub, this 45 seconds video will walk you through signing up for a free account.
+Si vous n’avez pas l’habitude d’utiliser GitHub, cette vidéo de 45 secondes vous montrera comment créer un compte gratuit.
 
 
 ;Questions? Please reach out to festival@mozilla.org
-Questions? Please reach out to festival@mozilla.org
+Vous avez des questions&nbsp;? Contactez-nous via festival@mozilla.org
 
 
 ;Best,
-Best,
+Salutations
 
 
 ;The MozFest Team
-The MozFest Team
+L’équipe organisatrice du MozFest
 
 
 ;PS - MozFest curation takes place in the open. This means some information, like your name and details about your proposed session, are visible in your GitHub ticket. If you would like this information removed for privacy reasons, please let us know at festival@mozilla.org
-PS - MozFest curation takes place in the open. This means some information, like your name and details about your proposed session, are visible in your GitHub ticket. If you would like this information removed for privacy reasons, please let us know at festival@mozilla.org
+P.S. — Le processus de sélection du MozFest se déroule de façon ouverte. Cela signifie que certaines informations telles que votre nom ou les détails de la session que vous proposez, sont visibles sur le ticket GitHub. Si vous désirez que ces informations soient supprimées pour des raisons de confidentialité, veuillez nous contacter via festival@mozilla.org
 
 
