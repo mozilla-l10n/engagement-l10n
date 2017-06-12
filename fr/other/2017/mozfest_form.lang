@@ -17,6 +17,10 @@ Bienvenue sur l’appel à propositions pour le MozFest 2017
 Les sessions du MozFest couvrent un large éventail de sujets, mais partagent deux qualités essentielles&nbsp;: elles sont interactives et inclusives.
 
 
+;We welcome workshops and exhibits, and strongly favor these over sessions that are exclusively lectures and slide presentations.
+We welcome workshops and exhibits, and strongly favor these over sessions that are exclusively lectures and slide presentations.
+
+
 ;Sessions may have anywhere from 3 to 25 participants, with a vast range of abilities and ages. Everyone at the festival is welcome to attend your session.
 Le nombre de participants à une session peut varier de 3 à 25, et l’âge et les aptitudes de chacun peuvent grandement varier. Tout le monde est le bienvenu à votre session.
 
@@ -231,5 +235,40 @@ Vous avez saisi plus de mots qu’autorisé.
 
 ;Submit
 Envoyer
+
+
+;Submitting…
+Submitting…
+
+
+;Something isn’t right. Please fix the errors indicated above.
+Something isn’t right. Please fix the errors indicated above.
+
+
+;Sorry! We are unable to submit your proposal at the moment. Please try again or <a href="mailto:festival@mozilla.org">contact us</a>.
+Sorry! We are unable to submit your proposal at the moment. Please try again or <a href="mailto:festival@mozilla.org">contact us</a>.
+
+
+;Not a valid Twitter handle
+Not a valid Twitter handle
+
+
+;Not a valid GitHub handle
+Not a valid GitHub handle
+
+
+# Thank you page, title
+;Success!
+Success!
+
+
+# Thank you page, body
+;Thank you for your session proposal
+Thank you for your session proposal
+
+
+# Thank you page, CTA
+;Want to submit another?
+Want to submit another?
 
 
