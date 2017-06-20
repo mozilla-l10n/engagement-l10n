@@ -101,7 +101,7 @@ Envoyez directement un lien pour Firefox Focus sur votre téléphone. Votre vie 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
 # Desktop snippet
 ;<a>Search boldly</a>
-<a>À vos marques, prêts, cherchez !</a>
+<a>À vos marques, prêts, cherchez&nbsp;!</a>
 
 
 # LIMIT: 180 characters (will be used on desktop). Please rephrase as needed to fit.
