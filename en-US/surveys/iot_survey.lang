@@ -1,3 +1,15 @@
+## NOTE: IoT survey: https://www.surveygizmo.com/s3/3643927/Mozilla-IOT-Survey-06-2017
+
+
+# survey-title
+;Mozilla IoT survey
+Mozilla IoT survey
+
+
+# p-1
+;How Connected Are You?
+How Connected Are You?
+
 
 # q-33
 ;I consider myself:
@@ -77,6 +89,13 @@ Smart Door Locks (ex. Door locks for your home you can open via Bluetooth)
 # q-34-o-10495
 ;Smart Lighting (ex. Connected lighting switches, dimmers, or bulbs)
 Smart Lighting (ex. Connected lighting switches, dimmers, or bulbs)
+
+
+# q-34-o-10496
+# q-36-o-10507
+# q-37-o-10512
+;Other (please specify)
+Other (please specify)
 
 
 # q-35
@@ -342,6 +361,21 @@ Country (optional)
 # q-43
 ;We handle your information as described in the <a href="https://www.mozilla.org/privacy/">Mozilla Privacy Policy</a>. Please know that Mozilla may publish your text comments anonymously in our follow-up survey report.
 We handle your information as described in the <a href="https://www.mozilla.org/privacy/">Mozilla Privacy Policy</a>. Please know that Mozilla may publish your text comments anonymously in our follow-up survey report.
+
+
+# p-2
+;Thank you for taking the survey!
+Thank you for taking the survey!
+
+
+# q-1
+;<span style="font-size:20px;">If you’d like for us to follow up with you with the results and other information on being connected and staying safe online, please <strong><a href="https://www.mozilla.org/newsletter/mozilla/?utm_source=surveygizmo&utm_medium=referral&utm_campaign=iotsurvey0717&utm_content=form">sign up here</a></strong>.</span><br />
+<span style="font-size:20px;">If you’d like for us to follow up with you with the results and other information on being connected and staying safe online, please <strong><a href="https://www.mozilla.org/newsletter/mozilla/?utm_source=surveygizmo&utm_medium=referral&utm_campaign=iotsurvey0717&utm_content=form">sign up here</a></strong>.</span><br />
+
+
+# drag_n_drop_instructions
+;Drag items from the left-hand list into the right-hand list to order them.
+Drag items from the left-hand list into the right-hand list to order them.
 
 
 # selectone
