@@ -95,7 +95,7 @@ Smart Lighting (ex. Connected lighting switches, dimmers, or bulbs)
 # q-36-o-10507
 # q-37-o-10512
 ;Other (please specify)
-Other (please specify)
+Outro (por favor, especifique)
 
 
 # q-35
@@ -310,7 +310,7 @@ IoT
 
 # q-41-o-10534
 ;Connected Devices
-Connected Devices
+Dispositivos conectados
 
 
 # q-41-o-10535
@@ -325,12 +325,12 @@ Blockchain
 
 # q-41-o-10537
 ;RFID
-RFID
+RFID {ok}
 
 
 # q-41-o-10538
 ;DDOS
-DDOS
+DDOS {ok}
 
 
 # q-41-o-10539
@@ -340,12 +340,12 @@ Zero Day
 
 # q-41-o-10540
 ;VPN
-VPN
+VPN {ok}
 
 
 # q-41-o-10541
 ;TOR
-TOR
+TOR {ok}
 
 
 # q-41-o-10542
@@ -355,7 +355,7 @@ I don’t know what any of these things are
 
 # q-42
 ;Country (optional)
-Country (optional)
+País (opcional)
 
 
 # q-43
@@ -365,7 +365,7 @@ We handle your information as described in the <a href="https://www.mozilla.org/
 
 # p-2
 ;Thank you for taking the survey!
-Thank you for taking the survey!
+Obrigado por participar da pesquisa!
 
 
 # q-1
@@ -375,12 +375,12 @@ Thank you for taking the survey!
 
 # drag_n_drop_instructions
 ;Drag items from the left-hand list into the right-hand list to order them.
-Drag items from the left-hand list into the right-hand list to order them.
+Arraste os itens da lista da esquerda para a lista da direita para ordená-los.
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Por favor, selecione --
 
 
 # next_button
@@ -395,22 +395,22 @@ Back
 
 # submit_button
 ;Submit
-Submit
+Enviar
 
 
 # required-hover
 ;This question is required.
-This question is required.
+Esta pergunta é obrigatória.
 
 
 # required
 ;This question is required
-This question is required
+Esta pergunta é obrigatória
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Esta pesquisa não aceita respostas adicionais neste momento. Obrigado!
 
 
 # block_by_message
@@ -420,17 +420,17 @@ You have already completed this survey.
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Selecione outro idioma
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Para continuar em outro idioma, por favor, clique em um dos links abaixo.
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-There was an error on your page. Please correct any required fields and submit again.
+Houve um erro em sua página. Por favor, corrija todos os campos obrigatórios e envie novamente.
 
 
 # first_error
