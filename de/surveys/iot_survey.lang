@@ -3,229 +3,229 @@
 
 # survey-title
 ;Mozilla IoT survey
-Mozilla IoT survey
+Mozilla IoT-Umfrage
 
 
 # p-1
 ;How Connected Are You?
-How Connected Are You?
+Wie vernetzt sind Sie?
 
 
 # q-33
 ;I consider myself:
-I consider myself:
+Aus meiner Sicht bin ich:
 
 
 # q-33-o-10482
 ;Ultra Nerd: I build my own computers, run my own servers, code my own apps. I’m basically Mr. Robot.
-Ultra Nerd: I build my own computers, run my own servers, code my own apps. I’m basically Mr. Robot.
+Ultra-Nerd: Ich baue meine Computer selbst, betreibe meine eigenen Server und programmiere meine eigenen Apps. Ich bin sozusagen Mr. Robot.
 
 
 # q-33-o-10483
 ;Technically Savvy: I know my way around a computer pretty well. When anyone in my family needs technical help, I’m the one they call.
-Technically Savvy: I know my way around a computer pretty well. When anyone in my family needs technical help, I’m the one they call.
+Technisch begabt: Ich kenne mich auf einem Computer ziemlich gut aus. Wenn jemand in meiner Familie technische Probleme hat, ruft man mich an.
 
 
 # q-33-o-10484
 ;Average User: I know enough to get by.
-Average User: I know enough to get by.
+Durchschnittsnutzer: Ich kenne mich genug aus, um zurechtzukommen.
 
 
 # q-33-o-10485
 ;Luddite: Technology scares me! I only use it when I have to.
-Luddite: Technology scares me! I only use it when I have to.
+Technikfeind: Technologie macht mir Angst! Ich nutze sie nur, wenn es nicht anders geht.
 
 
 # q-34
 ;Check all the internet connected devices you currently own:
-Check all the internet connected devices you currently own:
+Setzen Sie ein Häkchen für alle Geräte mit Internetverbindung, die Sie aktuell besitzen:
 
 
 # q-34-o-10486
 ;Wi-Fi Router
-Wi-Fi Router
+WLAN-Router
 
 
 # q-34-o-10487
 ;Laptop computer
-Laptop computer
+Laptop
 
 
 # q-34-o-10488
 ;Smartphone
-Smartphone
+Smartphone {ok}
 
 
 # q-34-o-10489
 ;Activity Tracker (ex: Fitbit or Apple Watch)
-Activity Tracker (ex: Fitbit or Apple Watch)
+Fitnesstracker (z.B. Fitbit oder Apple Watch)
 
 
 # q-34-o-10490
 ;Smarthome Hub (ex. Amazon Echo, Google Alexa)
-Smarthome Hub (ex. Amazon Echo, Google Alexa)
+Smarthome-Hub (z. B. Amazon Echo, Google Alexa)
 
 
 # q-34-o-10491
 ;Car that connects to the internet
-Car that connects to the internet
+Auto mit Internetverbindung
 
 
 # q-34-o-10492
 ;Smart Thermostat (ex: Nest)
-Smart Thermostat (ex: Nest)
+Intelligenter Thermostat (z.B. Nest)
 
 
 # q-34-o-10493
 ;Smart Appliance (ex. Coffeemaker, Refrigerator, Oven, Fridge)
-Smart Appliance (ex. Coffeemaker, Refrigerator, Oven, Fridge)
+Intelligente Elektrogeräte (z.B. Kaffeemaschine, Kühlschrank, Herd, Gefriertruhe)
 
 
 # q-34-o-10494
 ;Smart Door Locks (ex. Door locks for your home you can open via Bluetooth)
-Smart Door Locks (ex. Door locks for your home you can open via Bluetooth)
+Intelligente Türschlösser (z.B. Türschlösser für Ihr Zuhause, die Sie per Bluetooth öffnen können)
 
 
 # q-34-o-10495
 ;Smart Lighting (ex. Connected lighting switches, dimmers, or bulbs)
-Smart Lighting (ex. Connected lighting switches, dimmers, or bulbs)
+Intelligente Beleuchtung (z.B. vernetzte Lichtschalter, Dimmer oder Glühbirnen)
 
 
 # q-34-o-10496
 # q-36-o-10507
 # q-37-o-10512
 ;Other (please specify)
-Other (please specify)
+Andere (bitte angeben)
 
 
 # q-35
 ;Thinking about a future in which so much of your world is connected to the internet leaves you feeling:
-Thinking about a future in which so much of your world is connected to the internet leaves you feeling:
+Wenn Sie an eine Zukunft denken, in der so viel Ihrer Welt mit dem Internet verbunden ist, sind Sie:
 
 
 # q-35-o-10497
 ;Super excited! I can’t wait for everything to be connected. My life will be so much better.
-Super excited! I can’t wait for everything to be connected. My life will be so much better.
+Begeistert! Ich kann es kaum erwarten, dass alles vernetzt ist. Mein Leben wird viel besser sein.
 
 
 # q-35-o-10498
 ;Cautiously optimistic. I’m hopeful we’re building a better world by becoming more connected in everything we do.
-Cautiously optimistic. I’m hopeful we’re building a better world by becoming more connected in everything we do.
+Vorsichtig optimistisch. Hoffentlich entsteht durch die zunehmende Vernetzung eine bessere Welt.
 
 
 # q-35-o-10499
 ;On the fence. I’m not sure about all this. I think I’ll wait and see.
-On the fence. I’m not sure about all this. I think I’ll wait and see.
+Hin- und hergerissen. Ich bin mir da nicht so sicher. Ich warte ab, was kommt.
 
 
 # q-35-o-10500
 ;A little wary. All this being connected to the internet in every part of our lives makes me a little nervous. What’s going to happen to our privacy?
-A little wary. All this being connected to the internet in every part of our lives makes me a little nervous. What’s going to happen to our privacy?
+Etwas beunruhigt. Dass jeder Teil unseres Lebens mit dem Internet verbunden sein wird, macht mich nervös. Was wird aus unserer Privatsphäre?
 
 
 # q-35-o-10501
 ;Scared as hell. The future where everything is connected has me scared senseless. We’re all doomed!
-Scared as hell. The future where everything is connected has me scared senseless. We’re all doomed!
+Furchtbar verängstigt. Die Zukunft, in der alles vernetzt ist, raubt mir vor Sorge den Verstand. Wir sind alle verloren!
 
 
 # q-36
 ;What are you most excited about as we move toward a more digitally connected future?
-What are you most excited about as we move toward a more digitally connected future?
+Worauf freuen Sie sich am meistens in einer digital stärker vernetzten Zukunft?
 
 
 # q-36-o-10502
 ;How easy it will make life
-How easy it will make life
+Dass das Leben dadurch einfacher wird
 
 
 # q-36-o-10503
 ;How much fun it will be
-How much fun it will be
+Dass es viel Spaß machen wird
 
 
 # q-36-o-10504
 ;How it will make us all smarter and better educated
-How it will make us all smarter and better educated
+Dass wir dadurch intelligenter und gebildeter werden
 
 
 # q-36-o-10505
 ;How it will bring the world together
-How it will bring the world together
+Dass es die Welt zusammenbringt
 
 
 # q-36-o-10506
 ;None of the above
-None of the above
+Nichts davon
 
 
 # q-37
 ;What is your biggest fear as we move towards a more connected future?
-What is your biggest fear as we move towards a more connected future?
+Wovor sorgen Sie sich am meisten in einer digital stärker vernetzten Zukunft?
 
 
 # q-37-o-10508
 ;The loss of privacy
-The loss of privacy
+Dem Verlust der Privatsphäre
 
 
 # q-37-o-10509
 ;We’ll be less safe
-We’ll be less safe
+Zunehmende Unsicherheit
 
 
 # q-37-o-10510
 ;We’ll lose touch with one another
-We’ll lose touch with one another
+Wir verlieren die Verbindung zueinander
 
 
 # q-37-o-10511
 ;I have no fears about a more connected future
-I have no fears about a more connected future
+Ich fürchte mich nicht vor einer stärker vernetzten Zukunft
 
 
 # q-38
 ;Who is <em>most</em> responsible for protecting the online safety, privacy, and security of the connected apps and devices you own?
-Who is <em>most</em> responsible for protecting the online safety, privacy, and security of the connected apps and devices you own?
+Wer trägt die <em>meiste</em> Verantwortung dafür, dass Ihre Sicherheit und Privatsphäre in Ihren vernetzten Apps und Geräten erhalten bleibt?
 
 
 # q-38-o-10513
 ;The makers of those apps and devices should build safety and privacy into their products’ features.
-The makers of those apps and devices should build safety and privacy into their products’ features.
+Die Entwickler dieser Apps und Geräte sollten Sicherheit und Datenschutz in ihre Produkte integrieren.
 
 
 # q-38-o-10514
 ;It’s up to me to protect myself online
-It’s up to me to protect myself online
+Ich muss mich im Internet selbst schützen
 
 
 # q-38-o-10515
 ;The government should create policies and rules to ensure these devices are safe and secure
-The government should create policies and rules to ensure these devices are safe and secure
+Die Regierung sollte Gesetze und Regeln erlassen, um für die Sicherheit dieser Geräte zu sorgen
 
 
 # q-38-o-10516
 ;I honestly don’t know
-I honestly don’t know
+Ich weiß es wirklich nicht
 
 
 # q-39
 ;Who do you most trust to help you learn how protect your safety, security and privacy online?
-Who do you most trust to help you learn how protect your safety, security and privacy online?
+Auf wen verlassen Sie sich am meisten, wenn Sie sich über Ihre Sicherheit und Privatsphäre im Internet informieren?
 
 
 # q-39-o-10517
 ;The makers of connected devices and apps
-The makers of connected devices and apps
+Die Entwickler von vernetzten Geräten und Apps
 
 
 # q-39-o-10518
 ;My friends and family
-My friends and family
+Meine Freunde und Familie
 
 
 # q-39-o-10519
 ;Non-profit organizations like Mozilla and Consumer Reports
-Non-profit organizations like Mozilla and Consumer Reports
+Gemeinnützige Organisationen wie Mozilla und Consumer Reports
 
 
 # q-39-o-10520
@@ -235,122 +235,122 @@ Der Regierung
 
 # q-39-o-10521
 ;The media
-The media
+Die Medien
 
 
 # q-39-o-10522
 ;I just don’t know who to trust
-I just don’t know who to trust
+Ich weiß nicht, wem ich vertrauen soll
 
 
 # q-40
 ;You’re planning on buying your next cool new tech toy. Maybe it’s a smart TV or a new smartphone. Take a look at the items below and arrange them in order of importance as you make that purchase.
-You’re planning on buying your next cool new tech toy. Maybe it’s a smart TV or a new smartphone. Take a look at the items below and arrange them in order of importance as you make that purchase.
+Sie haben vor, ein tolles neues technisches Spielzeug zu kaufen. Vielleicht ein Smart TV oder ein neues Smartphone. Sehen Sie sich die folgenden Elemente an und ordnen Sie sie in der Reihenfolge, in der sie für Ihre Kaufentscheidung wichtig sind.
 
 
 # q-40-o-10523
 ;Price
-Price
+Preis
 
 
 # q-40-o-10524
 ;Features
-Features
+Funktionen
 
 
 # q-40-o-10525
 ;Safety
-Safety
+Schutz
 
 
 # q-40-o-10526
 ;Security
-Security
+Sicherheit
 
 
 # q-40-o-10527
 ;Privacy
-Privacy
+Datenschutz
 
 
 # q-40-o-10528
 ;Reliability
-Reliability
+Zuverlässigkeit
 
 
 # q-40-o-10529
 ;User Reviews
-User Reviews
+Benutzerbewertungen
 
 
 # q-40-o-10530
 ;Expert Recommendation
-Expert Recommendation
+Expertenempfehlungen
 
 
 # q-40-o-10531
 ;Friend or Family Recommendation
-Friend or Family Recommendation
+Empfehlungen von Freunden oder Verwandten
 
 
 # q-40-o-10532
 ;Convenience
-Convenience
+Komfort
 
 
 # q-41
 ;Check all the terms below that you could explain to a friend:
-Check all the terms below that you could explain to a friend:
+Wählen Sie alle folgenden Begriffe aus, die Sie einem Freund erklären könnten:
 
 
 # q-41-o-10533
 ;IoT
-IoT
+IoT {ok}
 
 
 # q-41-o-10534
 ;Connected Devices
-Connected Devices
+Verbundene Geräte
 
 
 # q-41-o-10535
 ;Botnet
-Botnet
+Botnetz
 
 
 # q-41-o-10536
 ;Blockchain
-Blockchain
+Blockchain {ok}
 
 
 # q-41-o-10537
 ;RFID
-RFID
+RFID {ok}
 
 
 # q-41-o-10538
 ;DDOS
-DDOS
+DDOS {ok}
 
 
 # q-41-o-10539
 ;Zero Day
-Zero Day
+Zero Day {ok}
 
 
 # q-41-o-10540
 ;VPN
-VPN
+VPN {ok}
 
 
 # q-41-o-10541
 ;TOR
-TOR
+TOR {ok}
 
 
 # q-41-o-10542
 ;I don’t know what any of these things are
-I don’t know what any of these things are
+Ich kenne nichts von alledem
 
 
 # q-42
@@ -360,7 +360,7 @@ Land (freiwillig)
 
 # q-43
 ;We handle your information as described in the <a href="https://www.mozilla.org/privacy/">Mozilla Privacy Policy</a>. Please know that Mozilla may publish your text comments anonymously in our follow-up survey report.
-We handle your information as described in the <a href="https://www.mozilla.org/privacy/">Mozilla Privacy Policy</a>. Please know that Mozilla may publish your text comments anonymously in our follow-up survey report.
+Wir behandeln Ihre Daten wie in der <a href="https://www.mozilla.org/privacy/">Mozilla-Datenschutzrichtlinie</a> beschrieben. Bitte bedenken Sie, dass Mozilla Ihre Textkommentare in unserem Ergebnisbericht anonym veröffentlichen darf.
 
 
 # p-2
