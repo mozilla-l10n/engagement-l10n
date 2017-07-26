@@ -3,7 +3,7 @@
 
 # survey-title
 ;Mozilla IoT survey
-Mozilla IoT survey
+Pesquisa Mozilla IoT
 
 
 # p-1
@@ -73,7 +73,7 @@ Carro que se conecta à internet
 
 # q-34-o-10492
 ;Smart Thermostat (ex: Nest)
-Smart Thermostat (ex: Nest)
+Termostato Inteligente (ex: Nest)
 
 
 # q-34-o-10493
@@ -305,7 +305,7 @@ Check all the terms below that you could explain to a friend:
 
 # q-41-o-10533
 ;IoT
-IoT
+IoT {ok}
 
 
 # q-41-o-10534
@@ -315,12 +315,12 @@ Dispositivos conectados
 
 # q-41-o-10535
 ;Botnet
-Botnet
+Botnet {ok}
 
 
 # q-41-o-10536
 ;Blockchain
-Blockchain
+Blockchain {ok}
 
 
 # q-41-o-10537
@@ -335,7 +335,7 @@ DDOS {ok}
 
 # q-41-o-10539
 ;Zero Day
-Zero Day
+Zero Day {ok}
 
 
 # q-41-o-10540
@@ -350,7 +350,7 @@ TOR {ok}
 
 # q-41-o-10542
 ;I don’t know what any of these things are
-I don’t know what any of these things are
+Eu não conheço nenhuma dessas coisas
 
 
 # q-42
@@ -415,7 +415,7 @@ Esta pesquisa não aceita respostas adicionais neste momento. Obrigado!
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Você já respondeu essa pesquisa.
 
 
 # language_bar_select_text
@@ -435,4 +435,4 @@ Houve um erro em sua página. Por favor, corrija todos os campos obrigatórios e
 
 # first_error
 ;Go to the first error
-Go to the first error
+Vá para o primeiro erro
