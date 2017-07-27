@@ -48,12 +48,12 @@ Wi-Fi Router
 
 # q-34-o-10487
 ;Laptop computer
-Laptop computer
+Ordinateur portable
 
 
 # q-34-o-10488
 ;Smartphone
-Smartphone
+Smartphone {ok}
 
 
 # q-34-o-10489
@@ -68,7 +68,7 @@ Smarthome Hub (ex. Amazon Echo, Google Alexa)
 
 # q-34-o-10491
 ;Car that connects to the internet
-Car that connects to the internet
+Voiture qui se connecte à Internet
 
 
 # q-34-o-10492
@@ -95,7 +95,7 @@ Smart Lighting (ex. Connected lighting switches, dimmers, or bulbs)
 # q-36-o-10507
 # q-37-o-10512
 ;Other (please specify)
-Other (please specify)
+Autre (veuillez préciser)
 
 
 # q-35
@@ -155,7 +155,7 @@ How it will bring the world together
 
 # q-36-o-10506
 ;None of the above
-None of the above
+Aucune des réponses ci-dessus
 
 
 # q-37
@@ -165,12 +165,12 @@ What is your biggest fear as we move towards a more connected future?
 
 # q-37-o-10508
 ;The loss of privacy
-The loss of privacy
+La perte de vie privée
 
 
 # q-37-o-10509
 ;We’ll be less safe
-We’ll be less safe
+Nous serons moins protégés
 
 
 # q-37-o-10510
@@ -195,7 +195,7 @@ The makers of those apps and devices should build safety and privacy into their 
 
 # q-38-o-10514
 ;It’s up to me to protect myself online
-It’s up to me to protect myself online
+C'est à moi de me protéger en ligne
 
 
 # q-38-o-10515
@@ -205,7 +205,7 @@ The government should create policies and rules to ensure these devices are safe
 
 # q-38-o-10516
 ;I honestly don’t know
-I honestly don’t know
+Honnêtement, je ne sais pas
 
 
 # q-39
@@ -235,12 +235,12 @@ Le gouvernement
 
 # q-39-o-10521
 ;The media
-The media
+Les médias
 
 
 # q-39-o-10522
 ;I just don’t know who to trust
-I just don’t know who to trust
+Je ne sais pas à qui faire confiance
 
 
 # q-40
@@ -250,37 +250,37 @@ You’re planning on buying your next cool new tech toy. Maybe it’s a smart TV
 
 # q-40-o-10523
 ;Price
-Price
+Prix
 
 
 # q-40-o-10524
 ;Features
-Features
+Fonctionnalités
 
 
 # q-40-o-10525
 ;Safety
-Safety
+Protection
 
 
 # q-40-o-10526
 ;Security
-Security
+Sécurité
 
 
 # q-40-o-10527
 ;Privacy
-Privacy
+Respect de la vie privée
 
 
 # q-40-o-10528
 ;Reliability
-Reliability
+Fiabilité
 
 
 # q-40-o-10529
 ;User Reviews
-User Reviews
+Avis des utilisateurs
 
 
 # q-40-o-10530
@@ -310,7 +310,7 @@ IoT
 
 # q-41-o-10534
 ;Connected Devices
-Connected Devices
+Objets connectés
 
 
 # q-41-o-10535
@@ -320,17 +320,17 @@ Botnet
 
 # q-41-o-10536
 ;Blockchain
-Blockchain
+Blockchain {ok}
 
 
 # q-41-o-10537
 ;RFID
-RFID
+RFID {ok}
 
 
 # q-41-o-10538
 ;DDOS
-DDOS
+DDOS {ok}
 
 
 # q-41-o-10539
@@ -340,12 +340,12 @@ Zero Day
 
 # q-41-o-10540
 ;VPN
-VPN
+VPN {ok}
 
 
 # q-41-o-10541
 ;TOR
-TOR
+TOR {ok}
 
 
 # q-41-o-10542
@@ -370,12 +370,12 @@ Merci d’avoir répondu à notre sondage !
 
 # q-1
 ;<span style="font-size:20px;">If you’d like for us to follow up with you with the results and other information on being connected and staying safe online, please <strong><a href="https://www.mozilla.org/newsletter/mozilla/?utm_source=surveygizmo&utm_medium=referral&utm_campaign=iotsurvey0717&utm_content=form">sign up here</a></strong>.</span><br />
-<span style="font-size:20px;">If you’d like for us to follow up with you with the results and other information on being connected and staying safe online, please <strong><a href="https://www.mozilla.org/newsletter/mozilla/?utm_source=surveygizmo&utm_medium=referral&utm_campaign=iotsurvey0717&utm_content=form">sign up here</a></strong>.</span><br />
+<span style="font-size:20px;">Si vous voulez que nous vous envoyons les résultats et d’autres informations pour rester en sécurité en ligne, <strong><a href="https://www.mozilla.org/newsletter/mozilla/?utm_source=surveygizmo&utm_medium=referral&utm_campaign=iotsurvey0717&utm_content=form">abonnez-vous ici</a></strong>.</span><br />
 
 
 # drag_n_drop_instructions
 ;Drag items from the left-hand list into the right-hand list to order them.
-Drag items from the left-hand list into the right-hand list to order them.
+Déposez les éléments de la liste à gauche dans la liste à droite pour les ordonner.
 
 
 # selectone
