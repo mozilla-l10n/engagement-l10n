@@ -3,7 +3,7 @@
 
 # survey-title
 ;Mozilla IoT survey
-Mozilla IoT survey
+Questionnaire Mozilla sur l’Internet des objets
 
 
 # p-1
@@ -18,12 +18,12 @@ Je me considère :
 
 # q-33-o-10482
 ;Ultra Nerd: I build my own computers, run my own servers, code my own apps. I’m basically Mr. Robot.
-Ultra Nerd: I build my own computers, run my own servers, code my own apps. I’m basically Mr. Robot.
+Super geek : j’assemble mes ordinateurs, j’administre mes propres serveurs, je développe mes propres applications. Je suis plus ou moins Mr. Robot.
 
 
 # q-33-o-10483
 ;Technically Savvy: I know my way around a computer pretty well. When anyone in my family needs technical help, I’m the one they call.
-Technically Savvy: I know my way around a computer pretty well. When anyone in my family needs technical help, I’m the one they call.
+Techniquement compétent·e : je connais plutôt bien les ordinateurs. Quand un membre de ma famille a besoin d’aide technique, c’est moi qu’ils appellent.
 
 
 # q-33-o-10484
@@ -225,7 +225,7 @@ My friends and family
 
 # q-39-o-10519
 ;Non-profit organizations like Mozilla and Consumer Reports
-Non-profit organizations like Mozilla and Consumer Reports
+Des organisations à but non lucratif comme Mozilla ou l’UFC-Que Choisir
 
 
 # q-39-o-10520
@@ -280,7 +280,7 @@ Fiabilité
 
 # q-40-o-10529
 ;User Reviews
-Avis des utilisateurs
+Avis d’utilisateurs
 
 
 # q-40-o-10530
@@ -290,7 +290,7 @@ Recommandations d’experts
 
 # q-40-o-10531
 ;Friend or Family Recommendation
-Friend or Family Recommendation
+Recommandations de proches
 
 
 # q-40-o-10532
@@ -350,7 +350,7 @@ TOR {ok}
 
 # q-41-o-10542
 ;I don’t know what any of these things are
-I don’t know what any of these things are
+Je ne connais aucune de ces choses
 
 
 # q-42
