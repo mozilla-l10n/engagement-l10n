@@ -365,7 +365,7 @@ Nous traitons vos données tel que décrit dans la <a href="https://www.mozilla.
 
 # p-2
 ;Thank you for taking the survey!
-Merci d’avoir répondu à notre sondage !
+Merci d’avoir répondu à notre questionnaire !
 
 
 # q-1
@@ -410,12 +410,12 @@ Cette question est obligatoire
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-Ce sondage n’accepte plus de nouvelles réponses. Merci à vous.
+Ce questionnaire n’accepte plus de nouvelles réponses. Merci à vous.
 
 
 # block_by_message
 ;You have already completed this survey.
-Vous avez déjà répondu à ce sondage.
+Vous avez déjà répondu à ce questionnaire.
 
 
 # language_bar_select_text
