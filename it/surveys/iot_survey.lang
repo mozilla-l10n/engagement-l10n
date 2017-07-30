@@ -8,17 +8,17 @@ Mozilla IoT survey
 
 # p-1
 ;How Connected Are You?
-How Connected Are You?
+Quanto sei connesso?
 
 
 # q-33
 ;I consider myself:
-I consider myself:
+Come ti definiresti?
 
 
 # q-33-o-10482
 ;Ultra Nerd: I build my own computers, run my own servers, code my own apps. I’m basically Mr. Robot.
-Ultra Nerd: I build my own computers, run my own servers, code my own apps. I’m basically Mr. Robot.
+Un ultra-nerd: assemblo da solo i miei computer, utilizzo server personali e sviluppo app per uso privato. Chiamatemi Mr. Robot.
 
 
 # q-33-o-10483
@@ -38,69 +38,69 @@ Luddite: Technology scares me! I only use it when I have to.
 
 # q-34
 ;Check all the internet connected devices you currently own:
-Check all the internet connected devices you currently own:
+Fai una lista di tutti i dispositivi connessi a Internet che possiedi:
 
 
 # q-34-o-10486
 ;Wi-Fi Router
-Wi-Fi Router
+Router
 
 
 # q-34-o-10487
 ;Laptop computer
-Laptop computer
+Computer portatile
 
 
 # q-34-o-10488
 ;Smartphone
-Smartphone
+Smartphone {ok}
 
 
 # q-34-o-10489
 ;Activity Tracker (ex: Fitbit or Apple Watch)
-Activity Tracker (ex: Fitbit or Apple Watch)
+Activity Tracker (Fitbit, Apple Watch ecc.)
 
 
 # q-34-o-10490
 ;Smarthome Hub (ex. Amazon Echo, Google Alexa)
-Smarthome Hub (ex. Amazon Echo, Google Alexa)
+Impianti Smarthome (Amazon Echo, Goofle Alexa ecc.)
 
 
 # q-34-o-10491
 ;Car that connects to the internet
-Car that connects to the internet
+Automobile con connessione internet
 
 
 # q-34-o-10492
 ;Smart Thermostat (ex: Nest)
-Smart Thermostat (ex: Nest)
+Termostato smart (Nest ecc.)
 
 
 # q-34-o-10493
 ;Smart Appliance (ex. Coffeemaker, Refrigerator, Oven, Fridge)
-Smart Appliance (ex. Coffeemaker, Refrigerator, Oven, Fridge)
+Elettrodomestici smart (macchina per il caffè, frigorifero, forno, congelatore ecc.)
 
 
 # q-34-o-10494
 ;Smart Door Locks (ex. Door locks for your home you can open via Bluetooth)
-Smart Door Locks (ex. Door locks for your home you can open via Bluetooth)
+Serrature smart (es. serrature di casa che si aprono via Bluetooth)
 
 
 # q-34-o-10495
 ;Smart Lighting (ex. Connected lighting switches, dimmers, or bulbs)
-Smart Lighting (ex. Connected lighting switches, dimmers, or bulbs)
+Illuminazione smart (interruttori della luce, lampadine ecc. regolabili attraverso connessione a Internet)
 
 
 # q-34-o-10496
 # q-36-o-10507
 # q-37-o-10512
 ;Other (please specify)
-Other (please specify)
+Altro (specifica)
 
 
 # q-35
 ;Thinking about a future in which so much of your world is connected to the internet leaves you feeling:
-Thinking about a future in which so much of your world is connected to the internet leaves you feeling:
+Il pensiero di un futuro dove così tanti aspetti della tua vita sono legati a Internet ti fa sentire:
 
 
 # q-35-o-10497
