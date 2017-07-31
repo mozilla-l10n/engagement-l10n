@@ -3,7 +3,7 @@
 
 # survey-title
 ;Mozilla IoT survey
-Mozilla IoT survey
+Sondaggio sull’Internet delle cose realizzato da Mozilla
 
 
 # p-1
@@ -28,12 +28,12 @@ Technically Savvy: I know my way around a computer pretty well. When anyone in m
 
 # q-33-o-10484
 ;Average User: I know enough to get by.
-Average User: I know enough to get by.
+Utente medio: ne so abbastanza per sopravvivere in questo mondo digitale.
 
 
 # q-33-o-10485
 ;Luddite: Technology scares me! I only use it when I have to.
-Luddite: Technology scares me! I only use it when I have to.
+Analogico: la tecnologia mi mette a disagio, la utilizzo esclusivamente quando non ho altra scelta.
 
 
 # q-34
@@ -105,22 +105,22 @@ Il pensiero di un futuro dove così tanti aspetti della tua vita sono legati a I
 
 # q-35-o-10497
 ;Super excited! I can’t wait for everything to be connected. My life will be so much better.
-Super excited! I can’t wait for everything to be connected. My life will be so much better.
+Entusiasta! Non vedo l’ora che tutto sia connesso, renderà la mia vita molto più semplice.
 
 
 # q-35-o-10498
 ;Cautiously optimistic. I’m hopeful we’re building a better world by becoming more connected in everything we do.
-Cautiously optimistic. I’m hopeful we’re building a better world by becoming more connected in everything we do.
+Moderatamente ottimista. Spero che essere sempre più connessi nella nostra vita quotidiana ci aiuti a costruire un mondo migliore.
 
 
 # q-35-o-10499
 ;On the fence. I’m not sure about all this. I think I’ll wait and see.
-On the fence. I’m not sure about all this. I think I’ll wait and see.
+Ansioso. Non sono pienamente convinto di questo sviluppo tecnologico. Suppongo che aspetterò e vedrò cosa succederà.
 
 
 # q-35-o-10500
 ;A little wary. All this being connected to the internet in every part of our lives makes me a little nervous. What’s going to happen to our privacy?
-A little wary. All this being connected to the internet in every part of our lives makes me a little nervous. What’s going to happen to our privacy?
+Un po’ preoccupato. Tutta questa faccenda per cui ogni momento della nostra vita dipenderà da Internet non è molto tranquillizzante. Che cosa ne sarà della privacy?
 
 
 # q-35-o-10501
@@ -135,17 +135,17 @@ What are you most excited about as we move toward a more digitally connected fut
 
 # q-36-o-10502
 ;How easy it will make life
-How easy it will make life
+Tutto sarà molto più semplice.
 
 
 # q-36-o-10503
 ;How much fun it will be
-How much fun it will be
+Tutto sarà molto più divertente.
 
 
 # q-36-o-10504
 ;How it will make us all smarter and better educated
-How it will make us all smarter and better educated
+L'apprendimento sarà più veloce e tutti saremo più intelligenti.
 
 
 # q-36-o-10505
@@ -215,7 +215,7 @@ Who do you most trust to help you learn how protect your safety, security and pr
 
 # q-39-o-10517
 ;The makers of connected devices and apps
-The makers of connected devices and apps
+Produttori di dispositivi connessi e app
 
 
 # q-39-o-10518
@@ -230,17 +230,17 @@ Non-profit organizations like Mozilla and Consumer Reports
 
 # q-39-o-10520
 ;The government
-The government
+Stato
 
 
 # q-39-o-10521
 ;The media
-The media
+Media
 
 
 # q-39-o-10522
 ;I just don’t know who to trust
-I just don’t know who to trust
+Non so su chi poter fare realmente affidamento
 
 
 # q-40
@@ -255,7 +255,7 @@ Prezzo
 
 # q-40-o-10524
 ;Features
-Features
+Caratteristiche
 
 
 # q-40-o-10525
@@ -285,7 +285,7 @@ Recensioni degli altri acquirenti
 
 # q-40-o-10530
 ;Expert Recommendation
-Expert Recommendation
+Consigli degli esperti
 
 
 # q-40-o-10531
@@ -295,7 +295,7 @@ Raccomandazioni di amici o familiari
 
 # q-40-o-10532
 ;Convenience
-Convenience
+Praticità
 
 
 # q-41
@@ -350,7 +350,7 @@ TOR {ok}
 
 # q-41-o-10542
 ;I don’t know what any of these things are
-I don’t know what any of these things are
+Non conosco nessuno di questi affari
 
 
 # q-42
@@ -370,12 +370,12 @@ Grazie per aver completato il sondaggio!
 
 # q-1
 ;<span style="font-size:20px;">If you’d like for us to follow up with you with the results and other information on being connected and staying safe online, please <strong><a href="https://www.mozilla.org/newsletter/mozilla/?utm_source=surveygizmo&utm_medium=referral&utm_campaign=iotsurvey0717&utm_content=form">sign up here</a></strong>.</span><br />
-<span style="font-size:20px;">If you’d like for us to follow up with you with the results and other information on being connected and staying safe online, please <strong><a href="https://www.mozilla.org/newsletter/mozilla/?utm_source=surveygizmo&utm_medium=referral&utm_campaign=iotsurvey0717&utm_content=form">sign up here</a></strong>.</span><br />
+<span style="font-size:20px;">Desideri rimanere aggiornato sui risultati del sondaggio o altre informazioni riguardanti la sicurezza online e lo sviluppo dei dispositivi connessi?<strong><a href="https://www.mozilla.org/newsletter/mozilla/?utm_source=surveygizmo&utm_medium=referral&utm_campaign=iotsurvey0717&utm_content=form">Iscriviti alla newsletter</a>
 
 
 # drag_n_drop_instructions
 ;Drag items from the left-hand list into the right-hand list to order them.
-Drag items from the left-hand list into the right-hand list to order them.
+Per riordinare le voci trascinale dalla colonna di sinistra a quella di destra.
 
 
 # selectone
