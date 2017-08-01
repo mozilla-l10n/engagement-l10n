@@ -3,12 +3,12 @@
 
 # survey-title
 ;Mozilla IoT survey
-Mozilla IoT survey
+Encuesta Mozilla IoT
 
 
 # p-1
 ;How Connected Are You?
-How Connected Are You?
+Y tú, ¿estás conectado?
 
 
 # q-33
@@ -95,7 +95,7 @@ Smart Lighting (ex. Connected lighting switches, dimmers, or bulbs)
 # q-36-o-10507
 # q-37-o-10512
 ;Other (please specify)
-Other (please specify)
+Otro (especificar por favor)
 
 
 # q-35
@@ -155,7 +155,7 @@ How it will bring the world together
 
 # q-36-o-10506
 ;None of the above
-None of the above
+Ninguna de las anteriores
 
 
 # q-37
@@ -165,22 +165,22 @@ What is your biggest fear as we move towards a more connected future?
 
 # q-37-o-10508
 ;The loss of privacy
-The loss of privacy
+La pérdida de privacidad
 
 
 # q-37-o-10509
 ;We’ll be less safe
-We’ll be less safe
+Estaremos menos seguros
 
 
 # q-37-o-10510
 ;We’ll lose touch with one another
-We’ll lose touch with one another
+Perderemos contacto los unos con los otros
 
 
 # q-37-o-10511
 ;I have no fears about a more connected future
-I have no fears about a more connected future
+No me da miedo un futuro más conectado
 
 
 # q-38
@@ -250,62 +250,62 @@ You’re planning on buying your next cool new tech toy. Maybe it’s a smart TV
 
 # q-40-o-10523
 ;Price
-Price
+Precio
 
 
 # q-40-o-10524
 ;Features
-Features
+Características
 
 
 # q-40-o-10525
 ;Safety
-Safety
+Seguridad
 
 
 # q-40-o-10526
 ;Security
-Security
+Seguridad
 
 
 # q-40-o-10527
 ;Privacy
-Privacy
+Privacidad
 
 
 # q-40-o-10528
 ;Reliability
-Reliability
+Credibilidad
 
 
 # q-40-o-10529
 ;User Reviews
-User Reviews
+Valoraciones de usuarios
 
 
 # q-40-o-10530
 ;Expert Recommendation
-Expert Recommendation
+Recomendaciones de expertos
 
 
 # q-40-o-10531
 ;Friend or Family Recommendation
-Friend or Family Recommendation
+Recomendaciones de amigos o familiares
 
 
 # q-40-o-10532
 ;Convenience
-Convenience
+Conveniencia
 
 
 # q-41
 ;Check all the terms below that you could explain to a friend:
-Check all the terms below that you could explain to a friend:
+Marca los términos que podrías explicarle a un amigo:
 
 
 # q-41-o-10533
 ;IoT
-IoT
+IoT {ok}
 
 
 # q-41-o-10534
@@ -355,7 +355,7 @@ I don’t know what any of these things are
 
 # q-42
 ;Country (optional)
-Country (optional)
+País (opcional)
 
 
 # q-43
@@ -365,7 +365,7 @@ We handle your information as described in the <a href="https://www.mozilla.org/
 
 # p-2
 ;Thank you for taking the survey!
-Thank you for taking the survey!
+¡Gracias por realizar la encuesta!
 
 
 # q-1
