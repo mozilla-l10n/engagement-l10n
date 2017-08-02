@@ -63,7 +63,7 @@ Rastreador de actividad (Fitbit o Apple Watch)
 
 # q-34-o-10490
 ;Smarthome Hub (ex. Amazon Echo, Google Alexa)
-Smarthome Hub (ex. Amazon Echo, Google Alexa)
+Smarthome Hub (p. ej. Amazon Echo, Google Alexa)
 
 
 # q-34-o-10491
@@ -73,12 +73,12 @@ Coche que se conecta a Internet
 
 # q-34-o-10492
 ;Smart Thermostat (ex: Nest)
-Smart Thermostat (ex: Nest)
+Termostato inteligente (p. ej. Nest)
 
 
 # q-34-o-10493
 ;Smart Appliance (ex. Coffeemaker, Refrigerator, Oven, Fridge)
-Smart Appliance (ex. Coffeemaker, Refrigerator, Oven, Fridge)
+Aparato inteligente (p. ej. cafetera, frigorífico, horno)
 
 
 # q-34-o-10494
@@ -230,12 +230,12 @@ Non-profit organizations like Mozilla and Consumer Reports
 
 # q-39-o-10520
 ;The government
-The government
+El gobierno
 
 
 # q-39-o-10521
 ;The media
-The media
+Los medios de comunicación
 
 
 # q-39-o-10522
@@ -310,27 +310,27 @@ IoT {ok}
 
 # q-41-o-10534
 ;Connected Devices
-Connected Devices
+Dispositivos conectados
 
 
 # q-41-o-10535
 ;Botnet
-Botnet
+Botnet {ok}
 
 
 # q-41-o-10536
 ;Blockchain
-Blockchain
+Blockchain {ok}
 
 
 # q-41-o-10537
 ;RFID
-RFID
+RFID {ok}
 
 
 # q-41-o-10538
 ;DDOS
-DDOS
+DDOS {ok}
 
 
 # q-41-o-10539
@@ -340,17 +340,17 @@ Zero Day
 
 # q-41-o-10540
 ;VPN
-VPN
+VPN {ok}
 
 
 # q-41-o-10541
 ;TOR
-TOR
+TOR {ok}
 
 
 # q-41-o-10542
 ;I don’t know what any of these things are
-I don’t know what any of these things are
+No conozco ninguna de estas cosas
 
 
 # q-42
