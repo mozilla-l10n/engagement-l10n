@@ -1,0 +1,24 @@
+## NOTE: Reference bug 1392702. Deadline: 4 Sept, 2017.
+## NOTE: Guidelines on localizing snippets: https://goo.gl/nEhdt4. The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+## NOTE: No character length limit, but try not to exceed English length.
+## NOTE: For locale id only.
+
+
+# Email and mobile download request and notification
+;Learn more on our <a>privacy policy</a>
+Learn more on our <a>privacy policy</a>
+
+
+# Email and mobile download request
+;Enter your email
+Enter your email
+
+
+# Email and mobile download notification
+;There was an error processing your request
+There was an error processing your request
+
+
+# Email and mobile download request
+;Send
+Send
