@@ -4,13 +4,15 @@
 
 
 # Snippet for Firefox Screenshots
+# Screenshots remains in English
 # Link: https://screenshots.firefox.com/#hello
 # "Complex screenshot hack" refers to traditional and more tedious method of taking and sharing screenshots.
-;Say goodbye to you complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
-Say goodbye to you complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
+;Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
+Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
 
 
 # Snippet for Firefox Screenshots
+# Screenshots remains in English
 # Link: https://screenshots.firefox.com/#hello
 # "Cool" in this context means the quality of being fashionably attractive or impressive. This message intends to convey that Firefox Screenshots is an easy way to save and share interesting images online.
 ;Screenshots is a better way to screenshot. Save and share cool stuff without leaving Firefox. <a>Learn More.</a>
@@ -19,9 +21,9 @@ Screenshots is a better way to screenshot. Save and share cool stuff without lea
 
 # Snippet for Firefox 55
 # Link:https://support.mozilla.org/kb/performance-settings
-# This message highlights that users are in control and they have the ability to customize Firefox.
-;1 processor, 4 processors, 7 processors? In Firefox 55, <a>the choice is yours.</a>
-1 processor, 4 processors, 7 processors? In Firefox 55, <a>the choice is yours.</a>
+# "Fine tune" means to make small adjustment to optimize performance.
+;Fine tune your browser with the new performance panel. <a>Learn more.</a>
+Fine tune your browser with the new performance panel. <a>Learn more.</a>
 
 
 # Snippet for Firefox on mobile
@@ -81,7 +83,7 @@ Power up <a>Firefox with Add-ons.</a> Choose from dozens of customizations for p
 
 
 # Snippet for profiling age test
-# Linke: https://www.mozilla.org/internet-health/
+# Link: https://www.mozilla.org/internet-health/
 # This message targets new users. "Webby journey" means all the browsing on the internet.
 # "Not all heroes wear capes" suggests heroes don't always look like those featured in movies and comic books. Ordinary people can be impactful by using a product made by Mozilla.
 ;Hey, nice work choosing Firefox for your webby journeys. Not all heroes wear capes and by browsing with us, you're helping <a>build a better internet.</a>
@@ -90,21 +92,21 @@ Hey, nice work choosing Firefox for your webby journeys. Not all heroes wear cap
 
 # Snippet for desktop
 # Link: https://support.mozilla.org/kb/private-browsing-use-firefox-without-history
-# This message lets users know how to enable Private browsing in Firefox so they can browse freely without fear of being tracked by third parties.
+# This message lets users know how to enable private browsing in Firefox so they can browse freely without fear of being tracked by third parties.
 ;<a>Open a private window</a> in Firefox to browse freely and keep away the trackers.
 <a>Open a private window</a> in Firefox to browse freely and keep away the trackers.
 
 
 # Snippet for Firefox Accounts
 # Link: https://www.mozilla.org/firefox/accounts/
-# This message is for a user who doesn't have a Firefox account yet, and highlights the convenience of having an account will bring.
+# This snippet targets new Firefox Accounts users on creating an account.
 ;<a>Browse boldly.</a> Sign up for a Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
 <a>Browse boldly.</a> Sign up for a Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
 
 
 # Snippet for Firefox Accounts
 # Link: https://www.mozilla.org/firefox/accounts/
-# This message is for people already have a Firefox account.  It purposely sounds adventurous but also highlights the convenience of having an account.
+# This snippet targets existing Firefox Accounts users. It purposely sounds adventurous but also highlights the convenience of having an account.
 ;<a>Browse boldly.</a> Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
 <a>Browse boldly.</a> Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
 
