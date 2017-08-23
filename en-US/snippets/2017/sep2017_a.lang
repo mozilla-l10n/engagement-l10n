@@ -4,7 +4,7 @@
 
 
 # Snippet for Firefox Screenshots
-# Screenshots remains in English
+# Screenshots (uppercase) is the name of the feature and must be kept in English.
 # Link: https://screenshots.firefox.com/#hello
 # "Complex screenshot hack" refers to traditional and more tedious method of taking and sharing screenshots.
 ;Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
@@ -12,7 +12,7 @@ Say goodbye to your complex screenshot hack. Screenshots is a new way to save an
 
 
 # Snippet for Firefox Screenshots
-# Screenshots remains in English
+# Screenshots (uppercase) is the name of the feature and must be kept in English.
 # Link: https://screenshots.firefox.com/#hello
 # "Cool" in this context means the quality of being fashionably attractive or impressive. This message intends to convey that Firefox Screenshots is an easy way to save and share interesting images online.
 ;Screenshots is a better way to screenshot. Save and share cool stuff without leaving Firefox. <a>Learn More.</a>
