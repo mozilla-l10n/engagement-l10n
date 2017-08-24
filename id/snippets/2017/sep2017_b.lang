@@ -16,12 +16,12 @@ Masukkan surel Anda
 
 # Email and mobile download notification
 ;There was an error processing your request
-There was an error processing your request
+Terjadi galat saat memproses permintaan Anda
 
 
 # Email and mobile download request
 ;Send
-Send
+Kirim
 
 
 # Snippet for Firefox Screenshots
@@ -29,7 +29,7 @@ Send
 # Link: https://screenshots.firefox.com/#hello
 # "Complex screenshot hack" refers to traditional and more tedious method of taking and sharing screenshots.
 ;Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
-Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
+Selamat tinggal kerumitan membuat tangkapan layar. Screenshots adalah cara baru menyimpan dan berbagi tangkapan layar di Firefox. <a>Pelajari lebih lanjut.</a>
 
 
 # Snippet for Firefox Screenshots
@@ -44,7 +44,7 @@ Screenshots is a better way to screenshot. Save and share cool stuff without lea
 # Link:https://support.mozilla.org/kb/performance-settings
 # "Fine tune" means to make small adjustment to optimize performance.
 ;Fine tune your browser with the new performance panel. <a>Learn more.</a>
-Fine tune your browser with the new performance panel. <a>Learn more.</a>
+Setel peramban Anda dengan panel kinerja baru. <a>Pelajari lebih lanjut.</a>
 
 
 # Snippet for Firefox on mobile
