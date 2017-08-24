@@ -8,7 +8,7 @@
 # Link: https://screenshots.firefox.com/#hello
 # "Complex screenshot hack" refers to traditional and more tedious method of taking and sharing screenshots.
 ;Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
-Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
+跟複雜的畫面擷圖步驟說掰掰。快使用全新的 Screenshots，直接在 Firefox 當中儲存或分享擷圖。<a>了解更多。</a>
 
 
 # Snippet for Firefox Screenshots
@@ -16,7 +16,7 @@ Say goodbye to your complex screenshot hack. Screenshots is a new way to save an
 # Link: https://screenshots.firefox.com/#hello
 # "Cool" in this context means the quality of being fashionably attractive or impressive. This message intends to convey that Firefox Screenshots is an easy way to save and share interesting images online.
 ;Screenshots is a better way to screenshot. Save and share cool stuff without leaving Firefox. <a>Learn More.</a>
-Screenshots is a better way to screenshot. Save and share cool stuff without leaving Firefox. <a>Learn More.</a>
+Screenshots 是更簡便能夠拍攝畫面擷取圖的方式。不用離開 Firefox 就能儲存跟分享您看到的酷東西。<a>了解更多。</a>
 
 
 # Snippet for Firefox 55
@@ -42,13 +42,13 @@ Problem: straining your eyes while scrolling through the internet at night. Solu
 # Snippet for Firefox on mobile
 # This short message instills a sense of adventure in users who can search on the web freely wherever they go. The English version is an alliteration, when a series of words in a row have the same first consonant sound. You are welcome to identify a local version.
 ;Browse without boundaries
-Browse without boundaries
+隨時隨地，極速瀏覽
 
 
 # Snippet for Firefox on mobile
 # The message lets users know that their Firefox mobile version has the same great features as their desktop version.
 ;Want to browse fast on your mobile too?
-Want to browse fast on your mobile too?
+想在手機上也能快速瀏覽？
 
 
 # Snippet for Firefox on mobile
@@ -60,7 +60,7 @@ Send Firefox to your mobile device for better browsing on the go.
 # Snippet for Firefox Focus
 # This message lets users know they can trust Focus to keep their secret.
 ;Browse for something secret
-Browse for something secret
+不想留下瀏覽紀錄？
 
 
 # Snippet for Firefox Focus
@@ -72,7 +72,7 @@ Try Firefox Focus, the lightweight mobile browser that lets you explore the web 
 # Snippet for Firefox Focus
 # This message highlights that the mobile app is fast.
 ;Want to browse faster on the go?
-Want to browse faster on the go?
+想要隨時隨地都能快速瀏覽？
 
 
 # Snippet for profiling age test
