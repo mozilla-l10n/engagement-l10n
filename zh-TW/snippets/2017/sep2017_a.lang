@@ -23,7 +23,7 @@ Screenshots 是更簡便能夠拍攝畫面擷取圖的方式。不用離開 Fire
 # Link:https://support.mozilla.org/kb/performance-settings
 # "Fine tune" means to make small adjustment to optimize performance.
 ;Fine tune your browser with the new performance panel. <a>Learn more.</a>
-Fine tune your browser with the new performance panel. <a>Learn more.</a>
+使用全新的效能面板微調瀏覽器。<a>了解更多。</a>
 
 
 # Snippet for Firefox on mobile
@@ -87,40 +87,40 @@ Try Firefox Focus, the lightweight mobile browser that lets you explore the web 
 # This message targets new users. "Webby journey" means all the browsing on the internet.
 # "Not all heroes wear capes" suggests heroes don't always look like those featured in movies and comic books. Ordinary people can be impactful by using a product made by Mozilla.
 ;Hey, nice work choosing Firefox for your webby journeys. Not all heroes wear capes and by browsing with us, you're helping <a>build a better internet.</a>
-嘿，感謝您選用 Firefox 成為上網時的好夥伴。英雄不會都用傳統的方式出現，而讓我們跟您一起上網，您就在幫助<a>打造一個更好的網際網路環境。</a>
+嘿，感謝您選用 Firefox 成為上網時的好夥伴。每個人都能成為英雄改變世界，而讓我們跟您一起上網，您就在幫助<a>打造一個更好的網際網路環境。</a>
 
 
 # Snippet for desktop
 # Link: https://support.mozilla.org/kb/private-browsing-use-firefox-without-history
 # This message lets users know how to enable private browsing in Firefox so they can browse freely without fear of being tracked by third parties.
 ;<a>Open a private window</a> in Firefox to browse freely and keep away the trackers.
-<a>Open a private window</a> in Firefox to browse freely and keep away the trackers.
+在 Firefox <a>開啟隱私瀏覽視窗</a>，即可自由上網，不被追蹤。
 
 
 # Snippet for Firefox Accounts
 # Link: https://www.mozilla.org/firefox/accounts/
 # This snippet targets new Firefox Accounts users on creating an account.
 ;<a>Browse boldly.</a> Sign up for a Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
-<a>Browse boldly.</a> Sign up for a Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
+<a>放膽上網。</a>註冊 Firefox 帳號，即可存取您在所有裝置中儲存的密碼、開啟分頁以及書籤。
 
 
 # Snippet for Firefox Accounts
 # Link: https://www.mozilla.org/firefox/accounts/
 # This snippet targets existing Firefox Accounts users. It purposely sounds adventurous but also highlights the convenience of having an account.
 ;<a>Browse boldly.</a> Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
-<a>Browse boldly.</a> Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
+<a>放膽上網。</a>登入 Firefox 帳號，即可存取您在所有裝置中儲存的密碼、開啟分頁以及書籤。
 
 
 # Snippet for desktop
 # Link: https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 # The message is to show users that Firefox is customizable.
 ;<a>Discover new search engine choices</a> (or add more). Visit Firefox > Preferences > Search in your dropdown menu.
-<a>Discover new search engine choices</a> (or add more). Visit Firefox > Preferences > Search in your dropdown menu.
+<a>探索不同搜尋引擎的新選擇</a>（也可自行新增）。請到 Firefox 的偏好設定 -> 搜尋，點擊「預設搜尋引擎」的下拉選單切換。
 
 
 # Snippet for desktop
 # This snippet is meant to be amusing. The line "look super cool" in this context means appealing and attractive.
 ;Playing a musical instrument can relieve stress, enhance creativity and has the added benefit of making you look super cool.
-Playing a musical instrument can relieve stress, enhance creativity and has the added benefit of making you look super cool.
+演奏樂器可以紓壓、加強創意，還可以讓您看來超級酷！
 
 
