@@ -101,14 +101,14 @@ Sage ja zum <a> Firefox Privat Modus</a> und nein zu Werbe-Trackern und Co.
 # Link: https://www.mozilla.org/firefox/accounts/
 # This snippet targets new Firefox Accounts users on creating an account.
 ;<a>Browse boldly.</a> Sign up for a Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
-<a>Noch lässiger surfen?</a> Erstelle ein Firefox Konto. Für Passwörter, Tabs und Lesezeichen auf allen Geräten. Jetzt anmelden!
+<a>Befreiter surfen?</a> Erstelle ein Firefox Konto. Für Passwörter, Tabs und Lesezeichen auf allen Geräten. Jetzt anmelden!
 
 
 # Snippet for Firefox Accounts
 # Link: https://www.mozilla.org/firefox/accounts/
 # This snippet targets existing Firefox Accounts users. It purposely sounds adventurous but also highlights the convenience of having an account.
 ;<a>Browse boldly.</a> Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
-<a>Noch lässiger surfen.</a> – mit Deinem Firefox Konto. Für Passwörter, Tabs und Lesezeichen auf allen Geräten. Jetzt anmelden!
+<a>Befreiter surfen.</a> – mit Deinem Firefox Konto. Für Passwörter, Tabs und Lesezeichen auf allen Geräten. Jetzt anmelden!
 
 
 # Snippet for desktop
@@ -121,6 +121,6 @@ Sage ja zum <a> Firefox Privat Modus</a> und nein zu Werbe-Trackern und Co.
 # Snippet for desktop
 # This snippet is meant to be amusing. The line "look super cool" in this context means appealing and attractive.
 ;Playing a musical instrument can relieve stress, enhance creativity and has the added benefit of making you look super cool.
-Wenn Sie ein Musikinstrument spielen, können Sie Stress abbauen, Ihre Kreativität stärken und dabei auch noch cool aussehen.
+Wer ein Musikinstrument spielt, baut Stress ab, tut was für seine Kreativität und sieht dabei auch noch cool aus. 
 
 
