@@ -3,113 +3,113 @@
 
 # Subject line 1
 ;URGENT: Copyright in the EU
-URGENT: Copyright in the EU
+DRINGEND: Urheberrecht in der EU
 
 
 # Subject line 2
 ;This could change Europe’s internet as we know it.
-This could change Europe’s internet as we know it.
+Dies könnte das europäische Internet, das wir kennen, verändern.
 
 
 # Subject line for kicker 1 (Sept. 18)
 ;re: {winning_subject_line}
-re: {winning_subject_line}
+Re: {winning_subject_line}
 
 
 # Subject line for kicker 2 (Sept. 25)
 ;re: {winning_subject_line} – 3 days left
-re: {winning_subject_line} – 3 days left
+Re: {winning_subject_line} – noch 3 Tage
 
 
 # Topper note for kicker 1
 ;Hi [first name], we’ve only got 10 days left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
-Hi [first name], we’ve only got 10 days left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
+Guten Tag [first name], wir haben nur noch 10 Tage, um das Internet zu retten. Ich wollte nur sichergehen, dass Sie meine E-Mail bekommen haben – kann ich heute auf Ihren Anruf zählen?
 
 
 # Will be concatenated with the following topper note. If the name is unavailable, “Hi,” will be used instead.
 ;[First name] –
-[First name] –
+[First name] – {ok}
 
 
 # Topper note for kicker 2
 ;Can you call your Member of European Parliament (MEP) right now to oppose the internet-destroying Copyright laws? It only takes a minute. Your call could be the make-or-break for the future of the internet in Europe.
-Can you call your Member of European Parliament (MEP) right now to oppose the internet-destroying Copyright laws? It only takes a minute. Your call could be the make-or-break for the future of the internet in Europe.
+können Sie Ihr Mitglied des Europäischen Parlaments (MdEP) jetzt gleich anrufen, um die internet-zerstörenden Urheberrechtsgesetze zu stoppen? Das dauert nur eine Minute. Ihr Anruf könnte entscheidend für die Zukunft des Internets in Europa sein.
 
 
 # Alt text for call out box
 ;Take action now
-Take action now
+Jetzt handeln
 
 
 ;[First name],
-[First name],
+[First name], {ok}
 
 
 ;Hi,
-Hi,
+Hallo,
 
 
 ;BREAKING: In just four weeks, Europe’s proposed Directive on Copyright in the Digital Single Market – the new copyright laws – could deliver the death blow to a creative and free internet.
-BREAKING: In just four weeks, Europe’s proposed Directive on Copyright in the Digital Single Market – the new copyright laws – could deliver the death blow to a creative and free internet.
+WICHTIG: In nur vier Wochen könnte der europäische Entwurf für eine Richtlinie über das Urheberrecht im digitalen Binnenmarkt – das neue Urheberrechtsgesetz – einem kreativen und freien Internet den Todesstoß versetzen.
 
 
 ;The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt <b>sooner than anyone expected</b>, on September 28th.
-The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt <b>sooner than anyone expected</b>, on September 28th.
+Der einflussreiche Rechtsausschuss (JURI) des Europäischen Parlaments beschließt <b>früher als gedacht</b>, am 28. September, welche Änderungsvorschläge übernommen werden.
 
 
 ;If the most dangerous amendments pass, everything you put on the internet will be filtered, and even blocked. It doesn’t even need to be commercial – some proposals are so broad even your photos that you upload for friends and family would be included.
-If the most dangerous amendments pass, everything you put on the internet will be filtered, and even blocked. It doesn’t even need to be commercial – some proposals are so broad even your photos that you upload for friends and family would be included.
+Wenn die gefährlichsten Änderungsvorschläge verabschiedet werden, wird alles, was Sie ins Internet stellen, gefiltert oder sogar gesperrt. Es muss nicht einmal kommerziell sein – manche Vorschläge umfassen sogar Fotos, die Sie für Freunde und Familie hochladen.
 
 
 ;Linking to and accessing information online is also at stake: extending copyright to cover news snippets will restrict our ability to learn from a diverse selection of sources.
-Linking to and accessing information online is also at stake: extending copyright to cover news snippets will restrict our ability to learn from a diverse selection of sources.
+Das Verlinken und Abrufen von Informationen im Internet steht auch auf dem Spiel: Wenn das Urheberrecht auch Anrisse von Nachrichtentexten umfasst, beschränkt dies unsere Möglichkeit, uns über verschiedene Quellen zu informieren.
 
 
 # Call to action
 ;We don’t have much time. Can you call a Member of European Parliament (MEP) today?
-We don’t have much time. Can you call a Member of European Parliament (MEP) today?
+Wir haben nicht viel Zeit. Können Sie gleich heute ein Mitglied des Europäischen Parlaments (MdEP) anrufen?
 
 
 ;(Our new calling tool will connect you to an MEP, in your preferred language, at no cost to you.)
-(Our new calling tool will connect you to an MEP, in your preferred language, at no cost to you.)
+(Unser neues Anrufprogramm verbindet Sie mit einem MdEP in Ihrer gewünschten Sprache – für Sie ist das kostenlos.)
 
 
 ;What’s worse is that the proposal would give even more power to big companies like record labels and major publishers to stifle competition. Many amendments are a total giveaway to big copyright holders, with not much in it for the rest of us.
-What’s worse is that the proposal would give even more power to big companies like record labels and major publishers to stifle competition. Many amendments are a total giveaway to big copyright holders, with not much in it for the rest of us.
+Noch schlimmer ist, dass der Entwurf großen Unternehmen wie Plattenfirmen und großen Verlegern noch mehr Macht geben würde, um Wettbewerb zu verhindern. Viele Änderungsvorschläge sind riesige Zugeständnisse an große Urheberrechtsinhaber, von denen die meisten von uns nichts haben.
 
 
 ;You can only imagine how much harder it will be for up-and-coming musicians, artists, and writers to make their names when a big publisher or record label can stop them from sharing their self-produced content.
-You can only imagine how much harder it will be for up-and-coming musicians, artists, and writers to make their names when a big publisher or record label can stop them from sharing their self-produced content.
+Sie können sich nur vorstellen, wie viel schwieriger es für aufstrebende Musiker, Künstler und Autoren ist, ihre Namen bekannt zu machen, wenn ein großer Verlag oder eine Plattenfirma sie daran hindern kann, ihre selbst produzierten Inhalte zu veröffentlichen.
 
 
 ;It’s vital that we act together now.
-It’s vital that we act together now.
+Wir müssen jetzt gemeinsam handeln.
 
 
 ;If MEPs hear from enough of us in the next few weeks, they may back away from adopting these last-minute, dangerous proposals to their copyright plans.
-If MEPs hear from enough of us in the next few weeks, they may back away from adopting these last-minute, dangerous proposals to their copyright plans.
+Wenn MdEPs in den nächsten Wochen genug hören, verzichten sie vielleicht auf das Übernehmen dieser kurzfristigen und gefährlichen Änderungsvorschläge an ihren Urheberrechtsplänen.
 
 
 ;Can you take action now using our new, free call tool before it’s too late?
-Can you take action now using our new, free call tool before it’s too late?
+Können Sie jetzt mit unserem kostenlosen Anrufprogramm handeln, bevor es zu spät ist?
 
 
 # Link to call page
 ;Yes, I’ll call my MEP to help save our internet.
-Yes, I’ll call my MEP to help save our internet.
+Ja, ich rufe meinen MdEP an, um bei der Rettung unseres Internets zu helfen.
 
 
 # Button
 ;Call my MEP
-Call my MEP
+Meinen MdEP anrufen
 
 
 ;From everyone here at Mozilla, thank you for defending the internet,
-From everyone here at Mozilla, thank you for defending the internet,
+Wir alle hier bei Mozilla danken Ihnen für die Verteidigung des Internets.
 
 
 # Jon Lloyd’s title
 ;Advocacy Campaigns Manager
-Advocacy Campaigns Manager
+Die Manager der Kampagnen für Interessenvertretung
 
 
