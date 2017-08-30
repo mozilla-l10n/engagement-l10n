@@ -94,28 +94,28 @@ Ha sido buena idea elegir Firefox para tus viajes por la Web. No todos los héro
 # Link: https://support.mozilla.org/kb/private-browsing-use-firefox-without-history
 # This message lets users know how to enable private browsing in Firefox so they can browse freely without fear of being tracked by third parties.
 ;<a>Open a private window</a> in Firefox to browse freely and keep away the trackers.
-<a>Open a private window</a> in Firefox to browse freely and keep away the trackers.
+<a>Abre una ventana privada</a> en Firefox para navegar libremente y mantener alejados a los rastreadores.
 
 
 # Snippet for Firefox Accounts
 # Link: https://www.mozilla.org/firefox/accounts/
 # This snippet targets new Firefox Accounts users on creating an account.
 ;<a>Browse boldly.</a> Sign up for a Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
-<a>Browse boldly.</a> Sign up for a Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
+<a>Navega audazmente.</a> Crea una cuenta Firefox para acceder a tus contraseñas protegidas, pestañas abiertas y marcadores en todos tus dispositivos.
 
 
 # Snippet for Firefox Accounts
 # Link: https://www.mozilla.org/firefox/accounts/
 # This snippet targets existing Firefox Accounts users. It purposely sounds adventurous but also highlights the convenience of having an account.
 ;<a>Browse boldly.</a> Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
-<a>Browse boldly.</a> Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
+<a>Navega audazmente.</a> Inicia sesión en tu cuenta Firefox para acceder a tus contraseñas protegidas, pestañas abiertas y marcadores en todos tus dispositivos.
 
 
 # Snippet for desktop
 # Link: https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 # The message is to show users that Firefox is customizable.
 ;<a>Discover new search engine choices</a> (or add more). Visit Firefox > Preferences > Search in your dropdown menu.
-<a>Discover new search engine choices</a> (or add more). Visit Firefox > Preferences > Search in your dropdown menu.
+<a>Descubre nuevos proveedores de búsquedas</a> (o añade más). En el menú desplegable Firefox > Preferencias > Buscar.
 
 
 # Snippet for desktop
