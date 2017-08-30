@@ -57,7 +57,7 @@ Umpan klik? Maaf, kami tak serendah itu, tapi mungkin Anda tak akan percaya beta
 # Snippet for Firefox on mobile
 # Night Mode is a feature on Firefox for iOS. Using Firefox on a mobile device at night helps users' eyes feel less strained.
 ;Problem: straining your eyes while scrolling through the internet at night. Solution: Night Mode. Do your eyes a favor and get Firefox on your iPhone.
-Problem: straining your eyes while scrolling through the internet at night. Solution: Night Mode. Do your eyes a favor and get Firefox on your iPhone.
+Masalah: mata akan lelah ketika menjelajah Internet di malam hari. Solusi: Mode Malam. Segarkan mata Anda dan dapatkan Firefox di iPhone Anda.
 
 
 # Snippet for Firefox on mobile
@@ -100,7 +100,7 @@ Ingin menjelajah lebih cepat di mana saja?
 # Link: https://addons.mozilla.org/firefox/
 # Power up" means to make better, to improve. The customization with add-ons will make the browser better.
 ;Power up <a>Firefox with Add-ons.</a> Choose from dozens of customizations for privacy, social, gaming, and a whole lot more.
-Power up <a>Firefox with Add-ons.</a> Choose from dozens of customizations for privacy, social, gaming, and a whole lot more.
+Perkuat <a>Firefox dengan Pengaya.</a> Pilih dari lusinan kustomisasi untuk privasi, media sosial, permainan, dan masih banyak lagi.
 
 
 # Snippet for profiling age test
@@ -108,7 +108,7 @@ Power up <a>Firefox with Add-ons.</a> Choose from dozens of customizations for p
 # This message targets new users. "Webby journey" means all the browsing on the internet.
 # "Not all heroes wear capes" suggests heroes don't always look like those featured in movies and comic books. Ordinary people can be impactful by using a product made by Mozilla.
 ;Hey, nice work choosing Firefox for your webby journeys. Not all heroes wear capes and by browsing with us, you're helping <a>build a better internet.</a>
-Hey, nice work choosing Firefox for your webby journeys. Not all heroes wear capes and by browsing with us, you're helping <a>build a better internet.</a>
+Hei, kerja yang bagus telah memilih Firefox untuk menjelajah di Internet. Tak semua pahlawan dengan tanda jasa dan dengan menjelajah bersama kami, Anda membantu <a>mengembangkan Internet yang lebih baik.</a>
 
 
 # Snippet for desktop
@@ -122,21 +122,21 @@ Hey, nice work choosing Firefox for your webby journeys. Not all heroes wear cap
 # Link: https://www.mozilla.org/firefox/accounts/
 # This snippet targets new Firefox Accounts users on creating an account.
 ;<a>Browse boldly.</a> Sign up for a Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
-<a>Browse boldly.</a> Sign up for a Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
+<a>Menjelajah dengan berani.</a> Daftar untuk Firefox Account untuk mengakses kata sandi Anda yang dilindungi, tab terbuka dan markah di semua peranti Anda.
 
 
 # Snippet for Firefox Accounts
 # Link: https://www.mozilla.org/firefox/accounts/
 # This snippet targets existing Firefox Accounts users. It purposely sounds adventurous but also highlights the convenience of having an account.
 ;<a>Browse boldly.</a> Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
-<a>Browse boldly.</a> Sign into your Firefox Account to access your protected passwords, open tabs and bookmarks on all your devices.
+<a>Menjelajah dengan berani.</a> Masuk ke Firefox Account Anda untuk mengakses kata sandi Anda yang dilindungi, tab terbuka dan markah di semua peranti Anda.
 
 
 # Snippet for desktop
 # Link: https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 # The message is to show users that Firefox is customizable.
 ;<a>Discover new search engine choices</a> (or add more). Visit Firefox > Preferences > Search in your dropdown menu.
-<a>Discover new search engine choices</a> (or add more). Visit Firefox > Preferences > Search in your dropdown menu.
+<a>Temukan pilihan baru mesin pencari</a> (atau tambah lagi). Kunjungi Firefox > Pengaturan > Pencarian di menu dropdown Anda.
 
 
 # Snippet for desktop
