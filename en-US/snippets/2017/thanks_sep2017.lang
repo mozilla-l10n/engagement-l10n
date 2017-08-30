@@ -1,0 +1,17 @@
+## NOTE: Reference bug 1394945. Deadline: 15 Sept, 2017.
+## NOTE: Guidelines on localizing snippets: https://goo.gl/nEhdt4. The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+## NOTE: No character length limit, but try not to exceed English length.
+
+
+# The text will be stylized.
+;Thank you
+Thank you
+
+
+;Thanks for choosing Firefox and supporting an independent web.
+Thanks for choosing Firefox and supporting an independent web.
+
+
+# Link points to the Thank You page
+;<a>Why it's worth celebrating</a>
+<a>Why it's worth celebrating</a>
