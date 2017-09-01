@@ -3,12 +3,12 @@
 
 # Subject line 1
 ;URGENT: Copyright in the EU
-URGENT: Copyright in the EU
+URGENT: Derechos de autor en la UE
 
 
 # Subject line 2
 ;This could change Europe’s internet as we know it.
-This could change Europe’s internet as we know it.
+Esto podría cambiar el Internet de Europa tal y como lo conocemos.
 
 
 # Subject line for kicker 1 (Sept. 18)
@@ -23,12 +23,12 @@ re: {winning_subject_line} – 3 days left
 
 # Topper note for kicker 1
 ;Hi [first name], we’ve only got 10 days left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
-Hi [first name], we’ve only got 10 days left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
+Hola, [first name], solo nos quedan 10 días para salvar Internet. Solo quería asegurarme de que recibiste mi correo - ¿puedo contar hoy con tu llamada?
 
 
 # Will be concatenated with the following topper note. If the name is unavailable, “Hi,” will be used instead.
 ;[First name] –
-[First name] –
+[First name] – {ok}
 
 
 # Topper note for kicker 2
@@ -38,11 +38,11 @@ Can you call your Member of European Parliament (MEP) right now to oppose the in
 
 # Alt text for call out box
 ;Take action now
-Take action now
+Actúa ahora
 
 
 ;[First name],
-[First name],
+[First name], {ok}
 
 
 ;Hi,
@@ -67,11 +67,11 @@ Linking to and accessing information online is also at stake: extending copyrigh
 
 # Call to action
 ;We don’t have much time. Can you call a Member of European Parliament (MEP) today?
-We don’t have much time. Can you call a Member of European Parliament (MEP) today?
+No tenemos mucho tiempo. ¿Puedes llamar hoy a un Miembro del Parlamento Europeo (MEP)?
 
 
 ;(Our new calling tool will connect you to an MEP, in your preferred language, at no cost to you.)
-(Our new calling tool will connect you to an MEP, in your preferred language, at no cost to you.)
+(Nuestra nueva función de llamada te podrá en contacto con un MEP, en el idioma que elijas y totalmente gratuito).
 
 
 ;What’s worse is that the proposal would give even more power to big companies like record labels and major publishers to stifle competition. Many amendments are a total giveaway to big copyright holders, with not much in it for the rest of us.
@@ -91,7 +91,7 @@ If MEPs hear from enough of us in the next few weeks, they may back away from ad
 
 
 ;Can you take action now using our new, free call tool before it’s too late?
-Can you take action now using our new, free call tool before it’s too late?
+¿Quieres actuar ahora y utilizar nuestra fucnción de llamada gratuita, antes de que sea demasiado tarde?
 
 
 # Link to call page
@@ -105,7 +105,7 @@ Llamar a mi MEP
 
 
 ;From everyone here at Mozilla, thank you for defending the internet,
-From everyone here at Mozilla, thank you for defending the internet,
+De parte de todos los que formamos parte de Mozilla, gracias por defender Internet,
 
 
 # Jon Lloyd’s title
