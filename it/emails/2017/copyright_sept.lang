@@ -8,12 +8,12 @@ URGENT: Copyright in the EU
 
 # Subject line 2
 ;This could change Europe’s internet as we know it.
-This could change Europe’s internet as we know it.
+La loro approvazione potrebbe cambiare l’Internet che conosciamo.
 
 
 # Subject line for kicker 1 (Sept. 18)
 ;re: {winning_subject_line}
-re: {winning_subject_line}
+re: {winning_subject_line} {ok}
 
 
 # Subject line for kicker 2 (Sept. 25)
@@ -23,12 +23,12 @@ re: {winning_subject_line} – 3 days left
 
 # Topper note for kicker 1
 ;Hi [first name], we’ve only got 10 days left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
-Hi [first name], we’ve only got 10 days left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
+Ciao [first name], ci rimangono solo dieci giorni per salvare Internet. Volevo essere sicuro che avessi ricevuto la mia email. Posso contare su di te per telefonare oggi stesso a un parlamentare europeo?
 
 
 # Will be concatenated with the following topper note. If the name is unavailable, “Hi,” will be used instead.
 ;[First name] –
-[First name] –
+[First name] – {ok}
 
 
 # Topper note for kicker 2
