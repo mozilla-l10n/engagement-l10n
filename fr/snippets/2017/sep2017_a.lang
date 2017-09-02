@@ -8,7 +8,7 @@
 # Link: https://screenshots.firefox.com/#hello
 # "Complex screenshot hack" refers to traditional and more tedious method of taking and sharing screenshots.
 ;Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
-Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more.</a>
+Ne perdez plus de temps avec vos captures d’écran. Screenshots est un nouvel outil pour enregistrer et partager des captures d’écran, sans quitter Firefox. <a>Voyez par vous-même&nbsp;!</a>
 
 
 # Snippet for Firefox Screenshots
@@ -94,7 +94,7 @@ Hey, nice work choosing Firefox for your webby journeys. Not all heroes wear cap
 # Link: https://support.mozilla.org/kb/private-browsing-use-firefox-without-history
 # This message lets users know how to enable private browsing in Firefox so they can browse freely without fear of being tracked by third parties.
 ;<a>Open a private window</a> in Firefox to browse freely and keep away the trackers.
-<a>Open a private window</a> in Firefox to browse freely and keep away the trackers.
+<a>Ouvrez une fenêtre privée</a> dans Firefox pour naviguer librement et sans traqueurs.
 
 
 # Snippet for Firefox Accounts
@@ -115,7 +115,7 @@ Hey, nice work choosing Firefox for your webby journeys. Not all heroes wear cap
 # Link: https://support.mozilla.org/kb/change-your-default-search-settings-firefox
 # The message is to show users that Firefox is customizable.
 ;<a>Discover new search engine choices</a> (or add more). Visit Firefox > Preferences > Search in your dropdown menu.
-<a>Discover new search engine choices</a> (or add more). Visit Firefox > Preferences > Search in your dropdown menu.
+<a>Découvrez de nouveaux moteurs de recherche</a> (ou ajoutez-en d’autres). Vous pouvez faire votre choix dans la liste déroulante accessible via Firefox > Préférences > Recherche.
 
 
 # Snippet for desktop
