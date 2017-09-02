@@ -23,7 +23,7 @@ re: {winning_subject_line} – 3 days left
 
 # Topper note for kicker 1
 ;Hi [first name], we’ve only got 10 days left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
-Hi [first name], we’ve only got 10 days left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
+Bonjour [first name], il ne nous reste que 10&nbsp;jours pour protéger Internet. Je voulais juste m’assurer que vous aviez reçu mon message. Pouvons-nous compter sur votre appel&nbsp;?
 
 
 # Will be concatenated with the following topper note. If the name is unavailable, “Hi,” will be used instead.
@@ -33,7 +33,7 @@ Bonjour [First name],
 
 # Topper note for kicker 2
 ;Can you call your Member of European Parliament (MEP) right now to oppose the internet-destroying Copyright laws? It only takes a minute. Your call could be the make-or-break for the future of the internet in Europe.
-Can you call your Member of European Parliament (MEP) right now to oppose the internet-destroying Copyright laws? It only takes a minute. Your call could be the make-or-break for the future of the internet in Europe.
+Accepteriez-vous d’appeler tout de suite à un député européen pour vous opposer à la réglementation sur le droit d’auteur qui porteraient atteinte à Internet&nbsp;? C’est très rapide. Votre appel pourrait changer du tout au tout l’avenir de l’Internet en Europe.
 
 
 # Alt text for call out box
@@ -96,7 +96,7 @@ Can you take action now using our new, free call tool before it’s too late?
 
 # Link to call page
 ;Yes, I’ll call my MEP to help save our internet.
-Yes, I’ll call my MEP to help save our internet.
+Oui, je vais appeler un député pour protéger Internet.
 
 
 # Button
