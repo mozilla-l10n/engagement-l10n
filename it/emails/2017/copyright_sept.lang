@@ -38,15 +38,15 @@ Can you call your Member of European Parliament (MEP) right now to oppose the in
 
 # Alt text for call out box
 ;Take action now
-Take action now
+Passa subito all’azione
 
 
 ;[First name],
-[First name],
+[First name], {ok}
 
 
 ;Hi,
-Hi,
+Ciao,
 
 
 ;BREAKING: In just four weeks, Europe’s proposed Directive on Copyright in the Digital Single Market – the new copyright laws – could deliver the death blow to a creative and free internet.
@@ -54,7 +54,7 @@ BREAKING: In just four weeks, Europe’s proposed Directive on Copyright in the 
 
 
 ;The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt <b>sooner than anyone expected</b>, on September 28th.
-The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt <b>sooner than anyone expected</b>, on September 28th.
+Il prossimo 28 settembre, <b>in largo anticipo rispetto alla data prevista</b>, l’autorevole Commissione giuridica del Parlamento europeo (JURI) , deciderà quale posizione adottare circa i nuovi emendamenti proposti.
 
 
 ;If the most dangerous amendments pass, everything you put on the internet will be filtered, and even blocked. It doesn’t even need to be commercial – some proposals are so broad even your photos that you upload for friends and family would be included.
@@ -67,7 +67,7 @@ Linking to and accessing information online is also at stake: extending copyrigh
 
 # Call to action
 ;We don’t have much time. Can you call a Member of European Parliament (MEP) today?
-We don’t have much time. Can you call a Member of European Parliament (MEP) today?
+Non rimane più molto tempo. Puoi chiamare un membro del Parlamento europeo oggi stesso?
 
 
 ;(Our new calling tool will connect you to an MEP, in your preferred language, at no cost to you.)
@@ -75,15 +75,15 @@ We don’t have much time. Can you call a Member of European Parliament (MEP) to
 
 
 ;What’s worse is that the proposal would give even more power to big companies like record labels and major publishers to stifle competition. Many amendments are a total giveaway to big copyright holders, with not much in it for the rest of us.
-What’s worse is that the proposal would give even more power to big companies like record labels and major publishers to stifle competition. Many amendments are a total giveaway to big copyright holders, with not much in it for the rest of us.
+Quel che è peggio è che la proposta darebbe ancora più potere alle grandi aziende come etichette discografiche e grandi editori per soffocare la concorrenza. Molti emendamenti sono un vero e proprio regalo ai grandi titolari di diritti d’autore, senza lasciare un granché al resto di noi.
 
 
 ;You can only imagine how much harder it will be for up-and-coming musicians, artists, and writers to make their names when a big publisher or record label can stop them from sharing their self-produced content.
-You can only imagine how much harder it will be for up-and-coming musicians, artists, and writers to make their names when a big publisher or record label can stop them from sharing their self-produced content.
+Puoi solo immaginare quanto più difficile sia per i musicisti, gli artisti e gli scrittori emergenti arrivare a farsi un nome se un grande editore o un'etichetta musicale può impedire loro di condividere i propri contenuti autoprodotti.
 
 
 ;It’s vital that we act together now.
-It’s vital that we act together now.
+È importante che ci mobilitiamo tutti assieme, subito!
 
 
 ;If MEPs hear from enough of us in the next few weeks, they may back away from adopting these last-minute, dangerous proposals to their copyright plans.
@@ -101,15 +101,15 @@ Yes, I’ll call my MEP to help save our internet.
 
 # Button
 ;Call my MEP
-Call my MEP
+Chiama un europarlamentare italiano
 
 
 ;From everyone here at Mozilla, thank you for defending the internet,
-From everyone here at Mozilla, thank you for defending the internet,
+Da parte di tutti noi di Mozilla, grazie mille per il tuo impegno in difesa di Internet,
 
 
 # Jon Lloyd’s title
 ;Advocacy Campaigns Manager
-Advocacy Campaigns Manager
+Advocacy Campaigns Manager {ok}
 
 
