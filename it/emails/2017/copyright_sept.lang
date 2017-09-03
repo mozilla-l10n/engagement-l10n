@@ -3,7 +3,7 @@
 
 # Subject line 1
 ;URGENT: Copyright in the EU
-URGENT: Copyright in the EU
+URGENTE: proposta di legge per il diritto d’autore nell’UE
 
 
 # Subject line 2
@@ -18,7 +18,7 @@ re: {winning_subject_line} {ok}
 
 # Subject line for kicker 2 (Sept. 25)
 ;re: {winning_subject_line} – 3 days left
-re: {winning_subject_line} – 3 days left
+re: {winning_subject_line} – mancano solo 3 giorni
 
 
 # Topper note for kicker 1
@@ -33,7 +33,7 @@ Ciao [first name], ci rimangono solo dieci giorni per salvare Internet. Volevo e
 
 # Topper note for kicker 2
 ;Can you call your Member of European Parliament (MEP) right now to oppose the internet-destroying Copyright laws? It only takes a minute. Your call could be the make-or-break for the future of the internet in Europe.
-Can you call your Member of European Parliament (MEP) right now to oppose the internet-destroying Copyright laws? It only takes a minute. Your call could be the make-or-break for the future of the internet in Europe.
+Can you call your Member of European Parliament (MEP) right now to oppose the internet-destroying Copyright laws? It only takes a minute. Your call could be the make-or-break for the future of the internet in Europe. {ok}
 
 
 # Alt text for call out box
@@ -50,7 +50,7 @@ Ciao,
 
 
 ;BREAKING: In just four weeks, Europe’s proposed Directive on Copyright in the Digital Single Market – the new copyright laws – could deliver the death blow to a creative and free internet.
-BREAKING: In just four weeks, Europe’s proposed Directive on Copyright in the Digital Single Market – the new copyright laws – could deliver the death blow to a creative and free internet.
+Notizia lampo: fra sole quattro settimane, la direttiva europea proposta per modificare il diritto d’autore nel Mercato Unico Digitale, ovvero quella che sarà la nuova legge europea sul diritto d’autore, potrebbe dare il colpo di grazia a un Internet creativo e libero.
 
 
 ;The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt <b>sooner than anyone expected</b>, on September 28th.
@@ -58,11 +58,11 @@ Il prossimo 28 settembre, <b>in largo anticipo rispetto alla data prevista</b>, 
 
 
 ;If the most dangerous amendments pass, everything you put on the internet will be filtered, and even blocked. It doesn’t even need to be commercial – some proposals are so broad even your photos that you upload for friends and family would be included.
-If the most dangerous amendments pass, everything you put on the internet will be filtered, and even blocked. It doesn’t even need to be commercial – some proposals are so broad even your photos that you upload for friends and family would be included.
+Se gli emendamenti più insidiosi dovessero essere accettati, qualunque contenuto che sarà pubblicato su Internet verrà filtrato e rischia persino di essere bloccato. Questi emendamenti non si limitano ai contenuti utilizzati per fini commerciali: alcuni sono talmente restrittivi da risultare applicabili persino alle immagini condivise con soli amici e famigliari.
 
 
 ;Linking to and accessing information online is also at stake: extending copyright to cover news snippets will restrict our ability to learn from a diverse selection of sources.
-Linking to and accessing information online is also at stake: extending copyright to cover news snippets will restrict our ability to learn from a diverse selection of sources.
+È anche in gioco la libertà di condividere collegamenti e di accedere alle informazioni online: estendendo il diritto d’autore anche ai frammenti delle notizie, il numero di fonti liberamente consultabili diminuirà drasticamente.
 
 
 # Call to action
@@ -91,12 +91,12 @@ If MEPs hear from enough of us in the next few weeks, they may back away from ad
 
 
 ;Can you take action now using our new, free call tool before it’s too late?
-Can you take action now using our new, free call tool before it’s too late?
+Vuoi passare all’azione e usare il nostro nuovo strumento gratuito prima che sia troppo tardi?
 
 
 # Link to call page
 ;Yes, I’ll call my MEP to help save our internet.
-Yes, I’ll call my MEP to help save our internet.
+Sì, chiamerò un europarlamentare italiano per salvare l’Internet di tutti noi.
 
 
 # Button
