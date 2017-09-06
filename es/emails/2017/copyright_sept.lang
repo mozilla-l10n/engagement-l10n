@@ -21,6 +21,11 @@ re: {winning_subject_line}
 re: {winning_subject_line} – 3 days left
 
 
+# Subject line for kicker 2 (Oct. 6)
+;re: {winning_subject_line} – 4 days left
+re: {winning_subject_line} – 4 days left
+
+
 # Topper note for kicker 1
 ;Hi [first name], we’ve only got 10 days left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
 Hola, [first name], solo nos quedan 10 días para salvar Internet. Solo quería asegurarme de que recibiste mi correo - ¿puedo contar hoy con tu llamada?
@@ -55,6 +60,10 @@ BREAKING: In just four weeks, Europe’s proposed Directive on Copyright in the 
 
 ;The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt <b>sooner than anyone expected</b>, on September 28th.
 The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt <b>sooner than anyone expected</b>, on September 28th.
+
+
+;The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt on October 10th.
+The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt on October 10th.
 
 
 ;If the most dangerous amendments pass, everything you put on the internet will be filtered, and even blocked. It doesn’t even need to be commercial – some proposals are so broad even your photos that you upload for friends and family would be included.
