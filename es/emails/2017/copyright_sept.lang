@@ -3,7 +3,7 @@
 
 # Subject line 1
 ;URGENT: Copyright in the EU
-URGENT: Derechos de autor en la UE
+URGENTE: Derechos de autor en la UE
 
 
 # Subject line 2
@@ -13,17 +13,17 @@ Esto podría cambiar el Internet de Europa tal y como lo conocemos.
 
 # Subject line for kicker 1 (Sept. 18)
 ;re: {winning_subject_line}
-re: {winning_subject_line}
+re: {winning_subject_line} {ok}
 
 
 # Subject line for kicker 2 (Sept. 25)
 ;re: {winning_subject_line} – 3 days left
-re: {winning_subject_line} – 3 days left
+re: {winning_subject_line} – quedan 3 días
 
 
 # Subject line for kicker 2 (Oct. 6)
 ;re: {winning_subject_line} – 4 days left
-re: {winning_subject_line} – 4 days left
+re: {winning_subject_line} – quedan 4 días
 
 
 # Topper note for kicker 1
@@ -38,7 +38,7 @@ Hola, [first name], solo nos quedan 10 días para salvar Internet. Solo quería 
 
 # Topper note for kicker 2
 ;Can you call your Member of European Parliament (MEP) right now to oppose the internet-destroying Copyright laws? It only takes a minute. Your call could be the make-or-break for the future of the internet in Europe.
-Can you call your Member of European Parliament (MEP) right now to oppose the internet-destroying Copyright laws? It only takes a minute. Your call could be the make-or-break for the future of the internet in Europe.
+¿Puedes llamar ahora mismo a un Miembro del Parlamento Europeo (MEP) para oponerte a las leyes contra los derechos de autor? Solo tardarás un minuto. Tu llamada podría cambiar el futuro de Internet en Europa.
 
 
 # Alt text for call out box
@@ -55,23 +55,23 @@ Hola,
 
 
 ;BREAKING: In just four weeks, Europe’s proposed Directive on Copyright in the Digital Single Market – the new copyright laws – could deliver the death blow to a creative and free internet.
-BREAKING: In just four weeks, Europe’s proposed Directive on Copyright in the Digital Single Market – the new copyright laws – could deliver the death blow to a creative and free internet.
+ÚLT. HORA: En solo unas semanas, la propuesta de Directiva sobre derechos de autor en el mercado único digital – las nuevas leyes de derechos de autor – podrían suponer el fin de un Internet libre y creativo.
 
 
 ;The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt <b>sooner than anyone expected</b>, on September 28th.
-The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt <b>sooner than anyone expected</b>, on September 28th.
+El Comité sobre Asuntos Jurídicos (JURI) del Parlamento Europeo decidirá su postura sobre los cambios que hay que adoptar <b>antes de lo esperado</b>: el 28 de septiembre.
 
 
 ;The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt on October 10th.
-The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt on October 10th.
+El Comité sobre Asuntos Jurídicos (JURI) del Parlamento Europeo decidirá su postura sobre los cambios el próximo 10 de octubre.
 
 
 ;If the most dangerous amendments pass, everything you put on the internet will be filtered, and even blocked. It doesn’t even need to be commercial – some proposals are so broad even your photos that you upload for friends and family would be included.
-If the most dangerous amendments pass, everything you put on the internet will be filtered, and even blocked. It doesn’t even need to be commercial – some proposals are so broad even your photos that you upload for friends and family would be included.
+Si se aprueban los cambios más graves, se filtrará, e incluso bloqueará, todo lo que publiques en Internet. No tiene por qué ser comercial – algunas propuestas son tan amplias que se incluyen incluso las fotos que subas para amigos y familiares.
 
 
 ;Linking to and accessing information online is also at stake: extending copyright to cover news snippets will restrict our ability to learn from a diverse selection of sources.
-Linking to and accessing information online is also at stake: extending copyright to cover news snippets will restrict our ability to learn from a diverse selection of sources.
+También están en juego los enlaces y el acceso a información en línea: incrementar los derechos de autor para cubrir nuevos fragmentos de código restringirá las posibilidades de obtener datos de diferentes fuentes.
 
 
 # Call to action
@@ -84,11 +84,11 @@ No tenemos mucho tiempo. ¿Puedes llamar hoy a un Miembro del Parlamento Europeo
 
 
 ;What’s worse is that the proposal would give even more power to big companies like record labels and major publishers to stifle competition. Many amendments are a total giveaway to big copyright holders, with not much in it for the rest of us.
-What’s worse is that the proposal would give even more power to big companies like record labels and major publishers to stifle competition. Many amendments are a total giveaway to big copyright holders, with not much in it for the rest of us.
+Lo peor de todo es que se le dará más poder a las grandes corporaciones para reprimir la competencia. Muchos de los cambios propuestos son todo un regalo para los grandes defensores de los derechos de autor, pero poco quedaría para el resto.
 
 
 ;You can only imagine how much harder it will be for up-and-coming musicians, artists, and writers to make their names when a big publisher or record label can stop them from sharing their self-produced content.
-You can only imagine how much harder it will be for up-and-coming musicians, artists, and writers to make their names when a big publisher or record label can stop them from sharing their self-produced content.
+Imagínate lo difícil que sería entonces para futuros músicos, artistas y escritores poder hacerse un nombre cuando los grandes publicistas puede evitar que compartan contenido creado por ellos mismos.
 
 
 ;It’s vital that we act together now.
@@ -96,7 +96,7 @@ Es crucial que actuémos juntos.
 
 
 ;If MEPs hear from enough of us in the next few weeks, they may back away from adopting these last-minute, dangerous proposals to their copyright plans.
-If MEPs hear from enough of us in the next few weeks, they may back away from adopting these last-minute, dangerous proposals to their copyright plans.
+Si los MEP escuchan suficientes quejas en las próximas semanas, puede que rechacen adoptar estas últimas propuestas, que también son muy peligrosas.
 
 
 ;Can you take action now using our new, free call tool before it’s too late?
@@ -119,6 +119,6 @@ De parte de todos los que formamos parte de Mozilla, gracias por defender Intern
 
 # Jon Lloyd’s title
 ;Advocacy Campaigns Manager
-Advocacy Campaigns Manager
+Responsable de campañas
 
 
