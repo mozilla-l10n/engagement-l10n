@@ -11,6 +11,11 @@
 मैं हिन्दी <br>भाषी हूँ
 
 
+# Please replace [Language] with your language name, localized. For instance “French speakers welcome”. This will be displayed in the MozFest schedule under descriptions for multilingual sessions
+;[Language] speakers welcome
+इस सत्र में हिंदी भाषियों का स्वागत हैं
+
+
 # The following strings are used as a short version of the Mozilla Participation Guidelines, printed on different materials https://cloud.githubusercontent.com/assets/2492510/20194548/8eeb7da4-a747-11e6-8be8-7c8cc9e2dc67.png
 ;Participation Guidelines
 भागीदारी दिशानिर्देश
@@ -54,5 +59,3 @@ Mozilla महोत्सव, Mozilla के सामुदायिक भा
 
 ;Are you seeing behaviour that doesn’t respect these guidelines? Email festival@mozilla.org or call +44 20 7855 3030
 क्या आप ऐसा कोई व्यवहार देख रहे हैं जो इस दिशानिर्देश का सम्मान नहीं करता? festival@mozilla.org पर ईमेल करें या +44 20 7855 3030 पर फोन करें
-
-
