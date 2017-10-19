@@ -39,244 +39,244 @@ Die Teilnehmer der Umfrage sind sich nicht einig, wer #IoT-Produkte sichern soll
 # LIMIT: 116 characters.
 # Used on social media with graphic #7.
 ;Only 2% of respondents trust that the government can help protect them online.
-Only 2% of respondents trust that the government can help protect them online.
+Nur 2% der Teilnehmer vertrauen darauf, dass die Regierung sie im Internet schützen kann.
 
 
 # LIMIT: 116 characters.
 # Used on social media with graphic #9.
 ;Price is the number one consideration when it comes to shopping for a new #IoT device.
-Price is the number one consideration when it comes to shopping for a new #IoT device.
+Der Preis ist das Hauptentscheidungskriterium, wenn es um den Kauf eines neuen #IoT-Geräts geht.
 
 
 # Email callout image: https://s3.amazonaws.com/redpen-prod/red-pen-f23cef54-e47e-4bca-cfed-72a323d89ee5.jpg
 ;How Connected Are You? <br>See the survey results.
-How Connected Are You? <br>See the survey results.
+Wie vernetzt sind Sie? <br>Sehen Sie sich die Umfrageergebnisse an.
 
 
 # Graphic 01: https://s3.amazonaws.com/redpen-prod/red-pen-56cad67c-91ce-49b6-83f9-da1e4d513106.jpg
 ;189,770 people responded to our survey
-189,770 people responded to our survey
+189&thinsp;770 Menschen haben unsere Umfrage beantwortet
 
 
 # Graphic 02: https://s3.amazonaws.com/redpen-prod/red-pen-dbdcb615-8069-4ac1-c996-42df43919f55.jpg
 ;Laptop vs. smart phones
-Laptop vs. smart phones
+Laptop vs. Smartphones
 
 
 ;More laptops
-More laptops
+Mehr Laptops
 
 
 ;More smart phones
-More smart phones
+Mehr Smartphones
 
 
 ;Laptop
-Laptop
+Laptop {ok}
 
 
 ;Smart phone
-Smart phone
+Smartphone
 
 
 ;US
-US
+USA
 
 
 ;UK
-UK
+UK {ok}
 
 
 ;Canada
-Canada
+Kanada
 
 
 ;Brazil
-Brazil
+Brasilien
 
 
 ;India
-India
+Indien
 
 
 ;Mexico
-Mexico
+Mexiko
 
 
 # Example for formatting purposes
 ;12.34%
-12.34%
+12,34%
 
 
 # Graphic 03: https://s3.amazonaws.com/redpen-prod/red-pen-4fd51e90-3e2f-48c4-a2fa-656c074c467a.jpg
 ;What are the most popular smart devices owned?
-What are the most popular smart devices owned?
+Welche intelligenten Geräte sind am beliebtesten?
 
 
 ;Brazil, Argentina, and Mexico
-Brazil, Argentina, and Mexico
+Brasilien, Argentinien und Mexiko
 
 
 ;Overall
-Overall
+Insgesamt
 
 
 ;United States
-United States
+Vereinigte Staaten
 
 
 ;Smart TVs
-Smart TVs
+Smart-TVs
 
 
 ;Fitness Trackers
-Fitness Trackers
+Fitness-Tracker
 
 
 ;Smart Appliances
-Smart Appliances
+Intelligente Elektrogeräte
 
 
 # Graphic 04: https://s3.amazonaws.com/redpen-prod/red-pen-233fb749-4958-4795-a3ce-49baf9ccb23e.jpg
 ;31% of people who identify as least tech savvy are most likely to be “scared as hell” about our more connected future — compared to the overall 7%.
-31% of people who identify as least tech savvy are most likely to be “scared as hell” about our more connected future — compared to the overall 7%.
+31% der Menschen, die sich für nicht technisch begabt sind, sind am ehesten „furchtbar verängstigt“, was eine vernetztere Zukunft angeht – verglichen mit der Gesamtzahl von 7%.
 
 
 # Graphic 05: https://s3.amazonaws.com/redpen-prod/red-pen-3da890f0-4e64-44e1-8103-ac894fa98090.jpg
 ;Percentage of people afraid of losing their privacy
-Percentage of people afraid of losing their privacy
+Anteil der Menschen, die Angst vor dem Verlust der Privatsphäre hat
 
 
 ;Least Tech Savvy
-Least Tech Savvy
+Am wenigsten technisch begabt
 
 
 ;Somewhat Tech Savvy
-Somewhat Tech Savvy
+Etwas technisch begabt
 
 
 ;More Tech Savvy
-More Tech Savvy
+Technisch begabter
 
 
 ;Very Tech Savvy
-Very Tech Savvy
+Sehr technisch begabt
 
 
 # Graphic 06: https://s3.amazonaws.com/redpen-prod/red-pen-ccdaa8dd-579d-44de-a50f-eabb00f9b039.jpg
 ;Who should be responsible for making connected devices secure?
-Who should be responsible for making connected devices secure?
+Wer sollte dafür verantwortlich sein, dass vernetzte Geräte sicher sind?
 
 
 ;Don’t know / unsure
-Don’t know / unsure
+Ich weiß nicht / unsicher
 
 
 ;Manufacturer
-Manufacturer
+Hersteller
 
 
 ;Individuals
-Individuals
+Einzelpersonen
 
 
 ;Governments
-Governments
+Regierungen
 
 
 # Graphic 07: https://s3.amazonaws.com/redpen-prod/red-pen-141593f7-a982-4a09-dae7-09a6e0644c2d.jpg
 ;Who do people trust to help them stay secure online?
-Who do people trust to help them stay secure online?
+Wem vertrauen die Menschen beim Schutz im Internet?
 
 
 ;Non-profits
-Non-profits
+Gemeinnützige Organisationen
 
 
 ;Don’t know who to trust
-Don’t know who to trust
+Wissen nicht, wem man vertrauen kann
 
 
 ;Media
-Media
+Medien
 
 
 ;Government
-Government
+Regierungen
 
 
 # Graphic 08: https://s3.amazonaws.com/redpen-prod/red-pen-7e462906-baa9-452e-cdf4-c802c47f8908.jpg
 ;What are people most looking forward to in a connected future?
-What are people most looking forward to in a connected future?
+Worauf freuen sich die Menschen in einer vernetzten Zukunft am meisten?
 
 
 ;Make life easier
-Make life easier
+Vereinfachung des Lebens
 
 
 ;Fun
-Fun
+Spaß
 
 
 ;Make us smarter and better educated
-Make us smarter and better educated
+Mehr Wissen und bessere Bildung
 
 
 ;Bring the world together
-Bring the world together
+Die Welt zusammenbringen
 
 
 ;None of the above
-None of the above
+Nichts davon
 
 
 ;Other
-Other
+Sonstiges
 
 
 # Graphic 09: https://s3.amazonaws.com/redpen-prod/red-pen-ff89b5fa-855f-4e91-8357-23d1affc29f6.jpg
 ;What do people care about when shopping for a connected product?
-What do people care about when shopping for a connected product?
+Was ist den Menschen wichtig, wenn sie ein vernetztes Gerät kaufen?
 
 
 ;Price
-Price
+Preis
 
 
 ;Features
-Features
+Funktionen
 
 
 ;Reliability
-Reliability
+Zuverlässigkeit
 
 
 ;Security
-Security
+Sicherheit
 
 
 ;Privacy
-Privacy
+Datenschutz
 
 
 # Graphic 10: https://s3.amazonaws.com/redpen-prod/red-pen-16f620b8-28f0-4d81-f4ed-f093a0129469.jpg
 ;What tech terms are people comfortable explaining to a friend?
-What tech terms are people comfortable explaining to a friend?
+Welche technischen Begriffe könnten Menschen einem Freund erklären?
 
 
 ;IoT
-IoT
+IoT {ok}
 
 
 ;Connected devices
-Connected devices
+Vernetzte Geräte
 
 
 ;VPN
-VPN
+VPN {ok}
 
 
 ;TOR
-TOR
+TOR {ok}
 
 
