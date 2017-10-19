@@ -80,32 +80,32 @@ Smart phone
 
 
 ;US
-US
+US {ok}
 
 
 ;UK
-UK
+UK {ok}
 
 
 ;Canada
-Canada
+Canadá
 
 
 ;Brazil
-Brazil
+Brasil
 
 
 ;India
-India
+India {ok}
 
 
 ;Mexico
-Mexico
+México
 
 
 # Example for formatting purposes
 ;12.34%
-12.34%
+12.34% {ok}
 
 
 # Graphic 03: https://s3.amazonaws.com/redpen-prod/red-pen-4fd51e90-3e2f-48c4-a2fa-656c074c467a.jpg
@@ -114,15 +114,15 @@ What are the most popular smart devices owned?
 
 
 ;Brazil, Argentina, and Mexico
-Brazil, Argentina, and Mexico
+Brasil, Argentina y México
 
 
 ;Overall
-Overall
+Total
 
 
 ;United States
-United States
+Estados Unidos
 
 
 ;Smart TVs
@@ -177,11 +177,11 @@ Manufacturer
 
 
 ;Individuals
-Individuals
+Individuos
 
 
 ;Governments
-Governments
+Gobiernos
 
 
 # Graphic 07: https://s3.amazonaws.com/redpen-prod/red-pen-141593f7-a982-4a09-dae7-09a6e0644c2d.jpg
@@ -190,7 +190,7 @@ Who do people trust to help them stay secure online?
 
 
 ;Non-profits
-Non-profits
+Sin ánimo de lucro
 
 
 ;Don’t know who to trust
