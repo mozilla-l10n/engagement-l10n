@@ -55,7 +55,7 @@ How Connected Are You? <br>See the survey results.
 
 # Graphic 01: https://s3.amazonaws.com/redpen-prod/red-pen-56cad67c-91ce-49b6-83f9-da1e4d513106.jpg
 ;189,770 people responded to our survey
-189,770 people responded to our survey
+189 770 personnes ont répondu à notre questionnaire
 
 
 # Graphic 02: https://s3.amazonaws.com/redpen-prod/red-pen-dbdcb615-8069-4ac1-c996-42df43919f55.jpg
@@ -64,43 +64,43 @@ Laptop vs. smart phones
 
 
 ;More laptops
-More laptops
+Plus d’ordinateurs portables
 
 
 ;More smart phones
-More smart phones
+Plus de smartphones
 
 
 ;Laptop
-Laptop
+Ordinateur portable
 
 
 ;Smart phone
-Smart phone
+Smartphone
 
 
 ;US
-US
+États-Unis
 
 
 ;UK
-UK
+Royaume-Uni
 
 
 ;Canada
-Canada
+Canada {ok}
 
 
 ;Brazil
-Brazil
+Brésil
 
 
 ;India
-India
+Inde
 
 
 ;Mexico
-Mexico
+Mexique
 
 
 # Example for formatting purposes
@@ -114,27 +114,27 @@ What are the most popular smart devices owned?
 
 
 ;Brazil, Argentina, and Mexico
-Brazil, Argentina, and Mexico
+Brésil, Argentine et Mexique
 
 
 ;Overall
-Overall
+Moyenne globale
 
 
 ;United States
-United States
+États-Unis
 
 
 ;Smart TVs
-Smart TVs
+Smart TV
 
 
 ;Fitness Trackers
-Fitness Trackers
+Traqueurs d’activité
 
 
 ;Smart Appliances
-Smart Appliances
+Appareils ménagers connectés
 
 
 # Graphic 04: https://s3.amazonaws.com/redpen-prod/red-pen-233fb749-4958-4795-a3ce-49baf9ccb23e.jpg
@@ -173,15 +173,15 @@ Don’t know / unsure
 
 
 ;Manufacturer
-Manufacturer
+Les fabricants
 
 
 ;Individuals
-Individuals
+Les particuliers
 
 
 ;Governments
-Governments
+Les gouvernements
 
 
 # Graphic 07: https://s3.amazonaws.com/redpen-prod/red-pen-141593f7-a982-4a09-dae7-09a6e0644c2d.jpg
@@ -190,19 +190,19 @@ Who do people trust to help them stay secure online?
 
 
 ;Non-profits
-Non-profits
+Les organismes à but non lucratif
 
 
 ;Don’t know who to trust
-Don’t know who to trust
+Ne savent pas à qui faire confiance
 
 
 ;Media
-Media
+Les médias
 
 
 ;Government
-Government
+Le gouvernement
 
 
 # Graphic 08: https://s3.amazonaws.com/redpen-prod/red-pen-7e462906-baa9-452e-cdf4-c802c47f8908.jpg
@@ -240,23 +240,23 @@ What do people care about when shopping for a connected product?
 
 
 ;Price
-Price
+Le prix
 
 
 ;Features
-Features
+Les fonctionnalités
 
 
 ;Reliability
-Reliability
+La fiabilité
 
 
 ;Security
-Security
+La sécurité
 
 
 ;Privacy
-Privacy
+La vie privée
 
 
 # Graphic 10: https://s3.amazonaws.com/redpen-prod/red-pen-16f620b8-28f0-4d81-f4ed-f093a0129469.jpg
@@ -265,18 +265,18 @@ What tech terms are people comfortable explaining to a friend?
 
 
 ;IoT
-IoT
+IoT {ok}
 
 
 ;Connected devices
-Connected devices
+Objets connectés
 
 
 ;VPN
-VPN
+VPN {ok}
 
 
 ;TOR
-TOR
+TOR {ok}
 
 
