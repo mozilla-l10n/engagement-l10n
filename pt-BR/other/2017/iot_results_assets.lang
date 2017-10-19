@@ -15,7 +15,7 @@ Food for thought: 10 interesting stats from our #IoT survey that may surprise yo
 # LIMIT: 116 characters.
 # Used on social media with the generic social graphic.
 ;We asked the world “How Connected are You?” for our #IoT survey. Here are the results:
-We asked the world “How Connected are You?” for our #IoT survey. Here are the results:
+Nós perguntamos ao mundo “O quanto você está conectado?” para nossa pesquisa sobre #IoT. Aqui estão os resultados:
 
 
 # LIMIT: 116 characters.
@@ -33,13 +33,13 @@ The connected future is a scary concept for 31% of those who say they’re not �
 # LIMIT: none.
 # Used on social media with graphic #5.
 ;Survey respondents are divided over who is responsible for making #IoT products secure. What do you think?
-Survey respondents are divided over who is responsible for making #IoT products secure. What do you think?
+Os entrevistados se mostraram divididos sobre quem é o responsável por tornar seguro os produtos da #IoT. O que você acha?
 
 
 # LIMIT: 116 characters.
 # Used on social media with graphic #7.
 ;Only 2% of respondents trust that the government can help protect them online.
-Only 2% of respondents trust that the government can help protect them online.
+Apenas 2% dos entrevistados confiam que o governo pode ajudar a protegê-los on-line.
 
 
 # LIMIT: 116 characters.
@@ -50,21 +50,21 @@ Price is the number one consideration when it comes to shopping for a new #IoT d
 
 # Email callout image: https://s3.amazonaws.com/redpen-prod/red-pen-f23cef54-e47e-4bca-cfed-72a323d89ee5.jpg
 ;How Connected Are You? <br>See the survey results.
-How Connected Are You? <br>See the survey results.
+O quanto você está conectado? <br>Ver os resultados da pesquisa.
 
 
 # Graphic 01: https://s3.amazonaws.com/redpen-prod/red-pen-56cad67c-91ce-49b6-83f9-da1e4d513106.jpg
 ;189,770 people responded to our survey
-189,770 people responded to our survey
+189,770 pessoas responderam à nossa pesquisa
 
 
 # Graphic 02: https://s3.amazonaws.com/redpen-prod/red-pen-dbdcb615-8069-4ac1-c996-42df43919f55.jpg
 ;Laptop vs. smart phones
-Laptop vs. smart phones
+Laptop vs. smartphones
 
 
 ;More laptops
-More laptops
+Mais laptops
 
 
 ;More smart phones
@@ -72,7 +72,7 @@ Mais smartphones
 
 
 ;Laptop
-Laptop
+Laptop {ok}
 
 
 ;Smart phone
