@@ -76,7 +76,7 @@ Laptop
 
 
 ;Smart phone
-Smart phone
+Smartphone
 
 
 ;US
@@ -84,7 +84,7 @@ US {ok}
 
 
 ;UK
-UK
+UK {ok}
 
 
 ;Canada
@@ -165,7 +165,7 @@ Very Tech Savvy
 
 # Graphic 06: https://s3.amazonaws.com/redpen-prod/red-pen-ccdaa8dd-579d-44de-a50f-eabb00f9b039.jpg
 ;Who should be responsible for making connected devices secure?
-Who should be responsible for making connected devices secure?
+Quem deveria ser responsável por tornar os dispositivos conectados seguros?
 
 
 ;Don’t know / unsure
@@ -190,32 +190,32 @@ Who do people trust to help them stay secure online?
 
 
 ;Non-profits
-Non-profits
+Organizações sem fins lucrativos
 
 
 ;Don’t know who to trust
-Don’t know who to trust
+Não sabem em quem confiar
 
 
 ;Media
-Media
+Mídia
 
 
 ;Government
-Government
+Governo
 
 
 # Graphic 08: https://s3.amazonaws.com/redpen-prod/red-pen-7e462906-baa9-452e-cdf4-c802c47f8908.jpg
 ;What are people most looking forward to in a connected future?
-What are people most looking forward to in a connected future?
+O que as pessoas mais esperam de um futuro conectado?
 
 
 ;Make life easier
-Make life easier
+Tornar a vida mais fácil
 
 
 ;Fun
-Fun
+Diversão
 
 
 ;Make us smarter and better educated
@@ -236,7 +236,7 @@ Outro
 
 # Graphic 09: https://s3.amazonaws.com/redpen-prod/red-pen-ff89b5fa-855f-4e91-8357-23d1affc29f6.jpg
 ;What do people care about when shopping for a connected product?
-What do people care about when shopping for a connected product?
+Com o que as pessoas se importam ao comprar um produto conectado?
 
 
 ;Price
@@ -261,7 +261,7 @@ Privacidade
 
 # Graphic 10: https://s3.amazonaws.com/redpen-prod/red-pen-16f620b8-28f0-4d81-f4ed-f093a0129469.jpg
 ;What tech terms are people comfortable explaining to a friend?
-What tech terms are people comfortable explaining to a friend?
+Quais termos técnicos as pessoas se sentem confortáveis ao explicar para um amigo?
 
 
 ;IoT
