@@ -3,7 +3,7 @@
 
 # Generic graphic to be shared on social media: https://s3.amazonaws.com/redpen-prod/red-pen-6e5aa54c-f0c0-42f0-90d6-b82a4150ba89.jpg
 ;How Connected Are You? <br>The Results
-How Connected Are You? <br>The Results
+¿Cómo estás conectado? <br>Los resultados
 
 
 # LIMIT: 116 characters.
@@ -15,13 +15,13 @@ Food for thought: 10 interesting stats from our #IoT survey that may surprise yo
 # LIMIT: 116 characters.
 # Used on social media with the generic social graphic.
 ;We asked the world “How Connected are You?” for our #IoT survey. Here are the results:
-We asked the world “How Connected are You?” for our #IoT survey. Here are the results:
+Le preguntamos al mundo “¿Cómo estás conectado” en nuestra encuesta #IoT. Estos son los resultados:
 
 
 # LIMIT: 116 characters.
 # Used on social media with graphic #3.
 ;Smart TVs, fitness trackers and smart appliances are the most popular connected devices.
-Smart TVs, fitness trackers and smart appliances are the most popular connected devices.
+Los dispositivos conectados más populares son TVs inteligentes, rastreadores de fitness y dispositivos inteligentes.
 
 
 # LIMIT: 116 characters.
@@ -72,7 +72,7 @@ More smart phones
 
 
 ;Laptop
-Laptop
+Equipo portátil
 
 
 ;Smart phone
@@ -194,15 +194,15 @@ Sin ánimo de lucro
 
 
 ;Don’t know who to trust
-Don’t know who to trust
+No sabes en quién confiar
 
 
 ;Media
-Media
+Media {ok}
 
 
 ;Government
-Government
+Gobierno
 
 
 # Graphic 08: https://s3.amazonaws.com/redpen-prod/red-pen-7e462906-baa9-452e-cdf4-c802c47f8908.jpg
@@ -215,7 +215,7 @@ Make life easier
 
 
 ;Fun
-Fun
+Divertido
 
 
 ;Make us smarter and better educated
@@ -231,7 +231,7 @@ None of the above
 
 
 ;Other
-Other
+Otros
 
 
 # Graphic 09: https://s3.amazonaws.com/redpen-prod/red-pen-ff89b5fa-855f-4e91-8357-23d1affc29f6.jpg
@@ -240,23 +240,23 @@ What do people care about when shopping for a connected product?
 
 
 ;Price
-Price
+Precio
 
 
 ;Features
-Features
+Características
 
 
 ;Reliability
-Reliability
+Credibilidad
 
 
 ;Security
-Security
+Seguridad
 
 
 ;Privacy
-Privacy
+Privacidad
 
 
 # Graphic 10: https://s3.amazonaws.com/redpen-prod/red-pen-16f620b8-28f0-4d81-f4ed-f093a0129469.jpg
@@ -273,10 +273,10 @@ Connected devices
 
 
 ;VPN
-VPN
+VPN {ok}
 
 
 ;TOR
-TOR
+TOR {ok}
 
 
