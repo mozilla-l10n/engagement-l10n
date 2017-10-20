@@ -33,42 +33,42 @@ The connected future is a scary concept for 31% of those who say they’re not �
 # LIMIT: none.
 # Used on social media with graphic #5.
 ;Survey respondents are divided over who is responsible for making #IoT products secure. What do you think?
-Survey respondents are divided over who is responsible for making #IoT products secure. What do you think?
+Los encuestados no se ponen de acuerdo a la hora de saber quién es responsable de la seguridad de los dispositivos #IoT. ¿Tú qué opinas?
 
 
 # LIMIT: 116 characters.
 # Used on social media with graphic #7.
 ;Only 2% of respondents trust that the government can help protect them online.
-Only 2% of respondents trust that the government can help protect them online.
+Solo un 2% de los encuestados cree que el gobierno puede ayudar a protegerlos en línea.
 
 
 # LIMIT: 116 characters.
 # Used on social media with graphic #9.
 ;Price is the number one consideration when it comes to shopping for a new #IoT device.
-Price is the number one consideration when it comes to shopping for a new #IoT device.
+El precio es lo primero a tener en cuenta a la hora de comprar un nuevo dispositivo #IoT.
 
 
 # Email callout image: https://s3.amazonaws.com/redpen-prod/red-pen-f23cef54-e47e-4bca-cfed-72a323d89ee5.jpg
 ;How Connected Are You? <br>See the survey results.
-How Connected Are You? <br>See the survey results.
+¿Cómo estás conectado? <br>Mira los resultados de la encuesta.
 
 
 # Graphic 01: https://s3.amazonaws.com/redpen-prod/red-pen-56cad67c-91ce-49b6-83f9-da1e4d513106.jpg
 ;189,770 people responded to our survey
-189,770 people responded to our survey
+189.700 personas respondieron a nuestra encuesta
 
 
 # Graphic 02: https://s3.amazonaws.com/redpen-prod/red-pen-dbdcb615-8069-4ac1-c996-42df43919f55.jpg
 ;Laptop vs. smart phones
-Laptop vs. smart phones
+Portátiles vs teléfonos inteligentes
 
 
 ;More laptops
-More laptops
+Más portátiles
 
 
 ;More smart phones
-More smart phones
+Más teléfonos inteligentes
 
 
 ;Laptop
@@ -76,7 +76,7 @@ Equipo portátil
 
 
 ;Smart phone
-Smart phone
+Teléfono inteligente
 
 
 ;US
@@ -110,7 +110,7 @@ México
 
 # Graphic 03: https://s3.amazonaws.com/redpen-prod/red-pen-4fd51e90-3e2f-48c4-a2fa-656c074c467a.jpg
 ;What are the most popular smart devices owned?
-What are the most popular smart devices owned?
+¿Cuáles son los dispositivos inteligentes más usados?
 
 
 ;Brazil, Argentina, and Mexico
@@ -126,15 +126,15 @@ Estados Unidos
 
 
 ;Smart TVs
-Smart TVs
+TVs inteligentes
 
 
 ;Fitness Trackers
-Fitness Trackers
+Rastreadores de fitness
 
 
 ;Smart Appliances
-Smart Appliances
+Dispositivos inteligentes
 
 
 # Graphic 04: https://s3.amazonaws.com/redpen-prod/red-pen-233fb749-4958-4795-a3ce-49baf9ccb23e.jpg
@@ -144,7 +144,7 @@ Smart Appliances
 
 # Graphic 05: https://s3.amazonaws.com/redpen-prod/red-pen-3da890f0-4e64-44e1-8103-ac894fa98090.jpg
 ;Percentage of people afraid of losing their privacy
-Percentage of people afraid of losing their privacy
+Porcentaje de personas que temen perder su privacidad
 
 
 ;Least Tech Savvy
@@ -165,15 +165,15 @@ Very Tech Savvy
 
 # Graphic 06: https://s3.amazonaws.com/redpen-prod/red-pen-ccdaa8dd-579d-44de-a50f-eabb00f9b039.jpg
 ;Who should be responsible for making connected devices secure?
-Who should be responsible for making connected devices secure?
+¿Quién debería responsabilizarse por la seguridad d elos dispositivos conectados?
 
 
 ;Don’t know / unsure
-Don’t know / unsure
+No lo sé / No estoy seguro
 
 
 ;Manufacturer
-Manufacturer
+Fabricante
 
 
 ;Individuals
@@ -186,7 +186,7 @@ Gobiernos
 
 # Graphic 07: https://s3.amazonaws.com/redpen-prod/red-pen-141593f7-a982-4a09-dae7-09a6e0644c2d.jpg
 ;Who do people trust to help them stay secure online?
-Who do people trust to help them stay secure online?
+¿En quién confía la gente para garantizar su seguridad en línea?
 
 
 ;Non-profits
@@ -207,11 +207,11 @@ Gobierno
 
 # Graphic 08: https://s3.amazonaws.com/redpen-prod/red-pen-7e462906-baa9-452e-cdf4-c802c47f8908.jpg
 ;What are people most looking forward to in a connected future?
-What are people most looking forward to in a connected future?
+¿Qué es lo que más quiere la gente del próximo futuro conectado?
 
 
 ;Make life easier
-Make life easier
+Una vida más fácil
 
 
 ;Fun
@@ -219,15 +219,15 @@ Divertido
 
 
 ;Make us smarter and better educated
-Make us smarter and better educated
+Ser más inteligentes y más educados
 
 
 ;Bring the world together
-Bring the world together
+Acercar y unir a todo el mundo
 
 
 ;None of the above
-None of the above
+Ninguno de los anteriores
 
 
 ;Other
@@ -236,7 +236,7 @@ Otros
 
 # Graphic 09: https://s3.amazonaws.com/redpen-prod/red-pen-ff89b5fa-855f-4e91-8357-23d1affc29f6.jpg
 ;What do people care about when shopping for a connected product?
-What do people care about when shopping for a connected product?
+¿A qué le da más importancia la gente a la hora de comprar un producto conectado?
 
 
 ;Price
@@ -261,15 +261,15 @@ Privacidad
 
 # Graphic 10: https://s3.amazonaws.com/redpen-prod/red-pen-16f620b8-28f0-4d81-f4ed-f093a0129469.jpg
 ;What tech terms are people comfortable explaining to a friend?
-What tech terms are people comfortable explaining to a friend?
+¿Qué términos tecnológicos cree la gente que es capaz de explicar a sus amigos?
 
 
 ;IoT
-IoT
+IoT {ok}
 
 
 ;Connected devices
-Connected devices
+Dispositivos conectados
 
 
 ;VPN
