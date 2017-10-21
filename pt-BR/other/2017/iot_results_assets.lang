@@ -105,7 +105,7 @@ México
 
 # Example for formatting purposes
 ;12.34%
-12.34%
+12.34% {ok}
 
 
 # Graphic 03: https://s3.amazonaws.com/redpen-prod/red-pen-4fd51e90-3e2f-48c4-a2fa-656c074c467a.jpg
@@ -126,7 +126,7 @@ Estados Unidos
 
 
 ;Smart TVs
-Smart TVs
+TVs inteligentes
 
 
 ;Fitness Trackers
