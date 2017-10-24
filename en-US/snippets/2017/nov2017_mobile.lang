@@ -3,241 +3,253 @@
 ## NOTE: Brand names stay in English except when noted.
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 ;Private browsing and nothing else.
 Private browsing and nothing else.
 
 
-# CTA button limit: 22 characters, including spaces.
+# CTA button
+## MAX_LENGTH: 22
 # Firefox Focus remains in English. Firefox Klar in German.
 ;Get Firefox Focus
 Get Firefox Focus
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 ;Need always-on private browsing?
 Need always-on private browsing?
 
 
-# CTA button limit: 22 characters, including spaces.
+# CTA button
+## MAX_LENGTH: 22
 # Firefox Focus remains in English. Firefox Klar in German.
 ;Try Firefox Focus
 Try Firefox Focus
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 ;Want a browser that's always private?
 Want a browser that's always private?
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 # No noise here means no irrelevant or meaningless information.
 # Pocket remains in English.
 ;Use Pocket to save the best of the web. No distractions, no noise.
 Use Pocket to save the best of the web. No distractions, no noise.
 
 
-# CTA button limit: 22 characters, including spaces.
+# CTA button
+## MAX_LENGTH: 22
 # If necessary, shorten it to "Get Pocket".
 # Pocket remains in English.
 ;Get the Pocket App
 Get the Pocket App
 
 
-# Mobile Banners
-# text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
+# Omit "Check it out." if necessary to keep it under character limitation.
 ;Pocket discovers great content based on the stuff you save. Check it out.
 Pocket discovers great content based on the stuff you save. Check it out.
 
 
-# CTA button limit: 22 characters, including spaces.
+# CTA button
+## MAX_LENGTH: 22
 ;Learn More
 Learn More
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 # Sync remains in English.
 ;Get Sync and share saved bookmarks with other devices.
 Get Sync and share saved bookmarks with other devices.
 
 
-# CTA button limit: 22 characters, including spaces.
+# CTA button
+## MAX_LENGTH: 22
 # Sync remains in English.
 ;Sign Up For Sync
 Sign Up For Sync
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 # Sync remains in English.
 ;See how you can Sync your bookmarks across all of your devices.
 See how you can Sync your bookmarks across all of your devices.
 
 
-# CTA button limit: 22 characters, including spaces.
+# CTA button
+## MAX_LENGTH: 22
 # Sync remains in English.
 ;Get Sync
 Get Sync
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 # Sync remains in English.
 ;Get Sync and share saved passwords with other devices.
 Get Sync and share saved passwords with other devices.
 
 
-# Mobile Banners
+# Mobile banner
+## MAX_LENGTH: 79
 # Blank slate means there is no record, data or history.
-# Text limit: 79 characters, including spaces.
+# Omit "favorite" if necessary to keep it under character limitation.
 ;New tabs can show your search history, your favorite sites or be a blank slate.
 New tabs can show your search history, your favorite sites or be a blank slate.
 
 
-# CTA button limit: 22 characters, including spaces.
+# CTA button
+## MAX_LENGTH: 22
 # If necessary, shorten it to "Go to Settings"
 ;Go to New Tabs Settings
 Go to New Tabs Settings
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 ;Your tabs your way. Customize your tab settings.
 Your tabs your way. Customize your tab settings.
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 ;Turn your favorite site into your homepage.
 Turn your favorite site into your homepage.
 
 
-# CTA button limit: 22 characters, including spaces.
+# CTA button
+## MAX_LENGTH: 22
 # If necessary, shorten it to "Go to Settings".
 ;Go to Homepage Settings
 Go to Homepage Settings
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 ;Get where you want to go faster by making your favorite site your homepage.
 Get where you want to go faster by making your favorite site your homepage.
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 ;Make your favorite site your home page.
 Make your favorite site your home page.
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 ;Make any site your homepage.
 Make any site your homepage.
 
 
-# CTA button limit: 22 characters, including spaces.
+# CTA button
+## MAX_LENGTH: 22
 # If necessary, shorten it to "Open to Settings".
 ;Open Homepage Settings
 Open Homepage Settings
 
 
-# Mobile Banners
-# Text limit: 79 characters, including spaces.
+# Mobile banner
+## MAX_LENGTH: 79
 ;Get the results you want. Firefox lets you choose your search engine.
 Get the results you want. Firefox lets you choose your search engine.
 
 
-# CTA button limit: 22 characters, including spaces.
+# CTA button
+## MAX_LENGTH: 22
 # If necessary, shorten it to "Open Settings".
 ;Open Search Settings
 Open Search Settings
 
 
-# Mobile pre-push notifications
-# Title limit: 26 characters, including spaces.
+# Mobile pre-push notification
+## MAX_LENGTH: 26
 ;Hints from Firefox
 Hints from Firefox
 
 
-# Mobile pre-push notifications
-# Message limit: 74 characters, including spaces.
+# Message
+## MAX_LENGTH: 74
 ;Turn on notifications to get the most from your browser.
 Turn on notifications to get the most from your browser.
 
 
-# Mobile pre-push notifications
-# Button limit: 13 characters, including spaces.
+# Button
+## MAX_LENGTH: 13
 ;Don't enable
 Don't enable
 
 
-# Mobile pre-push notifications
-# Button limit: 13 characters, including spaces.
+# Button
+## MAX_LENGTH: 13
 ;Enable
 Enable
 
 
-# Mobile pre-push notifications
-# Title limit: 26 characters, including spaces.
+# Mobile pre-push notification
+## MAX_LENGTH: 26
 ;Tap for tips
 Tap for tips
 
 
-# Mobile pre-push notifications
-# Message limit: 74 characters, including spaces.
+# Message
+## MAX_LENGTH: 74
 ;Let Firefox send you notifications to improve your browsing.
 Let Firefox send you notifications to improve your browsing.
 
 
-# Mobile dialog
-# Message limit: 105 characters, including spaces.
+# Mobile dialog message
+## MAX_LENGTH: 105
 ;You can make Firefox your default browser (for opening links from other apps).
 ;You can make Firefox your default browser (for opening links from other apps).
 
 
 # Mobile dialog button
-# Button limit: 13 characters, including spaces.
+## MAX_LENGTH: 13
 ;Cancel
 Cancel
 
 
 # Mobile dialog button
-# Button limit: 13 characters, including spaces.
+## MAX_LENGTH: 13
 ;Open Settings
 Open Settings
 
 
-# Mobile dialog
-# Message limit: 105 characters, including spaces.
+# Mobile dialog message
+## MAX_LENGTH: 105
 ;Put customization and control on autopilot. Make Firefox your default browser.
 Put customization and control on autopilot. Make Firefox your default browser.
 
 
-# Mobile dialog
-# Message limit: 105 characters, including spaces.
+# Mobile dialog message
+## MAX_LENGTH: 105
 ;Get the results you want. Firefox lets you choose your search engine.
 Get the results you want. Firefox lets you choose your search engine.
 
 
-# Mobile dialog
-# Message limit: 105 characters, including spaces.
+# Mobile dialog message
+## MAX_LENGTH: 105
 ;Tip: Choose your default search engine in settings.
 Tip: Choose your default search engine in settings.
 
 
-# Mobile dialog
-# Message limit: 105 characters, including spaces.
+# Mobile dialog message
+## MAX_LENGTH: 105
 ;See how you can Sync your bookmarks across all of your devices.
 See how you can Sync your bookmarks across all of your devices.
 
 
 # Mobile dialog button
-# Button limit: 13 characters, including spaces.
+## MAX_LENGTH: 13
 ;Sign Up
 Sign Up
