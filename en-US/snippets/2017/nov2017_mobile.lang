@@ -1,0 +1,243 @@
+## NOTE: Reference bug 1410997. Deadline: 10 November, 2017.
+## NOTE: Guidelines on localizing snippets: https://goo.gl/nEhdt4. The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+## NOTE: Snippet campaigns for mobile: character limitation includes spaces
+## NOTE: Brand names stay in English except when noted.
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;Private browsing and nothing else.
+Private browsing and nothing else.
+
+
+# CTA button character limit: 22 characters, including spaces.
+;Get Firefox Focus
+Get Firefox Focus
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;Need always-on private browsing?
+Need always-on private browsing?
+
+
+# CTA button character limit: 22 characters, including spaces.
+# Firefox Focus remains in English. Firefox Klar in German.
+;Try Firefox Focus
+Try Firefox Focus
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;Want a browser that's always private?
+Want a browser that's always private?
+
+
+# CTA button character limit: 22 characters, including spaces.
+# Firefox Focus remains in English. Firefox Klar in German.
+;Get Firefox Focus
+Get Firefox Focus
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+# Pocket remains in English.
+;Use Pocket to save the best of the web. No distractions, no noise.
+Use Pocket to save the best of the web. No distractions, no noise.
+
+
+# CTA button character limit: 22 characters, including spaces.
+# If necessary, shorten it to "Get Pocket".
+# Pocket remains in English.
+;Get the Pocket App
+Get the Pocket App
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;Pocket discovers great content based on the stuff you save. Check it out.
+Pocket discovers great content based on the stuff you save. Check it out.
+
+
+# CTA button character limit: 22 characters, including spaces.
+;Learn More
+Learn More
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+# Sync remains in English.
+;Get Sync and share saved bookmarks with other devices.
+Get Sync and share saved bookmarks with other devices.
+
+
+# CTA button character limit: 22 characters, including spaces.
+# Sync remains in English.
+;Sign Up For Sync
+Sign Up For Sync
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+# Sync remains in English.
+;See how you can Sync your bookmarks across all of your devices.
+See how you can Sync your bookmarks across all of your devices.
+
+
+# CTA button character limit: 22 characters, including spaces.
+# Sync remains in English.
+;Get Sync
+Get Sync
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+# Sync remains in English.
+;Get Sync and share saved passwords with other devices.
+Get Sync and share saved passwords with other devices.
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;New tabs can show your search history, your favorite sites or be a blank slate.
+New tabs can show your search history, your favorite sites or be a blank slate.
+
+
+# CTA button character limit: 22 characters, including spaces.
+;Go to New Tabs Settings
+Go to New Tabs Settings
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;Your tabs your way. Customize your tab settings.
+Your tabs your way. Customize your tab settings.
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;Turn your favorite site into your homepage.
+Turn your favorite site into your homepage.
+
+
+# CTA button character limit: 22 characters, including spaces.
+# If necessary, shorten it to "Go to Settings".
+;Go to Homepage Settings
+Go to Homepage Settings
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;Get where you want to go faster by making your favorite site your homepage.
+Get where you want to go faster by making your favorite site your homepage.
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;Make your favorite site your home page.
+Make your favorite site your home page.
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;Make any site your homepage.
+Make any site your homepage.
+
+
+# CTA button character limit: 22 characters, including spaces.
+# If necessary, shorten it to "Open to Settings".
+;Open Homepage Settings
+Open Homepage Settings
+
+
+# Mobile Banners
+# Body character limit: 79 characters, including spaces.
+;Get the results you want. Firefox lets you choose your search engine.
+Get the results you want. Firefox lets you choose your search engine.
+
+
+# CTA button character limit: 22 characters, including spaces.
+# If necessary, shorten it to "Open to Settings".
+;Open Search Settings
+Open Search Settings
+
+
+# Mobile pre-push notifications
+# Title length limit: 26 characters, including spaces.
+;Hints from Firefox
+Hints from Firefox
+
+
+# Mobile pre-push notifications
+# Message length limit: 74 characters, including spaces.
+;Turn on notifications to get the most from your browser.
+Turn on notifications to get the most from your browser.
+
+
+# Mobile pre-push notifications
+# Button length limit: 13 including space.
+;Don't enable
+Don't enable
+
+
+# Mobile pre-push notifications
+# Button length limit: 13 including space.
+;Enable
+Enable
+
+
+# Mobile pre-push notifications
+# Title length limit: 26 characters, including spaces.
+;Tap for tips
+Tap for tips
+
+
+# Mobile pre-push notifications
+# Message length limit: 74 characters, including spaces.
+;Let Firefox send you notifications to improve your browsing.
+Let Firefox send you notifications to improve your browsing.
+
+
+# Mobile dialog
+# Message lenth limit: 105 characters, including spaces.
+;You can make Firefox your default browser (for opening links from other apps).
+;You can make Firefox your default browser (for opening links from other apps).
+
+
+# Mobile dialog button
+# Cancel button length limit: 13 including space.
+;Cancel
+Cancel
+
+
+# Mobile dialog button
+# Open button length limit: 13 including space.
+;Open Settings
+Open Settings
+
+
+;Put customization and control on autopilot. Make Firefox your default browser.
+Put customization and control on autopilot. Make Firefox your default browser.
+
+
+# Mobile dialog
+# Message lenth limit: 105 characters, including spaces.
+;Get the results you want. Firefox lets you choose your search engine.
+Get the results you want. Firefox lets you choose your search engine.
+
+
+# Mobile dialog
+# Message lenth limit: 105 characters, including spaces.
+;Tip: Choose your default search engine in settings.
+Tip: Choose your default search engine in settings.
+
+
+# Mobile dialog
+# Message lenth limit: 105 characters, including spaces.
+;See how you can Sync your bookmarks across all of your devices.
+See how you can Sync your bookmarks across all of your devices.
+
+
+# Mobile dialog button
+# Open button length limit: 13 including space.
+;Sign Up
+Sign Up
