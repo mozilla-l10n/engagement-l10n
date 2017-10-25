@@ -11,7 +11,7 @@ Private browsing and nothing else.
 # Button label: 22 characters
 # Firefox Focus remains in English. Replace with Firefox Klar in German.
 ;Get Firefox Focus
-Get Firefox Focus
+Dapatkan Firefox Focus
 
 
 # Message limit: 79 characters
@@ -22,7 +22,7 @@ Need always-on private browsing?
 # Button label: 22 characters
 # Firefox Focus remains in English. Replace with Firefox Klar in German.
 ;Try Firefox Focus
-Try Firefox Focus
+Cobalah Firefox Focus
 
 
 # Message limit: 79 characters
@@ -160,12 +160,12 @@ Turn on notifications to get the most from your browser.
 
 # Button label: 13 characters
 ;Don’t enable
-Don’t enable
+Jgn aktifkan
 
 
 # Button label: 13 characters
 ;Enable
-Enable
+Aktifkan
 
 
 # Message limit: 26 characters
@@ -185,12 +185,12 @@ You can make Firefox your default browser (for opening links from other apps).
 
 # Button label: 13 characters
 ;Cancel
-Cancel
+Batal
 
 
 # Button label: 13 characters
 ;Open Settings
-Open Settings
+Buka Setelan
 
 
 # Message limit: 105 characters
