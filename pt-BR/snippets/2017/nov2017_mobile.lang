@@ -133,74 +133,74 @@ Defina qualquer site como sua página inicial.
 # Button label: 22 characters
 # If necessary, shorten it to "Open Settings".
 ;Open Homepage Settings
-Open Homepage Settings
+Abrir configurações
 
 
 # Message limit: 105 characters
 # Message limit: 79 characters
 ;Get the results you want. Firefox lets you choose your search engine.
-Get the results you want. Firefox lets you choose your search engine.
+Ache o que quiser. O Firefox permite que você escolha o mecanismo de pesquisa.
 
 
 # Button label: 22 characters
 # If necessary, shorten it to "Open Settings".
 ;Open Search Settings
-Open Search Settings
+Abrir configurações
 
 
 # Message limit: 26 characters
 ;Hints from Firefox
-Hints from Firefox
+Sugestões do Firefox
 
 
 # Message limit: 74 characters
 ;Turn on notifications to get the most from your browser.
-Turn on notifications to get the most from your browser.
+Ative as notificações para obter o máximo do seu navegador.
 
 
 # Button label: 13 characters
 ;Don’t enable
-Don’t enable
+Não ativar
 
 
 # Button label: 13 characters
 ;Enable
-Enable
+Ativar
 
 
 # Message limit: 26 characters
 ;Tap for tips
-Tap for tips
+Toque para dicas
 
 
 # Message limit: 74 characters
 ;Let Firefox send you notifications to improve your browsing.
-Let Firefox send you notifications to improve your browsing.
+Deixe o Firefox lhe enviar notificações para melhorar a sua navegação.
 
 
 # Message limit: 105 characters
 ;You can make Firefox your default browser (for opening links from other apps).
-You can make Firefox your default browser (for opening links from other apps).
+Você pode tornar o Firefox o seu navegador padrão (para abrir links de outros aplicativos).
 
 
 # Button label: 13 characters
 ;Cancel
-Cancel
+Cancelar
 
 
 # Button label: 13 characters
 ;Open Settings
-Open Settings
+Configurações
 
 
 # Message limit: 105 characters
 ;Put customization and control on autopilot. Make Firefox your default browser.
-Put customization and control on autopilot. Make Firefox your default browser.
+Coloque a personalização e o controle no piloto automático. Torne o Firefox o seu navegador padrão.
 
 
 # Message limit: 105 characters
 ;Tip: Choose your default search engine in settings.
-Tip: Choose your default search engine in settings.
+Dica: escolha o mecanismo de pesquisa padrão nas configurações.
 
 
 # Button label: 13 characters
