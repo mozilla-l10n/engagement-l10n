@@ -11,48 +11,48 @@ Private browsing and nothing else.
 # Button label: 22 characters
 # Firefox Focus remains in English. Replace with Firefox Klar in German.
 ;Get Firefox Focus
-Get Firefox Focus
+下載 Firefox Focus
 
 
 # Message limit: 79 characters
 ;Need always-on private browsing?
-Need always-on private browsing?
+需要能持續開啟的隱私保護瀏覽器嗎？
 
 
 # Button label: 22 characters
 # Firefox Focus remains in English. Replace with Firefox Klar in German.
 ;Try Firefox Focus
-Try Firefox Focus
+試試 Firefox Focus
 
 
 # Message limit: 79 characters
 ;Want a browser that’s always private?
-Want a browser that’s always private?
+想要一套隨時都能保持隱私的瀏覽器嗎？
 
 
 # Message limit: 79 characters
 # No noise here means no irrelevant or meaningless information.
 # Pocket remains in English.
 ;Use Pocket to save the best of the web. No distractions, no noise.
-Use Pocket to save the best of the web. No distractions, no noise.
+使用 Pocket 把網路上的精華內容儲存下來，閱讀精華不分心。
 
 
 # Button label: 22 characters
 # If necessary, shorten it to "Get Pocket".
 # Pocket remains in English.
 ;Get the Pocket App
-Get the Pocket App
+下載 Pocket App
 
 
 # Message limit: 79 characters
 # Omit "Check it out." if necessary to keep it under character limitation.
 ;Pocket discovers great content based on the stuff you save. Check it out.
-Pocket discovers great content based on the stuff you save. Check it out.
+Pocket 可根據您儲存的資料，協助探索不同內容。快試試看。
 
 
 # Button label: 22 characters
 ;Learn More
-Learn More
+了解更多
 
 
 # Message limit: 79 characters
@@ -64,7 +64,7 @@ Get Sync and share saved bookmarks with other devices.
 # Button label: 22 characters
 # Sync remains in English.
 ;Sign Up For Sync
-Sign Up For Sync
+註冊 Sync
 
 
 # Message limit: 105 characters
@@ -77,7 +77,7 @@ See how you can Sync your bookmarks across all of your devices.
 # Button label: 22 characters
 # Sync remains in English.
 ;Get Sync
-Get Sync
+開啟 Sync
 
 
 # Message limit: 79 characters
@@ -96,7 +96,7 @@ New tabs can show your search history, your favorite sites or be a blank slate.
 # Button label: 22 characters
 # If necessary, shorten it to "Go to Settings"
 ;Go to New Tabs Settings
-Go to New Tabs Settings
+前往新分頁設定
 
 
 # Message limit: 79 characters
@@ -112,7 +112,7 @@ Turn your favorite site into your homepage.
 # Button label: 22 characters
 # If necessary, shorten it to "Go to Settings".
 ;Go to Homepage Settings
-Go to Homepage Settings
+前往首頁設定
 
 
 # Message limit: 79 characters
@@ -133,7 +133,7 @@ Make any site your homepage.
 # Button label: 22 characters
 # If necessary, shorten it to "Open Settings".
 ;Open Homepage Settings
-Open Homepage Settings
+開啟首頁設定
 
 
 # Message limit: 105 characters
@@ -145,52 +145,52 @@ Get the results you want. Firefox lets you choose your search engine.
 # Button label: 22 characters
 # If necessary, shorten it to "Open Settings".
 ;Open Search Settings
-Open Search Settings
+開啟搜尋設定
 
 
 # Message limit: 26 characters
 ;Hints from Firefox
-Hints from Firefox
+來自 Firefox 的小秘訣
 
 
 # Message limit: 74 characters
 ;Turn on notifications to get the most from your browser.
-Turn on notifications to get the most from your browser.
+開啟通知，讓您更了解您的瀏覽器。
 
 
 # Button label: 13 characters
 ;Don’t enable
-Don’t enable
+不要開啟
 
 
 # Button label: 13 characters
 ;Enable
-Enable
+開啟
 
 
 # Message limit: 26 characters
 ;Tap for tips
-Tap for tips
+點擊取得小秘訣
 
 
 # Message limit: 74 characters
 ;Let Firefox send you notifications to improve your browsing.
-Let Firefox send you notifications to improve your browsing.
+讓 Firefox 傳送通知給您，改善上網體驗。
 
 
 # Message limit: 105 characters
 ;You can make Firefox your default browser (for opening links from other apps).
-You can make Firefox your default browser (for opening links from other apps).
+您可以讓 Firefox 變成預設瀏覽器（從其他 App 開啟鏈結）。
 
 
 # Button label: 13 characters
 ;Cancel
-Cancel
+取消
 
 
 # Button label: 13 characters
 ;Open Settings
-Open Settings
+開啟設定
 
 
 # Message limit: 105 characters
