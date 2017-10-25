@@ -5,7 +5,7 @@
 
 # Message limit: 79 characters
 ;Private browsing and nothing else.
-Private browsing and nothing else.
+隱私保護，不被偷看。
 
 
 # Button label: 22 characters
@@ -58,7 +58,7 @@ Pocket 可根據您儲存的資料，協助探索不同內容。快試試看。
 # Message limit: 79 characters
 # Sync remains in English.
 ;Get Sync and share saved bookmarks with other devices.
-Get Sync and share saved bookmarks with other devices.
+開啟 Sync，跟您的其他裝置同步書籤。
 
 
 # Button label: 22 characters
@@ -71,7 +71,7 @@ Get Sync and share saved bookmarks with other devices.
 # Sync remains in English.
 # Message limit: 79 characters
 ;See how you can Sync your bookmarks across all of your devices.
-See how you can Sync your bookmarks across all of your devices.
+看看要如何使用 Sync 來跟您的其他裝置同步書籤。
 
 
 # Button label: 22 characters
@@ -83,14 +83,14 @@ See how you can Sync your bookmarks across all of your devices.
 # Message limit: 79 characters
 # Sync remains in English.
 ;Get Sync and share saved passwords with other devices.
-Get Sync and share saved passwords with other devices.
+開啟 Sync，跟您的其他裝置同步登入帳密。
 
 
 # Message limit: 79 characters
 # Blank slate means there is no record, data or history.
 # Omit "favorite" if necessary to keep it under character limitation.
 ;New tabs can show your search history, your favorite sites or be a blank slate.
-New tabs can show your search history, your favorite sites or be a blank slate.
+新分頁中能直接顯示您的搜尋紀錄、最愛網站或空白頁面。
 
 
 # Button label: 22 characters
@@ -101,12 +101,12 @@ New tabs can show your search history, your favorite sites or be a blank slate.
 
 # Message limit: 79 characters
 ;Your tabs your way. Customize your tab settings.
-Your tabs your way. Customize your tab settings.
+自訂分頁設定，用您的方式開分頁。
 
 
 # Message limit: 79 characters
 ;Turn your favorite site into your homepage.
-Turn your favorite site into your homepage.
+將您的最愛網站設為首頁。
 
 
 # Button label: 22 characters
@@ -122,12 +122,12 @@ Get where you want to go faster by making your favorite site your homepage.
 
 # Message limit: 79 characters
 ;Make your favorite site your home page.
-Make your favorite site your home page.
+將您的最愛網站設為首頁。
 
 
 # Message limit: 79 characters
 ;Make any site your homepage.
-Make any site your homepage.
+任何網站都可以是您的首頁。
 
 
 # Button label: 22 characters
@@ -200,11 +200,11 @@ Put customization and control on autopilot. Make Firefox your default browser.
 
 # Message limit: 105 characters
 ;Tip: Choose your default search engine in settings.
-Tip: Choose your default search engine in settings.
+秘訣: 可在設定中選擇預設搜尋引擎。
 
 
 # Button label: 13 characters
 ;Sign Up
-Sign Up
+註冊
 
 
