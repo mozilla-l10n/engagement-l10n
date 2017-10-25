@@ -11,7 +11,7 @@ Private browsing and nothing else.
 
 ## MAX_LENGTH: 22
 # Button label: 22 characters
-# Firefox Focus remains in English. Firefox Klar in German.
+# Firefox Focus remains in English. Replace with Firefox Klar in German.
 ;Get Firefox Focus
 Get Firefox Focus
 
@@ -24,15 +24,15 @@ Need always-on private browsing?
 
 ## MAX_LENGTH: 22
 # Button label: 22 characters
-# Firefox Focus remains in English. Firefox Klar in German.
+# Firefox Focus remains in English. Replace with Firefox Klar in German.
 ;Try Firefox Focus
 Try Firefox Focus
 
 
 ## MAX_LENGTH: 79
 # Message limit: 79 characters
-;Want a browser that's always private?
-Want a browser that's always private?
+;Want a browser that’s always private?
+Want a browser that’s always private?
 
 
 ## MAX_LENGTH: 79
@@ -153,7 +153,7 @@ Make any site your homepage.
 
 ## MAX_LENGTH: 22
 # Button label: 22 characters
-# If necessary, shorten it to "Open to Settings".
+# If necessary, shorten it to "Open Settings".
 ;Open Homepage Settings
 Open Homepage Settings
 
@@ -185,8 +185,8 @@ Turn on notifications to get the most from your browser.
 
 ## MAX_LENGTH: 13
 # Button label: 13 characters
-;Don't enable
-Don't enable
+;Don’t enable
+Don’t enable
 
 
 ## MAX_LENGTH: 13
@@ -210,7 +210,7 @@ Let Firefox send you notifications to improve your browsing.
 ## MAX_LENGTH: 105
 # Message limit: 105 characters
 ;You can make Firefox your default browser (for opening links from other apps).
-;You can make Firefox your default browser (for opening links from other apps).
+You can make Firefox your default browser (for opening links from other apps).
 
 
 ## MAX_LENGTH: 13
