@@ -9,7 +9,7 @@ Quanto sei connesso?<br>I risultati
 # LIMIT: 116 characters.
 # Used on social media with the generic social graphic.
 ;Food for thought: 10 interesting stats from our #IoT survey that may surprise you!
-Food for thought: 10 interesting stats from our #IoT survey that may surprise you!
+Spunti per la riflessione: 10 dati sorprendenti emersi dal sondaggio su #IoT
 
 
 # LIMIT: 116 characters.
@@ -39,7 +39,7 @@ Survey respondents are divided over who is responsible for making #IoT products 
 # LIMIT: 116 characters.
 # Used on social media with graphic #7.
 ;Only 2% of respondents trust that the government can help protect them online.
-Only 2% of respondents trust that the government can help protect them online.
+Solo il 2% dei partecipanti ha fiducia in iniziative statali per la protezione online.
 
 
 # LIMIT: 116 characters.
@@ -60,7 +60,7 @@ Quanto sei connesso?<br>Scopri i risultati del sondaggio.
 
 # Graphic 02: https://s3.amazonaws.com/redpen-prod/red-pen-dbdcb615-8069-4ac1-c996-42df43919f55.jpg
 ;Laptop vs. smart phones
-Laptop vs. smart phones
+La sfida tra portatili e smartphone
 
 
 ;More laptops
@@ -105,12 +105,12 @@ Messico
 
 # Example for formatting purposes
 ;12.34%
-12.34%
+12,34%
 
 
 # Graphic 03: https://s3.amazonaws.com/redpen-prod/red-pen-4fd51e90-3e2f-48c4-a2fa-656c074c467a.jpg
 ;What are the most popular smart devices owned?
-What are the most popular smart devices owned?
+Quali sono i dispositivi smart più diffusi?
 
 
 ;Brazil, Argentina, and Mexico
@@ -118,7 +118,7 @@ Brasile, Argentina e Messico
 
 
 ;Overall
-Overall
+Totale
 
 
 ;United States
@@ -165,7 +165,7 @@ Esperti
 
 # Graphic 06: https://s3.amazonaws.com/redpen-prod/red-pen-ccdaa8dd-579d-44de-a50f-eabb00f9b039.jpg
 ;Who should be responsible for making connected devices secure?
-Who should be responsible for making connected devices secure?
+Chi dovrebbe essere responsabile per la sicurezza dei dispositivi connessi?
 
 
 ;Don’t know / unsure
@@ -181,7 +181,7 @@ Utente
 
 
 ;Governments
-Governments
+Lo Stato
 
 
 # Graphic 07: https://s3.amazonaws.com/redpen-prod/red-pen-141593f7-a982-4a09-dae7-09a6e0644c2d.jpg
@@ -190,7 +190,7 @@ A chi ci affidiamo per la nostra sicurezza online?
 
 
 ;Non-profits
-Non-profits
+Organizzazioni non-profit
 
 
 ;Don’t know who to trust
@@ -202,12 +202,12 @@ Media {ok}
 
 
 ;Government
-Government
+Lo Stato
 
 
 # Graphic 08: https://s3.amazonaws.com/redpen-prod/red-pen-7e462906-baa9-452e-cdf4-c802c47f8908.jpg
 ;What are people most looking forward to in a connected future?
-What are people most looking forward to in a connected future?
+Che cosa speriamo di ottenere da un futuro connesso?
 
 
 ;Make life easier
@@ -236,7 +236,7 @@ Altro
 
 # Graphic 09: https://s3.amazonaws.com/redpen-prod/red-pen-ff89b5fa-855f-4e91-8357-23d1affc29f6.jpg
 ;What do people care about when shopping for a connected product?
-What do people care about when shopping for a connected product?
+Che cosa consideriamo durante l‘acquisto di un dispositivo connesso?
 
 
 ;Price
@@ -261,7 +261,7 @@ Privacy {ok}
 
 # Graphic 10: https://s3.amazonaws.com/redpen-prod/red-pen-16f620b8-28f0-4d81-f4ed-f093a0129469.jpg
 ;What tech terms are people comfortable explaining to a friend?
-What tech terms are people comfortable explaining to a friend?
+Quali termini del mondo digitale siamo in grado di spiegare a un amico?
 
 
 ;IoT
