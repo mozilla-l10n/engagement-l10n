@@ -11,7 +11,7 @@ Private browsing and nothing else.
 # Button label: 22 characters
 # Firefox Focus remains in English. Replace with Firefox Klar in German.
 ;Get Firefox Focus
-Get Firefox Focus
+Scarica Firefox Focus
 
 
 # Message limit: 79 characters
@@ -22,7 +22,7 @@ Need always-on private browsing?
 # Button label: 22 characters
 # Firefox Focus remains in English. Replace with Firefox Klar in German.
 ;Try Firefox Focus
-Try Firefox Focus
+Prova Firefox Focus
 
 
 # Message limit: 79 characters
@@ -41,7 +41,7 @@ Use Pocket to save the best of the web. No distractions, no noise.
 # If necessary, shorten it to "Get Pocket".
 # Pocket remains in English.
 ;Get the Pocket App
-Get the Pocket App
+Scarica l’app Pocket
 
 
 # Message limit: 79 characters
@@ -52,7 +52,7 @@ Pocket discovers great content based on the stuff you save. Check it out.
 
 # Button label: 22 characters
 ;Learn More
-Learn More
+Ulteriori informazioni
 
 
 # Message limit: 79 characters
@@ -64,7 +64,7 @@ Get Sync and share saved bookmarks with other devices.
 # Button label: 22 characters
 # Sync remains in English.
 ;Sign Up For Sync
-Sign Up For Sync
+Accedi per usare Sync
 
 
 # Message limit: 105 characters
@@ -77,20 +77,20 @@ See how you can Sync your bookmarks across all of your devices.
 # Button label: 22 characters
 # Sync remains in English.
 ;Get Sync
-Get Sync
+Attiva Sync
 
 
 # Message limit: 79 characters
 # Sync remains in English.
 ;Get Sync and share saved passwords with other devices.
-Get Sync and share saved passwords with other devices.
+Attiva Sync e condividi le password salvate con gli altri dispositivi.
 
 
 # Message limit: 79 characters
 # Blank slate means there is no record, data or history.
 # Omit "favorite" if necessary to keep it under character limitation.
 ;New tabs can show your search history, your favorite sites or be a blank slate.
-New tabs can show your search history, your favorite sites or be a blank slate.
+Ricerche? Siti preferiti? Nulla? Nelle nuove schede scegli tu cosa vedere.
 
 
 # Button label: 22 characters
@@ -150,27 +150,27 @@ Open Search Settings
 
 # Message limit: 26 characters
 ;Hints from Firefox
-Hints from Firefox
+Suggerimenti da Firefox
 
 
 # Message limit: 74 characters
 ;Turn on notifications to get the most from your browser.
-Turn on notifications to get the most from your browser.
+Attiva le notifiche per avere il massimo dal browser.
 
 
 # Button label: 13 characters
 ;Don’t enable
-Don’t enable
+Non attivare
 
 
 # Button label: 13 characters
 ;Enable
-Enable
+Attiva
 
 
 # Message limit: 26 characters
 ;Tap for tips
-Tap for tips
+Tocca per i suggerimenti
 
 
 # Message limit: 74 characters
@@ -185,7 +185,7 @@ You can make Firefox your default browser (for opening links from other apps).
 
 # Button label: 13 characters
 ;Cancel
-Cancel
+Annulla
 
 
 # Button label: 13 characters
@@ -205,6 +205,6 @@ Tip: Choose your default search engine in settings.
 
 # Button label: 13 characters
 ;Sign Up
-Sign Up
+Registrati
 
 
