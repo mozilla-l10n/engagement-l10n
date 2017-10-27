@@ -5,7 +5,7 @@
 
 # Message limit: 79 characters
 ;Private browsing and nothing else.
-Private browsing and nothing else.
+Navigazione anonima. Niente di più, niente di meno.
 
 
 # Button label: 22 characters
@@ -16,7 +16,7 @@ Scarica Firefox Focus
 
 # Message limit: 79 characters
 ;Need always-on private browsing?
-Need always-on private browsing?
+Ti serve la navigazione anonima sempre attiva?
 
 
 # Button label: 22 characters
@@ -27,14 +27,14 @@ Prova Firefox Focus
 
 # Message limit: 79 characters
 ;Want a browser that’s always private?
-Want a browser that’s always private?
+Cerchi un browser sempre in modalità navigazione anonima?
 
 
 # Message limit: 79 characters
 # No noise here means no irrelevant or meaningless information.
 # Pocket remains in English.
 ;Use Pocket to save the best of the web. No distractions, no noise.
-Use Pocket to save the best of the web. No distractions, no noise.
+Salva il meglio del Web con Pocket. Zero distrazioni, zero spam.
 
 
 # Button label: 22 characters
@@ -47,7 +47,7 @@ Scarica l’app Pocket
 # Message limit: 79 characters
 # Omit "Check it out." if necessary to keep it under character limitation.
 ;Pocket discovers great content based on the stuff you save. Check it out.
-Pocket discovers great content based on the stuff you save. Check it out.
+Pocket propone nuovi contenuti rilevanti basandosi su ciò che salvi. Provala.
 
 
 # Button label: 22 characters
@@ -58,7 +58,7 @@ Ulteriori informazioni
 # Message limit: 79 characters
 # Sync remains in English.
 ;Get Sync and share saved bookmarks with other devices.
-Get Sync and share saved bookmarks with other devices.
+Attiva Sync e accedi ai segnalibri salvati da tutti i tuoi dispositivi.
 
 
 # Button label: 22 characters
@@ -101,7 +101,7 @@ Impostazioni schede
 
 # Message limit: 79 characters
 ;Your tabs your way. Customize your tab settings.
-Your tabs your way. Customize your tab settings.
+Le tue schede, a modo tuo. Personalizza le impostazioni.
 
 
 # Message limit: 79 characters
@@ -112,7 +112,7 @@ Usa il tuo sito preferito come pagina iniziale.
 # Button label: 22 characters
 # If necessary, shorten it to "Go to Settings".
 ;Go to Homepage Settings
-Go to Homepage Settings
+Imposta homepage
 
 
 # Message limit: 79 characters
@@ -122,24 +122,24 @@ Raggiungi velocemente il tuo sito preferito impostandolo come pagina iniziale.
 
 # Message limit: 79 characters
 ;Make your favorite site your home page.
-Make your favorite site your home page.
+Scegli il tuo sito preferito come pagina iniziale.
 
 
 # Message limit: 79 characters
 ;Make any site your homepage.
-Make any site your homepage.
+Qualsiasi sito può diventare la tua pagina iniziale.
 
 
 # Button label: 22 characters
 # If necessary, shorten it to "Open Settings".
 ;Open Homepage Settings
-Open Homepage Settings
+Apri impostazioni
 
 
 # Message limit: 105 characters
 # Message limit: 79 characters
 ;Get the results you want. Firefox lets you choose your search engine.
-Get the results you want. Firefox lets you choose your search engine.
+Decidi dove cercare. Con Firefox puoi scegliere il tuo motore di ricerca.
 
 
 # Button label: 22 characters
@@ -175,12 +175,12 @@ Tocca per i suggerimenti
 
 # Message limit: 74 characters
 ;Let Firefox send you notifications to improve your browsing.
-Let Firefox send you notifications to improve your browsing.
+Permetti a Firefox di inviarti notifiche per migliorare la navigazione.
 
 
 # Message limit: 105 characters
 ;You can make Firefox your default browser (for opening links from other apps).
-You can make Firefox your default browser (for opening links from other apps).
+Imposta Firefox come browser predefinito per aprire i link dalle altre app.
 
 
 # Button label: 13 characters
