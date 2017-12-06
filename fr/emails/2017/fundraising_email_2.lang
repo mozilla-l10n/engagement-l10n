@@ -8,7 +8,7 @@
 # “Looking back, looking forward”,
 # or “The challenges ahead” if it’s not already your subject line #2.
 ;Where we are, and where we’re going
-Where we are, and where we’re going
+Où nous en sommes, et vers où nous nous dirigeons
 
 
 # Subject line #2. Feel free to adapt a different copy if that sounds better in your language:
@@ -18,7 +18,7 @@ Where we are, and where we’re going
 # “Looking back, looking forward”,
 # or “Where we are, and where we’re going” if it’s not already your subject line #1.
 ;The challenges ahead
-The challenges ahead
+Les défis qui nous attendent
 
 
 ;Hi [Firstname],
@@ -26,16 +26,16 @@ Bonjour [Firstname],
 
 
 ;I’m the Executive Director here at the Mozilla Foundation, and among other parts of my role, I’m responsible for overseeing our work to help protect the Internet.
-I’m the Executive Director here at the Mozilla Foundation, and among other parts of my role, I’m responsible for overseeing our work to help protect the Internet.
+Je suis le directeur général de la fondation Mozilla, et l’un de mes rôles est de superviser nos efforts de protection d’Internet.
 
 
 # This string will also be used as the preheader
 ;I wanted to send you a special thank you for everything you’ve helped us achieve this year.
-I wanted to send you a special thank you for everything you’ve helped us achieve this year.
+Je tenais à vous remercier tout particulièrement pour l’ensemble de ce que vous nous avez aidé à accomplir cette année.
 
 
 ;2017 has been one of the biggest years EVER in the fight for a free and open Internet.
-2017 has been one of the biggest years EVER in the fight for a free and open Internet.
+2017 fut l’une des années les plus importantes dans la lutte pour un Internet libre et ouvert.
 
 
 ;Between the campaign to protect Net Neutrality in the US, working to protect rights for content creators and Internet users in Europe, and the ever-growing threats to our privacy and security online, we’ve invested in some of our biggest campaign actions ever over the past few months.
@@ -113,6 +113,6 @@ Hi [firstname], we’re getting so much response already! Here’s that message 
 
 
 ;Original message:
-Original message:
+Message original&nbsp;:
 
 
