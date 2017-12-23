@@ -51,7 +51,7 @@ PARE: Aqui é onde você doa. Só vai levar um ou dois minutos do seu dia.
 
 
 ;CARRY ON: You are a good person. You deserve a cookie. Treat yourself!
-CARRY ON: You are a good person. You deserve a cookie. Treat yourself!
+CONTINUE: Você é uma pessoa incrível. Merece um doce. Sirva-se!
 
 
 ;THANK YOU: From everyone who works to make life on the internet better, thank you for giving a little (or a lot)!
@@ -60,6 +60,6 @@ OBRIGADO: De todos que trabalham para tornar a vida na Internet melhor, obrigado
 
 # Signature
 ;The Team at Mozilla
-The Team at Mozilla
+O time Mozilla
 
 
