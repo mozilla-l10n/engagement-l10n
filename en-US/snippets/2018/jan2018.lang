@@ -1,4 +1,4 @@
-## NOTE: Reference bug 1429866; Deadline: 1 Feburary, 2018
+## NOTE: Reference bug 1429866; Deadline: 1 February, 2018
 ## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
 ## NOTE: Campaign: cross platform promotions on a variety of topics
 ## NOTE: Try to limit character length to 160. It is ok if it goes over by a few.
@@ -6,9 +6,8 @@
 
 ## MAX_LENGTH: 160
 # LIMIT: 160 characters. Please rephrase as needed to fit.
-# Cool is another way of saying enviable and trendy.
-;Copy: Sunglasses repel harmful UV rays, make you look cool and give the bridge of your nose something to do. What’s not to love?
-Copy: Sunglasses repel harmful UV rays, make you look cool and give the bridge of your nose something to do. What’s not to love?
+;Sunglasses repel harmful UV rays, make you look cool and give the bridge of your nose something to do. What’s not to love?
+Sunglasses repel harmful UV rays, make you look cool and give the bridge of your nose something to do. What’s not to love?
 
 
 ## MAX_LENGTH: 160
@@ -74,6 +73,7 @@ Make Firefox even awesomer (awesomer is a word, right?) with something from our 
 ## MAX_LENGTH: 160
 # LIMIT: 160 characters. Please rephrase as needed to fit.
 # This snippet is meant to be silly. It makes light of conscious choosers by using food-related terms as a way to explain that Firefox is transparent and supports an open web.
+# If this concept is difficult to translate for the region or country, please skip it.
 ;Firefox is a free range, no hormones added, cruelty-free, 100% ethically sourced browser.
 Firefox is a free range, no hormones added, cruelty-free, 100% ethically sourced browser.
 
