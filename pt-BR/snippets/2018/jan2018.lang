@@ -22,7 +22,7 @@ A Mozilla é uma organização sem fins lucrativos dedicada a colocar você no c
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Tired of using Chrome to view your 2nd email or social account? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
-Tired of using Chrome to view your 2nd email or social account? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
+Não aguenta mais usar o Chrome para visualizar o seu outro e-mail ou rede social? Agora você pode fazer tudo no Firefox com o <a>Multi-Account Containers!</a>
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -30,7 +30,7 @@ Tired of using Chrome to view your 2nd email or social account? Now you can do i
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
-Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
+Não aguenta mais usar navegadores diferentes para visualizar o seu outro e-mail? Agora você pode fazer tudo no Firefox com o <a>Multi-Account Containers!</a>
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -38,7 +38,7 @@ Tired of using multiple browsers to view your 2nd email? Now you can do it all i
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Using private browsing mode to juggle multiple accounts? Now there's a better way. <a>Try Multi-Account Containers!</a>
-Using private browsing mode to juggle multiple accounts? Now there's a better way. <a>Try Multi-Account Containers!</a>
+Usando o modo de navegação privativa para gerenciar várias contas? Agora há uma maneira melhor. <a>Experimente o Multi-Account Containers!</a>
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -67,7 +67,7 @@ Make Firefox even awesomer (awesomer is a word, right?) with something from our 
 # This snippet is meant to be silly. It makes light of conscious choosers by using food-related terms as a way to explain that Firefox is transparent and supports an open web.
 # If this concept is difficult to translate for the region or country, please skip it.
 ;Firefox is a free range, no hormones added, cruelty-free, 100% ethically sourced browser.
-O Firefox é um navegador de livre, sem hormônios adicionais, sem crueldade e 100% de origem ética.
+O Firefox é um navegador livre, sem hormônios adicionais, sem crueldade e 100% de origem ética.
 
 
 # Try to keep the character length the same as English.
