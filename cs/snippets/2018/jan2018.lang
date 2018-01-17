@@ -7,14 +7,14 @@
 # LIMIT: 160 characters. Please rephrase as needed to fit.
 # Icon will be a pair of sunglasses.
 ;Sunglasses repel harmful UV rays, make you look cool and give the bridge of your nose something to do. What’s not to love?
-Sunglasses repel harmful UV rays, make you look cool and give the bridge of your nose something to do. What’s not to love?
+Sluneční brýle vás chrání proti UV záření, vypadáte s nimi dobře a váš nos je k něčemu užitečný. Nezapomeňte na ně ani v zimě.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
 # Campaign: Mozilla mission
 # To show what Mozilla stands for, if you have a suggestion for a page in your language that the snippet should link to, feel free to include it in your translation.
 ;Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good.
-Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good.
+Mozilla je mezinárodní nezisková organizace s cílem dát vám kontrolu nad vlastním online prožitkem a budoucností webu.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -22,7 +22,7 @@ Mozilla is a global non-profit dedicated to putting you in control of your onlin
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Tired of using Chrome to view your 2nd email or social account? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
-Tired of using Chrome to view your 2nd email or social account? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
+Už vás nebaví používat Chrome pro přihlášení k vašemu druhému účtu nebo e-mailu? Teď už můžete přímo ve Firefoxu s doplňkem <a>Multi-Account Containers</a>.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -30,7 +30,7 @@ Tired of using Chrome to view your 2nd email or social account? Now you can do i
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
-Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
+Už vás nebaví používat další prohlížeč pro přihlášení k vašemu druhému e-mailu? Teď už můžete přímo ve Firefoxu s doplňkem <a>Multi-Account Containers</a>.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -38,13 +38,13 @@ Tired of using multiple browsers to view your 2nd email? Now you can do it all i
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Using private browsing mode to juggle multiple accounts? Now there's a better way. <a>Try Multi-Account Containers!</a>
-Using private browsing mode to juggle multiple accounts? Now there's a better way. <a>Try Multi-Account Containers!</a>
+Používáte anonymní prohlížení pro přihlášení k více účtům najednou? Máme lepší nápad. Vyzkoušejte <a>Multi-Account Containers</a>.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
 # Campaign: Mozilla mission
 ;Thanks for choosing Firefox and supporting an independent web.
-Thanks for choosing Firefox and supporting an independent web.
+Děkujeme, že jste si vybrali Firefox a podporujete nezávislý a svobodný web.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -52,7 +52,7 @@ Thanks for choosing Firefox and supporting an independent web.
 # Link: https://support.mozilla.org/kb/control-whether-firefox-automatically-fills-forms
 # This snippet explains that Firefox can automatically fill in the fields of forms and that this feature saves the user time to do other things.
 ;Firefox can fill out forms for you, so you have more time to do important stuff online, like look at memes.
-Firefox can fill out forms for you, so you have more time to do important stuff online, like look at memes.
+Firefox umí automaticky vyplňovat formuláře, takže máte více času na důležitější věci. Třeba koukání na memy.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -60,26 +60,26 @@ Firefox can fill out forms for you, so you have more time to do important stuff 
 # Link: https://addons.mozilla.org/firefox/collections/mozilla/essential-extensions/
 # "Awesomer", meant "more awesome", is a madeup word. It is used here to be funny. If it doesn't work in your language, you can use the grammatically correct expression.
 ;Make Firefox even awesomer (awesomer is a word, right?) with something from our <a>essential add-ons collection.</a>
-Make Firefox even awesomer (awesomer is a word, right?) with something from our <a>essential add-ons collection.</a>
+Váš Firefox bude mnohem lepšejší (lepšejší je opravdu správné slovo) s <a>doplňkem z naší základní sbírky</a>.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
 # This snippet is meant to be silly. It makes light of conscious choosers by using food-related terms as a way to explain that Firefox is transparent and supports an open web.
 # If this concept is difficult to translate for the region or country, please skip it.
 ;Firefox is a free range, no hormones added, cruelty-free, 100% ethically sourced browser.
-Firefox is a free range, no hormones added, cruelty-free, 100% ethically sourced browser.
+Firefox je prohlížeč z volného chovu, bez hormonů, chemických barviv a bez konzervantů. A vždy citlivý k vašemu soukromí.
 
 
 # Try to keep the character length the same as English.
 # Campaign: Mozilla mission
 # The snippet aligns Firefox and Mozilla and lets users know that when they use Firefox, they're helping Mozilla make the web better.
 ;Mozilla is a champion of the Open Web. Firefox is made by Mozilla. So every time you use Firefox, (like right now) you’re helping to make the web better for everyone.
-Mozilla is a champion of the Open Web. Firefox is made by Mozilla. So every time you use Firefox, (like right now) you’re helping to make the web better for everyone.
+Mozilla silně prosazuje svobodný a otevřený web. A Mozilla vyvíjí i Firefox. Takže kdykoliv používáte Firefox (tak jako teď), podporujete lepší web pro všechny.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
 # The snippet intends to be silly to reinforce the idea that Firefox is a fast browser. We're trying to say that Firefox is so fast that the word "fast" must be repeated.
 ;The new Firefox can be summed up in two words: faster and faster. OK, maybe that’s the same word twice.
-The new Firefox can be summed up in two words: faster and faster. OK, maybe that’s the same word twice.
+Nový Firefox lze popsat ve dvou slovech: rychlejší a rychlejší. No, možná je to to stejné slovo dvakrát.
 
 
