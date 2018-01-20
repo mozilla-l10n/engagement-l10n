@@ -14,7 +14,7 @@ Sunglasses repel harmful UV rays, make you look cool and give the bridge of your
 # Campaign: Mozilla mission
 # To show what Mozilla stands for, if you have a suggestion for a page in your language that the snippet should link to, feel free to include it in your translation.
 ;Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good.
-Mozilla is a global non-profit dedicated to putting you in control of your online experience and shaping the future of the web for the public good.
+Mozilla - глобальная некоммерческая организация, чьей миссией является предоставление вам контроля над вашим пребыванием в сети, и формирование будущего Интернета, чтобы он приносил пользу всему обществу.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -22,7 +22,7 @@ Mozilla is a global non-profit dedicated to putting you in control of your onlin
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Tired of using Chrome to view your 2nd email or social account? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
-Tired of using Chrome to view your 2nd email or social account? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
+Устали использовать Chrome для просмотра второй эл. почты или аккаунта соцсети? Теперь вы можете делать это в Firefox с <a>Мультиаккаунтовыми контейнерами</a>!
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -30,7 +30,7 @@ Tired of using Chrome to view your 2nd email or social account? Now you can do i
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
-Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
+Устали использовать несколько браузеров, чтобы просматривать свою 2-ю эл. почту? Теперь вы можете делать это в Firefox с <a>Мультиаккаунтовыми контейнерами</a>!
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -38,13 +38,13 @@ Tired of using multiple browsers to view your 2nd email? Now you can do it all i
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Using private browsing mode to juggle multiple accounts? Now there's a better way. <a>Try Multi-Account Containers!</a>
-Using private browsing mode to juggle multiple accounts? Now there's a better way. <a>Try Multi-Account Containers!</a>
+Используете режим приватного просмотра, чтобы совмещать несколько учетных записей? Теперь есть способ лучше. <a>Попробуйте Мультиаккаунтовые контейнеры!</a>
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
 # Campaign: Mozilla mission
 ;Thanks for choosing Firefox and supporting an independent web.
-Thanks for choosing Firefox and supporting an independent web.
+Спасибо, что выбрали Firefox и поддержали независимый Интернет.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
