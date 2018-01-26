@@ -72,6 +72,6 @@ Have fun and stay safe,
 The Firefox Team
 
 
-# Link points to https://support.mozilla.org/.
-;P.S. Questions? Problems? Concern? Check out our support site.
-P.S. Questions? Problems? Concern? Check out our support site.
+# The link points to https://support.mozilla.org/.
+;P.S. Questions? Problems? Concern? <a>Check out our support site.</a>
+P.S. Questions? Problems? Concern? Check out our support site.</a>
