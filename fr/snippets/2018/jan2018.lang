@@ -22,7 +22,7 @@ Mozilla est une organisation internationale à but non lucratif, déterminée à
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Tired of using Chrome to view your 2nd email or social account? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
-Tired of using Chrome to view your 2nd email or social account? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
+Vous en avez assez d’utiliser Chrome pour consulter votre seconde adresse électronique ? Faites tout depuis Firefox avec <a>Multi-Account Containers !</a>
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -30,7 +30,7 @@ Tired of using Chrome to view your 2nd email or social account? Now you can do i
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Containers let users separate their browsing (online selves) into different color-coded tabs, that preserve privacy by separating cookies. The snippet attempts to explain the value of containers to users by offering specific usage scenarios.
 ;Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
-Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers!</a>
+Vous en avez assez d’utiliser d’autres navigateurs pour consulter votre seconde adresse électronique ? Faites tout depuis Firefox avec <a>Multi-Account Containers !</a>
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
@@ -52,7 +52,7 @@ Merci d’avoir choisi Firefox et de soutenir l’indépendance du Web.
 # Link: https://support.mozilla.org/kb/control-whether-firefox-automatically-fills-forms
 # This snippet explains that Firefox can automatically fill in the fields of forms and that this feature saves the user time to do other things.
 ;Firefox can fill out forms for you, so you have more time to do important stuff online, like look at memes.
-Firefox can fill out forms for you, so you have more time to do important stuff online, like look at memes.
+Firefox peut remplir les formulaires à votre place, pour que vous puissiez vous concentrer sur des choses importantes en ligne, comme regarder des GIF animés.
 
 
 # LIMIT: 160 characters. Please rephrase as needed to fit.
