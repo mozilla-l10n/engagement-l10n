@@ -110,6 +110,7 @@ Helping me pool power with other users to push policy makers or corporations to 
 
 # q-13-o-10017
 # q-24-o-10040
+# q-28-o-10062
 ;Other
 Other
 
@@ -144,6 +145,11 @@ Companies collecting and storing biometric data, like fingerprints, facial recog
 Companies being able to see my location even when I’m not using an app.
 
 
+# other_row_placeholder
+;Enter another option
+Enter another option
+
+
 # q-19-o-10018
 ;Not worried at all
 Not worried at all
@@ -159,9 +165,34 @@ Somewhat worried
 I’m losing sleep over this
 
 
+# q-28
+;Who is most responsible for keeping your personal data safe online?
+Who is most responsible for keeping your personal data safe online?
+
+
+# q-28-o-10058
+;Government
+Government
+
+
+# q-28-o-10059
+;Me
+Me
+
+
+# q-28-o-10060
+;Companies
+Companies
+
+
+# q-28-o-10061
+;I’m not sure
+I’m not sure
+
+
 # q-20
-;Are there any egregiously horrible data collection practices or insecure devices/apps that you’ve seen recently, and would like Mozilla to consider starting a campaign to get fixed?
-Are there any egregiously horrible data collection practices or insecure devices/apps that you’ve seen recently, and would like Mozilla to consider starting a campaign to get fixed?
+;Are there any egregiously horrible data collection practices or insecure devices/apps that you’ve seen recently, and would like Mozilla to consider starting a campaign to get fixed? (Please include a link or reference if possible.)
+Are there any egregiously horrible data collection practices or insecure devices/apps that you’ve seen recently, and would like Mozilla to consider starting a campaign to get fixed? (Please include a link or reference if possible.)
 
 
 # q-21
@@ -192,7 +223,6 @@ Were you able to contribute online in a manner that was easy/convenient for you?
 
 
 # q-22-o-10028
-# q-25-o-10047
 ;Yes
 Yes
 
@@ -229,18 +259,23 @@ I’d consider leaving a gift to Mozilla in my will
 
 
 # q-25
-;Do you want more information on what your donation to Mozilla helps support?
-Do you want more information on what your donation to Mozilla helps support?
+;Do you want/need more information on what your donation to Mozilla helps support?
+Do you want/need more information on what your donation to Mozilla helps support?
 
 
 # q-25-o-10043
-;I have no idea
-I have no idea
+;No, I’m well-informed on this
+No, I’m well-informed on this
 
 
 # q-25-o-10045
-;Somewhat
-Somewhat
+;Wouldn’t hurt
+Wouldn’t hurt
+
+
+# q-25-o-10047
+;Yes, definitely
+Yes, definitely
 
 
 # q-26
