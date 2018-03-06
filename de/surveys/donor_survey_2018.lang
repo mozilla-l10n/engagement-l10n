@@ -130,175 +130,175 @@ Datenlecks, die meine persönlichen Daten an Cyberkriminelle preisgeben
 
 # q-16
 ;Government agencies compiling data about me without my knowledge or permission
-Regierungsbehörden, die ohne mein Wissen oder meine Zustimmung Daten über mich sammeln
+Regierungsbehörden, die ohne mein Wissen oder meine Zustimmung Daten über mich sammeln.
 
 
 # q-17
 ;Big corporations storing, using or selling data about me without my knowledge or permission
-Big corporations storing, using or selling data about me without my knowledge or permission
+Große Unternehmen, die ohne mein Wissen oder meine Zustimmung Daten über mich speichern, nutzen oder verkaufen.
 
 
 # q-18
 ;Companies collecting and storing biometric data, like fingerprints, facial recognition etc.
-Companies collecting and storing biometric data, like fingerprints, facial recognition etc.
+Unternehmen, die biometrische Daten, wie Fingerabdrücke, Gesichtserkennung, usw. sammeln und speichern.
 
 
 # q-19
 ;Companies being able to see my location even when I’m not using an app.
-Companies being able to see my location even when I’m not using an app.
+Unternehmen, die meinen Standort sehen können, auch wenn ich eine App nicht nutze.
 
 
 # other_row_placeholder
 ;Enter another option
-Enter another option
+Andere Antwort eingeben
 
 
 # q-19-o-10018
 ;Not worried at all
-Not worried at all
+Ich mache mir gar keine Sorgen
 
 
 # q-19-o-10020
 ;Somewhat worried
-Somewhat worried
+Ich bin etwas besorgt
 
 
 # q-19-o-10022
 ;I’m losing sleep over this
-I’m losing sleep over this
+Ich kann deswegen nicht mehr schlafen
 
 
 # q-28
 ;Who is most responsible for keeping your personal data safe online?
-Who is most responsible for keeping your personal data safe online?
+Wer ist am ehesten für den Schutz Ihrer persönlichen Daten im Internet verantwortlich?
 
 
 # q-28-o-10058
 ;Government
-Government
+Die Regierung
 
 
 # q-28-o-10059
 ;Me
-Me
+Ich
 
 
 # q-28-o-10060
 ;Companies
-Companies
+Unternehmen
 
 
 # q-28-o-10061
 ;I’m not sure
-I’m not sure
+Ich bin nicht sicher
 
 
 # q-20
 ;Are there any egregiously horrible data collection practices or insecure devices/apps that you’ve seen recently, and would like Mozilla to consider starting a campaign to get fixed? (Please include a link or reference if possible.)
-Are there any egregiously horrible data collection practices or insecure devices/apps that you’ve seen recently, and would like Mozilla to consider starting a campaign to get fixed? (Please include a link or reference if possible.)
+Gibt es besonders schlimme Datensammelpraktiken oder unsichere Geräte/Apps, die Ihnen kürzlich aufgefallen sind und die Mozilla aus Ihrer Sicht mit einer Kampagne verbessern sollte? (Bitte geben Sie einen Link oder eine Quelle an, falls möglich.)
 
 
 # q-21
 ;Have you ever donated to the Mozilla Foundation?
-Have you ever donated to the Mozilla Foundation?
+Haben Sie jemals an die Mozilla Foundation gespendet?
 
 
 # q-21-o-10025
 # q-22-o-10029
 # q-26-o-10049
 ;No
-No
+Nein
 
 
 # q-21-o-10026
 ;Yes, once or twice
-Yes, once or twice
+Ja, ein- oder zweimal
 
 
 # q-21-o-10027
 ;I’m a frequent/regular donor
-I’m a frequent/regular donor
+Ich spende häufig/regelmäßig
 
 
 # q-22
 ;Were you able to contribute online in a manner that was easy/convenient for you?
-Were you able to contribute online in a manner that was easy/convenient for you?
+War die Möglichkeit zur Online-Spende für Sie einfach/unkompliziert?
 
 
 # q-22-o-10028
 ;Yes
-Yes
+Ja
 
 
 # q-22-o-10030
 # q-26-o-10050
 ;Other - Please explain
-Other - Please explain
+Sonstiges – bitte angeben
 
 
 # q-23
 ;Is there anything that would help increase the chances you’ll donate in the future?
-Is there anything that would help increase the chances you’ll donate in the future?
+Was würde die Wahrscheinlichkeit erhöhen, dass Sie in Zukunft spenden werden?
 
 
 # q-24
 ;Are there other ways you would consider supporting Mozilla?
-Are there other ways you would consider supporting Mozilla?
+Gibt es andere Arten, auf die Sie Mozilla unterstützen würden?
 
 
 # q-24-o-10033
 ;I’d purchase merchandise if you offered it
-I’d purchase merchandise if you offered it
+Ich würde Fanartikel kaufen, wenn welche angeboten würden
 
 
 # q-24-o-10034
 ;I’d attend or volunteer at a local event if you organized one near me
-I’d attend or volunteer at a local event if you organized one near me
+Ich würde eine Veranstaltung in meiner Nähe besuchen oder dort freiwillig helfen, wenn es eine gäbe
 
 
 # q-24-o-10038
 ;I’d consider leaving a gift to Mozilla in my will
-I’d consider leaving a gift to Mozilla in my will
+Ich würde Mozilla in meinem Testament berücksichtigen
 
 
 # q-25
 ;Do you want/need more information on what your donation to Mozilla helps support?
-Do you want/need more information on what your donation to Mozilla helps support?
+Möchten/benötigen Sie weitere Informationen darüber, was Sie mit Ihrer Spende an Mozilla unterstützen?
 
 
 # q-25-o-10043
 ;No, I’m well-informed on this
-No, I’m well-informed on this
+Nein, ich habe genug Informationen darüber
 
 
 # q-25-o-10045
 ;Wouldn’t hurt
-Wouldn’t hurt
+Kann nicht schaden
 
 
 # q-25-o-10047
 ;Yes, definitely
-Yes, definitely
+Ja, auf jeden Fall
 
 
 # q-26
 ;Was tax-deductibility of your contribution a factor when deciding to donate to Mozilla?
-Was tax-deductibility of your contribution a factor when deciding to donate to Mozilla?
+War die steuerliche Absetzbarkeit Ihrer Spende ein Faktor, als Sie sich für die Spende an Mozilla entschieden haben?
 
 
 # q-27
 ;What would you like to see us do more of?
-What would you like to see us do more of?
+Was sollten wir aus Ihrer Sicht mehr tun?
 
 
 # p-2
 ;Thanks for your input!
-Thanks for your input!
+Vielen Dank für Ihre Angaben!
 
 
 # q-1
 ;<p>We really appreciate your time in sharing your thoughts with us.</p><br/><a href="http://www.mozilla.org">Click here</a> to go to the mozilla.org home page.
-<p>We really appreciate your time in sharing your thoughts with us.</p><br/><a href="http://www.mozilla.org">Click here</a> to go to the mozilla.org home page.
+<p>Wir wissen es sehr zu schätzen, dass Sie uns Ihre Gedanken mitteilen.</p><br/><a href="http://www.mozilla.org">Klicken Sie hier</a>, um zur Startseite von mozilla.org zu gelangen.
 
 
 # next_button
@@ -318,12 +318,12 @@ Absenden
 
 # max_characters
 ;Characters used: :value out of :max.
-Characters used: :value out of :max.
+Verwendete Zeichen: :value von :max.
 
 
 # too_many_characters
 ;You have typed more characters than allowed (:charactercount of :limit characters)
-You have typed more characters than allowed (:charactercount of :limit characters)
+Sie haben zu viele Zeichen eingegeben (:charactercount von :limit Zeichen)
 
 
 # required-hover
