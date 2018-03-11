@@ -180,7 +180,7 @@ Le gouvernement
 
 # q-28-o-10059
 ;Me
-Me
+Moi-même
 
 
 # q-28-o-10060
@@ -233,7 +233,7 @@ Oui
 # q-22-o-10030
 # q-26-o-10050
 ;Other - Please explain
-Other - Please explain
+Autre - Veuillez détailler
 
 
 # q-23
@@ -258,7 +258,7 @@ I’d attend or volunteer at a local event if you organized one near me
 
 # q-24-o-10038
 ;I’d consider leaving a gift to Mozilla in my will
-I’d consider leaving a gift to Mozilla in my will
+J’envisage de faire un legs à Mozilla au travers de mon testament
 
 
 # q-25
@@ -268,12 +268,12 @@ Do you want/need more information on what your donation to Mozilla helps support
 
 # q-25-o-10043
 ;No, I’m well-informed on this
-No, I’m well-informed on this
+Non, j’ai suffisamment d’informations à ce sujet
 
 
 # q-25-o-10045
 ;Wouldn’t hurt
-Wouldn’t hurt
+Pourquoi pas
 
 
 # q-25-o-10047
@@ -318,12 +318,12 @@ Envoyer
 
 # max_characters
 ;Characters used: :value out of :max.
-Characters used: :value out of :max.
+Caractères utilisés : :value sur :max.
 
 
 # too_many_characters
 ;You have typed more characters than allowed (:charactercount of :limit characters)
-You have typed more characters than allowed (:charactercount of :limit characters)
+Vous avez dépassé le nombre de caractères autorisé (:charactercount caractères sur :limit)
 
 
 # required-hover
