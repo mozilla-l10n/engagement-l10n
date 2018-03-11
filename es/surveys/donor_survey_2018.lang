@@ -120,7 +120,7 @@ Otro
 
 # q-14
 ;Specifically when it comes to the privacy and security of your personal data, how worried are you about the following threats?
-Specifically when it comes to the privacy and security of your personal data, how worried are you about the following threats?
+Si nos referimos concretamente a la privacidad y seguridad de tu información personal, ¿cuánto te preocupan estas amenazas?
 
 
 # q-15
@@ -130,7 +130,7 @@ Data breaches that expose my personal information to cyber criminals
 
 # q-16
 ;Government agencies compiling data about me without my knowledge or permission
-Government agencies compiling data about me without my knowledge or permission
+Organismos oficiales que recopilan datos sobre mi sin mi permiso o conocimiento
 
 
 # q-17
@@ -140,12 +140,12 @@ Big corporations storing, using or selling data about me without my knowledge or
 
 # q-18
 ;Companies collecting and storing biometric data, like fingerprints, facial recognition etc.
-Companies collecting and storing biometric data, like fingerprints, facial recognition etc.
+Empresas que recopilan y almacenan datos biométricos, como huellas digitales, reconocimiento facial, etc.
 
 
 # q-19
 ;Companies being able to see my location even when I’m not using an app.
-Companies being able to see my location even when I’m not using an app.
+Empresas que pueden acceder a mi ubicación incluso sin utlizar una aplicación.
 
 
 # other_row_placeholder
@@ -195,7 +195,7 @@ No estoy seguro
 
 # q-20
 ;Are there any egregiously horrible data collection practices or insecure devices/apps that you’ve seen recently, and would like Mozilla to consider starting a campaign to get fixed? (Please include a link or reference if possible.)
-Are there any egregiously horrible data collection practices or insecure devices/apps that you’ve seen recently, and would like Mozilla to consider starting a campaign to get fixed? (Please include a link or reference if possible.)
+¿Conoces alguna práctica de recopilación de datos poco ética o dispositivos/aplicaciones recientes no seguras y quieres que Mozilla inicie una campaña para solucionarlo? (Si puedes, incluye un enlace o referencia.)
 
 
 # q-21
