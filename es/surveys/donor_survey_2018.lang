@@ -283,7 +283,7 @@ Sí, por supuesto
 
 # q-26
 ;Was tax-deductibility of your contribution a factor when deciding to donate to Mozilla?
-Was tax-deductibility of your contribution a factor when deciding to donate to Mozilla?
+Cuando decidiste donar a Mozilla, ¿la deducción de impuestos fue un factor importante?
 
 
 # q-27
@@ -298,7 +298,7 @@ Was tax-deductibility of your contribution a factor when deciding to donate to M
 
 # q-1
 ;<p>We really appreciate your time in sharing your thoughts with us.</p><br/><a href="http://www.mozilla.org">Click here</a> to go to the mozilla.org home page.
-<p>We really appreciate your time in sharing your thoughts with us.</p><br/><a href="http://www.mozilla.org">Click here</a> to go to the mozilla.org home page.
+<p>Gracias por tomarte unos minutos para compartir tu opinión.</p><br/><a href="http://www.mozilla.org">Haz clic aquí</a> para ir a la página de inicio de mozilla.org.
 
 
 # next_button
@@ -318,12 +318,12 @@ Enviar
 
 # max_characters
 ;Characters used: :value out of :max.
-Characters used: :value out of :max.
+Caracteres usados: :value de :max.
 
 
 # too_many_characters
 ;You have typed more characters than allowed (:charactercount of :limit characters)
-You have typed more characters than allowed (:charactercount of :limit characters)
+Has escrito más caracteres de los permitidos (:charactercount de :limit)
 
 
 # required-hover
