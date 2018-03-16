@@ -8,7 +8,7 @@
 # Campaign theme: delight
 # This snippet suggests that connecting with nature makes people happy and sets them in a relaxed mood.
 ;Watching the sunrise outdoors statistically increases your odds of having a good day. And needing a nap after lunch.
-Obserwacja wschodu słońca na dworze statystycznie zwiększa szanse na dobry dzień. A także na drzemkę popołudniu.
+Obserwacja wschodu słońca na świeżym powietrzu statystycznie zwiększa szansę na dobry dzień. A także na drzemkę popołudniu.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -29,7 +29,7 @@ Piszesz strony internetowe? Wypróbuj najszybszego Firefoksa, jakiego do tej por
 # Campaign: MDN
 # Link: https://developer.mozilla.org/docs/Games
 ;Want to learn how to make games for the web? <a>MDN web docs</a> has you covered.
-Want to learn how to make games for the web? <a>MDN web docs</a> has you covered.
+Chcesz nauczyć się, jak tworzyć gry w Internecie? <a>Dokumentacja MDN</a> ma wszystko, czego potrzebujesz.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -37,6 +37,6 @@ Want to learn how to make games for the web? <a>MDN web docs</a> has you covered
 # Link: https://youtu.be/FqnWEWYp9DU
 # The video sound track is in English. However, the localized Firefox browser will dictate the language the subtitles are in. The subtitle feature must be manually enabled.
 ;What *would* happen if we could <a>travel at the speed of light</a>?
-What *would* happen if we could <a>travel at the speed of light</a>?
+Co by się stało, gdybyśmy mogli <a>podróżować z prędkością światła</a>?
 
 
