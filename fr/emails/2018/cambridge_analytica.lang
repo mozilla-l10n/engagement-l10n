@@ -39,16 +39,12 @@ Bonjour [firstname],
 Les titres dans la presse parlent d’eux-mêmes&nbsp;: jusqu’à 50&nbsp;millions d’utilisateurs de Facebook ont vu leurs informations utilisées par Cambridge Analytica, une société privée, à leur insu et sans leur consentement<sup>1</sup>. C’est inacceptable.
 
 
-;This wasn’t a data breach, no one hacked into Facebook or stole passwords. This happened through bad app permissions. A few hundred thousand people took a personality quiz, that the developer claimed was for research purposes.
-Il ne s’agissait pas d’une fuite de données, personne n’a piraté Facebook ni volé de mots de passe. Cela s’est produit par le biais de mauvaises permissions accordées à une application. Quelques centaines de milliers de personnes ont répondu à un test de personnalité sous la forme d’un questionnaire que le développeur a prétendu être destiné à une étude académique.
+;This wasn’t a data breach, no one hacked into Facebook or stole passwords. It happened because Facebook allowed apps to access not just sensitive information of people who used those programs – but their friends as well.
+This wasn’t a data breach, no one hacked into Facebook or stole passwords. It happened because Facebook allowed apps to access not just sensitive information of people who used those programs – but their friends as well.
 
 
-;That app stored the personal information of the friends of the quiz takers which the researcher then shared with Cambridge Analytica. This data was used to create detailed profiles to target people with controversial political ads.
-Cette application stockait les informations personnelles des amis des personnes ayant répondu au questionnaire, que le chercheur partageait ensuite avec Cambridge Analytica. Ces données ont été utilisées pour créer des profils détaillés afin de cibler des personnes à l’aide de publicités politiques controversées.
-
-
-;Facebook is facing a lot of questions right now but one thing is clear: <strong>Facebook needs to act to make sure this doesn’t happen again.</strong>
-Facebook fait face à beaucoup de questions en ce moment, mais une chose est sûre&nbsp;: <strong>Facebook doit agir pour s’assurer que cela ne se reproduise pas.</strong>
+;Facebook said it’s taken steps to “limit developer access to detailed friend data”, but Facebook’s current default settings leave a lot of questions and a lot of data flying around. One thing is clear though: Facebook needs to step up and respect its users.
+Facebook said it’s taken steps to “limit developer access to detailed friend data”, but Facebook’s current default settings leave a lot of questions and a lot of data flying around. One thing is clear though: Facebook needs to step up and respect its users.
 
 
 # This will be followed with a “Sign the petition” button
@@ -83,3 +79,10 @@ Internet est vecteur de changements en profondeur, car c’est un espace d’exp
 
 ;Yours, with hope -
 Sincèrement,
+
+
+# Link to: https://www.eff.org/deeplinks/2018/03/how-change-your-facebook-settings-opt-out-platform-api-sharing Feel free to mention it’s in English
+;PS - You can also check out this EFF guide on how to change your Facebook settings.
+PS - You can also check out this EFF guide on how to change your Facebook settings.
+
+
