@@ -8,28 +8,28 @@
 # Campaign theme: delight
 # This snippet suggests that connecting with nature makes people happy and sets them in a relaxed mood.
 ;Watching the sunrise outdoors statistically increases your odds of having a good day. And needing a nap after lunch.
-Watching the sunrise outdoors statistically increases your odds of having a good day. And needing a nap after lunch.
+Наблюдение за восходом солнца на улице по статистике увеличивает ваши шансы на хороший день. И нужно поспать после обеда.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: add-on
 # Link: https://developer.mozilla.org/Add-ons/WebExtensions/Your_first_WebExtension
 ;Want to try building a browser extension? <a>Check out our tutorial</a>.
-Want to try building a browser extension? <a>Check out our tutorial</a>.
+Хотите попробовать создать расширение для браузера? <a>Посмотрите наше руководство</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Developer Edition
 # Link: https://www.mozilla.org/firefox/developer/
 ;Are you a web developer? Try our fastest Firefox yet, now in Firefox Developer Edition. <a>Download now</a>.
-Are you a web developer? Try our fastest Firefox yet, now in Firefox Developer Edition. <a>Download now</a>.
+Вы веб-разработчик? Попробуйте наш самый быстрый Firefox, Firefox Developer Edition. <a>Загрузить сейчас</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: MDN
 # Link: https://developer.mozilla.org/docs/Games
 ;Want to learn how to make games for the web? <a>MDN web docs</a> has you covered.
-Want to learn how to make games for the web? <a>MDN web docs</a> has you covered.
+Хотите узнать, как создавать веб-игры? На сайте <a>веб-документации MDN</a> вы найдёте всё, что вам понадобится.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -37,6 +37,6 @@ Want to learn how to make games for the web? <a>MDN web docs</a> has you covered
 # Link: https://youtu.be/FqnWEWYp9DU
 # The video sound track is in English. However, the localized Firefox browser will dictate the language the subtitles are in. The subtitle feature must be manually enabled.
 ;What *would* happen if we could <a>travel at the speed of light</a>?
-What *would* happen if we could <a>travel at the speed of light</a>?
+Что *могло бы* случиться, если бы мы могли <a>путешествовать со скоростью света</a>?
 
 
