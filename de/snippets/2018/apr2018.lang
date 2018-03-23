@@ -15,14 +15,14 @@ Watching the sunrise outdoors statistically increases your odds of having a good
 # Campaign: add-on
 # Link: https://developer.mozilla.org/Add-ons/WebExtensions/Your_first_WebExtension
 ;Want to try building a browser extension? <a>Check out our tutorial</a>.
-Want to try building a browser extension? <a>Check out our tutorial</a>.
+Schon mal eine Browser-Erweiterung erstellt? <a>Hier ist unsere Anleitung</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Developer Edition
 # Link: https://www.mozilla.org/firefox/developer/
 ;Are you a web developer? Try our fastest Firefox yet, now in Firefox Developer Edition. <a>Download now</a>.
-Are you a web developer? Try our fastest Firefox yet, now in Firefox Developer Edition. <a>Download now</a>.
+Du bist Webentwickler? Wie wäre es mit dem schnellsten Firefox aller Zeiten? Natürlich in der Developer Edition. <a>Jetzt herunterladen</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -37,6 +37,6 @@ Want to learn how to make games for the web? <a>MDN web docs</a> has you covered
 # Link: https://youtu.be/FqnWEWYp9DU
 # The video sound track is in English. However, the localized Firefox browser will dictate the language the subtitles are in. The subtitle feature must be manually enabled.
 ;What *would* happen if we could <a>travel at the speed of light</a>?
-What *would* happen if we could <a>travel at the speed of light</a>?
+Was *würde* passieren, wenn wir <a>in Lichtgeschwindigkeit reisen könnten</a>?
 
 
