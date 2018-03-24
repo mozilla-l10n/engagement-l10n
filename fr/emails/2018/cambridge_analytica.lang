@@ -10,8 +10,43 @@ Facebook {ok}
 Cambridge Analytica {ok}
 
 
+# Subject line for the FB response
+;Facebook gave us a call
+Facebook gave us a call
+
+
+# Subject line for the FB response
+;Facebook responded
+Facebook responded
+
+
 ;Facebook is under fire for how Cambridge Analytica used private user data
 Facebook est sous le feu des critiques pour la façon dont Cambridge Analytica a utilisé des données personnelles d’utilisateurs.
+
+
+# Kicker text
+;Over 42,000 people have already signed our petition and Facebook is feeling the heat – they reached out to us yesterday to say they heard us.
+Over 42,000 people have already signed our petition and Facebook is feeling the heat – they reached out to us yesterday to say they heard us.
+
+
+# Kicker text
+;The default permissions that Facebook currently shows include sharing data about your education and work, current city and posts on your timeline. Surprised? We were too. Facebook told us that the settings don’t accurately portray the data sharing.
+The default permissions that Facebook currently shows include sharing data about your education and work, current city and posts on your timeline. Surprised? We were too. Facebook told us that the settings don’t accurately portray the data sharing.
+
+
+# Kicker text
+;They said they’re working to fix this and we’ll keep up the pressure until they do. We want to see commitment on being more transparent on this issue, and we need to keep the pressure on before the headlines fade to make sure Facebook acts.
+They said they’re working to fix this and we’ll keep up the pressure until they do. We want to see commitment on being more transparent on this issue, and we need to keep the pressure on before the headlines fade to make sure Facebook acts.
+
+
+# Kicker text
+;Can you add your name too and help us get to 100,000 signatures?
+Can you add your name too and help us get to 100,000 signatures?
+
+
+# Kicker text
+;Original message:
+Original message:
 
 
 ;Facebook is under fire for how Cambridge Analytica used private user data in various political campaigns – reportedly tens of millions of users have been affected.
@@ -84,14 +119,5 @@ Sincèrement,
 # Link to: https://www.eff.org/deeplinks/2018/03/how-change-your-facebook-settings-opt-out-platform-api-sharing Feel free to mention it’s in English
 ;PS - You can also check out this EFF guide on how to change your Facebook settings.
 P.S. : Vous pouvez également consulter ce guide de l’EFF (en anglais) pour savoir comment changer vos paramètres Facebook.
-
-
-;[firstname], nearly 50,000 have joined our call to Facebook to put our privacy first. Can you sign too and help us get to 100,000 signatures?
-[firstname], près de 50&nbsp;000 personnes ont répondu à notre appel demandant à Facebook de protéger notre vie privée. Ajoutez vous aussi votre nom à notre pétition et aidez-nous à atteindre les 100&nbsp;000 signatures&nbsp;!
-
-
-# Salutation, followed by name of the author on a new line
-;Thanks,
-Merci d’avance,
 
 
