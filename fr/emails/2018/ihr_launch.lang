@@ -1,7 +1,6 @@
 ## NOTE: Email announcing the second edition of the Internet Health Report, signed by Solana Larsen (her/she)
 
 
-## TAG: subject_line
 # Feel free to adapt a different copy if that sounds better in your language:
 # “Get Healthy”,
 # “Version 1.0”,
@@ -10,7 +9,6 @@
 It's here! 🙌 Mozilla's Internet Health Report
 
 
-## TAG: subject_line
 # Feel free to adapt a different copy if that sounds better in your language:
 # “Get Healthy”,
 # “Version 1.0”,
@@ -19,27 +17,22 @@ It's here! 🙌 Mozilla's Internet Health Report
 How healthy is the internet?
 
 
-## TAG: preheader
 ;What do cryptographers in Egypt, cyberviolence experts in Canada, open-source developers in Brazil, journalists in Afghanistan, and AI watchdogs in the United States have in common?
 What do cryptographers in Egypt, cyberviolence experts in Canada, open-source developers in Brazil, journalists in Afghanistan, and AI watchdogs in the United States have in common?
 
 
-## TAG: callout_text
 ;Just launched today! Read the 2018 Internet Health Report.
 Just launched today! Read the 2018 Internet Health Report.
 
 
-## TAG: callout_button
 ;Be One of the First to Read It
 Be One of the First to Read It
 
 
-## TAG: greeting
 ;Hey there,
 Hey there,
 
 
-## TAG: greeting
 ;Hey [firstname],
 Hey [firstname],
 
@@ -68,7 +61,6 @@ All the while, shoes can order pizza and artificial intelligence helps doctors d
 Through data, research and stories we show how the internet is evolving. What does ‘security’ mean in a world where our phones, watches, cars, and vacuums are all online? What is driving the onslaught of fake news? How big is ‘too big’ when it comes to tech giants?
 
 
-## TAG: button
 ;Read the report
 Read the report
 
@@ -102,3 +94,5 @@ We rely on contributions from supporters like you to fund our work and fuel the 
 # Link to donate.mozilla.org
 ;Will you chip in today?
 Will you chip in today?
+
+
