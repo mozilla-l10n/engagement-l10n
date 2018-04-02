@@ -8,21 +8,21 @@
 # Campaign theme: delight
 # This snippet suggests that connecting with nature makes people happy and sets them in a relaxed mood.
 ;Watching the sunrise outdoors statistically increases your odds of having a good day. And needing a nap after lunch.
-Watching the sunrise outdoors statistically increases your odds of having a good day. And needing a nap after lunch.
+Profitez du temps qui passe et de la nature qui nous entoure. Si vous le pouvez, observez le lever du soleil le matin et prenez un grand bol d’air frais.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: add-on
 # Link: https://developer.mozilla.org/Add-ons/WebExtensions/Your_first_WebExtension
 ;Want to try building a browser extension? <a>Check out our tutorial</a>.
-Want to try building a browser extension? <a>Check out our tutorial</a>.
+Vous souhaitez concevoir une extension pour navigateur ? <a>Jetez un œil à notre tutoriel</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Developer Edition
 # Link: https://www.mozilla.org/firefox/developer/
 ;Are you a web developer? Try our fastest Firefox yet, now in Firefox Developer Edition. <a>Download now</a>.
-Are you a web developer? Try our fastest Firefox yet, now in Firefox Developer Edition. <a>Download now</a>.
+Vous faites du développement web ? Essayez la version la plus rapide de Firefox grâce à Firefox Developer Edition. <a>Télécharger maintenant</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -37,6 +37,6 @@ Want to learn how to make games for the web? <a>MDN web docs</a> has you covered
 # Link: https://youtu.be/FqnWEWYp9DU
 # The video sound track is in English. However, the localized Firefox browser will dictate the language the subtitles are in. The subtitle feature must be manually enabled.
 ;What *would* happen if we could <a>travel at the speed of light</a>?
-What *would* happen if we could <a>travel at the speed of light</a>?
+Qu’adviendrait-il si nous pouvions <a>voyager à la vitesse de la lumière</a> ?
 
 
