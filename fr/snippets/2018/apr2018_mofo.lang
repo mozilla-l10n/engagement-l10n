@@ -9,31 +9,31 @@ Learning = self-improvement. Ready to get smarter?
 
 # First scene button
 ;YES
-YES
+OUI
 
 
 # Second scene. Example: https://screenshotscdn.firefoxusercontent.com/images/5d9ea3ce-9d03-49eb-94eb-090b4adbf80f.png
 # Limit character length to 180
 ;Subscribe to the Mozilla newsletter to get smart and stay informed on the issues affecting your life online.
-Subscribe to the Mozilla newsletter to get smart and stay informed on the issues affecting your life online.
+Abonnez-vous à la lettre d’information de Mozilla et devenez incollable sur les problématiques qui touchent à votre vie numérique.
 
 
 # placeholder. Feel free to replace with “Email”
 ;your@email.com
-your@email.com
+Adresse électronique
 
 
 # Button
 ;Sign me up
-Sign me up
+Je m’inscris
 
 
 ;I'm okay with Mozilla handling my info as explained in <a>this Privacy Notice</a>.
-I'm okay with Mozilla handling my info as explained in <a>this Privacy Notice</a>.
+J’accepte que Mozilla utilise mes informations conformément à <a>cette politique de confidentialité</a>.
 
 
 # Button
 ;Dismiss
-Dismiss
+Fermer
 
 
