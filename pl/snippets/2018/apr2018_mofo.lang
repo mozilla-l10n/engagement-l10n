@@ -4,36 +4,36 @@
 # First scene. Example: https://screenshotscdn.firefoxusercontent.com/images/2d8f3413-a1ce-43e8-933c-6edcb0b8a502.png
 # Limit character length to 180
 ;Learning = self-improvement. Ready to get smarter?
-Learning = self-improvement. Ready to get smarter?
+Edukacja to samodoskonalenie. Chcesz wiedzieć więcej?
 
 
 # First scene button
 ;YES
-YES
+TAK
 
 
 # Second scene. Example: https://screenshotscdn.firefoxusercontent.com/images/5d9ea3ce-9d03-49eb-94eb-090b4adbf80f.png
 # Limit character length to 180
 ;Subscribe to the Mozilla newsletter to get smart and stay informed on the issues affecting your life online.
-Subscribe to the Mozilla newsletter to get smart and stay informed on the issues affecting your life online.
+Subskrybuj biuletyn Mozilli, aby być na bieżąco z problemami wpływającymi na Twoje życie w Internecie.
 
 
 # placeholder. Feel free to replace with “Email”
 ;your@email.com
-your@email.com
+Adres e-mail
 
 
 # Button
 ;Sign me up
-Sign me up
+Zapisz się
 
 
 ;I'm okay with Mozilla handling my info as explained in <a>this Privacy Notice</a>.
-I'm okay with Mozilla handling my info as explained in <a>this Privacy Notice</a>.
+Pozwalam Mozilli wykorzystywać moje dane w sposób opisany w <a>zasadach ochrony prywatności</a>.
 
 
 # Button
 ;Dismiss
-Dismiss
+Zamknij
 
 
