@@ -9,7 +9,7 @@ Learning = self-improvement. Ready to get smarter?
 
 # First scene button
 ;YES
-YES
+SÍ
 
 
 # Second scene. Example: https://screenshotscdn.firefoxusercontent.com/images/5d9ea3ce-9d03-49eb-94eb-090b4adbf80f.png
@@ -20,20 +20,20 @@ Subscribe to the Mozilla newsletter to get smart and stay informed on the issues
 
 # placeholder. Feel free to replace with “Email”
 ;your@email.com
-your@email.com
+Correo electrónico
 
 
 # Button
 ;Sign me up
-Sign me up
+Registrarme
 
 
 ;I'm okay with Mozilla handling my info as explained in <a>this Privacy Notice</a>.
-I'm okay with Mozilla handling my info as explained in <a>this Privacy Notice</a>.
+Me parece bien que Mozilla gestione mi información según se indica en este <a>aviso de privacidad</a>.
 
 
 # Button
 ;Dismiss
-Dismiss
+Descartar
 
 
