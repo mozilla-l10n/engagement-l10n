@@ -2,21 +2,11 @@
 ## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
 ## NOTE: Campaign: cross platform promotions on a variety of topics
 ## NOTE: Limit character length to 180, preferably under 160.
-## NOTE: For de only.
 
 
 # This message appears when users mouse over the close/block "X" on the snippet to close it.
 ;Remove this
 Remove this
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Privacy
-# A cinch is a a thing done with ease.
-# Link: https://support.mozilla.org/de/products/firefox/protect-your-privacy
-;Protecting yourself online can be a lot of work. Luckily, Firefox gives you the <a>tools that make privacy a cinch</a>.
-Protecting yourself online can be a lot of work. Luckily, Firefox gives you the <a>tools that make privacy a cinch</a>.
 
 
 ## MAX_LENGTH: 180
