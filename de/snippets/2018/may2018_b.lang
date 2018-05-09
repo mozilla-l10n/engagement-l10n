@@ -7,7 +7,7 @@
 
 # This message appears when users mouse over the close/block "X" on the snippet to close it.
 ;Remove this
-Remove this
+Entfernen
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -15,35 +15,35 @@ Remove this
 # A cinch is a a thing done with ease.
 # Link: https://support.mozilla.org/de/products/firefox/protect-your-privacy
 ;Protecting yourself online can be a lot of work. Luckily, Firefox gives you the <a>tools that make privacy a cinch</a>.
-Protecting yourself online can be a lot of work. Luckily, Firefox gives you the <a>tools that make privacy a cinch</a>.
+Sich im Internet zu schützen kann viel Arbeit sein. Zum Glück hat Firefox <a>Werkzeuge, mit denen Datenschutz ganz einfach ist</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Mozilla Mission - Manifesto
 # Link: https://www.mozilla.org/about/manifesto/
 ;Will you join us in our commitment to create a better, healthier internet? <a>Read our updated Mozilla Manifesto</a>.
-Will you join us in our commitment to create a better, healthier internet? <a>Read our updated Mozilla Manifesto</a>.
+Unterstützen Sie uns bei der Arbeit für ein besseres, gesünderes Internet? <a>Lesen Sie unser aktualisiertes Mozilla-Manifest</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Upgrade Firefox
 # Link: https://www.mozilla.org/firefox/new/?scene=2#download-fx
 ;With a lightweight, rapid-fire engine and tracking protection, the latest Firefox is our best browser ever. It's also beautiful. <a>Upgrade now</a> and see for yourself.
-With a lightweight, rapid-fire engine and tracking protection, the latest Firefox is our best browser ever. It's also beautiful. <a>Upgrade now</a> and see for yourself.
+Der neue Firefox läuft sparsam und schnell, besitzt einen Tracking-Schutz und ist unser bester Browser aller Zeiten. Außerdem sieht er gut aus. <a>Holen Sie sich das Update</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Facebook Container
 # Link: https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Make it harder for Facebook to track your activity on other websites with the <a>Facebook Container extension</a>.
-Make it harder for Facebook to track your activity on other websites with the <a>Facebook Container extension</a>.
+Mit der <a>Erweiterung Facebook Container</a> erschweren Sie es Facebook, Ihre Aktivitäten auf anderen Websites zu verfolgen.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Facebook Container
 # Link: https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Isolate your Facebook identity from the rest of your web activity with the <a>Facebook Container extension</a>.
-Isolate your Facebook identity from the rest of your web activity with the <a>Facebook Container extension</a>.
+Mit der <a>Erweiterung Facebook Container</a> trennen Sie Ihre Facebook-Identität vom Rest Ihrer Web-Aktivitäten.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -51,7 +51,7 @@ Isolate your Facebook identity from the rest of your web activity with the <a>Fa
 # This snippet introduces Firefox users to how to achieve a distraction-free browsing experience.
 # Link: https://support.mozilla.org/kb/firefox-reader-view-clutter-free-web-pages
 ;Silence the visual noise of buttons, ads, and background images on the web using Firefox reader view. <a>Here's how</a>.
-Silence the visual noise of buttons, ads, and background images on the web using Firefox reader view. <a>Here's how</a>.
+Mit der Firefox-Leseansicht entfernen Sie störende Schaltflächen, Werbung und Hintergrundgrafiken im Internet. <a>So geht’s</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -59,7 +59,7 @@ Silence the visual noise of buttons, ads, and background images on the web using
 # In the case of a Windows 10 update resetting a Firefox user's default browser setting, this snippet provides instructions on how to change the setting.
 # Link: https://support.mozilla.org/kb/how-change-your-default-browser-windows-10
 ;Have your settings changed since you upgraded Windows 10? <a>Here's how to lock in Firefox as your default browser</a>.
-Have your settings changed since you upgraded Windows 10? <a>Here's how to lock in Firefox as your default browser</a>.
+Haben sich Ihre Einstellungen seit dem Update auf Windows 10 geändert? <a>So wählen Sie Firefox als Standardbrowser aus</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -67,6 +67,6 @@ Have your settings changed since you upgraded Windows 10? <a>Here's how to lock 
 # In the case of a Windows 10 update resetting a Firefox user's default browser setting, this snippet provides instructions on how to change the setting.
 # Link: https://support.mozilla.org/kb/how-change-your-default-browser-windows-10
 ;Thanks for choosing Firefox! Did your default browser setting change after the latest Windows 10 update? <a>Here's how to set Firefox as your default browser</a>.
-Thanks for choosing Firefox! Did your default browser setting change after the latest Windows 10 update? <a>Here's how to set Firefox as your default browser</a>.
+Danke, dass Sie sich für Firefox entschieden haben! Hat sich Ihr Standardbrowser nach dem neuesten Windows-10-Update geändert? <a>So setzen Sie Firefox als Standardbrowser</a>.
 
 
