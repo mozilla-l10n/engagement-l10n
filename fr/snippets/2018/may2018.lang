@@ -6,7 +6,7 @@
 
 # This message appears when users mouse over the close/block "X" on the snippet to close it.
 ;Remove this
-Remove this
+Supprimer
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -50,7 +50,7 @@ Silence the visual noise of buttons, ads, and background images on the web using
 # In the case of a Windows 10 update resetting a Firefox user's default browser setting, this snippet provides instructions on how to change the setting.
 # Link: https://support.mozilla.org/kb/how-change-your-default-browser-windows-10
 ;Have your settings changed since you upgraded Windows 10? <a>Here's how to lock in Firefox as your default browser</a>.
-Have your settings changed since you upgraded Windows 10? <a>Here's how to lock in Firefox as your default browser</a>.
+Vos paramètres ont-ils changé depuis la dernière mise à jour de Windows&nbsp;10&nbsp;? <a>Voici comment faire de Firefox votre navigateur par défaut.</a>
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
