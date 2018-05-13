@@ -6,35 +6,35 @@
 
 # This message appears when users mouse over the close/block "X" on the snippet to close it.
 ;Remove this
-Remove this
+Eliminar esto
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Mozilla Mission - Manifesto
 # Link: https://www.mozilla.org/about/manifesto/
 ;Will you join us in our commitment to create a better, healthier internet? <a>Read our updated Mozilla Manifesto</a>.
-Will you join us in our commitment to create a better, healthier internet? <a>Read our updated Mozilla Manifesto</a>.
+¿Te unirías a nuestro compromiso para crear un Internet mejor y más saludable? <a>Lee nuestro Manifiesto actualizado de Mozilla</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Upgrade Firefox
 # Link: https://www.mozilla.org/firefox/new/?scene=2#download-fx
 ;With a lightweight, rapid-fire engine and tracking protection, the latest Firefox is our best browser ever. It's also beautiful. <a>Upgrade now</a> and see for yourself.
-With a lightweight, rapid-fire engine and tracking protection, the latest Firefox is our best browser ever. It's also beautiful. <a>Upgrade now</a> and see for yourself.
+Con un motor ligero, rápido y con protección contra rastreo, el último Firefox es nuestro mejor navegador. Y también el más bonito. <a>Actualízalo</a> y compruébalo tú mismo.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Facebook Container
 # Link: https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Make it harder for Facebook to track your activity on other websites with the <a>Facebook Container extension</a>.
-Make it harder for Facebook to track your activity on other websites with the <a>Facebook Container extension</a>.
+Dificulta a Facebook que rastree tu actividad entre sitios web con la extensión <a>Contenedor de Facebook</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Facebook Container
 # Link: https://addons.mozilla.org/firefox/addon/facebook-container/
 ;Isolate your Facebook identity from the rest of your web activity with the <a>Facebook Container extension</a>.
-Isolate your Facebook identity from the rest of your web activity with the <a>Facebook Container extension</a>.
+Aísla tu identidad de Facebook del resto de tu actividad web con la extensión <a>Contenedor de Facebook</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -42,7 +42,7 @@ Isolate your Facebook identity from the rest of your web activity with the <a>Fa
 # This snippet introduces Firefox users to how to achieve a distraction-free browsing experience.
 # Link: https://support.mozilla.org/kb/firefox-reader-view-clutter-free-web-pages
 ;Silence the visual noise of buttons, ads, and background images on the web using Firefox reader view. <a>Here's how</a>.
-Silence the visual noise of buttons, ads, and background images on the web using Firefox reader view. <a>Here's how</a>.
+Silencia el ruido visual de botones, anuncios e imágenes de fondo en la web con la vista de lectura de Firefox. <a>Descubre cómo</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
