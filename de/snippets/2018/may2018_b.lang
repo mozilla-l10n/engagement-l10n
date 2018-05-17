@@ -59,7 +59,7 @@ Hallo, Firefox Leseansicht –  tschüss störende Elemente wie Schaltflächen, 
 # In the case of a Windows 10 update resetting a Firefox user's default browser setting, this snippet provides instructions on how to change the setting.
 # Link: https://support.mozilla.org/kb/how-change-your-default-browser-windows-10
 ;Have your settings changed since you upgraded Windows 10? <a>Here's how to lock in Firefox as your default browser</a>.
-Haben sich Deine Einstellungen seit dem Update auf Windows 10 geändert? <a>So einfach wählst Du Firefox als Standardbrowser aus</a>.
+Haben sich Deine Einstellungen seit dem Update auf Windows 10 geändert? <a>So einfach legst Du Firefox als Standardbrowser fest</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -67,6 +67,6 @@ Haben sich Deine Einstellungen seit dem Update auf Windows 10 geändert? <a>So e
 # In the case of a Windows 10 update resetting a Firefox user's default browser setting, this snippet provides instructions on how to change the setting.
 # Link: https://support.mozilla.org/kb/how-change-your-default-browser-windows-10
 ;Thanks for choosing Firefox! Did your default browser setting change after the latest Windows 10 update? <a>Here's how to set Firefox as your default browser</a>.
-Danke, dass Sie sich für Firefox entschieden haben! Hat sich Ihr Standardbrowser nach dem neuesten Windows-10-Update geändert? <a>So setzen Sie Firefox als Standardbrowser</a>.
+Hurra, Du hast Dich für Firefox entschieden. Danke! Deine Einstellungen haben sich seit dem Update auf Windows 10 geändert? <a>So machst Du Firefox zum Standardbrowser </a>.
 
 
