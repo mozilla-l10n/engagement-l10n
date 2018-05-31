@@ -11,9 +11,40 @@ Now’s the time
 This opportunity is a lot bigger than just Facebook
 
 
+## TAG: subject_line
+# Subject #1 for kicker
+;Seizing the opportunity
+Seizing the opportunity
+
+
+## TAG: subject_line
+# Subject #2 for kicker. “Now's the time” should match the translation of the subject line for the original message
+;Update re: Now's the time
+Update re: Now's the time
+
+
 ## TAG: preheader
 ;Protecting users’ security and privacy on the web is a long-held goal of Mozilla’s. Now, our issues are in the news — will you help us seize the moment?
 Protecting users’ security and privacy on the web is a long-held goal of Mozilla’s. Now, our issues are in the news — will you help us seize the moment?
+
+
+# Kicker text
+;Hey there – as you read this, we’re facing some of the biggest fights that will shape the future of the Internet. Could you chip in so we can keep winning the battles that matter to all of us?
+Hey there – as you read this, we’re facing some of the biggest fights that will shape the future of the Internet. Could you chip in so we can keep winning the battles that matter to all of us?
+
+
+# Kicker text, including first name
+;[firstname] – as you read this, we’re facing some of the biggest fights that will shape the future of the Internet. Could you chip in so we can keep winning the battles that matter to all of us?
+[firstname] – as you read this, we’re facing some of the biggest fights that will shape the future of the Internet. Could you chip in so we can keep winning the battles that matter to all of us?
+
+
+## TAG: button
+;Donate Now
+Donate Now
+
+
+;(Original message below)
+(Original message below)
 
 
 ## TAG: callout_text
