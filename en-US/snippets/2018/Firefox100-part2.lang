@@ -1,0 +1,273 @@
+## NOTE: Reference bug 1463556; Deadline: July 25, 2018
+## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+## NOTE: Campaign: Part two of the Firefox 100-snippet journey which is a collection of desktop snippets programmed for new Firefox users. Each part contains four weeks of snippets.
+## NOTE: Limit character length to 180, preferably under 160.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Accounts for users without an account
+;Browse boldly. Sign up for a Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
+Browse boldly. Sign up for a Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Accounts for users an account
+;Browse boldly. Sign in to your Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
+Browse boldly. Sign in to your Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Add-ons
+# Link: https://addons.mozilla.org/firefox/
+;<a>Power up Firefox with add-ons</a>. Choose from dozens of customizations for privacy, social, gaming, and a whole lot more.
+<a>Power up Firefox with add-ons</a>. Choose from dozens of customizations for privacy, social, gaming, and a whole lot more.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Add-ons
+# Link: https://addons.mozilla.org/firefox/
+# Icon: Toolbox
+;Add-ons are like toppings for your browser. <a>Choose from dozens of customizations</a> and make Firefox more to your liking.
+Add-ons are like toppings for your browser. <a>Choose from dozens of customizations</a> and make Firefox more to your liking.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Delight
+# Icon: An old man with white hair.
+# ZZZ symbolizes sleep.
+;Need a quick recharge? Power up with a power nap. Geniuses like Dali and Einstein loved sneaking in some extra ZZZs.
+Need a quick recharge? Power up with a power nap. Geniuses like Dali and Einstein loved sneaking in some extra ZZZs.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: SUMO
+# Link: https://support.mozilla.org/products/firefox/
+;Did you know that our support team is available to help you with any questions you have related to Firefox? <a>Learn more</a>.
+Did you know that our support team is available to help you with any questions you have related to Firefox? <a>Learn more</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: SUMO
+# Link: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
+;Level up your keyboard skills and perform tasks faster. <a>Learn the keyboard shortcuts in Firefox</a>.
+Level up your keyboard skills and perform tasks faster. <a>Learn the keyboard shortcuts in Firefox</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: SUMO
+# Link: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
+;Perform common tasks even faster with these <a>essential keyboard shortcuts in Firefox</a>.
+Perform common tasks even faster with these <a>essential keyboard shortcuts in Firefox</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Mobile
+;Browse without boundaries. Send Firefox to your mobile device for better browsing on the go.
+Browse without boundaries. Send Firefox to your mobile device for better browsing on the go.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Mobile
+;Browse unbound. Send Firefox to your phone and take a powerful independent browser with you.
+Browse unbound. Send Firefox to your phone and take a powerful independent browser with you.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Mobile
+;Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile.
+Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Mobile
+;Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile. Send Firefox to your phone and take a powerful independent browser with you.
+Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile. Send Firefox to your phone and take a powerful independent browser with you.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Firefox Themes
+# Link: https://addons.mozilla.org/firefox/themes/
+# Icon: Tools
+;Customize. Create. Explore. <a>We've got themes galore</a>.
+Customize. Create. Explore. <a>We've got themes galore</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: SUMO
+# Link: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
+;Tip: Use the CMD (CTRL) + T keyboard shortcut to <a>open a new tab quickly</a>!
+Tip: Use the CMD (CTRL) + T keyboard shortcut to <a>open a new tab quickly</a>!
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Mozilla Newsletter Signup
+# Icon: Loud speaker
+;<a>Be part of a movement</a>. Internet shutdowns, hackers, harassment — the health of the internet is on the line. Sign up and Mozilla will keep you updated on how you can help.
+<a>Be part of a movement</a>. Internet shutdowns, hackers, harassment — the health of the internet is on the line. Sign up and Mozilla will keep you updated on how you can help.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Mozilla Newsletter Signup
+# Icon: Profile of the human brain
+;<a>Learning = self-improvement</a>. Sign up for the Mozilla newsletter to get smart on the issues affecting your life online.
+<a>Learning = self-improvement</a>. Sign up for the Mozilla newsletter to get smart on the issues affecting your life online.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Internet Citizen Blog
+# Link: https://blog.mozilla.org/internetcitizen/
+# Icon: A donut
+# The Simpsons is an animated comedy features satiric adventures of a working-class family in a misfit city. The show is for adults. Feel free to swap with a local popular show.
+# Homer Simpson, the main male character of The Simpsons show, loves donuts and makes the food seem less bad as it is commonly perceived as such.
+;A healthy Internet is a vital resource like fresh water, public education or reruns of The Simpsons. <a>Discover how to be a better Internet Citizen at the Mozilla blog</a>.
+A healthy Internet is a vital resource like fresh water, public education or reruns of The Simpsons. <a>Discover how to be a better Internet Citizen at the Mozilla blog</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Test Pilot
+# Link: https://testpilot.firefox.com/experiments/
+;Be among the first to try out new features in Firefox. <a>Sign up to be a Test Pilot today</a>.
+Be among the first to try out new features in Firefox. <a>Sign up to be a Test Pilot today</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Add-ons
+# Link: https://addons.mozilla.org/firefox/collections/mozilla/essential-extensions/
+;Powerful privacy tools, media enhancers and more: our essential extensions collection is loaded with awesome add-ons. <a>Check them out</a>.
+Powerful privacy tools, media enhancers and more: our essential extensions collection is loaded with awesome add-ons. <a>Check them out</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Add-ons
+# Link: https://addons.mozilla.org/firefox/collections/mozilla/essential-extensions/
+;Make Firefox even awesomer (awesomer is a word, right?) with something from our <a>essential add-ons collection</a>.
+Make Firefox even awesomer (awesomer is a word, right?) with something from our <a>essential add-ons collection</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: SUMO
+# Link: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
+;Tip: Use the CMD (CTRL) + D keyboard shortcut to quickly <a>bookmark the current page</a>!
+Tip: Use the CMD (CTRL) + D keyboard shortcut to quickly <a>bookmark the current page</a>!
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Screenshots
+# Link: https://screenshots.firefox.com/
+;Screenshots is a better way to screenshot. Save and share cool stuff without leaving Firefox. <a>Learn More</a>.
+Screenshots is a better way to screenshot. Save and share cool stuff without leaving Firefox. <a>Learn More</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Screenshots
+# Link: https://screenshots.firefox.com/
+;Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more</a>.
+Say goodbye to your complex screenshot hack. Screenshots is a new way to save and share within Firefox. <a>Learn more</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: IRL
+# Link: https://irlpodcast.org/
+# IRL stands for Is Real Life. The podcasts are in English only.
+;Not even catfish like to be catfished. <a>Listen to Mozilla’s podcast, IRL</a>, to learn about the consequences of the online world overlapping into the real world.
+Not even catfish like to be catfished. <a>Listen to Mozilla’s podcast, IRL</a>, to learn about the consequences of the online world overlapping into the real world.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Focus
+;Browse for something secret. Try Firefox Focus, the lightweight mobile browser that lets you explore the web without a trace.
+Browse for something secret. Try Firefox Focus, the lightweight mobile browser that lets you explore the web without a trace.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Focus
+;Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Focus
+;Get an extra dose of privacy with Firefox Focus — the privacy browser for your mobile device.
+Get an extra dose of privacy with Firefox Focus — the privacy browser for your mobile device.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Focus
+;Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: SUMO
+# Link: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
+# Icon: A finger touching the Firefox forget button.
+;Unlike your attic, Firefox is easy to clean. <a>Just click the Forget Button and presto</a>! No more browser history.
+Unlike your attic, Firefox is easy to clean. <a>Just click the Forget Button and presto</a>! No more browser history.## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: SUMO
+# Link: https://support.mozilla.org/kb/forget-button-quickly-delete-your-browsing-history
+;Unlike your attic, Firefox is easy to clean. <a>Just click the Forget Button and presto</a>! No more browser history.
+Unlike your attic, Firefox is easy to clean. <a>Just click the Forget Button and presto</a>! No more browser history.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Delight
+# Icon: Sock
+;Free thought: Never let a dress code get in the way of fun socks.
+Free thought: Never let a dress code get in the way of fun socks.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: Firefox
+# Link: https://blog.mozilla.org/blog/2018/01/23/latest-firefox-quantum-release-now-available-with-new-features/
+# Icon: Crystal ball
+# Behold means to see, look at.
+;Looking for the answer to faster browsing? Behold: the quickest way to <a>cut page load times in half</a>.
+Looking for the answer to faster browsing? Behold: the quickest way to <a>cut page load times in half</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: SUMO
+# Link: https://support.mozilla.org/kb/make-firefox-your-default-browser
+;Browse the web at full speed with privacy on your side. <a>Set Firefox as your default browser</a>.
+Browse the web at full speed with privacy on your side. <a>Set Firefox as your default browser</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaignn: SUMO
+# Link: https://support.mozilla.org/kb/make-firefox-your-default-browser
+;<a>Make Firefox your default browser</a> and browse at full speed. Visit Firefox > Preferences > General in your dropdown menu. Click "Make Default..."
+<a>Make Firefox your default browser</a> and browse at full speed. Visit Firefox > Preferences > General in your dropdown menu. Click "Make Default..."
