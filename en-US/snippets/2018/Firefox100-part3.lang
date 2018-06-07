@@ -1,0 +1,281 @@
+## NOTE: Reference bug 1463556; Deadline: August 8, 2018
+## NOTE: Guidelines on localizing snippets: https://goo.gl/PluA97.  The tone is QUAC (Quick, Untamed, Alert, Clever). Do your best to make it local and culturally relevant.
+## NOTE: Campaign: Part three of the Firefox 100-snippet journey which is a collection of desktop snippets programmed for new Firefox users. Each part contains four weeks of snippets.
+## NOTE: Limit character length to 180, preferably under 160.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Accounts for users without an account
+;Browse boldly. Sign up for a Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
+Browse boldly. Sign up for a Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Accounts for users with an account
+;Browse boldly. Sign into your Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
+Browse boldly. Sign into your Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: SUMO
+# Link: https://support.mozilla.org/en-US/kb/switching-chrome-firefox
+;<a>Switch from Chrome to Firefox</a> and enjoy faster browsing. We’ll import your bookmarks, passwords and history so you can pick up right where you left off.
+<a>Switch from Chrome to Firefox</a> and enjoy faster browsing. We’ll import your bookmarks, passwords and history so you can pick up right where you left off.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: SUMO
+# Link: https://support.mozilla.org/en-US/kb/switching-chrome-firefox
+;<a>Switch from Chrome to Firefox</a> and enjoy the web faster. We'll import your bookmarks, autofills, passwords and preferences in just a few minutes.
+<a>Switch from Chrome to Firefox</a> and enjoy the web faster. We'll import your bookmarks, autofills, passwords and preferences in just a few minutes.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Delight
+# Icon: Sunrise over green hills
+;Watching the sunrise outdoors statistically increases your odds of having a good day. And needing a nap after lunch.
+Watching the sunrise outdoors statistically increases your odds of having a good day. And needing a nap after lunch.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Data Detox
+# Link: https://blog.mozilla.org/internetcitizen/2017/11/08/data-detox/
+# Icon: A snail
+# Here, snail symbolizes purity.
+;Are you browsing slower than you'd like? Shed excess data build-up with an 8-day <a>Data Detox</a>.
+Are you browsing slower than you'd like? Shed excess data build-up with an 8-day <a>Data Detox</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Common Voice
+# Link: https://voice.mozilla.org/
+;Let your voice be heard! Literally. <a>Contribute your voice</a> to the world’s first crowdsourced voice library.
+Let your voice be heard! Literally. <a>Contribute your voice</a> to the world’s first crowdsourced voice library.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Mobile
+;Browse without boundaries. Send Firefox to your mobile device for better browsing on the go.
+Browse without boundaries. Send Firefox to your mobile device for better browsing on the go.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Mobile
+;Browse unbound. Send Firefox to your phone and take a powerful independent browser with you.
+Browse unbound. Send Firefox to your phone and take a powerful independent browser with you.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Mobile
+;Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile.
+Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Mobile
+;Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile. Send Firefox to your phone and take a powerful independent browser with you.
+Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile. Send Firefox to your phone and take a powerful independent browser with you.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Add-ons
+# Link: https://addons.mozilla.org/firefox/collections/mozilla/featured-personas/
+# Icon: Tools
+;Themes give your browser a new look, any time you like. <a>Try one of our featured themes</a>.
+Themes give your browser a new look, any time you like. <a>Try one of our featured themes</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Add-ons
+# Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
+# Icon: Firefox multi-container icon
+;Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers</a>!
+Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers</a>!
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Add-ons
+# Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
+# Icon: Firefox multi-container icon
+;Using private browsing mode to juggle multiple accounts? Now there’s a better way. <a>Try Multi-Account Containers</a>!
+Using private browsing mode to juggle multiple accounts? Now there’s a better way. <a>Try Multi-Account Containers</a>!
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Newsletter Signup
+# Internet intel refers to useful information about internet
+;Get more fox in your inbox. Sign up for monthly user tips, booster packs and internet intel.
+Get more fox in your inbox. Sign up for monthly user tips, booster packs and internet intel.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Fire TV
+# Link: https://blog.mozilla.org/firefox/get-firefox-amazon-fire-tv-now-turbo-mode/
+# Icon: A TV with a Firefox logo on the screen
+# Cat videos merely suggest fun and cute videos. Feel free to substitute with what’s common in your country.
+;Firefox + Fire TV = HOT. Get it now to keep watching cat videos — or whatever you’re into. <a>Learn more</a>.
+Firefox + Fire TV = HOT. Get it now to keep watching cat videos — or whatever you’re into. <a>Learn more</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Test Pilot
+# Link: https://testpilot.firefox.com/experiments/
+;Be among the first to try out new features in Firefox. <a>Sign up to be a Test Pilot today</a>.
+Be among the first to try out new features in Firefox. <a>Sign up to be a Test Pilot today</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Mozilla Science Lab
+# Link: https://science.mozilla.org/
+# Icon: A telescope
+;The world of scientific research is changing. <a>Mozilla Science Lab</a> empowers scientists to keep up.
+The world of scientific research is changing. <a>Mozilla Science Lab</a> empowers scientists to keep up.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Mozilla Science Lab
+# Link: https://science.mozilla.org/
+# Icon: A pattern when seen through a kaleidoscope tube
+;Discover a community of researchers building a new way for science to thrive—no pocket protector required. <a>Meet the Mozilla Science Lab</a>.
+Discover a community of researchers building a new way for science to thrive—no pocket protector required. <a>Meet the Mozilla Science Lab</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Pocket
+# Link: https://getpocket.com/firefox_learnmore
+;Still using bookmarks? <a>Try Pocket</a> - it’s better than bookmarks.
+Still using bookmarks? <a>Try Pocket</a> - it’s better than bookmarks.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Sync
+# Link: https://www.mozilla.org/firefox/features/sync/
+;Love Firefox and want to access your bookmarks, passwords and more from any device? <a>Sign in to Sync</a>.
+Love Firefox and want to access your bookmarks, passwords and more from any device? <a>Sign in to Sync</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Firefox Accounts
+# Link: https://www.mozilla.org/firefox/accounts/
+;<a>Sync it, link it, take it with you</a>. All this and more with a Firefox Account.
+<a>Sync it, link it, take it with you</a>. All this and more with a Firefox Account.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: IRL
+# Link: https://irlpodcast.org/
+# IRL stands for Is Real Life. The podcasts are in English only.
+;Mozilla’s Podcast, IRL, explores what happens when our online life meets our real life. <a>Take a listen</a>.
+Mozilla’s Podcast, IRL, explores what happens when our online life meets our real life. <a>Take a listen</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Focus
+;Browse for something secret. Try Firefox Focus, the lightweight mobile browser that lets you explore the web without a trace.
+Browse for something secret. Try Firefox Focus, the lightweight mobile browser that lets you explore the web without a trace.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Focus
+;Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Focus
+;Get an extra dose of privacy with Firefox Focus — the privacy browser for your mobile device.
+Get an extra dose of privacy with Firefox Focus — the privacy browser for your mobile device.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Focus
+;Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Volunteer
+# Link: https://www.mozilla.org/contribute/
+;Share your skills with a global community of game changers who help shape the web. <a>Volunteer with Mozilla</a>.
+Share your skills with a global community of game changers who help shape the web. <a>Volunteer with Mozilla</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Volunteer
+# Link: https://www.mozilla.org/contribute/
+;<a>Volunteer with Mozilla</a>: learn, collaborate and share your skills with a global community of game changers helping shape the web.
+<a>Volunteer with Mozilla</a>: learn, collaborate and share your skills with a global community of game changers helping shape the web.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Delight
+# Link: https://en.wikipedia.org/wiki/List_of_national_parks_of_the_United_States
+# Icon: Road leading to forest and mountains
+# Replace the first letter of “The” or replace the article with what’s grammatically correct in your language.
+;Where can you find beaches, mountains, deserts, caves and volcanoes (<a>Here’s a hint</a>: It starts with a “T” and ends with “he National Parks.”)
+<a>Where can you find beaches, mountains, deserts, caves and volcanoes (<a>Here’s a hint</a>: It starts with a “T” and ends with “he National Parks.”)
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: SUMO
+# Link: https://support.mozilla.org/products/firefox/protect-your-privacy
+;Always feel like somebody is watching you? Control your data, block malware and outfox the trackers with <a>Firefox’s privacy protection tips</a>.
+Always feel like somebody is watching you? Control your data, block malware and outfox the trackers with <a>Firefox’s privacy protection tips</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: SUMO
+# Link: https://support.mozilla.org/products/firefox/protect-your-privacy
+# Icon: A chocolate chip cookie with a bite mark
+;Cookies and phishing might sound fun but when it comes to your privacy online, it <a>pays to take them seriously</a>.
+Cookies and phishing might sound fun but when it comes to your privacy online, it <a>pays to take them seriously</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Advocacy
+# Link: https://advocacy.mozilla.org/safety/public-wifi
+# Icon: Caution sign
+;What’s the Wi-Fi? Stay safe the next time you connect to free public networks with <a>these simple steps</a>.
+What’s the Wi-Fi? Stay safe the next time you connect to free public networks with <a>these simple steps</a>.
+
+
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Advocacy
+# Link: https://advocacy.mozilla.org/safety/public-wifi
+# Icon: Caution sign
+;You wouldn't walk into a public restroom barefoot. You shouldn't log into public Wi-Fi without <a>taking a few quick precautions either</a>.
+You wouldn't walk into a public restroom barefoot. You shouldn't log into public Wi-Fi without <a>taking a few quick precautions either</a>.
