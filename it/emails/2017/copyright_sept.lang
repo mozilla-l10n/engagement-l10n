@@ -13,7 +13,7 @@ La loro approvazione potrebbe cambiare l’Internet che conosciamo.
 
 # Subject line for kicker 1
 ;re: {winning_subject_line} — ONE DAY LEFT
-re: {winning_subject_line} — ONE DAY LEFT
+re: {winning_subject_line} — MANCA UN GIORNO
 
 
 # Topper note for kicker 1
@@ -22,7 +22,7 @@ Hi [first name], we’ve only got ONE DAY left to save the internet. I just want
 
 
 ;Original email:
-Original email:
+Messaggio originale:
 
 
 # Also used as preheader
@@ -35,7 +35,7 @@ Can you make a call to an MEP today to help save a creative and free internet in
 
 
 ;Make a call
-Make a call
+Chiama
 
 
 ;[First name],
