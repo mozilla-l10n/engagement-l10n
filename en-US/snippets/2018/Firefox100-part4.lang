@@ -6,20 +6,6 @@
 
 ## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Firefox Accounts for users without an account
-;Browse boldly. Sign up for a Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
-Browse boldly. Sign up for a Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Firefox Accounts for users with an account
-;Browse boldly. Sign into your Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
-Browse boldly. Sign into your Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/products/firefox/manage-preferences-and-add-ons-firefox/install-and-manage-add-ons
 ;<a>Make browsing with Firefox even better</a>. Customize your preferences and supercharge your productivity with personalized add-ons.
@@ -61,34 +47,6 @@ Help shape the future of the web for the common good — <a>support open innovat
 
 ## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Firefox Mobile
-;Browse without boundaries. Send Firefox to your mobile device for better browsing on the go.
-Browse without boundaries. Send Firefox to your mobile device for better browsing on the go.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Firefox Mobile
-;Browse unbound. Send Firefox to your phone and take a powerful independent browser with you.
-Browse unbound. Send Firefox to your phone and take a powerful independent browser with you.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Firefox Mobile
-;Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile.
-Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Firefox Mobile
-;Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile. Send Firefox to your phone and take a powerful independent browser with you.
-Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile. Send Firefox to your phone and take a powerful independent browser with you.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Add-ons
 # Link: https://addons.mozilla.org/firefox/themes/
 # Icon: A mirror
@@ -107,36 +65,11 @@ Traveling is cool; breaches in your digital security are not. Find out how to <a
 
 ## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Mozilla Newsletter Signup
-# Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
-# Icon: A loudspeaker
-# Something “is on the line” means to risk it.
-;<a>Be part of a movement</a>. Internet shutdowns, hackers, harassment — the health of the internet is on the line. Sign up and Mozilla will keep you updated on how you can help.
-<a>Be part of a movement</a>. Internet shutdowns, hackers, harassment — the health of the internet is on the line. Sign up and Mozilla will keep you updated on how you can help.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Mozilla Newsletter Signup
-# Icon: Profile of a human brain
-;<a>Learning = self-improvement</a>. Sign up for the Mozilla newsletter to get smart on the issues affecting your life online.
-<a>Learning = self-improvement</a>. Sign up for the Mozilla newsletter to get smart on the issues affecting your life online.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Fire TV
 # Link: https://blog.mozilla.org/firefox/get-firefox-amazon-fire-tv-now-turbo-mode/
 # Icon: A TV with a Firefox logo on the screen
 ;“Hey Alexa, open Firefox.” Now you can do just that on your Fire TV. <a>Learn more</a>.
 “Hey Alexa, open Firefox.” Now you can do just that on your Fire TV. <a>Learn more</a>.
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Test Pilot
-# Link: https://testpilot.firefox.com/experiments/
-;Be among the first to try out new features in Firefox. <a>Sign up to be a Test Pilot today</a>.
-Be among the first to try out new features in Firefox. <a>Sign up to be a Test Pilot today</a>.
 
 
 ## MAX_LENGTH: 180
@@ -186,38 +119,6 @@ Experience virtual reality made for your browser with <a>WebVR in Firefox</a>.
 
 ## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: IRL
-# Link: https://irlpodcast.org/
-# IRL stands for Is Real Life. The podcasts are in English only.
-# Icon: IRL logo
-# Being catfished means someone being victimized by another person using fake information or identity.
-;Not even catfish like to be catfished. <a>Listen to Mozilla’s podcast, IRL</a>, to learn about the consequences of the online world overlapping into the real world.
-Not even catfish like to be catfished. <a>Listen to Mozilla’s podcast, IRL</a>, to learn about the consequences of the online world overlapping into the real world.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Focus
-;Browse for something secret. Try Firefox Focus, the lightweight mobile browser that lets you explore the web without a trace.
-Browse for something secret. Try Firefox Focus, the lightweight mobile browser that lets you explore the web without a trace.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Focus
-;Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
-Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
-# Campaign: Focus
-;Get an extra dose of privacy with Firefox Focus — the privacy browser for your mobile device.
-Get an extra dose of privacy with Firefox Focus — the privacy browser for your mobile device.
-
-
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Internet Citizen
 # Link: https://blog.mozilla.org/internetcitizen/2017/01/25/better-password-security/
 # Icon: A lock
@@ -225,8 +126,6 @@ Get an extra dose of privacy with Firefox Focus — the privacy browser for your
 To trust or not to trust password managers? That is the question. (<a>Luckily, we have the answer</a>.)
 
 
-## MAX_LENGTH: 180
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Fundraising
 # Link: https://donate.mozilla.org/
 # Icon: Heart
