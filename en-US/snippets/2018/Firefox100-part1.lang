@@ -4,71 +4,82 @@
 ## NOTE: Limit character length to 180, preferably under 160.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Accounts for user without an account
 ;Browse boldly. Sign up for a Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
-Navegue corajosamente. Registre uma Conta Firefox para acessar suas senhas protegidas, abrir abas e favoritos em todos os seus dispositivos.
+Browse boldly. Sign up for a Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Accounts for user with an account
 ;Browse boldly. Sign in to your Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
-Navegue corajosamente. Entre na sua Conta Firefox para acessar suas senhas protegidas, abrir abas e favoritos em todos os seus dispositivos.
+Browse boldly. Sign in to your Firefox Account to sync your protected passwords, open tabs and bookmarks on all your devices.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Add-ons
 # Link: https://addons.mozilla.org/firefox/
 ;<a>Power up Firefox with add-ons</a>. Choose from dozens of customizations for privacy, social, gaming, and a whole lot more.
-<a>Potencialize o Firefox com extensões</a>. Escolha entre dezenas de customizações para privacidade, social, jogos e muito mais.
+<a>Power up Firefox with add-ons</a>. Choose from dozens of customizations for privacy, social, gaming, and a whole lot more.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Add-ons
 # Link: https://addons.mozilla.org/firefox/
 ;Personalize Firefox with add-ons for privacy, social, gaming, and a whole lot more. <a>Make Firefox yours</a>.
-Personalize o Firefox com extensões para privacidade, social, jogos e muito mais. <a>Torne o Firefox seu</a>.
+Personalize Firefox with add-ons for privacy, social, gaming, and a whole lot more. <a>Make Firefox yours</a>.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Delight
 ;Fun fact: Firefox users are the smartest, funniest, best-looking people on the Web. [Citation needed]
-Fato divertido: os usuários do Firefox são os mais inteligentes, engraçados e bonitos da Web. [Precisa de citação?]
+Fun fact: Firefox users are the smartest, funniest, best-looking people on the Web. [Citation needed]
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Internet Health
 # Link: https://www.mozilla.org/internet-health/
 # This message targets new users. “Webby journeys” mean all the browsing on the internet.
 ;Hey, nice work choosing Firefox for your webby journeys. Not all heroes wear capes and by browsing with us, <a>you’re helping build a better internet</a>.
-Ótima ideia escolher o Firefox para suas jornadas na web. Nem todo herói usa capa e navegando conosco, <a>você está ajudando a construir uma Internet melhor</a>.
+Hey, nice work choosing Firefox for your webby journeys. Not all heroes wear capes and by browsing with us, <a>you’re helping build a better internet</a>.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/get-started-firefox-overview-main-features
 ;Whether you’re new to Firefox or just need a refresher, here’s a quick guide to all the <a>awesomeness Firefox comes with right out of the box</a>.
-Independente de você ser novo no Firefox ou só precisar se atualizar, <a>aqui está um guia rápido para todas as maravilhas que acompanham o Firefox desde sua concepção</a>.
+Whether you’re new to Firefox or just need a refresher, here’s a quick guide to all the <a>awesomeness Firefox comes with right out of the box</a>.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Mobile
 ;Browse without boundaries. Send Firefox to your mobile device for better browsing on the go.
-Navegue sem fronteiras. Envie o Firefox para seu dispositivo móvel para navegar melhor em qualquer lugar.
+Browse without boundaries. Send Firefox to your mobile device for better browsing on the go.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Mobile
 ;Browse unbound. Send Firefox to your phone and take a powerful independent browser with you.
 Browse unbound. Send Firefox to your phone and take a powerful independent browser with you.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Mobile
 ;Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile.
 Full-featured. Customizable. Lightning fast. Browse without compromise with Firefox Mobile.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Mozilla Mission
 # Link: https://www.mozilla.org/
@@ -77,6 +88,7 @@ Full-featured. Customizable. Lightning fast. Browse without compromise with Fire
 Mozilla, maker of Firefox, is the not-for-profit technology org helping to keep the web healthy, open and accessible to all. <a>Learn more</a>.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/
@@ -84,6 +96,7 @@ Mozilla, maker of Firefox, is the not-for-profit technology org helping to keep 
 Did you know that our support team is available to help you with any questions you have related to Firefox? <a>Learn more.</a>
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Newsletter
 # Internet intel refers to useful information about internet
@@ -91,6 +104,7 @@ Did you know that our support team is available to help you with any questions y
 Get more fox in your inbox. Sign up for monthly user tips, booster packs and internet intel.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Newsletter
 # A pipe dream is an unattainable or fanciful hope
@@ -98,6 +112,7 @@ Get more fox in your inbox. Sign up for monthly user tips, booster packs and int
 Inbox zero may be a pipe dream, but the Firefox newsletter can be your inbox hero. Sign up for monthly user tips, booster packs and internet intel.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Web Literacy
 # Link: https://learning.mozilla.org/web-literacy
@@ -105,6 +120,7 @@ Inbox zero may be a pipe dream, but the Firefox newsletter can be your inbox her
 Reading, writing, arithmetic — and now Web literacy. <a>Learn basic Web skills</a> key to crushing it in the 21st century.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/awesome-bar-search-firefox-bookmarks-history-tabs
@@ -112,6 +128,7 @@ Reading, writing, arithmetic — and now Web literacy. <a>Learn basic Web skills
 <a>Become a power Firefox user</a>. Discover customization tricks and something we call, THE AWESOME BAR.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Test Pilot
 # Link: https://testpilot.firefox.com/experiments/notes
@@ -119,6 +136,7 @@ Reading, writing, arithmetic — and now Web literacy. <a>Learn basic Web skills
 Want to save a tree or two? <a>Jot down your thoughts directly in Firefox with Notes</a>, a new Test Pilot experiment.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Test Pilot
 # Link: https://testpilot.firefox.com/experiments/
@@ -126,6 +144,7 @@ Want to save a tree or two? <a>Jot down your thoughts directly in Firefox with N
 Be among the first to try out new features in Firefox. <a>Sign up to be a Test Pilot today</a>.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/private-browsing-use-firefox-without-history
@@ -133,6 +152,7 @@ Be among the first to try out new features in Firefox. <a>Sign up to be a Test P
 <a>Open a private window</a> in Firefox to browse freely and keep away the trackers.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/private-browsing-use-firefox-without-history
@@ -140,6 +160,7 @@ Be among the first to try out new features in Firefox. <a>Sign up to be a Test P
 Control your privacy. <a>Use private browsing</a> to explore the web with maximum freedom.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Pocket
 # Link: https://getpocket.com/firefox_learnmore
@@ -147,6 +168,7 @@ Control your privacy. <a>Use private browsing</a> to explore the web with maximu
 Still using bookmarks? <a>Try Pocket</a> - it’s better than bookmarks.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Pocket
 # Link: https://getpocket.com/firefox_learnmore
@@ -154,6 +176,7 @@ Still using bookmarks? <a>Try Pocket</a> - it’s better than bookmarks.
 What if your bookmarks had a brain? <a>Try Pocket</a> and discover more great content based on the stuff you save.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Internet Health Report
 # Link: https://internethealthreport.org/
@@ -161,6 +184,7 @@ What if your bookmarks had a brain? <a>Try Pocket</a> and discover more great co
 What’s something we can all agree on? Internet health. <a>Read more about it</a>.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: IRL
 # Link: https://irlpodcast.org/
@@ -169,26 +193,35 @@ What’s something we can all agree on? Internet health. <a>Read more about it</
 Mozilla’s Podcast, IRL, explores what happens when our online life meets our real life. <a>Take a listen</a>.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Focus
 ;Browse for something secret. Try Firefox Focus, the lightweight mobile browser that lets you explore the web without a trace.
 Browse for something secret. Try Firefox Focus, the lightweight mobile browser that lets you explore the web without a trace.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Focus
-# Campaign: Focus
-# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 ;Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
 Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Focus
 ;Get an extra dose of privacy with Firefox Focus — the privacy browser for your mobile device.
 Get an extra dose of privacy with Firefox Focus — the privacy browser for your mobile device.
 
 
+## MAX_LENGTH: 180
+# Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
+# Campaign: Focus
+;Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+
+
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Retention
 # Link: https://www.mozilla.org/etc/firefox/retention/thank-you-a/
@@ -196,6 +229,7 @@ Get an extra dose of privacy with Firefox Focus — the privacy browser for your
 Thanks for choosing Firefox and supporting an independent web. You’re awesome! <a>Here’s what you can do next</a>.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Delight
 # Link: https://en.wikipedia.org/wiki/Proxima_Centauri
@@ -203,6 +237,7 @@ Thanks for choosing Firefox and supporting an independent web. You’re awesome!
 <a>The nearest star</a> is 4.25 light-years from Earth which is why most wishes take at least 9 years to come true.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Tracking Protection
 # Link: https://blog.mozilla.org/blog/2018/01/23/latest-firefox-quantum-release-now-available-with-new-features/
@@ -211,10 +246,9 @@ Thanks for choosing Firefox and supporting an independent web. You’re awesome!
 Boost your browser’s speed and increase privacy with the <a>easy-to-enable, always-on Tracking Protection</a> preference in Firefox Quantum.
 
 
+## MAX_LENGTH: 180
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Advocacy
 # Link: https://advocacy.mozilla.org/safety/
 ;Get your security on with Mozilla’s series of online privacy tips. <a>Safety First, friends</a>!
 Get your security on with Mozilla’s series of online privacy tips. <a>Safety First, friends</a>!
-
-

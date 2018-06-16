@@ -11,39 +11,31 @@ URGENTE: proposta di legge per il diritto d’autore nell’UE
 La loro approvazione potrebbe cambiare l’Internet che conosciamo.
 
 
-# Subject line for kicker 1 (Sept. 18)
-;re: {winning_subject_line}
-re: {winning_subject_line} {ok}
-
-
-# Subject line for kicker 2 (Sept. 25)
-;re: {winning_subject_line} – 3 days left
-re: {winning_subject_line} – mancano solo 3 giorni
-
-
-# Subject line for kicker 2 (Oct. 6)
-;re: {winning_subject_line} – 4 days left
-re: {winning_subject_line} – mancano solo 4 giorni
+# Subject line for kicker 1
+;re: {winning_subject_line} — ONE DAY LEFT
+re: {winning_subject_line} — MANCA UN GIORNO
 
 
 # Topper note for kicker 1
-;Hi [first name], we’ve only got 10 days left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
-Ciao [first name], ci rimangono solo dieci giorni per salvare Internet. Volevo essere sicuro che avessi ricevuto la mia email. Posso contare su di te per telefonare oggi stesso a un parlamentare europeo?
+;Hi [first name], we’ve only got ONE DAY left to save the internet. I just wanted to make sure you got my email – can I count on you to call today?
+Ciao [first name], ci è rimasto UN GIORNO per salvare Internet. Volevamo essere sicuri che tu ricevessi il messaggio… Possiamo contare su di te per fare una telefonata?
 
 
-# Will be concatenated with the following topper note. If the name is unavailable, “Hi,” will be used instead.
-;[First name] –
-[First name] – {ok}
+;Original email:
+Messaggio originale:
 
 
-# Topper note for kicker 2
-;Can you call your Member of European Parliament (MEP) right now to oppose the internet-destroying Copyright laws? It only takes a minute. Your call could be the make-or-break for the future of the internet in Europe.
-Telefona oggi stesso a un europarlamentare italiano per convincerlo a opporsi alla rovinosa legge sul diritto d’autore! Porterà via solo un minuto del tuo tempo e la tua telefonata potrebbe risultare decisiva per il futuro di Internet in Europa.
+# Also used as preheader
+;URGENT: European leaders are voting on new Copyright laws in just 7 days.
+URGENTE: Fra soli 7 giorni i leader europei voteranno per le nuove leggi sul diritto d’autore.
 
 
-# Alt text for call out box
-;Take action now
-Passa subito all’azione
+;Can you make a call to an MEP today to help save a creative and free internet in Europe?
+Puoi contattare oggi stesso un deputato del Parlamento europeo per contribuire a proteggere la libertà e la creatività di Internet in Europa?
+
+
+;Make a call
+Chiama
 
 
 ;[First name],
@@ -54,23 +46,12 @@ Passa subito all’azione
 Ciao,
 
 
-# Obsolete.
-;BREAKING: In just four weeks, Europe’s proposed Directive on Copyright in the Digital Single Market – the new copyright laws – could deliver the death blow to a creative and free internet.
-Notizia lampo: fra sole quattro settimane, la direttiva europea proposta per modificare il diritto d’autore nel Mercato Unico Digitale, ovvero quella che sarà la nuova legge europea sul diritto d’autore, potrebbe dare il colpo di grazia a un Internet creativo e libero.
+;In just a week, Europe’s new copyright law – could deliver a death blow to the creative and free internet.
+Fra una settimana la nuova legge sul diritto d'autore europea potrebbe infliggere un colpo letale alla creatività e libertà di Internet.
 
 
-# The link will be one of the translations from http://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52016PC0593
-;Europe’s proposed <a>Directive on Copyright in the Digital Single Market</a> – the new copyright laws – could deliver the death blow to a creative and free internet.
-La <a>Direttiva sul diritto d’autore nel mercato unico digitale</a> proposta dal Parlamento europeo, destinata a diventare la nuova legge sul diritto d’autore, potrebbe essere il colpo di grazia per un Internet libero e creativo.
-
-
-# Obsolete.
-;The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt on October 10th.
-Il prossimo 10 ottobre, l’autorevole Commissione giuridica del Parlamento europeo (JURI) deciderà quali emendamenti adottare tra quelli proposti.
-
-
-;The influential Committee on Legal Affairs (JURI) of the European Parliament is deciding its position on which amendments to adopt this autumn.
-L’autorevole Commissione giuridica del Parlamento europeo (JURI) sta decidendo quale posizione adottare rispetto agli emendamenti da approvare in autunno.
+;The influential Committee on Legal Affairs (JURI) of the European Parliament is currently in the process of deciding its position on which amendments to adopt.
+L’influente Comitato degli Affari Legali del Parlamento Europeo (Commissione giuridica) sta per decidere quali emendamenti adottare.
 
 
 ;If the most dangerous amendments pass, everything you put on the internet will be filtered, and even blocked. It doesn’t even need to be commercial – some proposals are so broad even your photos that you upload for friends and family would be included.
@@ -81,18 +62,9 @@ Se gli emendamenti più insidiosi dovessero essere accettati, qualunque contenut
 È anche in gioco la libertà di condividere collegamenti e di accedere alle informazioni online: estendendo il diritto d’autore anche ai frammenti di notizie, il numero di fonti liberamente consultabili diminuirà drasticamente.
 
 
-;‘Imagine if you took the current road laws for cars, and added “in space” to them for sub-orbital space travel. That’s pretty much what happened for EU copyright reform — they took the laws for books and publishers, and added “online” or “digital.” And it’s worked out just about as well as you’d expect.’ — Ryan Merkley, CEO of Creative Commons
-«Immaginate di applicare le attuali leggi che regolano il traffico stradale al traffico sub-orbitale semplicemente aggiungendoci “e nello spazio”. Questo è più o meno quello che è successo con la legge sul diritto d’autore in Europa: si è presa la legge in vigore per pubblicazioni cartacee ed editoria, e si è aggiunto un “online” o “digitale” qua e là. Il risultato è più o meno quello che ci si poteva aspettare.» — Ryan Merkley, CEO di Creative Commons
-
-
-# Obsolete. Call to action
+# Call to action
 ;We don’t have much time. Can you call a Member of European Parliament (MEP) today?
 Non rimane più molto tempo. Puoi chiamare un membro del Parlamento europeo oggi stesso?
-
-
-# Call to action
-;Can you call a Member of European Parliament (MEP) today?
-Puoi telefonare oggi stesso a un europarlamentare italiano?
 
 
 ;(Our new calling tool will connect you to an MEP, in your preferred language, at no cost to you.)
@@ -111,8 +83,8 @@ Immagina quanto più difficile sarà per i musicisti, gli artisti e gli scrittor
 È importante che ci mobilitiamo tutti assieme, subito!
 
 
-;If MEPs hear from enough of us in the next few weeks, they may back away from adopting these last-minute, dangerous proposals to their copyright plans.
-Se gli europarlamentari riceveranno un considerevole numero di telefonate da cittadini europei di diverse nazionalità nelle prossime settimane, questo potrebbe farli desistere dall’integrare queste sconsiderate proposte dell’ultimo minuto nella nuova legge sul diritto d’autore.
+;If MEPs hear from enough of us in the next few days, they may back away from adopting these dangerous proposals to their copyright plans.
+Se nei prossimi giorni abbastanza di noi si faranno sentire dai deputati europei, potremmo riuscire a convincerli a non adottare queste dannose proposte nei loro progetti sul diritto d'autore.
 
 
 ;Can you take action now using our new, free call tool before it’s too late?
