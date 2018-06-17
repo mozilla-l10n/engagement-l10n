@@ -27,7 +27,7 @@
 # Campaign: Add-ons
 # Link: https://addons.mozilla.org/firefox/
 ;Personalize Firefox with add-ons for privacy, social, gaming, and a whole lot more. <a>Make Firefox yours</a>.
-Personalize Firefox with add-ons for privacy, social, gaming, and a whole lot more. <a>Make Firefox yours</a>.
+使用附加元件為 Firefox 加入更多隱私保護、社交、娛樂等等客製化功能。<a>讓 Firefox 有您的風格</a>。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -74,7 +74,7 @@ Personalize Firefox with add-ons for privacy, social, gaming, and a whole lot mo
 # Link: https://www.mozilla.org/
 # “Org” is short for organization.
 ;Mozilla, maker of Firefox, is the not-for-profit technology org helping to keep the web healthy, open and accessible to all. <a>Learn more</a>.
-Mozilla, maker of Firefox, is the not-for-profit technology org helping to keep the web healthy, open and accessible to all. <a>Learn more</a>.
+Firefox 的製造者，Mozilla，是非營利的科技組織，致力於維護網路環境的健全、開放，讓任何人都可以使用。<a>了解更多</a>。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -88,21 +88,21 @@ Mozilla, maker of Firefox, is the not-for-profit technology org helping to keep 
 # Campaign: Firefox Newsletter
 # Internet intel refers to useful information about internet
 ;Get more fox in your inbox. Sign up for monthly user tips, booster packs and internet intel.
-Get more fox in your inbox. Sign up for monthly user tips, booster packs and internet intel.
+在收件匣裡多放幾隻狐狸。訂閱每月精選的使用小秘訣、上網大補包以及網路世界的最新情報。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Newsletter
 # A pipe dream is an unattainable or fanciful hope
 ;Inbox zero may be a pipe dream, but the Firefox newsletter can be your inbox hero. Sign up for monthly user tips, booster packs and internet intel.
-Inbox zero may be a pipe dream, but the Firefox newsletter can be your inbox hero. Sign up for monthly user tips, booster packs and internet intel.
+讓收件匣的未讀信件數量降到 0 可能是做白日夢，但 Firefox 電子報可以是您收件匣中的英雄。訂閱後每月都可收到精選的使用小秘訣、上網大補包以及網路世界的最新情報。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Web Literacy
 # Link: https://learning.mozilla.org/web-literacy
 ;Reading, writing, arithmetic — and now Web literacy. <a>Learn basic Web skills</a> key to crushing it in the 21st century.
-Reading, writing, arithmetic — and now Web literacy. <a>Learn basic Web skills</a> key to crushing it in the 21st century.
+閱讀、寫作、算數 — 現在還有網路素養。<a>學習基本的網路能力</a>是在 21 世紀的生活關鍵知識。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -116,7 +116,7 @@ Reading, writing, arithmetic — and now Web literacy. <a>Learn basic Web skills
 # Campaign: Test Pilot
 # Link: https://testpilot.firefox.com/experiments/notes
 ;Want to save a tree or two? <a>Jot down your thoughts directly in Firefox with Notes</a>, a new Test Pilot experiment.
-Want to save a tree or two? <a>Jot down your thoughts directly in Firefox with Notes</a>, a new Test Pilot experiment.
+想要少砍點樹？直接在 Firefox 使用<a>全新的 Test Pilot 實驗: Notes</a> 記下想法。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -137,7 +137,7 @@ Want to save a tree or two? <a>Jot down your thoughts directly in Firefox with N
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/private-browsing-use-firefox-without-history
 ;Control your privacy. <a>Use private browsing</a> to explore the web with maximum freedom.
-Control your privacy. <a>Use private browsing</a> to explore the web with maximum freedom.
+控制您的隱私。<a>使用隱私瀏覽功能</a>，用最大的自由來探索網路。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -151,14 +151,14 @@ Control your privacy. <a>Use private browsing</a> to explore the web with maximu
 # Campaign: Pocket
 # Link: https://getpocket.com/firefox_learnmore
 ;What if your bookmarks had a brain? <a>Try Pocket</a> and discover more great content based on the stuff you save.
-What if your bookmarks had a brain? <a>Try Pocket</a> and discover more great content based on the stuff you save.
+如果您的書籤也會思考，會發生什麼事？<a>試試 Pocket</a> 並根據您儲存的東西，探索更多更棒的內容。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Internet Health Report
 # Link: https://internethealthreport.org/
 ;What’s something we can all agree on? Internet health. <a>Read more about it</a>.
-What’s something we can all agree on? Internet health. <a>Read more about it</a>.
+我們都會同意什麼？網際網路環境的健康。<a>了解更多</a>。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -166,7 +166,7 @@ What’s something we can all agree on? Internet health. <a>Read more about it</
 # Link: https://irlpodcast.org/
 # IRL stands for Is Real Life. The podcasts are in English only.
 ;Mozilla’s Podcast, IRL, explores what happens when our online life meets our real life. <a>Take a listen</a>.
-Mozilla’s Podcast, IRL, explores what happens when our online life meets our real life. <a>Take a listen</a>.
+Mozilla 的 Podcast: IRL 會與您一同探索當我們的線上生活與實際生活相遇時，會發生什麼事。<a>聽聽看</a>。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -180,20 +180,20 @@ Mozilla’s Podcast, IRL, explores what happens when our online life meets our r
 # Campaign: Focus
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 ;Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
-Fast. Automatically private. Puts you in control of your mobile browsing. Download the latest Firefox Focus today.
+快速、自動開啟隱私保護。讓您自行控制您的行動上網體驗。立即下載最新版的 Firefox Focus。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Focus
 ;Get an extra dose of privacy with Firefox Focus — the privacy browser for your mobile device.
-Get an extra dose of privacy with Firefox Focus — the privacy browser for your mobile device.
+使用 Firefox Focus — 您行動裝置上可用的隱私保護瀏覽器，獲得更強大的隱私保護功能。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Retention
 # Link: https://www.mozilla.org/etc/firefox/retention/thank-you-a/
 ;Thanks for choosing Firefox and supporting an independent web. You’re awesome! <a>Here’s what you can do next</a>.
-Thanks for choosing Firefox and supporting an independent web. You’re awesome! <a>Here’s what you can do next</a>.
+感謝您選擇 Firefox 並聲援獨立的網路環境，超棒的！<a>以下是接下來您還能做的事情</a>。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
