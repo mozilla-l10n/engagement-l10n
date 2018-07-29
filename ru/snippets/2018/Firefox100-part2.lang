@@ -9,7 +9,7 @@
 # Link: https://addons.mozilla.org/firefox/
 # Icon: Toolbox
 ;Add-ons are like toppings for your browser. <a>Choose from dozens of customizations</a> and make Firefox more to your liking.
-Add-ons are like toppings for your browser. <a>Choose from dozens of customizations</a> and make Firefox more to your liking.
+Дополнения — это как вкусная начинка в вашем браузере. <a>Выбирайте из сотен расширений</a> и настройте Firefox по своему вкусу.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -31,14 +31,14 @@ Add-ons are like toppings for your browser. <a>Choose from dozens of customizati
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
 ;Level up your keyboard skills and perform tasks faster. <a>Learn the keyboard shortcuts in Firefox</a>.
-Level up your keyboard skills and perform tasks faster. <a>Learn the keyboard shortcuts in Firefox</a>.
+Прокачайте ваши навыки работы с клавиатурой и выполняйте задачи быстрее. <a>Узнайте о горячих клавишах в Firefox</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
 ;Perform common tasks even faster with these <a>essential keyboard shortcuts in Firefox</a>.
-Perform common tasks even faster with these <a>essential keyboard shortcuts in Firefox</a>.
+Выполняйте типичные задачи ещё быстрее с этими <a>необходимыми горячими клавишами в Firefox</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -54,7 +54,7 @@ Perform common tasks even faster with these <a>essential keyboard shortcuts in F
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
 ;Tip: Use the CMD (CTRL) + T keyboard shortcut to <a>open a new tab quickly</a>!
-Tip: Use the CMD (CTRL) + T keyboard shortcut to <a>open a new tab quickly</a>!
+Совет: Используйте сочетание клавиш CMD (CTRL) + T, чтобы быстро <a>открыть новую вкладку</a>!
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -78,7 +78,7 @@ Tip: Use the CMD (CTRL) + T keyboard shortcut to <a>open a new tab quickly</a>!
 # The Simpsons is an animated comedy features satiric adventures of a working-class family in a misfit city. The show is for adults. Feel free to swap with a local popular show.
 # Homer Simpson, the main male character of The Simpsons show, loves donuts and makes the food seem less bad as it is commonly perceived as such.
 ;A healthy Internet is a vital resource like fresh water, public education or reruns of The Simpsons. <a>Discover how to be a better Internet Citizen at the Mozilla blog</a>.
-A healthy Internet is a vital resource like fresh water, public education or reruns of The Simpsons. <a>Discover how to be a better Internet Citizen at the Mozilla blog</a>.
+Здоровый Интернет – жизненно необходимый ресурс, как чистая вода, государственное образование или новый сезон Симпсонов. <a>Узнайте, как стать Интернет-гражданином в блоге Mozilla</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -99,7 +99,7 @@ A healthy Internet is a vital resource like fresh water, public education or rer
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/keyboard-shortcuts-perform-firefox-tasks-quickly
 ;Tip: Use the CMD (CTRL) + D keyboard shortcut to quickly <a>bookmark the current page</a>!
-Tip: Use the CMD (CTRL) + D keyboard shortcut to quickly <a>bookmark the current page</a>!
+Совет: Используйте сочетание клавиш CMD (CTRL) + D, чтобы быстро <a>добавить текущую страницу в закладки</a>!
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -122,7 +122,7 @@ Screenshots - лучший способ создавать скриншоты. �
 # IRL stands for Is Real Life. The podcasts are in English only.
 # Being catfished means someone being victimized by another person using fake information or identity.
 ;Not even catfish like to be catfished. <a>Listen to Mozilla’s podcast, IRL</a>, to learn about the consequences of the online world overlapping into the real world.
-Not even catfish like to be catfished. <a>Listen to Mozilla’s podcast, IRL</a>, to learn about the consequences of the online world overlapping into the real world.
+Даже сом не хочет быть обманутым. <a>Послушайте IRL-подкаст Mozilla</a>, чтобы узнать об угрозе соединения онлайн-жизни с реальной.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -146,20 +146,20 @@ Not even catfish like to be catfished. <a>Listen to Mozilla’s podcast, IRL</a>
 # Icon: A crystal ball
 # Behold means to see, look at.
 ;Looking for the answer to faster browsing? Behold: the quickest way to <a>cut page load times in half</a>.
-Looking for the answer to faster browsing? Behold: the quickest way to <a>cut page load times in half</a>.
+Ищите как ускорить веб-сёрфинг? Вот: самый простой способ <a>ускорить загрузку страниц в 2 раза</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/make-firefox-your-default-browser
 ;Browse the web at full speed with privacy on your side. <a>Set Firefox as your default browser</a>.
-Browse the web at full speed with privacy on your side. <a>Set Firefox as your default browser</a>.
+Работайте в Интернете на полной скорости с приватностью с вашей стороны. <a>Установите Firefox своим браузером по умолчанию</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/kb/make-firefox-your-default-browser
 ;<a>Make Firefox your default browser</a> and browse at full speed. Visit Firefox > Preferences > General in your dropdown menu. Click “Make Default…”
-<a>Make Firefox your default browser</a> and browse at full speed. Visit Firefox > Preferences > General in your dropdown menu. Click “Make Default…”
+<a>Сделайте Firefox своим браузером по умолчанию</a> и сёрфите на полной скорости. Откройте Меню > Настройки > Основные. И щёлкните «Установить по умолчанию…»
 
 
