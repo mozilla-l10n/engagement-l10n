@@ -22,7 +22,7 @@
 # Campaign: Delight
 # Icon: An apple with a bite mark
 ;Gosh, you’ve been looking at your screen for a while. Take a snack break — the Web will be here when you get back.
-Gosh, you’ve been looking at your screen for a while. Take a snack break — the Web will be here when you get back.
+Ojej, siedzisz przed ekranem już od dłuższego czasu. Zrób sobie przerwę na przekąskę — Internet poczeka aż wrócisz.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -30,7 +30,7 @@ Gosh, you’ve been looking at your screen for a while. Take a snack break — t
 # Link: https://www.mozilla.org/internet-health/open-innovation/
 # Icon: Two hands raised in the air
 ;A healthy internet is open for innovation and created by you. <a>Learn how you can make a difference</a>.
-A healthy internet is open for innovation and created by you. <a>Learn how you can make a difference</a>.
+Zdrowy Internet jest otwarty na innowacje i tworzony przez Ciebie. <a>Dowiedz się, jak możesz coś zmienić na lepsze.</a>
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -38,7 +38,7 @@ A healthy internet is open for innovation and created by you. <a>Learn how you c
 # Link: https://www.mozilla.org/internet-health/open-innovation/
 # Icon: Two hands raised in the air
 ;Help shape the future of the web for the common good — <a>support open innovation</a>.
-Help shape the future of the web for the common good — <a>support open innovation</a>.
+Pomóż kształtować przyszłość Internetu dla wspólnego dobra — <a>wspieraj otwarte innowacje</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -46,7 +46,7 @@ Help shape the future of the web for the common good — <a>support open innovat
 # Link: https://addons.mozilla.org/firefox/themes/
 # Icon: A mirror
 ;Your browser is ready for a makeover. Don’t worry, you’ve got tons of options. <a>Check them out here</a>.
-Your browser is ready for a makeover. Don’t worry, you’ve got tons of options. <a>Check them out here</a>.
+Twoja przeglądarka jest gotowa na przemianę. Bez obaw, masz mnóstwo możliwości. <a>Wypróbuj je tutaj.</a>
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -54,7 +54,7 @@ Your browser is ready for a makeover. Don’t worry, you’ve got tons of option
 # Link: https://blog.mozilla.org/internetcitizen/2017/03/28/protect-privacy-traveling/
 # Icon: A backpack
 ;Traveling is cool; breaches in your digital security are not. Find out how to <a>minimize your risk while on the road</a>.
-Traveling is cool; breaches in your digital security are not. Find out how to <a>minimize your risk while on the road</a>.
+Podróże są super — dziury w Twoim bezpieczeństwie cyfrowym nie za bardzo. Dowiedz się, jak <a>zminimalizować ryzyko także na wycieczce</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -62,7 +62,7 @@ Traveling is cool; breaches in your digital security are not. Find out how to <a
 # Link: https://blog.mozilla.org/firefox/get-firefox-amazon-fire-tv-now-turbo-mode/
 # Icon: A TV with a Firefox logo on the screen
 ;“Hey Alexa, open Firefox.” Now you can do just that on your Fire TV. <a>Learn more</a>.
-“Hey Alexa, open Firefox.” Now you can do just that on your Fire TV. <a>Learn more</a>.
+„Alexa, otwórz Firefoksa”. Teraz możesz to zrobić na swoim Fire TV. <a>Więcej informacji.</a>
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -70,7 +70,7 @@ Traveling is cool; breaches in your digital security are not. Find out how to <a
 # Link: https://www.mozilla.org/internet-health/privacy-security/
 # Icon: Privacy keyhole
 ;A healthy you is happy and spritely. <a>A healthy Internet is secure and private</a>.
-A healthy you is happy and spritely. <a>A healthy Internet is secure and private</a>.
+Zdrowy człowiek to człowiek szczęśliwy i żwawy. <a>Zdrowy Internet to Internet bezpieczny i prywatny.</a>
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -78,7 +78,7 @@ A healthy you is happy and spritely. <a>A healthy Internet is secure and private
 # Link: https://www.mozilla.org/internet-health/privacy-security/
 # Icon: Privacy keyhole
 ;A healthy internet depends on you. <a>Learn how you can make a difference</a>.
-A healthy internet depends on you. <a>Learn how you can make a difference</a>.
+Zdrowy Internet zależy od Ciebie. <a>Dowiedz się, jak możesz coś zmienić na lepsze.</a>
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -86,7 +86,7 @@ A healthy internet depends on you. <a>Learn how you can make a difference</a>.
 # Link: https://en.wikipedia.org/wiki/Milky_Way
 # Icon: Starry night sky
 ;There are more stars in the <a>Milky Way</a> than loose change between your couch cushions.
-There are more stars in the <a>Milky Way</a> than loose change between your couch cushions.
+<a>Droga Mleczna</a> ma więcej gwiazd, niż Twoja kanapa połknęła monet.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -94,7 +94,7 @@ There are more stars in the <a>Milky Way</a> than loose change between your couc
 # Link: https://vr.mozilla.org/
 # Icon: VR glasses
 ;Create VR experiences with <a>WebVR in Firefox</a> — it’s powerful, open source and easy to learn.
-Create VR experiences with <a>WebVR in Firefox</a> — it’s powerful, open source and easy to learn.
+Twórz rzeczywistość wirtualną za pomocą <a>interfejsu WebVR w Firefoksie</a> — jest potężny, open source i łatwy w nauce.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -102,7 +102,7 @@ Create VR experiences with <a>WebVR in Firefox</a> — it’s powerful, open sou
 # Link: https://vr.mozilla.org/
 # Icon: VR glasses
 ;Experience virtual reality made for your browser with <a>WebVR in Firefox</a>.
-Experience virtual reality made for your browser with <a>WebVR in Firefox</a>.
+Korzystaj z rzeczywistości wirtualnej stworzonej dla Twojej przeglądarki za pomocą <a>interfejsu WebVR w Firefoksie</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
