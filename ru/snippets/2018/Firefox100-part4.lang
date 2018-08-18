@@ -54,7 +54,7 @@
 # Link: https://blog.mozilla.org/internetcitizen/2017/03/28/protect-privacy-traveling/
 # Icon: A backpack
 ;Traveling is cool; breaches in your digital security are not. Find out how to <a>minimize your risk while on the road</a>.
-Traveling is cool; breaches in your digital security are not. Find out how to <a>minimize your risk while on the road</a>.
+Путешествовать — круто, а иметь дыры в цифровой безопасности — нет. Узнайте, как <a>минимизировать риск, когда вы в пути</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -62,7 +62,7 @@ Traveling is cool; breaches in your digital security are not. Find out how to <a
 # Link: https://blog.mozilla.org/firefox/get-firefox-amazon-fire-tv-now-turbo-mode/
 # Icon: A TV with a Firefox logo on the screen
 ;“Hey Alexa, open Firefox.” Now you can do just that on your Fire TV. <a>Learn more</a>.
-“Hey Alexa, open Firefox.” Now you can do just that on your Fire TV. <a>Learn more</a>.
+“Hey Alexa, open Firefox.” Теперь вы можете сказать это вашему Fire TV. <a>Подробнее</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -70,7 +70,7 @@ Traveling is cool; breaches in your digital security are not. Find out how to <a
 # Link: https://www.mozilla.org/internet-health/privacy-security/
 # Icon: Privacy keyhole
 ;A healthy you is happy and spritely. <a>A healthy Internet is secure and private</a>.
-Если вы здоровы - вы счастливы и веселы. <a>Здоровый Интернет - защищён и приватен</a>.
+Если вы здоровы — вы счастливы и веселы. <a>Здоровый Интернет — защищён и приватен</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -86,7 +86,7 @@ Traveling is cool; breaches in your digital security are not. Find out how to <a
 # Link: https://en.wikipedia.org/wiki/Milky_Way
 # Icon: Starry night sky
 ;There are more stars in the <a>Milky Way</a> than loose change between your couch cushions.
-There are more stars in the <a>Milky Way</a> than loose change between your couch cushions.
+В <a>Млечном Пути</a> совсем не меньше звёзд, чем мелочи в щелях вашего дивана.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -94,7 +94,7 @@ There are more stars in the <a>Milky Way</a> than loose change between your couc
 # Link: https://vr.mozilla.org/
 # Icon: VR glasses
 ;Create VR experiences with <a>WebVR in Firefox</a> — it’s powerful, open source and easy to learn.
-Create VR experiences with <a>WebVR in Firefox</a> — it’s powerful, open source and easy to learn.
+Экспериментируйте с виртуальной реальностью с помощью <a>WebVR в Firefox</a> — это мощный, лёгкий инструмент с открытым исходным кодом.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -118,7 +118,7 @@ Create VR experiences with <a>WebVR in Firefox</a> — it’s powerful, open sou
 # Icon: Heart
 # To chip in means to contribute.
 ;Love the internet as a global public resource, open and accessible to all? As a not-for-profit, the Mozilla Foundation needs your help to defend this place where love, creativity and innovation flourish with programs like our fight to save Net Neutrality. <a>Will you chip in</a>?
-Love the internet as a global public resource, open and accessible to all? As a not-for-profit, the Mozilla Foundation needs your help to defend this place where love, creativity and innovation flourish with programs like our fight to save Net Neutrality. <a>Will you chip in</a>?
+Любите Интернет как глобальный публичный ресурс, открытый и доступный для всех и каждого? Mozilla Foundation, как некоммерческая организация, нуждается в вашей помощи, чтобы защитить место, где любовь, креативность и инновации процветают с программами наподобие нашей борьбы за сетевой нейтралитет. <a>Пожертвуете нам немного</a>?
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -134,7 +134,7 @@ Love the internet as a global public resource, open and accessible to all? As a 
 # Link: https://advocacy.mozilla.org/safety/use-encryption
 # Icon: Caution sign
 ;Look for the lock and protect what’s private. <a>Get more encryption tips</a> to help keep you safe online.
-Look for the lock and protect what’s private. <a>Get more encryption tips</a> to help keep you safe online.
+Найдите замок и защитите то, что является приватным. <a>Получите больше советов по шифрованию</a>, чтобы оставаться в безопасности в сети.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -142,6 +142,6 @@ Look for the lock and protect what’s private. <a>Get more encryption tips</a> 
 # Link: https://advocacy.mozilla.org/safety/use-encryption
 # Icon: Caution sign
 ;Protect what’s private with encryption. <a>Learn three simple encryption tips</a> to get you started.
-Protect what’s private with encryption. <a>Learn three simple encryption tips</a> to get you started.
+Защитите приватное шифрованием. Для начала <a>получите три простых совета</a>.
 
 
