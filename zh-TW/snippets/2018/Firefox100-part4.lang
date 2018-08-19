@@ -8,7 +8,7 @@
 # Campaign: SUMO
 # Link: https://support.mozilla.org/products/firefox/manage-preferences-and-add-ons-firefox/install-and-manage-add-ons
 ;<a>Make browsing with Firefox even better</a>. Customize your preferences and supercharge your productivity with personalized add-ons.
-<a>Make browsing with Firefox even better</a>. Customize your preferences and supercharge your productivity with personalized add-ons.
+<a>讓使用 Firefox 上網變得更棒</a>。調整您的偏好設定，並使用個人化的附加元件來加強生產力。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -54,7 +54,7 @@
 # Link: https://blog.mozilla.org/internetcitizen/2017/03/28/protect-privacy-traveling/
 # Icon: A backpack
 ;Traveling is cool; breaches in your digital security are not. Find out how to <a>minimize your risk while on the road</a>.
-Traveling is cool; breaches in your digital security are not. Find out how to <a>minimize your risk while on the road</a>.
+旅遊很酷，但若數位安全被破解則不。看看如何<a>在出門時最小化風險</a>。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -70,7 +70,7 @@ Traveling is cool; breaches in your digital security are not. Find out how to <a
 # Link: https://www.mozilla.org/internet-health/privacy-security/
 # Icon: Privacy keyhole
 ;A healthy you is happy and spritely. <a>A healthy Internet is secure and private</a>.
-A healthy you is happy and spritely. <a>A healthy Internet is secure and private</a>.
+健康的你是快樂並有朝氣的。<a>健康的網際網路是安全而有隱私的</a>。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -78,7 +78,7 @@ A healthy you is happy and spritely. <a>A healthy Internet is secure and private
 # Link: https://www.mozilla.org/internet-health/privacy-security/
 # Icon: Privacy keyhole
 ;A healthy internet depends on you. <a>Learn how you can make a difference</a>.
-A healthy internet depends on you. <a>Learn how you can make a difference</a>.
+健康的網際網路依賴於你。<a>了解您可以作出什麼改變</a>。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -126,7 +126,7 @@ Love the internet as a global public resource, open and accessible to all? As a 
 # Link: https://blog.mozilla.org/blog/2018/01/23/latest-firefox-quantum-release-now-available-with-new-features/
 # Icon: A rocket
 ;<a>Boost your browser’s speed and increase privacy</a> with the easy-to-enable, always-on Tracking Protection preference in Firefox Quantum.
-<a>Boost your browser’s speed and increase privacy</a> with the easy-to-enable, always-on Tracking Protection preference in Firefox Quantum.
+Firefox Quantum <a>為瀏覽器加速加強隱私</a>，並提供簡單、隨時開啟的隱私保護功能。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -134,7 +134,7 @@ Love the internet as a global public resource, open and accessible to all? As a 
 # Link: https://advocacy.mozilla.org/safety/use-encryption
 # Icon: Caution sign
 ;Look for the lock and protect what’s private. <a>Get more encryption tips</a> to help keep you safe online.
-Look for the lock and protect what’s private. <a>Get more encryption tips</a> to help keep you safe online.
+尋找鎖頭，保護私人的東西。<a>取得更多加密小秘訣</a>，幫助您確保線上安全。
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -142,6 +142,6 @@ Look for the lock and protect what’s private. <a>Get more encryption tips</a> 
 # Link: https://advocacy.mozilla.org/safety/use-encryption
 # Icon: Caution sign
 ;Protect what’s private with encryption. <a>Learn three simple encryption tips</a> to get you started.
-Protect what’s private with encryption. <a>Learn three simple encryption tips</a> to get you started.
+透過加密保護隱私資料。<a>了解三個簡單的入門加密小秘訣</a>。
 
 
