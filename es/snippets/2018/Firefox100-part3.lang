@@ -8,21 +8,21 @@
 # Campaign: SUMO
 # Link: https://support.mozilla.org/en-US/kb/switching-chrome-firefox
 ;<a>Switch from Chrome to Firefox</a> and enjoy faster browsing. We’ll import your bookmarks, passwords and history so you can pick up right where you left off.
-<a>Switch from Chrome to Firefox</a> and enjoy faster browsing. We’ll import your bookmarks, passwords and history so you can pick up right where you left off.
+<a>Cambia de Chrome a Firefox</a> y disfruta una navegación más veloz. Importaremos tus marcadores, tus contraseñas y tu historial para que retomes tus actividades anteriores.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/en-US/kb/switching-chrome-firefox
 ;<a>Switch from Chrome to Firefox</a> and enjoy the web faster. We’ll import your bookmarks, autofills, passwords and preferences in just a few minutes.
-<a>Switch from Chrome to Firefox</a> and enjoy the web faster. We’ll import your bookmarks, autofills, passwords and preferences in just a few minutes.
+<a>Cambia de Chrome a Firefox</a> y disfruta más rápido de la web. Importaremos tus marcadores, autocompletado, contraseñas y preferencias en pocos minutos.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Delight
 # Icon: Sunrise over green hills
 ;Watching the sunrise outdoors statistically increases your odds of having a good day. And needing a nap after lunch.
-Watching the sunrise outdoors statistically increases your odds of having a good day. And needing a nap after lunch.
+Según la estadística, si contemplas el amanecer al aire libre, aumenta la posibilidad de que tengas un buen día. Y de que necesites una siesta más tarde.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -31,14 +31,14 @@ Watching the sunrise outdoors statistically increases your odds of having a good
 # Icon: A snail
 # Here snail means slow, sluggish.
 ;Are you browsing slower than you’d like? Shed excess data build-up with an 8-day <a>Data Detox</a>.
-Are you browsing slower than you’d like? Shed excess data build-up with an 8-day <a>Data Detox</a>.
+¿Te gustaría navegar con menor lentitud? Libera la acumulación de datos en exceso con 8 días de <a>Data Detox</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Common Voice
 # Link: https://voice.mozilla.org/
 ;Let your voice be heard! Literally. <a>Contribute your voice</a> to the world’s first crowdsourced voice library.
-Let your voice be heard! Literally. <a>Contribute your voice</a> to the world’s first crowdsourced voice library.
+¡Haz oír tu voz! Literalmente. Contribuye con tu voz</a> a armar la primera biblioteca colaborativa de voz en el mundo.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -46,7 +46,7 @@ Let your voice be heard! Literally. <a>Contribute your voice</a> to the world’
 # Link: https://addons.mozilla.org/firefox/collections/mozilla/featured-personas/
 # Icon: Tools
 ;Themes give your browser a new look, any time you like. <a>Try one of our featured themes</a>.
-Themes give your browser a new look, any time you like. <a>Try one of our featured themes</a>.
+Gracias a los temas, puedes darle un nuevo look a tu navegador. <a>Prueba uno de nuestros temas destacados</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -54,7 +54,7 @@ Themes give your browser a new look, any time you like. <a>Try one of our featur
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Icon: Firefox multi-container icon
 ;Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers</a>!
-Tired of using multiple browsers to view your 2nd email? Now you can do it all in Firefox with <a>Multi-Account Containers</a>!
+¿Te agota usar múltiples navegadores para ver tu segunda dirección de correo? ¡Ahora puede hacer de todo en Firefox con <a>Multi-Account Containers</a>!
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -62,7 +62,7 @@ Tired of using multiple browsers to view your 2nd email? Now you can do it all i
 # Link: https://addons.mozilla.org/firefox/addon/multi-account-containers/
 # Icon: Firefox multi-container icon
 ;Using private browsing mode to juggle multiple accounts? Now there’s a better way. <a>Try Multi-Account Containers</a>!
-Using private browsing mode to juggle multiple accounts? Now there’s a better way. <a>Try Multi-Account Containers</a>!
+¿Usas el modo de navegación privada para manejar múltiples cuentas? Ahora existe algo mejor. <a>¡Prueba Multi-Account Containers</a>!
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -71,7 +71,7 @@ Using private browsing mode to juggle multiple accounts? Now there’s a better 
 # Icon: A TV with a Firefox logo on the screen
 # Cat videos merely suggest fun and cute videos. Feel free to substitute with what’s common in your country.
 ;Firefox + Fire TV = HOT. Get it now to keep watching cat videos — or whatever you’re into. <a>Learn more</a>.
-Firefox + Fire TV = HOT. Get it now to keep watching cat videos — or whatever you’re into. <a>Learn more</a>.
+Firefox + Fire TV = SENSACIONAL. Consíguelo ya y sigue viendo videos de gatitos... o lo que quieras. <a>Más información</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -79,7 +79,7 @@ Firefox + Fire TV = HOT. Get it now to keep watching cat videos — or whatever 
 # Link: https://science.mozilla.org/
 # Icon: A telescope
 ;The world of scientific research is changing. <a>Mozilla Science Lab</a> empowers scientists to keep up.
-The world of scientific research is changing. <a>Mozilla Science Lab</a> empowers scientists to keep up.
+El mundo de la investigación científica está cambiando. Con <a>Mozilla Science Lab</a>, los científicos están al día.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -87,42 +87,42 @@ The world of scientific research is changing. <a>Mozilla Science Lab</a> empower
 # Link: https://science.mozilla.org/
 # Icon: A pattern when seen through a kaleidoscope tube
 ;Discover a community of researchers building a new way for science to thrive—no pocket protector required. <a>Meet the Mozilla Science Lab</a>.
-Discover a community of researchers building a new way for science to thrive—no pocket protector required. <a>Meet the Mozilla Science Lab</a>.
+Descubre una comunidad de investigadores con un nuevo método para que prospere la ciencia (no se requiere un protector de bolsillo). <a>Conoce Mozilla Science Lab</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Sync
 # Link: https://www.mozilla.org/firefox/features/sync/
 ;Love Firefox and want to access your bookmarks, passwords and more from any device? <a>Sign in to Sync</a>.
-Love Firefox and want to access your bookmarks, passwords and more from any device? <a>Sign in to Sync</a>.
+¿Adoras Firefox y deseas acceder a tus marcadores, contraseñas y mucho más desde cualquier dispositivo? <a>Inicia sesión en Sync</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Firefox Accounts
 # Link: https://www.mozilla.org/firefox/accounts/
 ;<a>Sync it, link it, take it with you</a>. All this and more with a Firefox Account.
-<a>Sync it, link it, take it with you</a>. All this and more with a Firefox Account.
+<a>Sincronización, enlace y movilidad</a>. Todo esto y mucho más con una cuenta de Firefox.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Volunteer
 # Link: https://www.mozilla.org/contribute/
 ;Share your skills with a global community of game changers who help shape the web. <a>Volunteer with Mozilla</a>.
-Share your skills with a global community of game changers who help shape the web. <a>Volunteer with Mozilla</a>.
+Comparte tus destrezas con una comunidad global de innovadores que ayudan a definir la web. <a>Sé voluntario con Mozilla</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: Volunteer
 # Link: https://www.mozilla.org/contribute/
 ;<a>Volunteer with Mozilla</a>: learn, collaborate and share your skills with a global community of game changers helping shape the web.
-<a>Volunteer with Mozilla</a>: learn, collaborate and share your skills with a global community of game changers helping shape the web.
+<a>Sé voluntario con Mozilla</a>: aprende, colabora y comparte tus destrezas con una comunidad global de innovadores que ayudan a definir la web.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
 # Campaign: SUMO
 # Link: https://support.mozilla.org/products/firefox/protect-your-privacy
 ;Always feel like somebody is watching you? Control your data, block malware and outfox the trackers with <a>Firefox’s privacy protection tips</a>.
-Always feel like somebody is watching you? Control your data, block malware and outfox the trackers with <a>Firefox’s privacy protection tips</a>.
+¿Sueles sentir que te observan? Controla tus datos, bloquea el malware y a los rastreadores con los <a>consejos de protección de la privacidad de Firefox</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -130,7 +130,7 @@ Always feel like somebody is watching you? Control your data, block malware and 
 # Link: https://support.mozilla.org/products/firefox/protect-your-privacy
 # Icon: A chocolate chip cookie with a bite mark
 ;Cookies and phishing might sound fun but when it comes to your privacy online, it <a>pays to take them seriously</a>.
-Cookies and phishing might sound fun but when it comes to your privacy online, it <a>pays to take them seriously</a>.
+Las palabras "cookies" y "phishing" quizás suenen chistosas, pero para la seguridad en línea, <a>vale la pena tomarlas en serio</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -138,7 +138,7 @@ Cookies and phishing might sound fun but when it comes to your privacy online, i
 # Link: https://advocacy.mozilla.org/safety/public-wifi
 # Icon: Caution sign
 ;What’s the Wi-Fi? Stay safe the next time you connect to free public networks with <a>these simple steps</a>.
-What’s the Wi-Fi? Stay safe the next time you connect to free public networks with <a>these simple steps</a>.
+¿Cuál es la clave del Wi-Fi? La próxima vez que te conectes a una red pública y gratuita, mantén la seguridad siguiendo <a>estos sencillos pasos</a>.
 
 
 # Limit character length to 180, preferably under 160. Please rephrase as needed to fit.
@@ -146,6 +146,6 @@ What’s the Wi-Fi? Stay safe the next time you connect to free public networks 
 # Link: https://advocacy.mozilla.org/safety/public-wifi
 # Icon: Caution sign
 ;You wouldn’t walk into a public restroom barefoot. You shouldn’t log into public Wi-Fi without <a>taking a few quick precautions either</a>.
-You wouldn’t walk into a public restroom barefoot. You shouldn’t log into public Wi-Fi without <a>taking a few quick precautions either</a>.
+No entrarías a un baño público sin zapatos. Tampoco deberías conectarte a un Wi-Fi público sin <a>tomar primero algunas precauciones rápidas</a>.
 
 
