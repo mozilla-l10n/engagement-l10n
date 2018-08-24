@@ -1,21 +1,6 @@
 ## NOTE: Translations that will be printed on different materials for MozFest 2017
 
 
-# MozFest 2017 tagline. It’s important you try to use as few words as possible, and try to visually balance them, if possible at all. The translation will be integrated in the following design: https://user-images.githubusercontent.com/4515662/30137079-8cdc0a2c-9316-11e7-91bf-b65c6465ef08.png
-;Web for all
-Web para todos
-
-
-# Please replace “English” with your language name, localized. It will be used on stickers similar to those https://cloud.githubusercontent.com/assets/1068783/19006613/6b3460b2-8715-11e6-9ada-c2b1b9c9abbe.png
-;I speak <br>English
-Eu falo <br>Português
-
-
-# Please replace [Language] with your language name, localized. For instance “French speakers welcome”. This will be displayed in the MozFest schedule under descriptions for multilingual sessions
-;[Language] speakers welcome
-Falantes de Português são bem vindos
-
-
 # The following strings are used as a short version of the Mozilla Participation Guidelines, printed on different materials https://cloud.githubusercontent.com/assets/2492510/20194548/8eeb7da4-a747-11e6-8be8-7c8cc9e2dc67.png
 ;Participation Guidelines
 Diretrizes para participação
