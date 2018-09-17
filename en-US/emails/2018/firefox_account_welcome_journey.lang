@@ -76,8 +76,8 @@ View Sync Settings
 
 
 # Sign off
-;Questions, we're here to help.
-Questions, we're here to help.
+;Questions, we're here to <a href=" https://support.mozilla.org" >help</a>.
+Questions, we're here to <a href=" https://support.mozilla.org" >help</a>.
 
 
 # Footer
@@ -87,7 +87,7 @@ We sent this message to %%emailaddr%% because the email address is associated wi
 
 # Footer
 ;Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin">account preferences page</a>.
-Manage your account settings by visiting your <a href=""https://accounts.firefox.com/signin" >account preferences page</a>.
+Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin" >account preferences page</a>.
 
 # Footer
 ;If you'd rather not receive Firefox Account updates and tips, you can <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">unsubscribe</a>.
@@ -162,8 +162,8 @@ Capture and enjoy the best of the web – even when the wifi is out on your comm
 
 
 # Body
-;Plus, Pocket is from Firefox, so you can sign in with your Firefox Account.
-Plus, Pocket is from Firefox, so you can sign in with your Firefox Account.
+;Plus, Pocket is from Firefox, so you can sign in with your <a href="https://www.mozilla.org/firefox/accounts">Firefox Account</a>.
+Plus, Pocket is from Firefox, so you can sign in with your <a href="https://www.mozilla.org/firefox/accounts">Firefox Account</a>.
 
 
 # CTA
@@ -171,12 +171,12 @@ Plus, Pocket is from Firefox, so you can sign in with your Firefox Account.
 Get Pocket
 
 
-;Save to Pocket
-Save to Pocket
+;Save to Pocket.
+Save to Pocket.
 
 
-;View when ready
-View when ready
+;View when ready.
+View when ready.
 
 
 ;If you use bookmarks, you’re gonna love this
@@ -216,8 +216,8 @@ When it comes to online security, we’ve got you covered with powerful privacy 
 
 
 # Body #1
-;End-to-end encryption
-End-to-end encryption
+;End-to-End Encryption
+End-to-End Encryption
 
 
 # Body Subhead #1
@@ -283,28 +283,29 @@ Hope you’re enjoying your Firefox Account. Here’s a recap of all the tips an
 
 
 # Body #1A: users who have not synced devices
-;Save time by syncing your devices.
-Save time by syncing your devices.
+;Save time by <a href=" https://accounts.firefox.com/settings">syncing your devices</a>.
+Save time by <a href=" https://accounts.firefox.com/settings">syncing your devices</a>.
 
 
 # Body #1B: users who have synced devices
-;Already synced? Make Firefox your default browser.
+;Already synced? Make Firefox your  <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
 Already synced? Make Firefox your default browser.
 
 
 # Body 2
-;Get peace of mind with privacy controls.
-Get peace of mind with privacy controls.
+;Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
+Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
 
 
 # Body 3
-;Enjoy content on and offline with Pocket.
-Enjoy content on and offline with Pocket.
+;Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore" >Pocket</a>.
+Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore" >Pocket</a>.
 
 
 # Body 4
-;Instantly share links between screens.
-Instantly share links between screens.
+# Video is in English only
+;Instantly share links <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">between screens</a>.
+Instantly share links <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">between screens</a>.
 
 
 # Body 5
@@ -313,5 +314,5 @@ Help us improve your Firefox Account experience.
 
 
 # CTA
-;Take the Survey
-Take the Survey
+;Take a Survey
+Take a Survey
