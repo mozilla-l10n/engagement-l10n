@@ -76,8 +76,8 @@ View Sync Settings
 
 
 # Sign off
-;Questions, we're here to <a href=" https://support.mozilla.org" >help</a>.
-Questions, we're here to <a href=" https://support.mozilla.org" >help</a>.
+;Questions, we're here to <a href="https://support.mozilla.org" >help</a>.
+Questions, we're here to <a href="https://support.mozilla.org" >help</a>.
 
 
 # Footer
@@ -87,7 +87,8 @@ We sent this message to %%emailaddr%% because the email address is associated wi
 
 # Footer
 ;Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin">account preferences page</a>.
-Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin" >account preferences page</a>.
+Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin">account preferences page</a>.
+
 
 # Footer
 ;If you'd rather not receive Firefox Account updates and tips, you can <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">unsubscribe</a>.
@@ -114,6 +115,7 @@ Take your open tabs everywhere you go.
 # Pre-header #2
 ;Never email yourself again.
 Never email yourself again.
+
 
 # Headline
 ;Send tabs instantly
@@ -150,6 +152,7 @@ Like bookmarks? You’ll love this Firefox Account feature.
 # Pre-header
 ;Save, read and listen on the go.
 Save, read and listen on the go.
+
 
 # Headline
 ;Put the content you love in your Pocket.
@@ -283,13 +286,13 @@ Hope you’re enjoying your Firefox Account. Here’s a recap of all the tips an
 
 
 # Body #1A: users who have not synced devices
-;Save time by <a href=" https://accounts.firefox.com/settings">syncing your devices</a>.
-Save time by <a href=" https://accounts.firefox.com/settings">syncing your devices</a>.
+;Save time by <a href="https://accounts.firefox.com/settings">syncing your devices</a>.
+Save time by <a href="https://accounts.firefox.com/settings">syncing your devices</a>.
 
 
 # Body #1B: users who have synced devices
-;Already synced? Make Firefox your  <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
-Already synced? Make Firefox your default browser.
+;Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
+Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
 
 
 # Body 2
