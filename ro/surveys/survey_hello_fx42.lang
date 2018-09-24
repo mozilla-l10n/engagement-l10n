@@ -3,7 +3,7 @@
 
 # survey-title
 ;Firefox Hello: Product Survey
-Firefox Hello: Sondaj cu privire la produs
+Firefox Hello: Sondaj despre produs
 
 
 # q-2
@@ -13,7 +13,7 @@ Care este probabilitatea să recomanzi Firefox Hello unui prieten sau coleg? (Sc
 
 # q-8
 ;What could we do to improve Firefox Hello for you?
-Ce am putea face pentru a îmbunătăți Firefox Hello pentru tine?
+Ce am putea face ca să îmbunătățim Firefox Hello pentru tine?
 
 
 # q-9
@@ -23,12 +23,12 @@ Cum putem îmbunătăți Firefox Hello pentru a crește probabilitatea de a-l re
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-A fost ceva anume care a făcut din Firefox Hello o experiență atât de bună pentru tine?
+A fost ceva anume care a făcut Firefox Hello o experiență atât de bună pentru tine?
 
 
 # q-23
 ;Please rate the quality of your call.
-Te rugăm să acorzi un punctaj pentru calitatea convorbirii.
+Te rugăm să evaluezi calitatea apelului.
 
 
 # q-23-o-10077
@@ -53,17 +53,17 @@ Te rugăm să acorzi un punctaj pentru calitatea convorbirii.
 
 # required
 ;This question is required
-Această întrebare este necesară
+Întrebare necesară
 
 
 # selectone
 ;-- Please Select --
--- Te rugăm să selectezi --
+-- Selectează --
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-Acest sondaj nu acceptă răspunsuri suplimentare în momentul de față. Îți mulțumim!
+Sondajul nu acceptă momentan răspunsuri suplimentare. Îți mulțumim!
 
 
 # block_by_message
@@ -73,7 +73,7 @@ Ai completat deja acest sondaj.
 
 # language_bar_select_text
 ;Select another language
-Selectează o altă limbă
+Selectează altă limbă
 
 
 # language_bar_description_text
@@ -103,12 +103,12 @@ Golește
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-S-a produs o eroare pe pagina dumneavoastră. Vă rugăm să corectați câmpurile specificate și să trimiteți din nou. Mergeți la prima eroare
+A apărut o eroare pe pagină. Te rugăm să corectezi câmpurile necesare și să trimiți din nou. Mergi la prima eroare
 
 
 # Question
 ;Have you ever tried Firefox Hello before today?
-Ai încercat vreodată Firefox Hello înainte de ziua de azi?
+Ai mai încercat vreodată Firefox Hello până acum?
 
 
 # Answer-1
