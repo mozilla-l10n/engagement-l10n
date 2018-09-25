@@ -76,8 +76,8 @@ View Sync Settings
 
 
 # Sign off
-;Questions, we're here to <a href="https://support.mozilla.org" >help</a>.
-Questions, we're here to <a href="https://support.mozilla.org" >help</a>.
+;Questions, we're here to <a href="https://support.mozilla.org">help</a>.
+Questions, we're here to <a href="https://support.mozilla.org">help</a>.
 
 
 # Footer
@@ -223,22 +223,39 @@ End-to-End Encryption
 Keeps your synced data on lockdown. Even we can’t see what you share.
 
 
-# Body #2
+# Body #2 (option 1)
 ;Tracking Protection
 Tracking Protection
 
 
-# Body Subhead #2
+# Body Subhead #2 (option 1)
 ;Blocks ads that follow you and collect your info without your permission.
 Blocks ads that follow you and collect your info without your permission.
 
+# Body #2 (option 2)
+;Content Blocking
+Content Blocking
 
-# Body #2
+
+# Body Subhead #2 (option 2)
+;Block ads that follow you and load pages faster.
+Block ads that follow you and load pages faster.
+
+
+;Load pages faster while blocking ads that follow you.
+Load pages faster while blocking ads that follow you.
+
+
+;Block ads from collecting your info and load pages faster.
+Block ads from collecting your info and load pages faster.
+
+
+# Body #3
 ;Master Password
 Master Password
 
 
-# Body Subhead #2
+# Body Subhead #3
 ;Add an extra layer of security to your stored logins.
 Add an extra layer of security to your stored logins.
 
@@ -291,13 +308,13 @@ Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-f
 
 
 # Body 2
-;Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
-Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
+;Get peace of mind with <a href=" https://accounts.firefox.com/settings/clients">privacy controls</a>.
+Get peace of mind with <a href=" https://accounts.firefox.com/settings/clients">privacy controls</a>.
 
 
 # Body 3
-;Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore" >Pocket</a>.
-Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore" >Pocket</a>.
+;Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore">Pocket</a>.
+Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore">Pocket</a>.
 
 
 # Body 4
