@@ -62,7 +62,11 @@ Mark Surman, Geschäftsführer
 Mozilla Foundation {ok}
 
 
-# Begining of the message for current donors
+# Begining of the message for current donors. This string is used as alt text for the background image
+;From all of us here at Mozilla… THANKS!
+Wir alle bei Mozilla sagen… VIELEN DANK!
+
+
 ;Welcome back from summer! (Or winter, for those of you in the Southern Hemisphere.)
 Willkommen zurück aus dem Sommer! (Oder Winter, für die Bewohner der Südhalbkugel.)
 
@@ -106,5 +110,3 @@ Ich freue mich darauf, mit Ihnen allen dabei zusammenzuarbeiten.
 
 ;Happy September…
 Einen schönen September…
-
-
