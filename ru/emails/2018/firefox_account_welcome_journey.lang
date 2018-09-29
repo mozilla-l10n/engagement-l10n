@@ -7,12 +7,12 @@
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Header #1
 ;Your Firefox Account Information
-Your Firefox Account Information
+Информация об вашем Аккаунте Firefox
 
 
 # Header #2
 ;Firefox Accounts
-Firefox Accounts
+Аккаунты Firefox
 
 
 # Subject Line #1
@@ -27,12 +27,12 @@ Account Tips: Sync up.
 
 # Pre-header #1
 ;Save time. Sync and share between your devices.
-Save time. Sync and share between your devices.
+Экономьте время. Синхронизируйтесь и делитесь между своими устройствами.
 
 
 # Pre-header #2
 ;Your account = one login for all your devices.
-Your account = one login for all your devices.
+Ваш аккаунт = один логин для всех ваших устройств.
 
 
 # Headline
@@ -42,7 +42,7 @@ Hey there! Thanks for creating a Firefox Account. We’re going to help you make
 
 # Body #1
 ;Sync bookmarks automatically
-Sync bookmarks automatically
+Автоматически синхронизируйте закладки
 
 
 # Body Subhead #1
@@ -52,7 +52,7 @@ Save a recipe at home. Check it at the store on your phone. When you bookmark a 
 
 # Body #2
 ;Safely store passwords
-Safely store passwords
+Безопасно храните пароли
 
 
 # Body Subhead #2
@@ -62,7 +62,7 @@ Skip the “Forgot Password” drama. Securely save passwords for easy streaming
 
 # Body #3
 ;Send tabs instantly
-Send tabs instantly
+Мгновенно отправляйте вкладки
 
 
 # Body Subhead #3
@@ -72,12 +72,12 @@ Switch screens without a hitch. Open a link on one screen and view it instantly 
 
 # CTA
 ;View Sync Settings
-View Sync Settings
+Посмотрите настройки синхронизации
 
 
 # Sign off
 ;Questions, we're here to <a href="https://support.mozilla.org">help</a>.
-Questions, we're here to <a href="https://support.mozilla.org">help</a>.
+Вопросы? Мы поможем <a href="https://support.mozilla.org">здесь</a>.
 
 
 # Footer
@@ -104,17 +104,17 @@ Account Tips: Send tabs instantly.
 
 # Subject #2
 ;Your Firefox Account can set your tabs free
-Your Firefox Account can set your tabs free
+Ваш Аккаунт Firefox даст свободу вашим вкладкам
 
 
 # Pre-header #1
 ;Take your open tabs everywhere you go.
-Take your open tabs everywhere you go.
+Возьмите свои вкладки с собой, куда бы вы ни собрались.
 
 
 # Pre-header #2
 ;Never email yourself again.
-Never email yourself again.
+Никогда больше не отправляйте письма самому себе.
 
 
 # Body
@@ -124,7 +124,7 @@ Open a page on one screen and view it instantly on any of your synced devices (e
 
 # CTA
 ;Read More
-Read More
+Подробнее
 
 
 # Email: Pocket
@@ -136,17 +136,17 @@ Account Tips: Save your faves with Pocket.
 
 # Subject #2
 ;Save your faves with Pocket.
-Save your faves with Pocket.
+Сохраняйте любимое вами с Pocket.
 
 
 # Subject #3
 ;Like bookmarks? You’ll love this Firefox Account feature.
-Like bookmarks? You’ll love this Firefox Account feature.
+Любите закладки? Вам понравится эта функция Аккаунта Firefox.
 
 
 # Pre-header
 ;Save, read and listen on the go.
-Save, read and listen on the go.
+Сохраняйте, читайте и слушайте на ходу.
 
 
 # Headline
@@ -166,11 +166,11 @@ Plus, Pocket is from Firefox, so you can sign in with your <a href="https://www.
 
 # CTA
 ;Get Pocket
-Get Pocket
+Загрузить Pocket
 
 
 ;Save to Pocket.
-Save to Pocket.
+Сохранить в Pocket.
 
 
 ;View when ready.
@@ -178,7 +178,7 @@ View when ready.
 
 
 ;If you use bookmarks, you’re gonna love this
-If you use bookmarks, you’re gonna love this
+Если вы используете закладки, то вам это понравится
 
 
 # Email: Privacy
@@ -195,7 +195,7 @@ How to: Stay in control with your Firefox Account
 
 # Pre-header #1
 ;Stay safer online
-Stay safer online
+Обеспечьте свою безопасность в Интернете
 
 
 # Pre-header #2
@@ -215,7 +215,7 @@ When it comes to online security, we’ve got you covered with powerful privacy 
 
 # Body #1
 ;End-to-End Encryption
-End-to-End Encryption
+Сквозное шифрование
 
 
 # Body Subhead #1
@@ -225,7 +225,7 @@ Keeps your synced data on lockdown. Even we can’t see what you share.
 
 # Body #2 (option 1)
 ;Tracking Protection
-Tracking Protection
+Защита от отслеживания
 
 
 # Body Subhead #2 (option 1)
@@ -235,7 +235,7 @@ Blocks ads that follow you and collect your info without your permission.
 
 # Body #2 (option 2)
 ;Content Blocking
-Content Blocking
+Блокировка содержимого
 
 
 # Body Subhead #2 (option 2)
@@ -253,17 +253,17 @@ Block ads from collecting your info and load pages faster.
 
 # Body #3
 ;Master Password
-Master Password
+Мастер-пароль
 
 
 # Body Subhead #3
 ;Add an extra layer of security to your stored logins.
-Add an extra layer of security to your stored logins.
+Добавьте дополнительный уровень защиты к вашим сохранённым логинам.
 
 
 # CTA
 ;Visit Privacy Settings
-Visit Privacy Settings
+Посетить параметры приватности
 
 
 # Email: Recap/Survey
@@ -275,7 +275,7 @@ Account Tips: Here’s the recap.
 
 # Subject #2
 ;How are things going?
-How are things going?
+Как дела?
 
 
 # Subject #3
@@ -326,11 +326,11 @@ Instantly share links <a href="https://www.youtube.com/watch?v=PBYqiikJevk&featu
 
 # Body 5
 ;Help us improve your Firefox Account experience.
-Help us improve your Firefox Account experience.
+Помогите нам улучшить вашу работу с Аккаунтом Firefox.
 
 
 # CTA
 ;Take a Survey
-Take a Survey
+Пройти опрос
 
 
