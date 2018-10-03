@@ -27,11 +27,11 @@ Some exciting achievements so far… plus, what lies ahead in 2018.
 
 # Start of topper note for non-donors only
 ;Dear [firstname],
-Dear [firstname],
+Cześć,
 
 
 ;Dear Friend,
-Dear Friend,
+Cześć,
 
 
 ;Earlier today we sent the strategy update below to all of our current donors, and I wanted to share it with you as well. I hope you’ll give it a read, and if you’re inspired by our work, consider stepping up and <a>making a financial contribution to the Mozilla Foundation today.</a>
@@ -43,23 +43,23 @@ We’re in an urgent moment right now, where the issues we fight for are getting
 
 
 ;Donate Now
-Donate Now
+Przekaż datek
 
 
 ;Thanks so much!
-Thanks so much!
+Ogromnie dziękujemy!
 
 
 ;Sincerely,
-Sincerely,
+Z&nbsp;serdecznym pozdrowieniem,
 
 
 ;Mark Surman, Executive Director
-Mark Surman, Executive Director
+Mark Surman, dyrektor zarządzający
 
 
 ;Mozilla Foundation
-Mozilla Foundation
+Fundacja Mozilli
 
 
 # Begining of the message for current donors. This string is used as alt text for the background image
