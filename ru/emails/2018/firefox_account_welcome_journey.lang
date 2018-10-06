@@ -17,12 +17,12 @@
 
 # Subject Line #1
 ;Reminder: Complete your Firefox Sync setup
-Reminder: Complete your Firefox Sync setup
+Напоминание: Настройте свой Аккаунт Firefox
 
 
 # Subject Line #2
 ;Account Tips: Sync up.
-Account Tips: Sync up.
+Советы по Аккаунту: Синхронизируйтесь.
 
 
 # Pre-header #1
@@ -37,7 +37,7 @@ Account Tips: Sync up.
 
 # Headline
 ;Hey there! Thanks for creating a Firefox Account. We’re going to help you make the most of it. First up: Sync another device.
-Hey there! Thanks for creating a Firefox Account. We’re going to help you make the most of it. First up: Sync another device.
+Привет! Спасибо за создание Аккаунта Firefox. Мы готовы помочь вам получить от него максимальную отдачу. Для начала: Настройте синхронизацию на другом устройстве.
 
 
 # Body #1
@@ -47,7 +47,7 @@ Hey there! Thanks for creating a Firefox Account. We’re going to help you make
 
 # Body Subhead #1
 ;Save a recipe at home. Check it at the store on your phone. When you bookmark a page, it’s updated across all your devices.
-Save a recipe at home. Check it at the store on your phone. When you bookmark a page, it’s updated across all your devices.
+Сохраните список покупок дома. Откройте его в магазине на телефоне. Когда вы добавляете страницу в закладки, она появляется на всех устройствах.
 
 
 # Body #2
@@ -57,7 +57,7 @@ Save a recipe at home. Check it at the store on your phone. When you bookmark a 
 
 # Body Subhead #2
 ;Skip the “Forgot Password” drama. Securely save passwords for easy streaming, banking and more on the go.
-Skip the “Forgot Password” drama. Securely save passwords for easy streaming, banking and more on the go.
+Забудьте кнопку «Забыли пароль». Безопасно храните пароли для простого стриминга, банкинга и многого другого на ходу.
 
 
 # Body #3
@@ -67,7 +67,7 @@ Skip the “Forgot Password” drama. Securely save passwords for easy streaming
 
 # Body Subhead #3
 ;Switch screens without a hitch. Open a link on one screen and view it instantly on any of your synced devices.
-Switch screens without a hitch. Open a link on one screen and view it instantly on any of your synced devices.
+Переключайтесь между экранами без задержки. Откройте ссылку на одном экране и мгновенно увидьте её на любом другом из ваших синхронизируемых устройств.
 
 
 # CTA
@@ -82,24 +82,24 @@ Switch screens without a hitch. Open a link on one screen and view it instantly 
 
 # Footer
 ;We sent this message to %%emailaddr%% because the email address is associated with a Firefox Account.
-We sent this message to %%emailaddr%% because the email address is associated with a Firefox Account.
+Мы отправили это сообщение на %%emailaddr%%, так как этот адрес электронной почты связан с Аккаунтом Firefox.
 
 
 # Footer
 ;Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin">account preferences page</a>.
-Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin">account preferences page</a>.
+Управляйте настройками своего аккаунта, посетив <a href="https://accounts.firefox.com/signin">страницу настроек аккаунта</a>.
 
 
 # Footer
 ;If you'd rather not receive Firefox Account updates and tips, you can <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">unsubscribe</a>.
-If you'd rather not receive Firefox Account updates and tips, you can <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">unsubscribe</a>.
+Если вы не хотите получать новости и советы по Аккаунту Firefox, вы можете <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">отписаться</a>.
 
 
 # Email: Send Tabs
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Subject #1
 ;Account Tips: Send tabs instantly.
-Account Tips: Send tabs instantly.
+Совету по Аккаунту: Открывайте вкладки мгновенно.
 
 
 # Subject #2
@@ -119,7 +119,7 @@ Account Tips: Send tabs instantly.
 
 # Body
 ;Open a page on one screen and view it instantly on any of your synced devices (even across operating systems). Say goodbye to emailing yourself links.
-Open a page on one screen and view it instantly on any of your synced devices (even across operating systems). Say goodbye to emailing yourself links.
+Откройте ссылку на одном экране и мгновенно увидьте её на любом другом из ваших синхронизируемых устройств (даже на другой ОС). Вам больше не нужно отправлять сообщения со ссылками самому себе.
 
 
 # CTA
@@ -131,7 +131,7 @@ Open a page on one screen and view it instantly on any of your synced devices (e
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Subject #1
 ;Account Tips: Save your faves with Pocket.
-Account Tips: Save your faves with Pocket.
+Советы по Аккаунту: Сохраняйте любимое вами с Pocket.
 
 
 # Subject #2
@@ -151,17 +151,17 @@ Account Tips: Save your faves with Pocket.
 
 # Headline
 ;Put the content you love in your Pocket.
-Put the content you love in your Pocket.
+Добавьте любимые статьи в ваш Pocket.
 
 
 # Body
 ;Capture and enjoy the best of the web – even when the wifi is out on your commute. Your saved articles, pages and interests are always ready for you. And discover more of what you love with Pocket recommendations.
-Capture and enjoy the best of the web – even when the wifi is out on your commute. Your saved articles, pages and interests are always ready for you. And discover more of what you love with Pocket recommendations.
+Сохраняйте и наслаждайтесь лучшим - даже без подключения к Интернету. Ваши сохранённые статьи, страницы и другие интересные вещи всегда с собой. И найдите ещё больше интересного с рекомендациями Pocket.
 
 
 # Body
 ;Plus, Pocket is from Firefox, so you can sign in with your <a href="https://www.mozilla.org/firefox/accounts">Firefox Account</a>.
-Plus, Pocket is from Firefox, so you can sign in with your <a href="https://www.mozilla.org/firefox/accounts">Firefox Account</a>.
+Также, Pocket — часть Firefox, так что вы можете войти, используя свой <a href="https://www.mozilla.org/firefox/accounts">Аккаунт Firefox</a>.
 
 
 # CTA
@@ -170,11 +170,11 @@ Plus, Pocket is from Firefox, so you can sign in with your <a href="https://www.
 
 
 ;Save to Pocket.
-Сохранить в Pocket.
+Сохраните в Pocket.
 
 
 ;View when ready.
-View when ready.
+Посмотрите, когда нужно.
 
 
 ;If you use bookmarks, you’re gonna love this
@@ -185,12 +185,12 @@ View when ready.
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Subject #1
 ;Account Tips: Check your privacy settings.
-Account Tips: Check your privacy settings.
+Советы по Аккаунту: Проверьте свои настройки приватности.
 
 
 # Subject #2
 ;How to: Stay in control with your Firefox Account
-How to: Stay in control with your Firefox Account
+Руководство: Как настроить свой Аккаунт Firefox
 
 
 # Pre-header #1
@@ -200,17 +200,17 @@ How to: Stay in control with your Firefox Account
 
 # Pre-header #2
 ;Safety first (and second and third…)
-Safety first (and second and third…)
+Первым делом безопасность, а остальное потом…
 
 
 # Headline
 ;Stay safe and secure
-Stay safe and secure
+Будьте в безопасности
 
 
 # Body
 ;When it comes to online security, we’ve got you covered with powerful privacy settings. You’re always in control of what info is shared between which devices.
-When it comes to online security, we’ve got you covered with powerful privacy settings. You’re always in control of what info is shared between which devices.
+Когда дело доходит до безопасности в Интернете, мы всегда можем защитить вас с помощью мощных настроек приватности. Вы всегда можете проконтролировать, какие устройства обмениваются какой информацией.
 
 
 # Body #1
@@ -220,7 +220,7 @@ When it comes to online security, we’ve got you covered with powerful privacy 
 
 # Body Subhead #1
 ;Keeps your synced data on lockdown. Even we can’t see what you share.
-Keeps your synced data on lockdown. Even we can’t see what you share.
+Держите синхронизированные данные на замке. Даже мы не сможем увидеть, чем вы поделились.
 
 
 # Body #2 (option 1)
@@ -230,7 +230,7 @@ Keeps your synced data on lockdown. Even we can’t see what you share.
 
 # Body Subhead #2 (option 1)
 ;Blocks ads that follow you and collect your info without your permission.
-Blocks ads that follow you and collect your info without your permission.
+Блокирует рекламу, которая отслеживает вас и собирает информацию без вашего ведома.
 
 
 # Body #2 (option 2)
@@ -240,15 +240,15 @@ Blocks ads that follow you and collect your info without your permission.
 
 # Body Subhead #2 (option 2)
 ;Block ads that follow you and load pages faster.
-Block ads that follow you and load pages faster.
+Блокирует трекеры, которые отслеживают вас, и ускоряет загрузку страниц.
 
 
 ;Load pages faster while blocking ads that follow you.
-Load pages faster while blocking ads that follow you.
+Загрузка страниц становится быстрее после блокировки отслеживающей вас рекламы.
 
 
 ;Block ads from collecting your info and load pages faster.
-Block ads from collecting your info and load pages faster.
+Заблокируйте трекеры, которые собирают информацию о вас, и ускорьте загрузку страниц.
 
 
 # Body #3
@@ -270,7 +270,7 @@ Block ads from collecting your info and load pages faster.
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Subject #1
 ;Account Tips: Here’s the recap.
-Account Tips: Here’s the recap.
+Советы по Аккаунту: Сводка.
 
 
 # Subject #2
@@ -280,48 +280,48 @@ Account Tips: Here’s the recap.
 
 # Subject #3
 ;Here’s the recap.
-Here’s the recap.
+Вот сводка.
 
 
 # Pre-header #1
 ;Here's a handy recap.
-Here's a handy recap.
+Это краткая сводка.
 
 
 # Pre-header #2
 ;And by the way, how’s everything going?
-And by the way, how’s everything going?
+И, кстати, как дела?
 
 
 # Body
 ;Hope you’re enjoying your Firefox Account. Here’s a recap of all the tips and tricks we’ve shared with you so far. We wouldn’t want you to miss out.
-Hope you’re enjoying your Firefox Account. Here’s a recap of all the tips and tricks we’ve shared with you so far. We wouldn’t want you to miss out.
+Надеемся, вам нравится ваш Аккаунт Firefox. Вот краткая сводка всех тех советов и хитростей, которыми мы с вами поделились. Мы хотим, чтобы вы ничего не пропустили.
 
 
 # Body #1A: users who have not synced devices
 ;Save time by <a href="https://accounts.firefox.com/settings">syncing your devices</a>.
-Save time by <a href="https://accounts.firefox.com/settings">syncing your devices</a>.
+Экономьте время, <a href="https://accounts.firefox.com/settings">синхронизируя ваши устройства</a>.
 
 
 # Body #1B: users who have synced devices
 ;Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
-Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
+Уже настроили синхронизацию? Сделайте Firefox своим <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">браузером по умолчанию</a>.
 
 
 # Body 2
 ;Get peace of mind with <a href=" https://accounts.firefox.com/settings/clients">privacy controls</a>.
-Get peace of mind with <a href=" https://accounts.firefox.com/settings/clients">privacy controls</a>.
+Успокойте нервы с <a href=" https://accounts.firefox.com/settings/clients">настройками приватности</a>.
 
 
 # Body 3
 ;Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore">Pocket</a>.
-Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore">Pocket</a>.
+Наслаждайтесь интересным контентом с <a href="https://getpocket.com/firefox_learnmore">Pocket</a>, как с Интернетом, так и без.
 
 
 # Body 4
 # Video is in English only
 ;Instantly share links <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">between screens</a>.
-Instantly share links <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">between screens</a>.
+Мгновенно делитесь ссылками <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">между устройствами</a>.
 
 
 # Body 5
