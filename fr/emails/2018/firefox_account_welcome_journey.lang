@@ -280,17 +280,17 @@ Est-ce que tout se passe bien ?
 
 # Subject #3
 ;Here’s the recap.
-Here’s the recap.
+Récapitulons…
 
 
 # Pre-header #1
 ;Here's a handy recap.
-Here's a handy recap.
+L’essentiel en deux mots.
 
 
 # Pre-header #2
 ;And by the way, how’s everything going?
-And by the way, how’s everything going?
+Et au fait, tout se passe bien pour vous ?
 
 
 # Body
@@ -300,12 +300,12 @@ Nous espérons que vous appréciez votre compte Firefox. Voici un rappel de l’
 
 # Body #1A: users who have not synced devices
 ;Save time by <a href="https://accounts.firefox.com/settings">syncing your devices</a>.
-Save time by <a href="https://accounts.firefox.com/settings">syncing your devices</a>.
+Gagnez du temps <a href="https://accounts.firefox.com/settings">en synchronisant vos appareils</a>.
 
 
 # Body #1B: users who have synced devices
 ;Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
-Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
+Vous avez déjà synchronisé vos appareils ? Faites de Firefox <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">votre navigateur par défaut</a>.
 
 
 # Body 2
@@ -315,13 +315,13 @@ Get peace of mind with <a href=" https://accounts.firefox.com/settings/clients">
 
 # Body 3
 ;Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore">Pocket</a>.
-Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore">Pocket</a>.
+Profitez des contenus qui vous plaisent en ligne ou hors-connexion grâce à <a href="https://getpocket.com/firefox_learnmore">Pocket</a>.
 
 
 # Body 4
 # Video is in English only
 ;Instantly share links <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">between screens</a>.
-Instantly share links <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">between screens</a>.
+Partagez immédiatement des liens <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">entre plusieurs écrans</a>.
 
 
 # Body 5
@@ -331,6 +331,6 @@ Aidez-nous à améliorer votre pratique du compte Firefox.
 
 # CTA
 ;Take a Survey
-Take a Survey
+Participer au sondage
 
 
