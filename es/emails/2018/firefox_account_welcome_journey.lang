@@ -7,7 +7,7 @@
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Header #1
 ;Your Firefox Account Information
-Your Firefox Account Information
+Información de tu cuenta de Firefox
 
 
 # Header #2
@@ -17,320 +17,320 @@ Firefox Accounts
 
 # Subject Line #1
 ;Reminder: Complete your Firefox Sync setup
-Reminder: Complete your Firefox Sync setup
+Recordatorio: completa tu configuración de Firefox Sync
 
 
 # Subject Line #2
 ;Account Tips: Sync up.
-Account Tips: Sync up.
+Consejos para la cuenta: sincroniza.
 
 
 # Pre-header #1
 ;Save time. Sync and share between your devices.
-Save time. Sync and share between your devices.
+Ahorra tiempo. Sincroniza y comparte todo con tus dispositivos.
 
 
 # Pre-header #2
 ;Your account = one login for all your devices.
-Your account = one login for all your devices.
+Tu cuenta = un inicio de sesión en todos tus dispositivos.
 
 
 # Headline
 ;Hey there! Thanks for creating a Firefox Account. We’re going to help you make the most of it. First up: Sync another device.
-Hey there! Thanks for creating a Firefox Account. We’re going to help you make the most of it. First up: Sync another device.
+¡Hola! Gracias por crear una cuenta de Firefox. Te ayudaremos a sacarle el jugo. Primero: Sincroniza otro dispositivo.
 
 
 # Body #1
 ;Sync bookmarks automatically
-Sync bookmarks automatically
+Sincroniza tus marcadores automáticamente
 
 
 # Body Subhead #1
 ;Save a recipe at home. Check it at the store on your phone. When you bookmark a page, it’s updated across all your devices.
-Save a recipe at home. Check it at the store on your phone. When you bookmark a page, it’s updated across all your devices.
+Guarda una receta en casa. Léela en la tienda desde tu teléfono. Si guardas una página como marcador, se actualiza en todos tus dispositivos.
 
 
 # Body #2
 ;Safely store passwords
-Safely store passwords
+Guarda tus contraseñas de forma segura
 
 
 # Body Subhead #2
 ;Skip the “Forgot Password” drama. Securely save passwords for easy streaming, banking and more on the go.
-Skip the “Forgot Password” drama. Securely save passwords for easy streaming, banking and more on the go.
+Olvídate del melodrama de "Restablecer contraseña". Guarda tus contraseñas de forma segura para facilitar tu streaming, usar la banca móvil y mucho más.
 
 
 # Body #3
 ;Send tabs instantly
-Send tabs instantly
+Envía pestañas al instante
 
 
 # Body Subhead #3
 ;Switch screens without a hitch. Open a link on one screen and view it instantly on any of your synced devices.
-Switch screens without a hitch. Open a link on one screen and view it instantly on any of your synced devices.
+Cambia de pantalla sin complicaciones. Abre un enlace en una pantalla para verlo al instante en cualquiera de tus dispositivos sincronizados.
 
 
 # CTA
 ;View Sync Settings
-View Sync Settings
+Ver configuración de Sync
 
 
 # Sign off
 ;Questions, we're here to <a href="https://support.mozilla.org">help</a>.
-Questions, we're here to <a href="https://support.mozilla.org">help</a>.
+¿Preguntas? Estamos aquí para brindarte <a href="https://support.mozilla.org">ayuda</a>.
 
 
 # Footer
 ;We sent this message to %%emailaddr%% because the email address is associated with a Firefox Account.
-We sent this message to %%emailaddr%% because the email address is associated with a Firefox Account.
+Hemos enviado este mensaje a %%emailaddr%% porque esta dirección de correo electrónico se asocia con una cuenta de Firefox.
 
 
 # Footer
 ;Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin">account preferences page</a>.
-Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin">account preferences page</a>.
+Administra la configuración de tu cuenta desde la <a href="https://accounts.firefox.com/signin">página de preferencias de la cuenta</a>.
 
 
 # Footer
 ;If you'd rather not receive Firefox Account updates and tips, you can <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">unsubscribe</a>.
-If you'd rather not receive Firefox Account updates and tips, you can <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">unsubscribe</a>.
+Si no deseas recibir actualizaciones de la cuenta y consejos de Firefox, puedes <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">cancelar la suscripción</a>.
 
 
 # Email: Send Tabs
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Subject #1
 ;Account Tips: Send tabs instantly.
-Account Tips: Send tabs instantly.
+Consejos para la cuenta: envía pestañas al instante.
 
 
 # Subject #2
 ;Your Firefox Account can set your tabs free
-Your Firefox Account can set your tabs free
+Tu cuenta de Firefox puede darles alas a tus pestañas
 
 
 # Pre-header #1
 ;Take your open tabs everywhere you go.
-Take your open tabs everywhere you go.
+Lleva a tus pestañas abiertas a cualquier parte.
 
 
 # Pre-header #2
 ;Never email yourself again.
-Never email yourself again.
+No vuelvas a enviarte un correo electrónico.
 
 
 # Body
 ;Open a page on one screen and view it instantly on any of your synced devices (even across operating systems). Say goodbye to emailing yourself links.
-Open a page on one screen and view it instantly on any of your synced devices (even across operating systems). Say goodbye to emailing yourself links.
+Abre una página en una pantalla para verla al instante en cualquiera de tus dispositivos sincronizados (incluso de sistemas operativos distintos). Despídete de los correos electrónicos donde te envías enlaces.
 
 
 # CTA
 ;Read More
-Read More
+Leer más
 
 
 # Email: Pocket
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Subject #1
 ;Account Tips: Save your faves with Pocket.
-Account Tips: Save your faves with Pocket.
+Consejos para la cuenta: guarda tus favoritos con Pocket.
 
 
 # Subject #2
 ;Save your faves with Pocket.
-Save your faves with Pocket.
+Guarda tus favoritos con Pocket.
 
 
 # Subject #3
 ;Like bookmarks? You’ll love this Firefox Account feature.
-Like bookmarks? You’ll love this Firefox Account feature.
+¿Te gustan los marcadores? Te encantará esta función de la cuenta de Firefox.
 
 
 # Pre-header
 ;Save, read and listen on the go.
-Save, read and listen on the go.
+Guarda, lee y escucha de todo sobre la marcha.
 
 
 # Headline
 ;Put the content you love in your Pocket.
-Put the content you love in your Pocket.
+Añade el contenido que te encanta a tu Pocket.
 
 
 # Body
 ;Capture and enjoy the best of the web – even when the wifi is out on your commute. Your saved articles, pages and interests are always ready for you. And discover more of what you love with Pocket recommendations.
-Capture and enjoy the best of the web – even when the wifi is out on your commute. Your saved articles, pages and interests are always ready for you. And discover more of what you love with Pocket recommendations.
+Captura y disfruta lo mejor de la web; incluso cuando no hay wifi en tu ruta. Si guardas artículos, páginas e intereses, estarán disponibles siempre. Y descubre más de lo que te gusta con las recomendaciones de Pocket.
 
 
 # Body
 ;Plus, Pocket is from Firefox, so you can sign in with your <a href="https://www.mozilla.org/firefox/accounts">Firefox Account</a>.
-Plus, Pocket is from Firefox, so you can sign in with your <a href="https://www.mozilla.org/firefox/accounts">Firefox Account</a>.
+Además, Pocket es de Firefox, así que puedes iniciar sesión con tu <a href="https://www.mozilla.org/firefox/accounts">cuenta de Firefox</a>.
 
 
 # CTA
 ;Get Pocket
-Get Pocket
+Obtener Pocket
 
 
 ;Save to Pocket.
-Save to Pocket.
+Guarda todo en Pocket
 
 
 ;View when ready.
-View when ready.
+Mira todo cuando quieras.
 
 
 ;If you use bookmarks, you’re gonna love this
-If you use bookmarks, you’re gonna love this
+Si usas marcadores, te encantará esto
 
 
 # Email: Privacy
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Subject #1
 ;Account Tips: Check your privacy settings.
-Account Tips: Check your privacy settings.
+Consejos para la cuenta: comprueba tu configuración de privacidad.
 
 
 # Subject #2
 ;How to: Stay in control with your Firefox Account
-How to: Stay in control with your Firefox Account
+Guía para: tener todo bajo control con tu cuenta de Firefox
 
 
 # Pre-header #1
 ;Stay safer online
-Stay safer online
+Mantén tu seguridad en línea
 
 
 # Pre-header #2
 ;Safety first (and second and third…)
-Safety first (and second and third…)
+La seguridad primero (y segundo y tercero…)
 
 
 # Headline
 ;Stay safe and secure
-Stay safe and secure
+Mantén tu seguridad y protección
 
 
 # Body
 ;When it comes to online security, we’ve got you covered with powerful privacy settings. You’re always in control of what info is shared between which devices.
-When it comes to online security, we’ve got you covered with powerful privacy settings. You’re always in control of what info is shared between which devices.
+En cuanto a tu seguridad en línea, nuestra poderosa configuración de privacidad es como tu guardaespaldas. Siempre controlarás qué información compartes con qué dispositivos.
 
 
 # Body #1
 ;End-to-End Encryption
-End-to-End Encryption
+Cifrado de un extremo a otro
 
 
 # Body Subhead #1
 ;Keeps your synced data on lockdown. Even we can’t see what you share.
-Keeps your synced data on lockdown. Even we can’t see what you share.
+Mantiene tus datos sincronizados bajo llave. Ni nosotros podemos ver qué compartes.
 
 
 # Body #2 (option 1)
 ;Tracking Protection
-Tracking Protection
+Protección contra el rastreo
 
 
 # Body Subhead #2 (option 1)
 ;Blocks ads that follow you and collect your info without your permission.
-Blocks ads that follow you and collect your info without your permission.
+Bloquea los anuncios que te siguen y recopilan tus datos sin tu permiso.
 
 
 # Body #2 (option 2)
 ;Content Blocking
-Content Blocking
+Bloqueo de contenido
 
 
 # Body Subhead #2 (option 2)
 ;Block ads that follow you and load pages faster.
-Block ads that follow you and load pages faster.
+Bloquea los anuncios que te siguen y carga más rápido las páginas.
 
 
 ;Load pages faster while blocking ads that follow you.
-Load pages faster while blocking ads that follow you.
+Carga más rápido las páginas mientras bloqueas los anuncios que te siguen.
 
 
 ;Block ads from collecting your info and load pages faster.
-Block ads from collecting your info and load pages faster.
+Bloquea los anuncios que recopilan tus datos y carga más rápido las páginas.
 
 
 # Body #3
 ;Master Password
-Master Password
+Contraseña maestra
 
 
 # Body Subhead #3
 ;Add an extra layer of security to your stored logins.
-Add an extra layer of security to your stored logins.
+Agrega una capa adicional de seguridad a tus credenciales de inicio de sesión.
 
 
 # CTA
 ;Visit Privacy Settings
-Visit Privacy Settings
+Visitar configuración de privacidad
 
 
 # Email: Recap/Survey
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Subject #1
 ;Account Tips: Here’s the recap.
-Account Tips: Here’s the recap.
+Consejos para la cuenta: aquí tienes el resumen.
 
 
 # Subject #2
 ;How are things going?
-How are things going?
+¿Cómo va todo?
 
 
 # Subject #3
 ;Here’s the recap.
-Here’s the recap.
+Aquí tienes el resumen.
 
 
 # Pre-header #1
 ;Here's a handy recap.
-Here's a handy recap.
+He aquí un práctico resumen.
 
 
 # Pre-header #2
 ;And by the way, how’s everything going?
-And by the way, how’s everything going?
+Y por cierto, ¿cómo va todo?
 
 
 # Body
 ;Hope you’re enjoying your Firefox Account. Here’s a recap of all the tips and tricks we’ve shared with you so far. We wouldn’t want you to miss out.
-Hope you’re enjoying your Firefox Account. Here’s a recap of all the tips and tricks we’ve shared with you so far. We wouldn’t want you to miss out.
+Esperamos que estés disfrutando de tu cuenta de Firefox. Aquí tienes un resumen de todos los trucos y consejos que hemos compartido contigo hasta ahora. No queremos que te pierdas de nada.
 
 
 # Body #1A: users who have not synced devices
 ;Save time by <a href="https://accounts.firefox.com/settings">syncing your devices</a>.
-Save time by <a href="https://accounts.firefox.com/settings">syncing your devices</a>.
+Ahorra tiempo al <a href="https://accounts.firefox.com/settings">sincronizar tus dispositivos</a>.
 
 
 # Body #1B: users who have synced devices
 ;Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
-Already synced? Make Firefox your <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">default browser</a>.
+¿Ya has sincronizado tus dispositivos? Convierte a Firefox en tu <a href="https://support.mozilla.org/kb/make-firefox-your-default-browser">navegador predeterminado</a>.
 
 
 # Body 2
 ;Get peace of mind with <a href=" https://accounts.firefox.com/settings/clients">privacy controls</a>.
-Get peace of mind with <a href=" https://accounts.firefox.com/settings/clients">privacy controls</a>.
+Gana en tranquilidad con los <a href=" https://accounts.firefox.com/settings/clients">controles de privacidad</a>.
 
 
 # Body 3
 ;Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore">Pocket</a>.
-Enjoy content on and offline with <a href="https://getpocket.com/firefox_learnmore">Pocket</a>.
+Disfruta de contenidos en línea y sin conexión con <a href="https://getpocket.com/firefox_learnmore">Pocket</a>.
 
 
 # Body 4
 # Video is in English only
 ;Instantly share links <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">between screens</a>.
-Instantly share links <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">between screens</a>.
+Comparte enlaces al instante <a href="https://www.youtube.com/watch?v=PBYqiikJevk&feature=youtu.be">entre pantallas</a>.
 
 
 # Body 5
 ;Help us improve your Firefox Account experience.
-Help us improve your Firefox Account experience.
+Ayúdanos a mejorar tu experiencia con tu cuenta de Firefox.
 
 
 # CTA
 ;Take a Survey
-Take a Survey
+Participar de una encuesta
 
 
