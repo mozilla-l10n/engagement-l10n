@@ -7,7 +7,7 @@
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Header #1
 ;Your Firefox Account Information
-Informacje o Twoim koncie Firefoksa
+Informacje o&nbsp;Twoim koncie Firefoksa
 
 
 # Header #2
@@ -27,7 +27,7 @@ Wskazówki na temat konta: zacznij synchronizować.
 
 # Pre-header #1
 ;Save time. Sync and share between your devices.
-Oszczędzaj czas. Synchronizuj i udostępniaj między urządzeniami.
+Oszczędzaj czas. Synchronizuj i&nbsp;udostępniaj między urządzeniami.
 
 
 # Pre-header #2
@@ -37,7 +37,7 @@ Twoje konto = jeden login na wszystkie urządzenia.
 
 # Headline
 ;Hey there! Thanks for creating a Firefox Account. We’re going to help you make the most of it. First up: Sync another device.
-Cześć! Dziękujemy za utworzenie konta Firefoksa. Pomożemy Ci je w pełni wykorzystać. Na początek: zsynchronizuj inne urządzenie.
+Cześć! Dziękujemy za utworzenie konta Firefoksa. Pomożemy Ci je w&nbsp;pełni wykorzystać. Na początek: zsynchronizuj inne urządzenie.
 
 
 # Body #1
@@ -47,64 +47,64 @@ Automatycznie synchronizuj zakładki
 
 # Body Subhead #1
 ;Save a recipe at home. Check it at the store on your phone. When you bookmark a page, it’s updated across all your devices.
-Save a recipe at home. Check it at the store on your phone. When you bookmark a page, it’s updated across all your devices.
+Zachowaj przepis w&nbsp;domu. Sprawdź go w&nbsp;sklepie na telefonie. Dodanie zakładki do strony umieści ją na wszystkich Twoich urządzeniach.
 
 
 # Body #2
 ;Safely store passwords
-Safely store passwords
+Bezpiecznie przechowuj hasła
 
 
 # Body Subhead #2
 ;Skip the “Forgot Password” drama. Securely save passwords for easy streaming, banking and more on the go.
-Skip the “Forgot Password” drama. Securely save passwords for easy streaming, banking and more on the go.
+Zapomnij o&nbsp;klikaniu „Nie pamiętam hasła”. Bezpiecznie zachowuj hasła do łatwego oglądania, zarządzania finansami i&nbsp;nie tylko, gdziekolwiek jesteś.
 
 
 # Body #3
 ;Send tabs instantly
-Send tabs instantly
+Błyskawicznie przesyłaj karty
 
 
 # Body Subhead #3
 ;Switch screens without a hitch. Open a link on one screen and view it instantly on any of your synced devices.
-Switch screens without a hitch. Open a link on one screen and view it instantly on any of your synced devices.
+Bez problemu przełączaj się między ekranami. Otwórz odnośnik na jednym i&nbsp;od razu przeglądaj go na dowolnym ze zsynchronizowanych urządzeń.
 
 
 # CTA
 ;View Sync Settings
-View Sync Settings
+Otwórz ustawienia synchronizacji
 
 
 # Sign off
 ;Questions, we're here to <a href="https://support.mozilla.org">help</a>.
-Questions, we're here to <a href="https://support.mozilla.org">help</a>.
+Pytania? Chętnie <a href="https://support.mozilla.org">pomożemy</a>.
 
 
 # Footer
 ;We sent this message to %%emailaddr%% because the email address is associated with a Firefox Account.
-We sent this message to %%emailaddr%% because the email address is associated with a Firefox Account.
+Wysłaliśmy tę wiadomość na adres %%emailaddr%%, ponieważ jest on powiązany z&nbsp;kontem Firefoksa.
 
 
 # Footer
 ;Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin">account preferences page</a>.
-Manage your account settings by visiting your <a href="https://accounts.firefox.com/signin">account preferences page</a>.
+Zarządzaj ustawieniami konta na <a href="https://accounts.firefox.com/signin">stronie preferencji konta</a>.
 
 
 # Footer
 ;If you'd rather not receive Firefox Account updates and tips, you can <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">unsubscribe</a>.
-If you'd rather not receive Firefox Account updates and tips, you can <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">unsubscribe</a>.
+Jeśli nie chcesz otrzymywać wiadomości i&nbsp;wskazówek o&nbsp;koncie Firefoksa, to możesz <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">zrezygnować z&nbsp;subskrypcji</a>.
 
 
 # Email: Send Tabs
 # Mockup image: https://tinyurl.com/yc23tt4s
 # Subject #1
 ;Account Tips: Send tabs instantly.
-Account Tips: Send tabs instantly.
+Wskazówki na temat konta: błyskawicznie przesyłaj karty.
 
 
 # Subject #2
 ;Your Firefox Account can set your tabs free
-Your Firefox Account can set your tabs free
+Konto Firefoksa może uwolnić Twoje karty
 
 
 # Pre-header #1
