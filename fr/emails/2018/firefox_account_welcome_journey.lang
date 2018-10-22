@@ -37,7 +37,7 @@ Votre compte = une identification unique pour tous vos appareils.
 
 # Headline
 ;Hey there! Thanks for creating a Firefox Account. We’re going to help you make the most of it. First up: Sync another device.
-Hey there! Thanks for creating a Firefox Account. We’re going to help you make the most of it. First up: Sync another device.
+Bonjour&nbsp;! Merci d’avoir créé un compte Firefox. Nous allons vous aider à en tirer le meilleur parti. Avant toute chose&nbsp;: synchronisez un autre appareil.
 
 
 # Body #1
@@ -178,7 +178,7 @@ Consultez quand vous voulez.
 
 
 ;If you use bookmarks, you’re gonna love this
-If you use bookmarks, you’re gonna love this
+Si vous utilisez les marque-pages, vous allez adorer
 
 
 # Email: Privacy
@@ -200,7 +200,7 @@ Soyez plus en sécurité en ligne
 
 # Pre-header #2
 ;Safety first (and second and third…)
-Safety first (and second and third…)
+La sécurité d’abord (et même ensuite…)
 
 
 # Headline
@@ -220,7 +220,7 @@ Chiffrement de bout en bout
 
 # Body Subhead #1
 ;Keeps your synced data on lockdown. Even we can’t see what you share.
-Keeps your synced data on lockdown. Even we can’t see what you share.
+Conservez vos données synchronisées bien à l’abri. Personne ne peut voir ce que vous partagez entre vos appareils, même pas nous.
 
 
 # Body #2 (option 1)
