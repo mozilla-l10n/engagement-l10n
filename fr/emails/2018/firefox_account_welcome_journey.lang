@@ -82,7 +82,7 @@ Des questions ? Nous sommes là <a href="https://support.mozilla.org">pour vous
 
 # Footer
 ;We sent this message to %%emailaddr%% because the email address is associated with a Firefox Account.
-Nous avons envoyé ce message à %%emailaddr%% parce que cette adresse courriel est associée à un compte Firefox.
+Nous avons envoyé ce message à %%emailaddr%% parce que cette adresse électronique est associée à un compte Firefox.
 
 
 # Footer
@@ -92,7 +92,7 @@ Gérez les paramètres de votre compte en allant sur <a href="https://accounts.f
 
 # Footer
 ;If you'd rather not receive Firefox Account updates and tips, you can <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">unsubscribe</a>.
-Si vous préférez ne pas recevoir de mises à jour et de conseils pour votre compte Firefox, vous pouvez <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">vous désinscrire</a>.
+Si vous préférez ne pas recevoir de mises à jour ni de conseils pour votre compte Firefox, vous pouvez <a href="https://www.mozilla.org/newsletter/opt-out-confirmation">vous désinscrire</a>.
 
 
 # Email: Send Tabs
