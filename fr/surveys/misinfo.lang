@@ -62,27 +62,27 @@ Non
 # q-4-o-10008
 # q-6-o-10023
 ;Maybe
-Maybe
+Peut-être
 
 
 # q-12
 ;How familiar are you with these terms? 1 = not at all familiar, 5 = very familiar
-How familiar are you with these terms? 1 = not at all familiar, 5 = very familiar
+Dans quelle mesure connaissez-vous ces termes ? 1 = je ne connais pas du tout, 5 = je connais très bien
 
 
 # q-56
 ;Filter bubble
-Filter bubble
+Les bulles de filtres
 
 
 # q-57
 ;Misinformation
-Misinformation
+La mésinformation
 
 
 # q-58
 ;Disinformation
-Disinformation
+La désinformation
 
 
 # q-59
@@ -92,17 +92,17 @@ Algorithmic curation
 
 # q-60
 ;Fake News
-Fake News
+Les infox (Fake News)
 
 
 # q-61
 ;Targeted Advertising
-Targeted Advertising
+La publicité ciblée
 
 
 # q-62
 ;Clickbait
-Clickbait
+Les pièges à clics (Clickbait)
 
 
 # q-6
@@ -118,85 +118,85 @@ Whose job do you think it is to tackle misinformation? Rank these in order of re
 # q-33-o-10217
 # q-18-o-10033
 ;Governments
-Governments
+Les gouvernements
 
 
 # q-33-o-10217
 # q-18-o-10034
 ;Civil society (e.g. nonprofits, universities)
-Civil society (e.g. nonprofits, universities)
+La société civile (par exemple, les organisations à but non lucratif, les universités)
 
 
 # q-33-o-10219
 # q-18-o-10035
 ;Individual internet users
-Individual internet users
+Les internautes
 
 
 # q-33-o-10220
 # q-18-o-10036
 ;Commercial internet platforms (e.g. Facebook, Google, Twitter)
-Commercial internet platforms (e.g. Facebook, Google, Twitter)
+Les plateformes Internet commerciales (par exemple, Facebook, Google, Twitter)
 
 
 # q-33-o-10229
 ;Press/journalists
-Press/journalists
+La presse/les journalistes
 
 
 # q-33-o-10221
 ;Other (write in "Comments" section below)
-Other (write in "Comments" section below)
+Autre (écrivez dans la section « Commentaires » ci-dessous)
 
 
 # q-18
 ;Who do you think is best equipped to solve the misinformation problem?
-Who do you think is best equipped to solve the misinformation problem?
+Selon vous, qui serait le mieux disposé à résoudre le problème de la mésinformation ?
 
 
 # q-18-o-10238
 ;Other - Write In
-Other - Write In
+Autre
 
 
 # q-19
 ;Do you agree or disagree with the following statements:
-Do you agree or disagree with the following statements:
+Êtes-vous d’accord ou en désaccord avec les affirmations suivantes :
 
 
 # q-42
 ;Data collected about me online benefits me.
-Data collected about me online benefits me.
+Les données recueillies sur moi en ligne me sont bénéfiques.
 
 
 # q-43
 ;Data collected about my browsing habits can be used to target me with disinformation.
-Data collected about my browsing habits can be used to target me with disinformation.
+Les données recueillies sur mes habitudes de navigation peuvent être utilisées pour me cibler avec de la mésinformation.
 
 
 # q-44
 ;I feel like my online activity is being watched.
-I feel like my online activity is being watched.
+J’ai l’impression que mes activités en ligne sont surveillées.
 
 
 # q-45
 ;Having my data collected provides a benefit to society as a whole.
-Having my data collected provides a benefit to society as a whole.
+La collecte de mes données profite à la société dans son ensemble.
 
 
 # q-46
 ;I am always asked for my consent before data is collected about me online.
-I am always asked for my consent before data is collected about me online.
+Mon consentement est toujours demandé avant que des données ne soient collectées à mon sujet en ligne.
 
 
 # q-47
 ;I feel that I understand what data is being collected about me and who has access to it.
-I feel that I understand what data is being collected about me and who has access to it.
+J’ai l’impression de comprendre quelles données sont collectées à mon sujet et qui y a accès.
 
 
 # q-48
 ;It’s OK for companies to buy or sell information about me or my interests.
-It’s OK for companies to buy or sell information about me or my interests.
+Les entreprises peuvent acheter ou vendre des informations sur moi ou mes centres d’intérêt.
 
 
 # q-49
@@ -206,17 +206,17 @@ My trust in news and political information has decreased.
 
 # q-49-o-10037
 ;Agree
-Agree
+D’accord
 
 
 # q-49-o-10038
 ;Disagree
-Disagree
+Pas d’accord
 
 
 # q-27
 ;What do you think would be useful to you to help tackle misinformation (select all that apply)?
-What do you think would be useful to you to help tackle misinformation (select all that apply)?
+Selon vous, qu’est-ce qui vous serait utile pour lutter contre la mésinformation (cochez toutes les réponses appropriées) ?
 
 
 # q-27-o-10039
@@ -256,17 +256,17 @@ Autre
 
 # q-28
 ;How tech savvy would you say you are?
-How tech savvy would you say you are?
+À quel point maîtrisez-vous la technologie ?
 
 
 # q-28-o-10043
 ;Not at all savvy
-Not at all savvy
+Je ne la maîtrise pas du tout
 
 
 # q-28-o-10044
 ;Slightly savvy
-Slightly savvy
+Je la maîtrise un peu
 
 
 # q-28-o-10045
@@ -276,52 +276,52 @@ Moderately savvy
 
 # q-28-o-10046
 ;Very savvy
-Very savvy
+Je la maîtrise bien
 
 
 # q-28-o-10235
 ;Extremely savvy
-Extremely savvy
+Je la maîtrise très bien
 
 
 # q-39
 ;The following questions are optional:
-The following questions are optional:
+Les questions suivantes sont facultatives :
 
 
 # q-29
 ;Which age bracket do you sit in?
-Which age bracket do you sit in?
+Dans quelle tranche d’âge vous situez-vous ?
 
 
 # q-29-o-10047
 ;19-35
-19-35
+19-35 ans
 
 
 # q-29-o-10048
 ;36-50
-36-50
+36-50 ans
 
 
 # q-29-o-10049
 ;51-65
-51-65
+51-65 ans
 
 
 # q-29-o-10050
 ;66-80
-66-80
+66-80 ans
 
 
 # q-29-o-10051
 ;81+
-81+
+Plus de 81 ans
 
 
 # q-30
 ;Where do you live?
-Where do you live?
+Où résidez-vous ?
 
 
 # q-31
@@ -346,7 +346,7 @@ Neither describe me
 
 # p-2
 ;Thank You!
-Thank You!
+Merci !
 
 
 # q-1
