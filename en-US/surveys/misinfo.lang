@@ -1,355 +1,355 @@
 ## NOTE: Misinfo survey: https://www.surveygizmo.com/s3/4755785/e716165308a6
 
 
-#p-1
-#survey-title
+# p-1
+# survey-title
 ;Mozilla’s survey on misinformation in the EU elections
 Mozilla’s survey on misinformation in the EU elections
 
 
-#q-32
+# q-32
 ;Thank you for taking the time to answer these questions.  The anonymously gathered information from this survey will give us insight into our subscribers' knowledge of Misinformation issues, and thus help guide our campaigns for 2019.<br /><br />                    You must be 19 years of age or older to take part in this survey.<br /><br />                    We handle your information as described in the <a href="https://www.mozilla.org/privacy/websites/">Mozilla Privacy Policy</a>
 Thank you for taking the time to answer these questions.  The anonymously gathered information from this survey will give us insight into our subscribers' knowledge of Misinformation issues, and thus help guide our campaigns for 2019.<br /><br />                    You must be 19 years of age or older to take part in this survey.<br /><br />                    We handle your information as described in the <a href="https://www.mozilla.org/privacy/websites/">Mozilla Privacy Policy</a>
 
 
-#q-3
+# q-3
 ;<span>How concerned are you with online *misinformation and **disinformation?<br /><br />*Misinformation refers to false or misleading information presented as truth that’s shared mistakenly by people who are unaware that it’s false.<br />**Disinformation refers to false, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit.</span>
 <span>How concerned are you with online *misinformation and **disinformation?<br /><br />*Misinformation refers to false or misleading information presented as truth that’s shared mistakenly by people who are unaware that it’s false.<br />**Disinformation refers to false, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit.</span>
 
 
-#q-3-o-10003
+# q-3-o-10003
 ;Not at all concerned
 Not at all concerned
 
 
-#q-3-o-10004
+# q-3-o-10004
 ;Slightly concerned
 Slightly concerned
 
 
-#q-3-o-10005
+# q-3-o-10005
 ;Moderately concerned
 Moderately concerned
 
 
-#q-3-o-10233
+# q-3-o-10233
 ;Very concerned
 Very concerned
 
 
-#q-3-o-10234
+# q-3-o-10234
 ;Extremely concerned
 Extremely concerned
 
 
-#q-4
+# q-4
 ;Do you think you have seen misinformation while using the internet in the last week?
 Do you think you have seen misinformation while using the internet in the last week?
 
 
-#q-4-o-10006
-#q-6-o-10021
+# q-4-o-10006
+# q-6-o-10021
 ;Yes
 Yes
 
 
-#q-4-o-10007
-#q-6-o-10022
+# q-4-o-10007
+# q-6-o-10022
 ;No
 No
 
 
-#q-4-o-10008
-#q-6-o-10023
+# q-4-o-10008
+# q-6-o-10023
 ;Maybe
 Maybe
 
 
-#q-12
+# q-12
 ;How familiar are you with these terms? 1 = not at all familiar, 5 = very familiar
 How familiar are you with these terms? 1 = not at all familiar, 5 = very familiar
 
 
-#q-56
+# q-56
 ;Filter bubble
 Filter bubble
 
 
-#q-57
+# q-57
 ;Misinformation
 Misinformation
 
 
-#q-58
+# q-58
 ;Disinformation
 Disinformation
 
 
-#q-59
+# q-59
 ;Algorithmic curation
 Algorithmic curation
 
 
-#q-60
+# q-60
 ;Fake News
 Fake News
 
 
-#q-61
+# q-61
 ;Targeted Advertising
 Targeted Advertising
 
 
-#q-62
+# q-62
 ;Clickbait
 Clickbait
 
 
-#q-6
+# q-6
 ;Do you think thwarting the spread of misinformation online is possible?
 Do you think thwarting the spread of misinformation online is possible?
 
 
-#q-33
+# q-33
 ;Whose job do you think it is to tackle misinformation? Rank these in order of responsibility ( 1 = most responsible, 6 = least responsible):
 Whose job do you think it is to tackle misinformation? Rank these in order of responsibility ( 1 = most responsible, 6 = least responsible):
 
 
-#q-33-o-10217
-#q-18-o-10033
+# q-33-o-10217
+# q-18-o-10033
 ;Governments
 Governments
 
 
-#q-33-o-10217
-#q-18-o-10034
+# q-33-o-10217
+# q-18-o-10034
 ;Civil society (e.g. nonprofits, universities)
 Civil society (e.g. nonprofits, universities)
 
 
-#q-33-o-10219
-#q-18-o-10035
+# q-33-o-10219
+# q-18-o-10035
 ;Individual internet users
 Individual internet users
 
 
-#q-33-o-10220
-#q-18-o-10036
+# q-33-o-10220
+# q-18-o-10036
 ;Commercial internet platforms (e.g. Facebook, Google, Twitter)
 Commercial internet platforms (e.g. Facebook, Google, Twitter)
 
 
-#q-33-o-10229
+# q-33-o-10229
 ;Press/journalists
 Press/journalists
 
 
-#q-33-o-10221
+# q-33-o-10221
 ;Other (write in "Comments" section below)
 Other (write in "Comments" section below)
 
 
-#q-18
+# q-18
 ;Who do you think is best equipped to solve the misinformation problem?
 Who do you think is best equipped to solve the misinformation problem?
 
 
-#q-18-o-10238
+# q-18-o-10238
 ;Other - Write In
 Other - Write In
 
 
-#q-19
+# q-19
 ;Do you agree or disagree with the following statements:
 Do you agree or disagree with the following statements:
 
 
-#q-42
+# q-42
 ;Data collected about me online benefits me.
 Data collected about me online benefits me.
 
 
-#q-43
+# q-43
 ;Data collected about my browsing habits can be used to target me with disinformation.
 Data collected about my browsing habits can be used to target me with disinformation.
 
 
-#q-44
+# q-44
 ;I feel like my online activity is being watched.
 I feel like my online activity is being watched.
 
 
-#q-45
+# q-45
 ;Having my data collected provides a benefit to society as a whole.
 Having my data collected provides a benefit to society as a whole.
 
 
-#q-46
+# q-46
 ;I am always asked for my consent before data is collected about me online.
 I am always asked for my consent before data is collected about me online.
 
 
-#q-47
+# q-47
 ;I feel that I understand what data is being collected about me and who has access to it.
 I feel that I understand what data is being collected about me and who has access to it.
 
 
-#q-48
+# q-48
 ;It’s OK for companies to buy or sell information about me or my interests.
 It’s OK for companies to buy or sell information about me or my interests.
 
 
-#q-49
+# q-49
 ;My trust in news and political information has decreased.
 My trust in news and political information has decreased.
 
 
-#q-49-o-10037
+# q-49-o-10037
 ;Agree
 Agree
 
 
-#q-49-o-10038
+# q-49-o-10038
 ;Disagree
 Disagree
 
 
-#q-27
+# q-27
 ;What do you think would be useful to you to help tackle misinformation (select all that apply)?
 What do you think would be useful to you to help tackle misinformation (select all that apply)?
 
 
-#q-27-o-10039
+# q-27-o-10039
 ;Education – knowing how to spot misinformation.
 Education – knowing how to spot misinformation.
 
 
-#q-27-o-10040
+# q-27-o-10040
 ;Tools – things that help me spot misinformation.
 Tools – things that help me spot misinformation.
 
 
-#q-27-o-10041
+# q-27-o-10041
 ;Fact-checking – other people seeing. misinformation and correcting it.
 Fact-checking – other people seeing. misinformation and correcting it.
 
 
-#q-27-o-10042
+# q-27-o-10042
 ;System changes – companies or governments make changes so I’m less exposed to it.
 System changes – companies or governments make changes so I’m less exposed to it.
 
 
-#q-27-o-10230
+# q-27-o-10230
 ;System changes by companies – companies make changes so I’m less exposed to it.
 System changes by companies – companies make changes so I’m less exposed to it.
 
 
-#q-27-o-10231
+# q-27-o-10231
 ;System changes by governments – governments make changes so I’m less exposed to it.
 System changes by governments – governments make changes so I’m less exposed to it.
 
 
-#q-27-o-10232
+# q-27-o-10232
 ;Other
 Other
 
 
-#q-28
+# q-28
 ;How tech savvy would you say you are?
 How tech savvy would you say you are?
 
 
-#q-28-o-10043
+# q-28-o-10043
 ;Not at all savvy
 Not at all savvy
 
 
-#q-28-o-10044
+# q-28-o-10044
 ;Slightly savvy
 Slightly savvy
 
 
-#q-28-o-10045
+# q-28-o-10045
 ;Moderately savvy
 Moderately savvy
 
 
-#q-28-o-10046
+# q-28-o-10046
 ;Very savvy
 Very savvy
 
 
-#q-28-o-10235
+# q-28-o-10235
 ;Extremely savvy
 Extremely savvy
 
 
-#q-39
+# q-39
 ;The following questions are optional:
 The following questions are optional:
 
 
-#q-29
+# q-29
 ;Which age bracket do you sit in?
 Which age bracket do you sit in?
 
 
-#q-29-o-10047
+# q-29-o-10047
 ;19-35
 19-35
 
 
-#q-29-o-10048
+# q-29-o-10048
 ;36-50
 36-50
 
 
-#q-29-o-10049
+# q-29-o-10049
 ;51-65
 51-65
 
 
-#q-29-o-10050
+# q-29-o-10050
 ;66-80
 66-80
 
 
-#q-29-o-10051
+# q-29-o-10051
 ;81+
 81+
 
 
-#q-30
+# q-30
 ;Where do you live?
 Where do you live?
 
 
-#q-31
+# q-31
 ;What is your gender?
 What is your gender?
 
 
-#q-31-o-10214
+# q-31-o-10214
 ;Female
 Female
 
 
-#q-31-o-10215
+# q-31-o-10215
 ;Male
 Male
 
 
-#q-31-o-10216
+# q-31-o-10216
 ;Neither describe me
 Neither describe me
 
 
-#p-2
+# p-2
 ;Thank You!
 Thank You!
 
 
-#q-1
+# q-1
 ;Thank you for taking our survey. Your response is very important to us.
 Thank you for taking our survey. Your response is very important to us.
 
