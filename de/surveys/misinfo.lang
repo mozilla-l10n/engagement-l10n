@@ -4,47 +4,47 @@
 # p-1
 # survey-title
 ;Mozilla’s survey on misinformation in the EU elections
-Mozilla’s survey on misinformation in the EU elections
+Mozillas Umfrage über Desinformation bei den EU-Wahlen
 
 
 # q-32
 ;Thank you for taking the time to answer these questions.  The anonymously gathered information from this survey will give us insight into our subscribers' knowledge of Misinformation issues, and thus help guide our campaigns for 2019.<br /><br />                    You must be 19 years of age or older to take part in this survey.<br /><br />                    We handle your information as described in the <a href="https://www.mozilla.org/privacy/websites/">Mozilla Privacy Policy</a>
-Thank you for taking the time to answer these questions.  The anonymously gathered information from this survey will give us insight into our subscribers' knowledge of Misinformation issues, and thus help guide our campaigns for 2019.<br /><br />                    You must be 19 years of age or older to take part in this survey.<br /><br />                    We handle your information as described in the <a href="https://www.mozilla.org/privacy/websites/">Mozilla Privacy Policy</a>
+Vielen Dank, dass Sie sich die Zeit genommen haben, diese Fragen zu beantworten. Die anonym gesammelten Informationen aus dieser Umfrage geben uns einen Einblick in das Wissen unserer Abonnenten über Fehlinformationen und helfen somit, unsere Kampagnen für 2019 zu leiten.<br /><br /> Sie müssen mindestens 19 Jahre alt sein, um an dieser Umfrage teilnehmen zu können. <br /><br /> Wir behandeln Ihre Daten wie in den <a href="https://www.mozilla.org/privacy/websites/">Mozilla-Datenschutzbestimmungen</a> beschrieben
 
 
 # q-3
 ;<span>How concerned are you with online *misinformation and **disinformation?<br /><br />*Misinformation refers to false or misleading information presented as truth that’s shared mistakenly by people who are unaware that it’s false.<br />**Disinformation refers to false, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit.</span>
-<span>How concerned are you with online *misinformation and **disinformation?<br /><br />*Misinformation refers to false or misleading information presented as truth that’s shared mistakenly by people who are unaware that it’s false.<br />**Disinformation refers to false, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit.</span>
+<span>Wie besorgt sind Sie über *Falschinformationen und **Desinformation im Internet?<br /><br /> *Falschinformationen bedeutet falsche oder irreführende Informationen, die von Personen als Wahrheit angegeben wird, die aber nicht wissen, dass sie nicht korrekt sind.<br />**Desinformation bedeutet falsche, ungenaue oder irreführende Informationen, die bewusst verfasst, präsentiert und gezeigt werden, um dem öffentlichen Wohl zu schaden oder Gewinn zu machen.</span>
 
 
 # q-3-o-10003
 ;Not at all concerned
-Not at all concerned
+Überhaupt nicht besorgt
 
 
 # q-3-o-10004
 ;Slightly concerned
-Slightly concerned
+Leicht besorgt
 
 
 # q-3-o-10005
 ;Moderately concerned
-Moderately concerned
+Mäßig besorgt
 
 
 # q-3-o-10233
 ;Very concerned
-Very concerned
+Sehr besorgt
 
 
 # q-3-o-10234
 ;Extremely concerned
-Extremely concerned
+Extrem besorgt
 
 
 # q-4
 ;Do you think you have seen misinformation while using the internet in the last week?
-Do you think you have seen misinformation while using the internet in the last week?
+Glauben Sie, dass Sie in der letzten Woche Falschinformationen im Internet gesehen haben?
 
 
 # q-4-o-10006
@@ -62,166 +62,166 @@ Nein
 # q-4-o-10008
 # q-6-o-10023
 ;Maybe
-Maybe
+Vielleicht
 
 
 # q-12
 ;How familiar are you with these terms? 1 = not at all familiar, 5 = very familiar
-How familiar are you with these terms? 1 = not at all familiar, 5 = very familiar
+Wie vertraut sind Ihnen diese Begriffe? 1 = gar nicht vertraut, 5 = sehr vertraut
 
 
 # q-56
 ;Filter bubble
-Filter bubble
+Filterblase
 
 
 # q-57
 ;Misinformation
-Misinformation
+Falschinformationen
 
 
 # q-58
 ;Disinformation
-Disinformation
+Desinformation
 
 
 # q-59
 ;Algorithmic curation
-Algorithmic curation
+Zusammenstellung durch Algorithmen
 
 
 # q-60
 ;Fake News
-Fake News
+Fake News {ok}
 
 
 # q-61
 ;Targeted Advertising
-Targeted Advertising
+Zielgerichtete Werbung
 
 
 # q-62
 ;Clickbait
-Clickbait
+Klickköder
 
 
 # q-6
 ;Do you think thwarting the spread of misinformation online is possible?
-Do you think thwarting the spread of misinformation online is possible?
+Halten Sie es für möglich, die Verbreitung von Fehlinformationen im Internet zu verhindern?
 
 
 # q-33
 ;Whose job do you think it is to tackle misinformation? Rank these in order of responsibility ( 1 = most responsible, 6 = least responsible):
-Whose job do you think it is to tackle misinformation? Rank these in order of responsibility ( 1 = most responsible, 6 = least responsible):
+Wessen Aufgabe ist es Ihrer Meinung nach, Falschinformationen zu bekämpfen? Ordnen Sie diese in der Reihenfolge ihrer Verantwortung (1 = am meisten verantwortlich, 6 = am wenigsten verantwortlich):
 
 
 # q-33-o-10217
 # q-18-o-10033
 ;Governments
-Governments
+Regierungen
 
 
 # q-33-o-10217
 # q-18-o-10034
 ;Civil society (e.g. nonprofits, universities)
-Civil society (e.g. nonprofits, universities)
+Zivilgesellschaft (z.&thinsp;B. gemeinnützige Organisationen, Universitäten)
 
 
 # q-33-o-10219
 # q-18-o-10035
 ;Individual internet users
-Individual internet users
+Einzelne Internetbenutzer
 
 
 # q-33-o-10220
 # q-18-o-10036
 ;Commercial internet platforms (e.g. Facebook, Google, Twitter)
-Commercial internet platforms (e.g. Facebook, Google, Twitter)
+Kommerzielle Internetplattformen (z.&thinsp;B. Facebook, Google, Twitter)
 
 
 # q-33-o-10229
 ;Press/journalists
-Press/journalists
+Presse/Journalisten
 
 
 # q-33-o-10221
 ;Other (write in "Comments" section below)
-Other (write in "Comments" section below)
+Andere (füllen Sie bitte das folgende „Kommentar“-Feld aus)
 
 
 # q-18
 ;Who do you think is best equipped to solve the misinformation problem?
-Who do you think is best equipped to solve the misinformation problem?
+Wer ist Ihrer Meinung nach am besten geeignet, das Problem der Fehlinformationen zu lösen?
 
 
 # q-18-o-10238
 ;Other - Write In
-Other - Write In
+Andere – bitte ausfüllen
 
 
 # q-19
 ;Do you agree or disagree with the following statements:
-Do you agree or disagree with the following statements:
+Stimmen Sie den folgenden Aussagen zu oder nicht zu:
 
 
 # q-42
 ;Data collected about me online benefits me.
-Data collected about me online benefits me.
+Daten, die über mich im Internet gesammelt wurden, bringen mir Vorteile.
 
 
 # q-43
 ;Data collected about my browsing habits can be used to target me with disinformation.
-Data collected about my browsing habits can be used to target me with disinformation.
+Daten, die über meine Surfgewohnheiten gesammelt wurden, können dazu verwendet werden, mich gezielt mit Desinformation anzusprechen.
 
 
 # q-44
 ;I feel like my online activity is being watched.
-I feel like my online activity is being watched.
+Ich habe das Gefühl, dass meine Online-Aktivitäten beobachtet werden.
 
 
 # q-45
 ;Having my data collected provides a benefit to society as a whole.
-Having my data collected provides a benefit to society as a whole.
+Wenn meine Daten gesammelt werden, kommt dies der gesamten Gesellschaft zugute.
 
 
 # q-46
 ;I am always asked for my consent before data is collected about me online.
-I am always asked for my consent before data is collected about me online.
+Ich werde immer um meine Einwilligung gebeten, bevor im Internet Daten über mich erhoben werden.
 
 
 # q-47
 ;I feel that I understand what data is being collected about me and who has access to it.
-I feel that I understand what data is being collected about me and who has access to it.
+Ich habe das Gefühl, dass ich verstehe, welche Daten über mich erhoben werden und wer Zugriff darauf hat.
 
 
 # q-48
 ;It’s OK for companies to buy or sell information about me or my interests.
-It’s OK for companies to buy or sell information about me or my interests.
+Ich bin einverstanden, dass Unternehmen Informationen über mich oder meine Interessen kaufen oder verkaufen.
 
 
 # q-49
 ;My trust in news and political information has decreased.
-My trust in news and political information has decreased.
+Mein Vertrauen in Nachrichten und politische Informationen hat nachgelassen.
 
 
 # q-49-o-10037
 ;Agree
-Agree
+Stimme zu
 
 
 # q-49-o-10038
 ;Disagree
-Disagree
+Stimme nicht zu
 
 
 # q-27
 ;What do you think would be useful to you to help tackle misinformation (select all that apply)?
-What do you think would be useful to you to help tackle misinformation (select all that apply)?
+Was ist Ihrer Meinung nach nützlich, um Falschinformationen zu bekämpfen (alle zutreffenden auswählen)?
 
 
 # q-27-o-10039
 ;Education – knowing how to spot misinformation.
-Education – knowing how to spot misinformation.
+Bildung – Wissen, wie man Falschinformationen erkennt.
 
 
 # q-27-o-10040
