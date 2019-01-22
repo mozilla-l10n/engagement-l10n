@@ -4,47 +4,47 @@
 # p-1
 # survey-title
 ;Mozilla’s survey on misinformation in the EU elections
-Mozilla’s survey on misinformation in the EU elections
+Questionnaire de Mozilla sur la mésinformation en vue des élections européennes
 
 
 # q-32
 ;Thank you for taking the time to answer these questions.  The anonymously gathered information from this survey will give us insight into our subscribers' knowledge of Misinformation issues, and thus help guide our campaigns for 2019.<br /><br />                    You must be 19 years of age or older to take part in this survey.<br /><br />                    We handle your information as described in the <a href="https://www.mozilla.org/privacy/websites/">Mozilla Privacy Policy</a>
-Thank you for taking the time to answer these questions.  The anonymously gathered information from this survey will give us insight into our subscribers' knowledge of Misinformation issues, and thus help guide our campaigns for 2019.<br /><br />                    You must be 19 years of age or older to take part in this survey.<br /><br />                    We handle your information as described in the <a href="https://www.mozilla.org/privacy/websites/">Mozilla Privacy Policy</a>
+Merci de prendre le temps de répondre à ces questions. Les informations recueillies anonymement dans ce questionnaire nous donneront un aperçu des connaissances de nos abonnés sur les problématiques de mésinformation, et guideront ainsi nos campagnes pour 2019. <br /> <br />                   Vous devez avoir 19 ans ou plus pour participer à ce questionnaire.<br /><br />                   Nous traitons vos informations tel que décrit dans la <a href="https://www.mozilla.org/privacy/websites/">Politique de confidentialité de Mozilla</a>.
 
 
 # q-3
 ;<span>How concerned are you with online *misinformation and **disinformation?<br /><br />*Misinformation refers to false or misleading information presented as truth that’s shared mistakenly by people who are unaware that it’s false.<br />**Disinformation refers to false, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit.</span>
-<span>How concerned are you with online *misinformation and **disinformation?<br /><br />*Misinformation refers to false or misleading information presented as truth that’s shared mistakenly by people who are unaware that it’s false.<br />**Disinformation refers to false, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit.</span>
+<span>Dans quelle mesure la mésinformation* et la désinformation** en ligne vous préoccupent-elles ? <br /> <br />* La mésinformation fait référence aux informations fausses ou trompeuses présentées comme des vérités et partagées par erreur par des personnes qui n’ont pas conscience que ces informations sont fausses.<br />** La désinformation fait référence à des informations fausses, inexactes ou trompeuses qui sont conçues, présentées et diffusées de manière à causer intentionnellement un préjudice d’ordre public ou à en tirer des bénéfices financiers.</span>
 
 
 # q-3-o-10003
 ;Not at all concerned
-Not at all concerned
+Pas du tout préoccupé·e
 
 
 # q-3-o-10004
 ;Slightly concerned
-Slightly concerned
+Peu préoccupé·e
 
 
 # q-3-o-10005
 ;Moderately concerned
-Moderately concerned
+Moyennement préoccupé·e
 
 
 # q-3-o-10233
 ;Very concerned
-Very concerned
+Très préoccupé·e
 
 
 # q-3-o-10234
 ;Extremely concerned
-Extremely concerned
+Extrêmement préoccupé·e
 
 
 # q-4
 ;Do you think you have seen misinformation while using the internet in the last week?
-Do you think you have seen misinformation while using the internet in the last week?
+Pensez-vous avoir vu de la mésinformation sur Internet au cours des 7 derniers jours ?
 
 
 # q-4-o-10006
@@ -87,7 +87,7 @@ La désinformation
 
 # q-59
 ;Algorithmic curation
-Algorithmic curation
+La curation par algorithme
 
 
 # q-60
@@ -107,12 +107,12 @@ Les pièges à clics (Clickbait)
 
 # q-6
 ;Do you think thwarting the spread of misinformation online is possible?
-Do you think thwarting the spread of misinformation online is possible?
+Pensez-vous qu’il est possible d’empêcher la propagation de la mésinformation en ligne ?
 
 
 # q-33
 ;Whose job do you think it is to tackle misinformation? Rank these in order of responsibility ( 1 = most responsible, 6 = least responsible):
-Whose job do you think it is to tackle misinformation? Rank these in order of responsibility ( 1 = most responsible, 6 = least responsible):
+À qui selon vous il incombe de se charger du problème de la mésinformation ? Classez-les par ordre de responsabilité (1 = le plus responsable, 6 = le moins responsable) 
 
 
 # q-33-o-10217
@@ -221,32 +221,32 @@ Selon vous, qu’est-ce qui vous serait utile pour lutter contre la mésinformat
 
 # q-27-o-10039
 ;Education – knowing how to spot misinformation.
-Education – knowing how to spot misinformation.
+De la pédagogie : apprendre à repérer la mésinformation.
 
 
 # q-27-o-10040
 ;Tools – things that help me spot misinformation.
-Tools – things that help me spot misinformation.
+Des outils : pour me permettre de repérer la mésinformation.
 
 
 # q-27-o-10041
 ;Fact-checking – other people seeing. misinformation and correcting it.
-Fact-checking – other people seeing. misinformation and correcting it.
+De la vérification de faits (fact-checking) : d’autres personnes constatent la mésinformation et la corrigent.
 
 
 # q-27-o-10042
 ;System changes – companies or governments make changes so I’m less exposed to it.
-System changes – companies or governments make changes so I’m less exposed to it.
+Des modifications du système : des entreprises ou des gouvernements apportent des changements afin que j’y sois moins exposé·e.
 
 
 # q-27-o-10230
 ;System changes by companies – companies make changes so I’m less exposed to it.
-System changes by companies – companies make changes so I’m less exposed to it.
+Des modifications du système par des entreprises : des entreprises apportent des changements afin que j’y sois moins exposé·e.
 
 
 # q-27-o-10231
 ;System changes by governments – governments make changes so I’m less exposed to it.
-System changes by governments – governments make changes so I’m less exposed to it.
+Des modifications du système par des gouvernements : des gouvernements apportent des changements afin que j’y sois moins exposé·e.
 
 
 # q-27-o-10232
@@ -271,7 +271,7 @@ Je la maîtrise un peu
 
 # q-28-o-10045
 ;Moderately savvy
-Moderately savvy
+Je la maîtrise moyennement
 
 
 # q-28-o-10046
@@ -326,22 +326,22 @@ Où résidez-vous ?
 
 # q-31
 ;What is your gender?
-What is your gender?
+Quel est votre sexe ?
 
 
 # q-31-o-10214
 ;Female
-Female
+Féminin
 
 
 # q-31-o-10215
 ;Male
-Male
+Masculin
 
 
 # q-31-o-10216
 ;Neither describe me
-Neither describe me
+Aucun des deux ne me correspond
 
 
 # p-2
@@ -351,7 +351,7 @@ Merci !
 
 # q-1
 ;Thank you for taking our survey. Your response is very important to us.
-Thank you for taking our survey. Your response is very important to us.
+Merci d’avoir répondu à notre questionnaire. Nous accordons la plus grande importance à vos avis.
 
 
 # selectone
