@@ -2,7 +2,7 @@
 
 
 ;First name
-First name
+Nombre
 
 
 ;Please enter your given name(s)
@@ -10,7 +10,7 @@ Please enter your given name(s)
 
 
 ;Last name
-Last name
+Apellido
 
 
 ;Please enter your surname
@@ -18,35 +18,35 @@ Please enter your surname
 
 
 ;Email address
-Email address
+Dirección de correo electrónico
 
 
 ;Please enter your email
-Please enter your email
+Introduce tu correo electrónico
 
 
 ;Your country
-Your country
+País
 
 
 ;Please enter your country
-Please enter your country
+Introduce tu país
 
 
 ;Postal code
-Postal code
+Código postal
 
 
 ;Please enter your postal code
-Please enter your postal code
+Introduce tu código postal
 
 
 ;Comment
-Comment
+Comentario
 
 
 ;Please include a comment
-Please include a comment
+Por favor, escribe un comentario
 
 
 ;Something went wrong. Please check your email address and try again
