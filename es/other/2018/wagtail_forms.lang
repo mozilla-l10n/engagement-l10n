@@ -6,7 +6,7 @@ Nombre
 
 
 ;Please enter your given name(s)
-Please enter your given name(s)
+Introduce tu nombre
 
 
 ;Last name
@@ -14,7 +14,7 @@ Apellido
 
 
 ;Please enter your surname
-Please enter your surname
+Introduce tu apellido
 
 
 ;Email address
@@ -50,7 +50,7 @@ Por favor, escribe un comentario
 
 
 ;Something went wrong. Please check your email address and try again
-Something went wrong. Please check your email address and try again
+Algo fue mal. Comprueba tu dirección de correo y vuelve a intentarlo
 
 
 ;I'm okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Notice</a>
@@ -58,15 +58,15 @@ I'm okay with Mozilla handling my info as explained in this <a href="https://www
 
 
 ;Please check this box if you want to proceed
-Please check this box if you want to proceed
+Marca esta casilla si quieres continuar
 
 
 ;Yes, I want to receive email updates about Mozilla’s campaigns.
-Yes, I want to receive email updates about Mozilla’s campaigns.
+Sí, quiero recibir actualizaciones sobre las campañas de Mozilla.
 
 
 # Sign petition button
 ;Add my name
-Add my name
+Añadir mi nombre
 
 
