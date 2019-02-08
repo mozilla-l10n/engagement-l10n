@@ -57,6 +57,10 @@ Coś się nie powiodło. Proszę sprawdzić poprawność adresu e-mail i sprób
 Pozwalam Mozilli wykorzystywać te informacje w sposób opisany w <a href="https://www.mozilla.org/privacy/websites/">zasadach ochrony prywatności</a>.
 
 
+;I give permission to reprint my first name and last initial, e.g. in a newspaper ad or blog post. (Jane Smith would be published as "Jane S")
+I give permission to reprint my first name and last initial, e.g. in a newspaper ad or blog post. (Jane Smith would be published as "Jane S")
+
+
 ;Please check this box if you want to proceed
 Proszę zaznaczyć to pole, aby kontynuować
 
@@ -68,5 +72,25 @@ Tak, chcę otrzymywać wiadomości o kampaniach Mozilli.
 # Sign petition button
 ;Add my name
 Podpisz
+
+
+# Fundraising modal, header
+;Thanks for signing! While you're here, we need your help.
+Thanks for signing! While you're here, we need your help.
+
+
+# Fundraising modal, body
+;With a unique global reach and deep respect for our supporters' privacy, Mozilla fights for a healthy internet — where privacy is included by default and you have more control over your personal information. As a non-profit, we depend on donations from people like you to carry out these campaigns. Can you donate today?
+With a unique global reach and deep respect for our supporters' privacy, Mozilla fights for a healthy internet — where privacy is included by default and you have more control over your personal information. As a non-profit, we depend on donations from people like you to carry out these campaigns. Can you donate today?
+
+
+# Fundraising modal, button
+;Yes, I'll chip in
+Yes, I'll chip in
+
+
+# Fundraising modal, button
+;No, I'll share instead
+No, I'll share instead
 
 
