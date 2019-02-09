@@ -54,11 +54,11 @@ Algo fue mal. Comprueba tu dirección de correo y vuelve a intentarlo
 
 
 ;I'm okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Notice</a>
-I'm okay with Mozilla handling my info as explained in this <a href="https://www.mozilla.org/privacy/websites/">Privacy Notice</a>
+Estoy de acuerdo con la gestión de mi información, tal y como se explica en este <a href="https://www.mozilla.org/privacy/websites/">Aviso de privacidad</a>
 
 
 ;I give permission to reprint my first name and last initial, e.g. in a newspaper ad or blog post. (Jane Smith would be published as "Jane S")
-I give permission to reprint my first name and last initial, e.g. in a newspaper ad or blog post. (Jane Smith would be published as "Jane S")
+Doy permiso para publicar mi nombre y la primera letra de mi apellido; por ejemplo, en un anuncio del periódico o en una publicación de blog (Jane Smith se publicaría como "Jane S")
 
 
 ;Please check this box if you want to proceed
@@ -76,21 +76,21 @@ Añadir mi nombre
 
 # Fundraising modal, header
 ;Thanks for signing! While you're here, we need your help.
-Thanks for signing! While you're here, we need your help.
+¡Gracias por firmar! Mientras sigues por aquí, necesitamos tu ayuda.
 
 
 # Fundraising modal, body
 ;With a unique global reach and deep respect for our supporters' privacy, Mozilla fights for a healthy internet — where privacy is included by default and you have more control over your personal information. As a non-profit, we depend on donations from people like you to carry out these campaigns. Can you donate today?
-With a unique global reach and deep respect for our supporters' privacy, Mozilla fights for a healthy internet — where privacy is included by default and you have more control over your personal information. As a non-profit, we depend on donations from people like you to carry out these campaigns. Can you donate today?
+Con un alcance global único y un profundo respeto por la privacidad de nuestros usuarios, Mozilla lucha por un Internet saludable, donde la privacidad sea predeterminada y tengas más control sobre tu información personal. Como organización sin fines de lucro, dependemos de las donaciones de gente como tú para poder realizar estas campañas. ¿Puedes donar hoy?
 
 
 # Fundraising modal, button
 ;Yes, I'll chip in
-Yes, I'll chip in
+Sí, quiero donar
 
 
 # Fundraising modal, button
 ;No, I'll share instead
-No, I'll share instead
+No, lo compartiré
 
 
