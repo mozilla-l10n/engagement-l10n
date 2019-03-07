@@ -2,146 +2,146 @@
 
 
 ;(Receipt) We can’t say this enough…
-(Receipt) We can’t say this enough…
+(Quittung) Wir können das nicht oft genug sagen…
 
 
 ;(Receipt) We can’t say this enough… thanks for your recurring donation!
-(Receipt) We can’t say this enough… thanks for your recurring donation!
+(Quittung) Wir können das nicht oft genug sagen… vielen Dank für Ihre wiederholte Spende!
 
 
 ;From everyone here at Mozilla, thank you!
-From everyone here at Mozilla, thank you!
+Von allen hier bei Mozilla, vielen Dank!
 
 
 # Image alt tag
 ;From the Thunderbird team, thank you!!
-From the Thunderbird team, thank you!!
+Vielen Dank vom Thunderbird-Team!!
 
 
 # Image alt tag
 ;From the staff and fellows at Mozilla, thank you!!
-From the staff and fellows at Mozilla, thank you!!
+Vielen Dank von den Mitarbeitern und Kollegen bei Mozilla!!
 
 
 ;Dear Friend,
-Dear Friend,
+Lieber Freund,
 
 
 ;Dear [FirstName],
-Dear [FirstName],
+Guten Tag [FirstName],
 
 
 ;Thank you. Thank you! <strong>THANK YOU!</strong>
-Thank you. Thank you! <strong>THANK YOU!</strong>
+vielen Dank. Vielen Dank! <strong>VIELEN DANK!</strong>
 
 
 ;Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
-Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
+Thunderbird ist das führende, quelloffene, plattformübergreifende E-Mail- und Kalenderprogramm. Mit Ihrer Spende haben Sie zur Produktentwicklung beigetragen und mit dafür gesorgt, dass Thunderbird frei und offen bleibt. Jede Spende ist wichtig.
 
 
 # Link goes to https://blog.mozilla.org/thunderbird/
 ;On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
-On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
+Wir alle danken Ihnen vielmals für Ihre Spende an Mozilla Thunderbird. Um mehr über die großartige Arbeit zu erfahren, die Sie mit Ihrer Spende unterstützen, besuchen Sie bitte unser <a>Thunderbird-Blog</a>.
 
 
 ;- The Thunderbird Team
-- The Thunderbird Team
+– Das Thunderbird-Team
 
 
 # “I” is Mark Surman here (he/him)
 ;Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
-Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
+Ja, ich schreie. Denn ich möchte, dass Sie wirklich verstehen, wie dankbar ich – und wir alle hier bei Mozilla – für Ihre kürzlich geleistete Spende sind. Wir wissen, dass Sie hart für Ihr Geld arbeiten und es bedeutet uns viel, dass Sie es uns im Vertrauen spenden, dass wir damit weise für ein gesünderes Internet kämpfen. Wir werden Sie nicht enttäuschen.
 
 
 # “I” is Mark Surman here (he/him)
 ;We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
-We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
+Wir werden Ihre Spende sinnvoll einsetzen, um das Internet und hoffentlich die Welt zu einem besseren Ort zu machen. Ich hoffe, dass Sie sich uns anschließen, da diese Arbeit ohne Sie nicht möglich ist. Um über die großartige Arbeit Ihrer Spende auf dem Laufenden zu bleiben, besuchen Sie bitte unsere <a> Website der Mozilla Foundation</a>.
 
 
 ;<strong>Thank you!</strong>
-<strong>Thank you!</strong>
+<strong>Vielen Dank!</strong>
 
 
 ;Sincerely,
-Sincerely,
+Beste Grüße
 
 
 ;Mark Surman and all of us at Mozilla
-Mark Surman and all of us at Mozilla
+Mark Surman und alle hier bei Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
-P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
+PS: Sie können sich über die tolle Arbeit informieren, die Sie mit Ihrer Spende unterstützen – <strong>und</strong> neue Informationen über Ihr Online-Leben erfahren – indem Sie unsere informativen Mozilla-Newsletter <a>abonnieren</a>.
 
 
 ;Donation Receipt for your records
-Donation Receipt for your records
+Spendenquittung für Ihre Unterlagen
 
 
 # Final string will read like “Donation Amount: 25.00 USD”
 ;Donation Amount: {amount} {currency}
-Donation Amount: {amount} {currency}
+Spendenbetrag: {amount} {currency}
 
 
 ;Donation Date: {date} UTC
-Donation Date: {date} UTC
+Spendendatum: {date} UTC
 
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+tt/mm/jjjj
 
 
 ;Donation frequency:
-Donation frequency:
+Spendenhäufigkeit:
 
 
 ;One-Time
-One-Time
+Einmalig
 
 
 ;Recurring
-Recurring
+Wiederkehrend
 
 
 # Payment method (Credit Card or PayPal)
 ;Via:
-Via:
+Per:
 
 
 ;Credit Card
-Credit Card
+Kreditkarte
 
 
 # Credit card last 4 digits
 ;Card ending in:
-Card ending in:
+Karte endet auf:
 
 
 # Donor email address
 ;Received from:
-Received from:
+Erhalten von:
 
 
 ;Transaction ID:
-Transaction ID:
+Transaktions-ID:
 
 
 ;Thanks again for your donation.
-Thanks again for your donation.
+Nochmals vielen Dank für Ihre Spende.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Sie haben der Mozilla Foundation die Erlaubnis erteilt, PayPal-Zahlungen monatlich (an diesem {nth} Tag des Monats) bis zur Kündigung in der oben angegebenen Höhe abzuheben.
 
 
 ;You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Sie haben der Mozilla Foundation die Erlaubnis erteilt, Ihre Karte monatlich (an diesem {nth} Tag des Monats) automatisch bis zur Kündigung mit dem oben angegebenen Betrag zu belasten.
 
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
 ;1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
-1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
+1.|2.|3.|4.|5.|6.|7.|8.|9.|10.|11.|12.|13.|14.|15.|16.|17.|18.|19.|19.|20.|21.|23.|24.|25.|26.|27.|28.|29.|30.|31.
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
