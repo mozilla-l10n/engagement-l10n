@@ -101,7 +101,7 @@ Uma vez
 
 
 ;Recurring
-Recurring
+Periodicamente
 
 
 # Payment method (Credit Card or PayPal)
@@ -132,11 +132,11 @@ Obrigado novamente por sua doação.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Você autorizou a Fundação Mozilla a retirar pagamentos do PayPal mensalmente (no {nth} dia do mês) com o valor exibido acima, até você cancelar.
 
 
 ;You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Você autorizou a Fundação Mozilla a cobrar automaticamente seu cartão mensalmente (no {nth} dia do mês) com o valor exibido acima, até você cancelar.
 
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
@@ -145,15 +145,15 @@ You have authorized Mozilla Foundation to automatically charge your card on a mo
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
-To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
+Para alterar ou cancelar esta doação periódica, entre na sua conta do PayPal até um dia antes do próximo pagamento agendado. Vá em suas configurações (ícone de engrenagem) e clique em “Pagamentos”. Você pode atualizar ou cancelar suas doações na seção “Meus pagamentos pré-aprovados”.
 
 
 ;To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
-To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
+Para alterar ou cancelar esta doação periódica, envie-nos uma mensagem para donate@mozilla.org pelo menos 5 dias antes do próximo pagamento agendado.
 
 
 ;Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
-Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
+Tem alguma dúvida? As perguntas mais comuns estão respondidas em <a>nosso FAQ de doadores</a>.
 
 
 ;Mozilla is happy to refund your donation at any time up to 12 months after the date of the donation. Please just drop us a note at donate@mozilla.org to request a refund.
