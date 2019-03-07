@@ -10,12 +10,12 @@
 
 
 ;From everyone here at Mozilla, thank you!
-From everyone here at Mozilla, thank you!
+De todos nós aqui na Mozilla, obrigado!
 
 
 # Image alt tag
 ;From the Thunderbird team, thank you!!
-From the Thunderbird team, thank you!!
+Da equipe do Thunderbird, obrigado!!
 
 
 # Image alt tag
@@ -24,15 +24,15 @@ From the staff and fellows at Mozilla, thank you!!
 
 
 ;Dear Friend,
-Dear Friend,
+Prezado(a) amigo(a),
 
 
 ;Dear [FirstName],
-Dear [FirstName],
+Prezado(a) [FirstName],
 
 
 ;Thank you. Thank you! <strong>THANK YOU!</strong>
-Thank you. Thank you! <strong>THANK YOU!</strong>
+Obrigado. Obrigado! <strong>OBRIGADO!</strong>
 
 
 ;Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
@@ -45,7 +45,7 @@ On behalf of all of us, thank you so much for your donation to Thunderbird. To s
 
 
 ;- The Thunderbird Team
-- The Thunderbird Team
+- A equipe do Thunderbird
 
 
 # “I” is Mark Surman here (he/him)
@@ -59,15 +59,15 @@ We’ll put your donation to good use working to make the internet, and hopefull
 
 
 ;<strong>Thank you!</strong>
-<strong>Thank you!</strong>
+<strong>Obrigado!</strong>
 
 
 ;Sincerely,
-Sincerely,
+Atenciosamente,
 
 
 ;Mark Surman and all of us at Mozilla
-Mark Surman and all of us at Mozilla
+Mark Surman e todos nós da Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
@@ -75,29 +75,29 @@ P.S. You can also keep up with the great work your donation supports — <strong
 
 
 ;Donation Receipt for your records
-Donation Receipt for your records
+Recibo de doação para seu controle
 
 
 # Final string will read like “Donation Amount: 25.00 USD”
 ;Donation Amount: {amount} {currency}
-Donation Amount: {amount} {currency}
+Valor da doação: {amount} {currency}
 
 
 ;Donation Date: {date} UTC
-Donation Date: {date} UTC
+Data da doação: {date} UTC
 
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+dd/mm/yyyy {ok}
 
 
 ;Donation frequency:
-Donation frequency:
+Frequência de doação:
 
 
 ;One-Time
-One-Time
+Uma vez
 
 
 ;Recurring
@@ -106,29 +106,29 @@ Recurring
 
 # Payment method (Credit Card or PayPal)
 ;Via:
-Via:
+Via: {ok}
 
 
 ;Credit Card
-Credit Card
+Cartão de crédito
 
 
 # Credit card last 4 digits
 ;Card ending in:
-Card ending in:
+Cartão terminando com:
 
 
 # Donor email address
 ;Received from:
-Received from:
+Recebido de:
 
 
 ;Transaction ID:
-Transaction ID:
+ID da transação:
 
 
 ;Thanks again for your donation.
-Thanks again for your donation.
+Obrigado novamente por sua doação.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
@@ -141,7 +141,7 @@ You have authorized Mozilla Foundation to automatically charge your card on a mo
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
 ;1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
-1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
+1º|2º|3º|4º|5º|6º|7º|8º|9º|10º|11º|12º|13º|14º|15º|16º|17º|18º|19º|20º|21º|22º|23º|24º|25º|26º|27º|28º|29º|30º|31º
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
@@ -161,7 +161,7 @@ Mozilla is happy to refund your donation at any time up to 12 months after the d
 
 
 ;If you still need help, please send an email to us at donate@mozilla.org.
-If you still need help, please send an email to us at donate@mozilla.org.
+Se ainda precisa de ajuda, nos envie um e-mail para donate@mozilla.org.
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
