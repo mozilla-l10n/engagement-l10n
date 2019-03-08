@@ -89,7 +89,7 @@ Donation Date: {date} UTC
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+dd/mm/yyyy {ok}
 
 
 ;Donation frequency:
