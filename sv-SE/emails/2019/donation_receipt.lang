@@ -2,11 +2,11 @@
 
 
 ;(Receipt) We can’t say this enough…
-(Receipt) We can’t say this enough…
+(Kvitto) Vi kan inte säga det tillräckligt ofta…
 
 
 ;(Receipt) We can’t say this enough… thanks for your recurring donation!
-(Receipt) We can’t say this enough… thanks for your recurring donation!
+(Kvitto) Vi kan inte säga det tillräckligt ofta… tack för din återkommande donation!
 
 
 ;From everyone here at Mozilla, thank you!
@@ -15,12 +15,12 @@ Från oss alla här på Mozilla, tack!
 
 # Image alt tag
 ;From the Thunderbird team, thank you!!
-From the Thunderbird team, thank you!!
+Från Thunderbird-teamet, tack!!
 
 
 # Image alt tag
 ;From the staff and fellows at Mozilla, thank you!!
-From the staff and fellows at Mozilla, thank you!!
+Från personal och medarbetare på Mozilla, tack!!
 
 
 ;Dear Friend,
@@ -36,16 +36,16 @@ Tack. Tack! <strong>TACK!</strong>
 
 
 ;Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
-Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
+Thunderbird är den ledande e-post- och kalenderklienten med öppen källkod. Genom att donera har du bidragit till produktutveckling och hjälpt till att säkerställa att Thunderbird förblir gratis och öppet. Varje gåva är viktig.
 
 
 # Link goes to https://blog.mozilla.org/thunderbird/
 ;On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
-On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
+Från oss all, tack så mycket för din donation till Thunderbird. För att hålla dig informerad om allt det stora arbetet som din donation stöder, besök vår <a>Thunderbird-blogg.</a>
 
 
 ;- The Thunderbird Team
-- The Thunderbird Team
+- Thunderbird-teamet
 
 
 # “I” is Mark Surman here (he/him)
@@ -59,15 +59,15 @@ We’ll put your donation to good use working to make the internet, and hopefull
 
 
 ;<strong>Thank you!</strong>
-<strong>Thank you!</strong>
+<strong>Tack!</strong>
 
 
 ;Sincerely,
-Sincerely,
+Vänliga hälsningar,
 
 
 ;Mark Surman and all of us at Mozilla
-Mark Surman and all of us at Mozilla
+Mark Surman och alla oss på Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
@@ -75,60 +75,60 @@ P.S. You can also keep up with the great work your donation supports — <strong
 
 
 ;Donation Receipt for your records
-Donation Receipt for your records
+Donationskvitto för din bokföring
 
 
 # Final string will read like “Donation Amount: 25.00 USD”
 ;Donation Amount: {amount} {currency}
-Donation Amount: {amount} {currency}
+Bidragsbelopp: {amount} {currency}
 
 
 ;Donation Date: {date} UTC
-Donation Date: {date} UTC
+Donationsdatum: {date} UTC
 
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+dd/mm/yyyy {ok}
 
 
 ;Donation frequency:
-Donation frequency:
+Donationsfrekvens:
 
 
 ;One-Time
-One-Time
+Engångs
 
 
 ;Recurring
-Recurring
+Återkommande
 
 
 # Payment method (Credit Card or PayPal)
 ;Via:
-Via:
+Via: {ok}
 
 
 ;Credit Card
-Credit Card
+Kreditkort
 
 
 # Credit card last 4 digits
 ;Card ending in:
-Card ending in:
+Kort upphör:
 
 
 # Donor email address
 ;Received from:
-Received from:
+Mottaget från:
 
 
 ;Transaction ID:
-Transaction ID:
+Transaktions-ID:
 
 
 ;Thanks again for your donation.
-Thanks again for your donation.
+Tack igen för din donation.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
@@ -161,7 +161,7 @@ Mozilla is happy to refund your donation at any time up to 12 months after the d
 
 
 ;If you still need help, please send an email to us at donate@mozilla.org.
-If you still need help, please send an email to us at donate@mozilla.org.
+Om du fortfarande behöver hjälp, skicka ett mejl till oss på donate@mozilla.org.
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
