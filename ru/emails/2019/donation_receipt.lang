@@ -2,133 +2,133 @@
 
 
 ;(Receipt) We can’t say this enough…
-(Receipt) We can’t say this enough…
+(Чек) Мы не можем выразить это словами…
 
 
 ;(Receipt) We can’t say this enough… thanks for your recurring donation!
-(Receipt) We can’t say this enough… thanks for your recurring donation!
+(Чек) Мы не можем выразить это словами… спасибо за ваши периодические пожертвования!
 
 
 ;From everyone here at Mozilla, thank you!
-From everyone here at Mozilla, thank you!
+Спасибо от каждого здесь, в Mozilla!
 
 
 # Image alt tag
 ;From the Thunderbird team, thank you!!
-From the Thunderbird team, thank you!!
+Спасибо от команды Thunderbird!!
 
 
 # Image alt tag
 ;From the staff and fellows at Mozilla, thank you!!
-From the staff and fellows at Mozilla, thank you!!
+Спасибо от сотрудников и сообщества Mozilla!!
 
 
 ;Dear Friend,
-Dear Friend,
+Здравствуйте,
 
 
 ;Dear [FirstName],
-Dear [FirstName],
+Уважаемый [FirstName],
 
 
 ;Thank you. Thank you! <strong>THANK YOU!</strong>
-Thank you. Thank you! <strong>THANK YOU!</strong>
+Спасибо. Спасибо! <strong>СПАСИБО ВАМ!</strong>
 
 
 ;Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
-Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
+Thunderbird — ведущий кроссплатформенный клиент электронной почты и календаря с открытым исходным кодом. Внеся пожертвование, вы поддержите его дальнейшую разработку и позволите Thunderbird оставаться бесплатным и открытым. Каждый взнос очень важен.
 
 
 # Link goes to https://blog.mozilla.org/thunderbird/
 ;On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
-On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
+От имени всех нас, большое спасибо за ваше пожертвование Thunderbird. Чтобы быть в курсе всей большой работы, которую поддерживают ваши пожертвования, посещайте наш <a>блог Thunderbird.</a>
 
 
 ;- The Thunderbird Team
-- The Thunderbird Team
+- Команда Thunderbird
 
 
 # “I” is Mark Surman here (he/him)
 ;Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
-Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
+Да, я кричу. Потому что я очень, очень хочу, чтобы вы услышали, как я вам благодарен — все мы здесь, в Mozilla — за ваше недавнее пожертвование. Мы понимаем, что вы много работаете, чтобы заработать свои деньги, и жертвуя их, вы доверяете нам, что мы будем использовать их с умом, чтобы бороться за здоровый Интернет. Это много для нас значит и мы вас не подведём.
 
 
 # “I” is Mark Surman here (he/him)
 ;We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
-We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
+Мы сделаем всё возможное, чтобы ваше пожертвование помогло сделать Интернет, и, надеюсь, мир, лучше. Я надеюсь, что вы присоединитесь к нам, поскольку мы не сможем сделать эту работу без вас. Чтобы быть в курсе всей той замечательной работы, которую поддерживает ваше пожертвование, посетите <a>веб-сайт Mozilla Foundation</a>.
 
 
 ;<strong>Thank you!</strong>
-<strong>Thank you!</strong>
+<strong>Спасибо!</strong>
 
 
 ;Sincerely,
-Sincerely,
+С уважением,
 
 
 ;Mark Surman and all of us at Mozilla
-Mark Surman and all of us at Mozilla
+Mark Surman и каждый из нас в Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
-P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
+P. S. Вы также можете следить за работой, которую помогает осуществлять ваше пожертвование — <strong>и</strong> узнать больше о вашей жизни в Интернете — <a>подписавшись</a> на новостную рассылку Mozilla.
 
 
 ;Donation Receipt for your records
-Donation Receipt for your records
+Чек пожертвования для учёта
 
 
 # Final string will read like “Donation Amount: 25.00 USD”
 ;Donation Amount: {amount} {currency}
-Donation Amount: {amount} {currency}
+Сумма пожертвования: {amount} {currency}
 
 
 ;Donation Date: {date} UTC
-Donation Date: {date} UTC
+Дата пожертвования: {date} UTC
 
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+dd/mm/yyyy {ok}
 
 
 ;Donation frequency:
-Donation frequency:
+Частота пожертвований:
 
 
 ;One-Time
-One-Time
+Единовременно
 
 
 ;Recurring
-Recurring
+Периодически
 
 
 # Payment method (Credit Card or PayPal)
 ;Via:
-Via:
+Способ платежа:
 
 
 ;Credit Card
-Credit Card
+Банковская карта
 
 
 # Credit card last 4 digits
 ;Card ending in:
-Card ending in:
+Срок действия карты:
 
 
 # Donor email address
 ;Received from:
-Received from:
+Получено от:
 
 
 ;Transaction ID:
-Transaction ID:
+ID транзакции:
 
 
 ;Thanks again for your donation.
-Thanks again for your donation.
+Ещё раз спасибо за ваше пожертвование.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
