@@ -132,32 +132,32 @@ Tack igen för din donation.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Du har gett Mozilla Foundation rätt att ta ut PayPal-betalningar månadsvis (den {nth} dagen i månaden) med det belopp som visas ovan tills du avbryter.
 
 
 ;You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Du har gett Mozilla Foundation rätt att automatiskt dra pengar från ditt kort varje månad (den {nth} dagen i månaden) med det belopp som visas ovan tills du avbryter.
 
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
 ;1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
-1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
+1:a|2:a|3:e|4:e|5:e|6:e|7:e|8:e|9:e|10:e|11:e|12:e|13:e|14:e|15:e|16:e|17:e|18:e|19:e|20:e|21:a|22:a|23:e|24:e|25:e|26:e|27:e|28:e|29:e|30:e|31:a
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
-To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
+För att ändra eller avbryta denna återkommande donation, logga in på ditt PayPal-konto fram till dagen före nästa schemalagda betalning. Gå till dina inställningar (kugghjulet) och klicka på "Betalningar." Du kan uppdatera eller avbryta din donation i avsnittet "Mina godkända betalningar".
 
 
 ;To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
-To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
+För att ändra eller avbryta den här återkommande donationen, var god och skicka ett meddelande till donate@mozilla.org minst 5 dagar före nästa planerade betalning.
 
 
 ;Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
-Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
+Har du en fråga? De vanligaste frågorna besvaras i <a>vår FAQ om donationer.</a>
 
 
 ;Mozilla is happy to refund your donation at any time up to 12 months after the date of the donation. Please just drop us a note at donate@mozilla.org to request a refund.
-Mozilla is happy to refund your donation at any time up to 12 months after the date of the donation. Please just drop us a note at donate@mozilla.org to request a refund.
+Mozilla ger gärna tillbaka din donation när som helst upp till 12 månader efter donationsdatumet. Var snäll och skicka ett meddelande till donate@mozilla.org för att begära återbetalning.
 
 
 ;If you still need help, please send an email to us at donate@mozilla.org.
@@ -165,14 +165,14 @@ Om du fortfarande behöver hjälp, skicka ett mejl till oss på donate@mozilla.o
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
-Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
+Bidrag går till stiftelsen Mozilla, en 501(c)(3) organisation med säte i Mountain View, Kalifornien, för att stödja Thunderbird. Mozilla förbehåller sig rätten att hitta en annan användning för pengarna om de tycker att Thunderbird inte längre främjar Mozillas uppdrag.
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes.
-Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes.
+Bidrag går till Mozilla Foundation, en 501(c)(3) organisation med säte i Mountain View, Kalifornien, för att användas efter eget gottfinnande för sina välgörande ändamål.
 
 
 ;They are tax-deductible in the U.S. to the fullest extent permitted by law. Mozilla did not provide any goods or services in return for this donation. Mozilla Foundation’s Tax ID is 20-0097189.
-They are tax-deductible in the U.S. to the fullest extent permitted by law. Mozilla did not provide any goods or services in return for this donation. Mozilla Foundation’s Tax ID is 20-0097189.
+De är avdragsgilla i USA i den utsträckning som tillåts enligt lag. Mozilla lämnar inga varor eller tjänster till gengäld för denna donation. Mozilla Foundation's Tax-ID är 20-0097189.
 
 
