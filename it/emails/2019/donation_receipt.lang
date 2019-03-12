@@ -59,7 +59,7 @@ We’ll put your donation to good use working to make the internet, and hopefull
 
 
 ;<strong>Thank you!</strong>
-<strong>Thank you!</strong>
+<strong>Grazie!</strong>
 
 
 ;Sincerely,
@@ -67,7 +67,7 @@ Sincerely,
 
 
 ;Mark Surman and all of us at Mozilla
-Mark Surman and all of us at Mozilla
+Mark Surman e tutti noi di Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
@@ -80,11 +80,11 @@ Donation Receipt for your records
 
 # Final string will read like “Donation Amount: 25.00 USD”
 ;Donation Amount: {amount} {currency}
-Donation Amount: {amount} {currency}
+Importo della donazione: {amount} {currency}
 
 
 ;Donation Date: {date} UTC
-Donation Date: {date} UTC
+Data della donazione: {date} UTC
 
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
@@ -93,42 +93,42 @@ dd/mm/yyyy
 
 
 ;Donation frequency:
-Donation frequency:
+Frequenza della donazione:
 
 
 ;One-Time
-One-Time
+Una tantum
 
 
 ;Recurring
-Recurring
+Periodica
 
 
 # Payment method (Credit Card or PayPal)
 ;Via:
-Via:
+Tramite:
 
 
 ;Credit Card
-Credit Card
+Carta di credito
 
 
 # Credit card last 4 digits
 ;Card ending in:
-Card ending in:
+Ultime 4 cifre della tua carta di credito:
 
 
 # Donor email address
 ;Received from:
-Received from:
+Ricevuta da:
 
 
 ;Transaction ID:
-Transaction ID:
+ID della transazione:
 
 
 ;Thanks again for your donation.
-Thanks again for your donation.
+Grazie ancora per la tua donazione.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
