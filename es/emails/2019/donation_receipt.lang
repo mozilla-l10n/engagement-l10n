@@ -36,7 +36,7 @@ Gracias ¡Gracias! <strong>¡GRACIAS!</strong>
 
 
 ;Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
-Thunderbird es el principal cliente de calendario y correo electrónico multiplataforma de código abierto. Al donar, has contribuido al desarrollo de productos y ayudado a garantizar que Thunderbird se mantenga libre y abierto. Cada regalo es muy importante.
+Thunderbird es el principal cliente de calendario y correo electrónico multiplataforma de código abierto. Al donar, has contribuido al desarrollo de productos y has ayudado a garantizar que Thunderbird se mantenga libre y abierto. Cada regalo es muy importante.
 
 
 # Link goes to https://blog.mozilla.org/thunderbird/
@@ -50,24 +50,24 @@ El equipo de Thunderbird
 
 # “I” is Mark Surman here (he/him)
 ;Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
-Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
+Sí, estoy gritando. Porque quiero que sepas lo agradecido que me siento (yo y todos los que formamos Mozilla) por tu reciente donación. Entendemos lo duro que es ganar dinero y significa mucho que confíes en nosotros para que lo usemos de la forma adecuada para luchar por un Internet sano. No te decepcionaremos.
 
 
 # “I” is Mark Surman here (he/him)
 ;We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
-We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
+Utilizaremos tu donación para seguir trabajando y conseguir que Internet, y esperemos que también el mundo, sea un lugar mejor. Espero que te unas a nosotros, porque no podremos conseguirlo sin ti. Para mantenerte al día de nuestros progresos gracias a tus donaciones, visita nuestra página web de la <a>Fundación Mozilla</a>.
 
 
 ;<strong>Thank you!</strong>
-<strong>Thank you!</strong>
+<strong>¡Gracias!</strong>
 
 
 ;Sincerely,
-Sincerely,
+Saludos,
 
 
 ;Mark Surman and all of us at Mozilla
-Mark Surman and all of us at Mozilla
+Mark Surman y todo el equipo de Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
@@ -80,55 +80,55 @@ Donation Receipt for your records
 
 # Final string will read like “Donation Amount: 25.00 USD”
 ;Donation Amount: {amount} {currency}
-Donation Amount: {amount} {currency}
+Cantidad donada: {amount} {currency}
 
 
 ;Donation Date: {date} UTC
-Donation Date: {date} UTC
+Fecha de la donación: {date} UTC
 
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+dd/mm/yyyy {ok}
 
 
 ;Donation frequency:
-Donation frequency:
+Frecuencia de la donación:
 
 
 ;One-Time
-One-Time
+Una vez
 
 
 ;Recurring
-Recurring
+Recurrente
 
 
 # Payment method (Credit Card or PayPal)
 ;Via:
-Via:
+Vía:
 
 
 ;Credit Card
-Credit Card
+Tarjeta de crédito
 
 
 # Credit card last 4 digits
 ;Card ending in:
-Card ending in:
+Tarjeta que finaliza por:
 
 
 # Donor email address
 ;Received from:
-Received from:
+Recibida el:
 
 
 ;Transaction ID:
-Transaction ID:
+ID de la transacción:
 
 
 ;Thanks again for your donation.
-Thanks again for your donation.
+Gracias otra vez por tu donación.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
@@ -136,7 +136,7 @@ You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly 
 
 
 ;You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Has autorizado a Mozilla el cargo automático en tu tarjeta de forma mensual (en este caso, el {nth} día del mes) de la cantidad indicada arriba hasta que lo canceles.
 
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
@@ -145,23 +145,23 @@ You have authorized Mozilla Foundation to automatically charge your card on a mo
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
-To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
+Para cambiar o cancelar esta donación recurrente, inicia sesión en tu cuenta de PayPal al menos un día antes de la fecha prevista del próximo pago. Ve a los Ajustes y haz clic en “Pagos”. Puedes actualizar o cancelar tu donación en la sección “Pagos automáticos”.
 
 
 ;To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
-To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
+Para cambiar o cancelar una donación recurrente, escríbenos a donate@mozilla.org al menos 5 días antes de la fecha prevista del próximo pago.
 
 
 ;Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
-Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
+¿Tienes alguna pregunta? Encontrarás las respuestas a las preguntas más comunes en <a>las FAQ</a>,
 
 
 ;Mozilla is happy to refund your donation at any time up to 12 months after the date of the donation. Please just drop us a note at donate@mozilla.org to request a refund.
-Mozilla is happy to refund your donation at any time up to 12 months after the date of the donation. Please just drop us a note at donate@mozilla.org to request a refund.
+Mozilla puede reembolsarte tu donación hasta 12 meses después de la fecha de la donación. Para solicitar un reembolso, escríbenos a donate@mozilla.org.
 
 
 ;If you still need help, please send an email to us at donate@mozilla.org.
-If you still need help, please send an email to us at donate@mozilla.org.
+Si necesitas ayuda, envíanos un correo a donate@mozilla.org.
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
