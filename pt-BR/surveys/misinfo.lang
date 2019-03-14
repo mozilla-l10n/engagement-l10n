@@ -67,7 +67,7 @@ Talvez
 
 # q-12
 ;How familiar are you with these terms? 1 = not at all familiar, 5 = very familiar
-How familiar are you with these terms? 1 = not at all familiar, 5 = very familiar
+O quão familiarizado você está com esses termos? 1 = nem um pouco, 5 = muito familiarizado
 
 
 # q-56
@@ -107,7 +107,7 @@ Clickbait
 
 # q-6
 ;Do you think thwarting the spread of misinformation online is possible?
-Do you think thwarting the spread of misinformation online is possible?
+Você acha que impedir a divulgação de desinformação online é possível?
 
 
 # q-33
@@ -166,22 +166,22 @@ Você concorda ou discorda das frases a seguir:
 
 # q-42
 ;Data collected about me online benefits me.
-Data collected about me online benefits me.
+Dados sobre mim coletados online me beneficiam.
 
 
 # q-43
 ;Data collected about my browsing habits can be used to target me with disinformation.
-Data collected about my browsing habits can be used to target me with disinformation.
+Dados coletados sobre meus hábitos de navegação podem ser usados para direcionar desinformação para mim.
 
 
 # q-44
 ;I feel like my online activity is being watched.
-I feel like my online activity is being watched.
+Eu sinto que minha atividade online está sendo vigiada.
 
 
 # q-45
 ;Having my data collected provides a benefit to society as a whole.
-Having my data collected provides a benefit to society as a whole.
+Ter meus dados coletados proporciona um benefício para a sociedade como um todo.
 
 
 # q-46
@@ -206,12 +206,12 @@ My trust in news and political information has decreased.
 
 # q-49-o-10037
 ;Agree
-Agree
+Concordo
 
 
 # q-49-o-10038
 ;Disagree
-Disagree
+Discordo
 
 
 # q-27
@@ -296,121 +296,121 @@ Which age bracket do you sit in?
 
 # q-29-o-10047
 ;19-35
-19-35
+19-35 {ok}
 
 
 # q-29-o-10048
 ;36-50
-36-50
+36-50 {ok}
 
 
 # q-29-o-10049
 ;51-65
-51-65
+51-65 {ok}
 
 
 # q-29-o-10050
 ;66-80
-66-80
+66-80 {ok}
 
 
 # q-29-o-10051
 ;81+
-81+
+81+ {ok}
 
 
 # q-30
 ;Where do you live?
-Where do you live?
+Onde você vive?
 
 
 # q-31
 ;What is your gender?
-What is your gender?
+Qual é o seu gênero?
 
 
 # q-31-o-10214
 ;Female
-Female
+Feminino
 
 
 # q-31-o-10215
 ;Male
-Male
+Masculino
 
 
 # q-31-o-10216
 ;Neither describe me
-Neither describe me
+Nenhum desses me descreve
 
 
 # p-2
 ;Thank You!
-Thank You!
+Obrigado!
 
 
 # q-1
 ;Thank you for taking our survey. Your response is very important to us.
-Thank you for taking our survey. Your response is very important to us.
+Obrigado por participar de nossa pesquisa. Suas respostas são muito importantes para nós.
 
 
 # selectone
 ;-- Please Select --
--- Please Select --
+-- Selecione --
 
 
 # next_button
 ;Next
-Next
+Avançar
 
 
 # back_button
 ;Back
-Back
+Voltar
 
 
 # submit_button
 ;Submit
-Submit
+Enviar
 
 
 # required-hover
 ;This question is required.
-This question is required.
+Esta pergunta é obrigatória.
 
 
 # required
 ;This question is required
-This question is required
+Esta pergunta é obrigatória
 
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-This survey is not accepting additional responses at this time. Thank You!
+Esta pesquisa não está aceitando respostas adicionais no momento. Obrigado!
 
 
 # block_by_message
 ;You have already completed this survey.
-You have already completed this survey.
+Você já completou esta pesquisa.
 
 
 # language_bar_select_text
 ;Select another language
-Select another language
+Selecionar outro idioma
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-To continue in another language, please click one of the links below.
+Para continuar em outro idioma, clique em um dos links abaixo.
 
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again.
-There was an error on your page. Please correct any required fields and submit again.
+Houve um erro na sua página. Corrija quaisquer campos obrigatórios e envie novamente.
 
 
 # first_error
 ;Go to the first error
-Go to the first error
+Ir para o primeiro erro
 
 
