@@ -4,7 +4,7 @@
 # p-1
 # survey-title
 ;Mozilla’s survey on misinformation
-Mozilla’s survey on misinformation
+Pesquisa de opinião da Mozilla sobre desinformação
 
 
 # q-32
@@ -19,27 +19,27 @@ Thank you for taking the time to answer these questions.  The anonymously gathe
 
 # q-3-o-10003
 ;Not at all concerned
-Not at all concerned
+Nem um pouco preocupado
 
 
 # q-3-o-10004
 ;Slightly concerned
-Slightly concerned
+Ligeiramente preocupado
 
 
 # q-3-o-10005
 ;Moderately concerned
-Moderately concerned
+Moderadamente preocupado
 
 
 # q-3-o-10233
 ;Very concerned
-Very concerned
+Muito preocupado
 
 
 # q-3-o-10234
 ;Extremely concerned
-Extremely concerned
+Extremamente preocupado
 
 
 # q-4
@@ -50,19 +50,19 @@ Do you think you have seen misinformation while using the internet in the last w
 # q-4-o-10006
 # q-6-o-10021
 ;Yes
-Yes
+Sim
 
 
 # q-4-o-10007
 # q-6-o-10022
 ;No
-No
+Não
 
 
 # q-4-o-10008
 # q-6-o-10023
 ;Maybe
-Maybe
+Talvez
 
 
 # q-12
@@ -92,7 +92,7 @@ Algorithmic curation
 
 # q-60
 ;Fake News
-Fake News
+Notícias falsas (fake news)
 
 
 # q-61
@@ -118,40 +118,40 @@ Whose job do you think it is to tackle misinformation? Rank these in order of re
 # q-33-o-10217
 # q-18-o-10033
 ;Governments
-Governments
+Governos
 
 
 # q-33-o-10218
 # q-18-o-10034
 ;Civil society (e.g. nonprofits, universities)
-Civil society (e.g. nonprofits, universities)
+Sociedade civil (por exemplo, entidades sem fins lucrativos, universidades)
 
 
 # q-33-o-10219
 # q-18-o-10035
 ;Individual internet users
-Individual internet users
+Usuários individuais de internet
 
 
 # q-33-o-10220
 # q-18-o-10036
 ;Commercial internet platforms (e.g. Facebook, Google, Twitter)
-Commercial internet platforms (e.g. Facebook, Google, Twitter)
+Plataformas comerciais de internet (por exemplo, Facebook, Google, Twitter)
 
 
 # q-33-o-10229
 ;Press/journalists
-Press/journalists
+Imprensa/jornalistas
 
 
 # q-33-o-10221
 ;Other (write in "Comments" section below)
-Other (write in "Comments" section below)
+Outros (escrever na seção "Comentários" abaixo)
 
 
 # q-18
 ;Who do you think is best equipped to solve the misinformation problem?
-Who do you think is best equipped to solve the misinformation problem?
+Quem você acha que está melhor equipado para resolver o problema da desinformação?
 
 
 # q-18-o-10238
@@ -161,7 +161,7 @@ Other - Write In
 
 # q-19
 ;Do you agree or disagree with the following statements:
-Do you agree or disagree with the following statements:
+Você concorda ou discorda das frases a seguir:
 
 
 # q-42
