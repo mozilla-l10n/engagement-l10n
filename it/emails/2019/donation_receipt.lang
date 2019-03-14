@@ -10,33 +10,33 @@
 
 
 ;From everyone here at Mozilla, thank you!
-From everyone here at Mozilla, thank you!
+Un grazie da parte di tutti i membri di Mozilla!
 
 
 # Image alt tag
 ;From the Thunderbird team, thank you!!
-From the Thunderbird team, thank you!!
+Un grazie da parte del team di Thunderbird!
 
 
 # Image alt tag
 ;From the staff and fellows at Mozilla, thank you!!
-From the staff and fellows at Mozilla, thank you!!
+Un grazie da parte dello staff e dei membri della comunità di Mozilla!
 
 
 ;Dear Friend,
-Dear Friend,
+Caro amico o amica,
 
 
 ;Dear [FirstName],
-Dear [FirstName],
+Caro/a [Firstname],
 
 
 ;Thank you. Thank you! <strong>THANK YOU!</strong>
-Thank you. Thank you! <strong>THANK YOU!</strong>
+Grazie. Grazie! E ancora <strong>GRAZIE!</strong>
 
 
 ;Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
-Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
+Thunderbird è il più diffuso programma di posta elettronica e calendario multipiattaforma open source al mondo. Con la tua donazione hai contribuito al suo sviluppo e a garantire che rimanga sempre aperto e gratuito. Per questo ogni donazione è così importante.
 
 
 # Link goes to https://blog.mozilla.org/thunderbird/
@@ -55,7 +55,7 @@ Yes, I’m shouting. Because I really, truly want you to hear how grateful I am 
 
 # “I” is Mark Surman here (he/him)
 ;We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
-We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
+Metteremo a frutto la tua donazione lavorando per rendere Internet e, si spera, il mondo intero, un posto migliore. Spero che ti unirai a noi, perché non possiamo compiere questa impresa senza il tuo aiuto. Per rimanere informato sul grande progetto che sostieni con la tua donazione, visita il nostro sito <a>Mozilla Foundation</a>.
 
 
 ;<strong>Thank you!</strong>
@@ -89,7 +89,7 @@ Data della donazione: {date} UTC
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+dd/mm/aaaa
 
 
 ;Donation frequency:
@@ -141,27 +141,27 @@ You have authorized Mozilla Foundation to automatically charge your card on a mo
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
 ;1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
-1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
+1°|2°|3°|4°|5°|6°|7°|8°|9°|10°|11°|12°|13°|14°|15°|16°|17°|18°|19°|20°|21°|22°|23°|24°|25°|26°|27°|28°|29°|30°|31°
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
-To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
+Per modificare o annullare questa donazione ricorrente, accedi al tuo conto PayPal entro il giorno precedente al pagamento successivo previsto. Vai nelle impostazioni (icona dell’ingranaggio) e fai clic su “Pagamenti”. Qui puoi modificare o annullare la tua donazione nella sezione “Pagamenti preautorizzati”.
 
 
 ;To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
-To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
+Per modificare o annullare questa donazione ricorrente, invia un messaggio a donate@mozilla.org almeno 5 giorni prima del prossimo pagamento previsto.
 
 
 ;Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
-Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
+Hai una domanda? Le domande più comuni trovano risposta in <a>FAQ per i sostenitori</a>
 
 
 ;Mozilla is happy to refund your donation at any time up to 12 months after the date of the donation. Please just drop us a note at donate@mozilla.org to request a refund.
-Mozilla is happy to refund your donation at any time up to 12 months after the date of the donation. Please just drop us a note at donate@mozilla.org to request a refund.
+Mozilla è disponibile a rimborsare la tua donazione in qualsiasi momento entro 12 mesi dalla data della donazione. Per richiedere un rimborso invia un messaggio a donate@mozilla.org.
 
 
 ;If you still need help, please send an email to us at donate@mozilla.org.
-If you still need help, please send an email to us at donate@mozilla.org.
+Se hai ancora bisogno di aiuto, inviaci una email all’indirizzo donate@mozilla.org.
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
