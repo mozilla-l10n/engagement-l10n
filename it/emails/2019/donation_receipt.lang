@@ -2,11 +2,11 @@
 
 
 ;(Receipt) We can’t say this enough…
-(Receipt) We can’t say this enough…
+(Ricevuta) Non ci stancheremo mai di ripeterlo…
 
 
 ;(Receipt) We can’t say this enough… thanks for your recurring donation!
-(Receipt) We can’t say this enough… thanks for your recurring donation!
+(Ricevuta) Non ci stancheremo mai di ripeterlo… Grazie per la tua donazione ricorrente!
 
 
 ;From everyone here at Mozilla, thank you!
@@ -41,7 +41,7 @@ Thunderbird è il più diffuso programma di posta elettronica e calendario multi
 
 # Link goes to https://blog.mozilla.org/thunderbird/
 ;On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
-On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
+Da parte di tutti noi, un sentito grazie per la tua donazione a sostegno di Thunderbird. Per rimanere al corrente dei progressi che realizziamo grazie al tuo contributo visita il <a>blog di Thunderbird</a>.
 
 
 ;- The Thunderbird Team
@@ -63,7 +63,7 @@ Metteremo a frutto la tua donazione lavorando per rendere Internet e, si spera, 
 
 
 ;Sincerely,
-Sincerely,
+Con affetto,
 
 
 ;Mark Surman and all of us at Mozilla
@@ -71,11 +71,11 @@ Mark Surman e tutti noi di Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
-P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
+P.S. Per mantenerti al corrente dei progressi che realizziamo con la tua donazione, <strong>e in più</strong> apprendere nozioni utili per la tua vita online, <a>iscriviti</a> alle newsletter informative di Mozilla.
 
 
 ;Donation Receipt for your records
-Donation Receipt for your records
+Ricevuta della donazione per la tua contabilità
 
 
 # Final string will read like “Donation Amount: 25.00 USD”
@@ -132,11 +132,11 @@ Grazie ancora per la tua donazione.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Hai autorizzato Mozilla Foundation a prelevare una donazione da PayPal a cadenza mensile (in questa data, {nth} giorno del mese) secondo l’importo sopra specificato fino al momento in cui non revocherai tale autorizzazione.
 
 
 ;You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Hai autorizzato Mozilla Foundation ad addebitare l’importo sopra specificato sulla tua carta di credito, con cadenza mensile (il {nth} giorno del mese), fino al momento in cui non revocherai tale autorizzazione.
 
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
@@ -173,6 +173,6 @@ I contributi sono versati a Mozilla Foundation, organizzazione di categoria 501(
 
 
 ;They are tax-deductible in the U.S. to the fullest extent permitted by law. Mozilla did not provide any goods or services in return for this donation. Mozilla Foundation’s Tax ID is 20-0097189.
-They are tax-deductible in the U.S. to the fullest extent permitted by law. Mozilla did not provide any goods or services in return for this donation. Mozilla Foundation’s Tax ID is 20-0097189.
+Le donazioni sono deducibili dalle tasse negli Stati Uniti nella misura massima consentita dalla legge. Mozilla non ha fornito alcun prodotto o servizio in cambio di questa donazione. Il codice (ID) fiscale di Mozilla Foundation è 20-0097189.
 
 
