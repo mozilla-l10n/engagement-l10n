@@ -20,7 +20,7 @@ From the Thunderbird team, thank you!!
 
 # Image alt tag
 ;From the staff and fellows at Mozilla, thank you!!
-From the staff and fellows at Mozilla, thank you!!
+Namens de staf en medestanders van Mozilla, bedankt!
 
 
 ;Dear Friend,
@@ -41,7 +41,7 @@ Thunderbird is the leading open source cross-platform email and calendaring clie
 
 # Link goes to https://blog.mozilla.org/thunderbird/
 ;On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
-On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
+Namens ons allemaal, hartelijk dank voor uw donatie aan Thunderbird. Als u op de hoogte wilt blijven van al het geweldige werk dat uw donatie steunt, bezoek dan onze <a>Thunderbird-blog.</a>
 
 
 ;- The Thunderbird Team
@@ -50,12 +50,12 @@ On behalf of all of us, thank you so much for your donation to Thunderbird. To s
 
 # “I” is Mark Surman here (he/him)
 ;Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
-Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
+Ja, ik roep het uit. Want ik wil echt, écht dat u hoort hoe dankbaar ik ben – dat zijn we hier bij Mozilla allemaal – voor uw recente donatie. We begrijpen dat u hard voor uw geld moet werken, en het betekent veel dat u het aan ons geeft in het vertrouwen dat we het wijselijk gebruiken om voor een gezonder internet te vechten. We zullen u niet teleurstellen.
 
 
 # “I” is Mark Surman here (he/him)
 ;We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
-We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
+Uw donatie wordt ingezet om van het internet, en hopelijk de wereld, een betere plek te maken. Ik hoop dat u met ons meedoet, want dit werk is niet iets wat we zonder u kunnen doen. Bezoek onze <a>Mozilla Foundation-website</a> om op de hoogte te blijven van al het geweldige werk dat uw donatie steunt.
 
 
 ;<strong>Thank you!</strong>
@@ -71,7 +71,7 @@ Mark Surman and all of us at Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
-P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
+PS U kunt ook op de hoogte blijven van het geweldige werk dat uw donatie steunt – <strong>en</strong> uw onlineleven slimmer inrichten – door u <a>in te schrijven</a> voor onze informatieve Mozilla-nieuwsbrieven.
 
 
 ;Donation Receipt for your records
@@ -84,7 +84,7 @@ Donation Amount: {amount} {currency}
 
 
 ;Donation Date: {date} UTC
-Donation Date: {date} UTC
+Donatiedatum: {date} UTC
 
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
@@ -97,7 +97,7 @@ Donation frequency:
 
 
 ;One-Time
-One-Time
+Eenmalig
 
 
 ;Recurring
@@ -145,7 +145,7 @@ You have authorized Mozilla Foundation to automatically charge your card on a mo
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
-To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
+Meld u vóór de dag van de volgende geplande betaling aan bij uw PayPal-account om deze periodieke donatie te wijzigen of te annuleren. Ga naar uw instellingen (het tandwielpictogram) en klik op ‘Betalingen’. U kunt uw donatie in de sectie ‘Mijn vooraf goedgekeurde betalingen’ bijwerken of annuleren.
 
 
 ;To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
