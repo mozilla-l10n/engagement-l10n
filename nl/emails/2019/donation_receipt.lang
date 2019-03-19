@@ -2,20 +2,20 @@
 
 
 ;(Receipt) We can’t say this enough…
-(Receipt) We can’t say this enough…
+(Ontvangst) We kunnen dit niet vaak genoeg zeggen…
 
 
 ;(Receipt) We can’t say this enough… thanks for your recurring donation!
-(Receipt) We can’t say this enough… thanks for your recurring donation!
+(Ontvangst) We kunnen dit niet vaak genoeg zeggen… bedankt voor uw periodieke donatie!
 
 
 ;From everyone here at Mozilla, thank you!
-From everyone here at Mozilla, thank you!
+Namens iedereen hier bij Mozilla, bedankt!
 
 
 # Image alt tag
 ;From the Thunderbird team, thank you!!
-From the Thunderbird team, thank you!!
+Namens het Thunderbird-team, bedankt!
 
 
 # Image alt tag
@@ -24,19 +24,19 @@ Namens de staf en medestanders van Mozilla, bedankt!
 
 
 ;Dear Friend,
-Dear Friend,
+Beste vriend,
 
 
 ;Dear [FirstName],
-Dear [FirstName],
+Beste [FirstName],
 
 
 ;Thank you. Thank you! <strong>THANK YOU!</strong>
-Thank you. Thank you! <strong>THANK YOU!</strong>
+Bedankt. Bedankt! <strong>BEDANKT!</strong>
 
 
 ;Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
-Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
+Thunderbird is de leidende open source, platformonafhankelijke e-mail- en agendaclient. Door te doneren, hebt u bijgedragen aan productontwikkeling en ervoor helpen zorgen dat Thunderbird vrij en open blijft. Elke gift is heel belangrijk.
 
 
 # Link goes to https://blog.mozilla.org/thunderbird/
@@ -45,7 +45,7 @@ Namens ons allemaal, hartelijk dank voor uw donatie aan Thunderbird. Als u op de
 
 
 ;- The Thunderbird Team
-- The Thunderbird Team
+- Het Thunderbird-team
 
 
 # “I” is Mark Surman here (he/him)
@@ -59,15 +59,15 @@ Uw donatie wordt ingezet om van het internet, en hopelijk de wereld, een betere 
 
 
 ;<strong>Thank you!</strong>
-<strong>Thank you!</strong>
+<strong>Bedankt!</strong>
 
 
 ;Sincerely,
-Sincerely,
+Hoogachtend,
 
 
 ;Mark Surman and all of us at Mozilla
-Mark Surman and all of us at Mozilla
+Mark Surman en wij allemaal bij Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
@@ -75,12 +75,12 @@ PS U kunt ook op de hoogte blijven van het geweldige werk dat uw donatie steunt 
 
 
 ;Donation Receipt for your records
-Donation Receipt for your records
+Ontvangstbewijs voor uw administratie
 
 
 # Final string will read like “Donation Amount: 25.00 USD”
 ;Donation Amount: {amount} {currency}
-Donation Amount: {amount} {currency}
+Donatiebedrag: {amount} {currency}
 
 
 ;Donation Date: {date} UTC
@@ -89,11 +89,11 @@ Donatiedatum: {date} UTC
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+dd/mm/yyyy {ok}
 
 
 ;Donation frequency:
-Donation frequency:
+Donatiefrequentie:
 
 
 ;One-Time
@@ -101,47 +101,47 @@ Eenmalig
 
 
 ;Recurring
-Recurring
+Periodiek
 
 
 # Payment method (Credit Card or PayPal)
 ;Via:
-Via:
+Via: {ok}
 
 
 ;Credit Card
-Credit Card
+Creditcard
 
 
 # Credit card last 4 digits
 ;Card ending in:
-Card ending in:
+Kaart eindigend op:
 
 
 # Donor email address
 ;Received from:
-Received from:
+Ontvangen van:
 
 
 ;Transaction ID:
-Transaction ID:
+Transactie-ID:
 
 
 ;Thanks again for your donation.
-Thanks again for your donation.
+Nogmaals bedankt voor uw donatie.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+U hebt de Mozilla Foundation toestemming gegeven om maandelijks (op deze, de {nth} dag van de maand) PayPal-betalingen te innen voor het bovenstaande bedrag, totdat u dit annuleert.
 
 
 ;You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+U hebt de Mozilla Foundation toestemming gegeven om maandelijks (op deze, de {nth} dag van de maand) uw creditcard te belasten met het bovenstaande bedrag, totdat u dit annuleert.
 
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
 ;1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
-1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
+1e|2e|3e|4e|5e|6e|7e|8e|9e|10e|11e|12e|13e|14e|15e|16e|17e|18e|19e|20e|21e|22e|23e|24e|25e|26e|27e|28e|29e|30e|31e
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
@@ -149,30 +149,30 @@ Meld u vóór de dag van de volgende geplande betaling aan bij uw PayPal-account
 
 
 ;To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
-To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
+Stuur gewoon ten minste vijf dagen voor de volgende geplande betaling een berichtje naar donate@mozilla.org om deze periodieke donatie te wijzigen of te annuleren.
 
 
 ;Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
-Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
+Hebt u een vraag? De meest gestelde vragen worden beantwoord in <a>onze FAQ voor donateurs.</a>
 
 
 ;Mozilla is happy to refund your donation at any time up to 12 months after the date of the donation. Please just drop us a note at donate@mozilla.org to request a refund.
-Mozilla is happy to refund your donation at any time up to 12 months after the date of the donation. Please just drop us a note at donate@mozilla.org to request a refund.
+Mozilla restitueert uw donatie zonder problemen tot 12 maanden na de datum van de donatie. Stuur gewoon een berichtje naar donate@mozilla.org om restitutie aan te vragen.
 
 
 ;If you still need help, please send an email to us at donate@mozilla.org.
-If you still need help, please send an email to us at donate@mozilla.org.
+Als u nog steeds hulp nodig hebt, stuur dan een e-mailbericht naar donate@mozilla.org.
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
-Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
+Bijdragen gaan naar de Mozilla Foundation, een 501(c)(3)-organisatie gevestigd in Mountain View, Californië, voor ondersteuning van Thunderbird. Mozilla behoudt zich het recht voor om een ander gebruik voor de gelden te vinden als wordt vastgesteld dat Thunderbird de missie van Mozilla niet meer bevordert.
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes.
-Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes.
+Bijdragen gaan naar de Mozilla Foundation, een 501(c)(3)-organisatie gevestigd in Mountain View, Californië, voor gebruik ten behoeve van liefdadigheidsdoelen naar keuze.
 
 
 ;They are tax-deductible in the U.S. to the fullest extent permitted by law. Mozilla did not provide any goods or services in return for this donation. Mozilla Foundation’s Tax ID is 20-0097189.
-They are tax-deductible in the U.S. to the fullest extent permitted by law. Mozilla did not provide any goods or services in return for this donation. Mozilla Foundation’s Tax ID is 20-0097189.
+Voor zover wettelijk toegestaan, zijn deze aftrekbaar voor de belasting in de VS. Mozilla heeft geen goederen of diensten verstrekt als wederdienst voor deze donatie. Het btw-nummer van de Mozilla Foundation is 20-0097189.
 
 
