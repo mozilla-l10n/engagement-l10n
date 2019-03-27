@@ -4,17 +4,17 @@
 # p-1
 # survey-title
 ;Mozilla’s survey on misinformation
-Pesquisa de opinião da Mozilla sobre desinformação
+Pesquisa de opinião da Mozilla sobre informações falsas
 
 
 # q-32
 ;Thank you for taking the time to answer these questions.  The anonymously gathered information from this survey will give us insight into our subscribers' knowledge of Misinformation issues, and thus help guide our campaigns for 2019.<br /><br />                    You must be 19 years of age or older to take part in this survey.<br /><br />                    We handle your information as described in the <a href="https://www.mozilla.org/privacy/websites/">Mozilla Privacy Policy</a>
-Obrigado por seu tempo respondendo essas perguntas. As informações obtidas anonimamente por esta pesquisa nos dará uma compreensão do conhecimento de nossos assinantes sobre problemas de desinformação, ajudando assim a guiar nossas campanhas em 2019.<br /><br />                    Você deve ter 19 anos ou mais para participar desta pesquisa.<br /><br />                    Lidaremos com suas informações como descrito na <a href="https://www.mozilla.org/privacy/websites/">Política de Privacidade da Mozilla</a>
+Obrigado por seu tempo respondendo essas perguntas. As informações obtidas anonimamente por esta pesquisa nos dará uma compreensão do conhecimento de nossos assinantes sobre problemas de informações falsas, ajudando assim a guiar nossas campanhas em 2019.<br /><br />                    Você deve ter 19 anos ou mais para participar desta pesquisa.<br /><br />                    Lidaremos com suas informações como descrito na <a href="https://www.mozilla.org/privacy/websites/">Política de Privacidade da Mozilla</a>
 
 
 # q-3
 ;<span>How concerned are you with online *misinformation and **disinformation?<br /><br />*Misinformation refers to false or misleading information presented as truth that’s shared mistakenly by people who are unaware that it’s false.<br />**Disinformation refers to false, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit.</span>
-<span>How concerned are you with online *misinformation and **disinformation?<br /><br />*Misinformation refers to false or misleading information presented as truth that’s shared mistakenly by people who are unaware that it’s false.<br />**Disinformation refers to false, inaccurate, or misleading information designed, presented, and promoted to intentionally cause public harm or for profit.</span>
+<span>O quão preocupado você está com *informações falsas e **desinformação online?<br /><br />*Informações falsas refere-se a informações erradas ou enganosas, apresentadas como verdade, que são compartilhadas equivocadamente por pessoas que não sabem que são falsas.<br />**Desinformação refere-se a uma informação falsa, imprecisa ou enganosa, projetada, apresentada e promovida para intencionalmente provocar dano público ou obter lucro.</span>
 
 
 # q-3-o-10003
@@ -44,7 +44,7 @@ Extremamente preocupado
 
 # q-4
 ;Do you think you have seen misinformation while using the internet in the last week?
-Você acha que viu alguma desinformação ao usar a internet na última semana?
+Você acha que viu informações falsas ao usar a internet na última semana?
 
 
 # q-4-o-10006
@@ -77,12 +77,12 @@ Filter bubble
 
 # q-57
 ;Misinformation
-Misinformation
+Informações falsas
 
 
 # q-58
 ;Disinformation
-Disinformation
+Desinformação
 
 
 # q-59
@@ -107,12 +107,12 @@ Clickbait (caça-cliques)
 
 # q-6
 ;Do you think thwarting the spread of misinformation online is possible?
-Você acha que impedir a divulgação de desinformação online é possível?
+Você acha que impedir a divulgação de informações falsas online é possível?
 
 
 # q-33
 ;Whose job do you think it is to tackle misinformation? Rank these in order of responsibility ( 1 = most responsible, 6 = least responsible):
-De quem deve ser o trabalho de combater a desinformação? Classifique por ordem de responsabilidade (1 = mais responsável, 6 = menos responsável):
+De quem deve ser o trabalho de combater informações falsas? Classifique por ordem de responsabilidade (1 = mais responsável, 6 = menos responsável):
 
 
 # q-33-o-10217
@@ -151,7 +151,7 @@ Outros (escrever na seção "Comentários" abaixo)
 
 # q-18
 ;Who do you think is best equipped to solve the misinformation problem?
-Quem você acha que está melhor equipado para resolver o problema da desinformação?
+Quem você acha que está melhor equipado para resolver o problema de informações falsas?
 
 
 # q-18-o-10238
@@ -216,22 +216,22 @@ Discordo
 
 # q-27
 ;What do you think would be useful to you to help tackle misinformation (select all that apply)?
-O que você acha que seria útil para lhe ajudar a combater a desinformação (selecione todos que se aplicarem)?
+O que você acha que seria útil para lhe ajudar a combater informações falsas (selecione todos que se aplicam)?
 
 
 # q-27-o-10039
 ;Education – knowing how to spot misinformation.
-Educação – saber como identificar desinformação.
+Educação – saber como identificar informações falsas.
 
 
 # q-27-o-10040
 ;Tools – things that help me spot misinformation.
-Ferramentas – coisas que me ajudem a identificar desinformação.
+Ferramentas – coisas que me ajudem a identificar informações falsas.
 
 
 # q-27-o-10041
 ;Fact-checking – other people seeing. misinformation and correcting it.
-Verificação de fatos – outras pessoas vendo desinformação e a corrigindo.
+Verificação de fatos – outras pessoas vendo informações falsas e corrigindo.
 
 
 # q-27-o-10042
