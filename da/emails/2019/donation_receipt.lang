@@ -59,15 +59,15 @@ We’ll put your donation to good use working to make the internet, and hopefull
 
 
 ;<strong>Thank you!</strong>
-<strong>Thank you!</strong>
+<strong>Tak!</strong>
 
 
 ;Sincerely,
-Sincerely,
+Med venlig hilsen
 
 
 ;Mark Surman and all of us at Mozilla
-Mark Surman and all of us at Mozilla
+Mark Surman og alle hos Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
@@ -80,7 +80,7 @@ Donation Receipt for your records
 
 # Final string will read like “Donation Amount: 25.00 USD”
 ;Donation Amount: {amount} {currency}
-Donation Amount: {amount} {currency}
+Beløb: {amount} {currency}
 
 
 ;Donation Date: {date} UTC
@@ -89,7 +89,7 @@ Donation Date: {date} UTC
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+dd/mm/yyyy {ok}
 
 
 ;Donation frequency:
@@ -97,7 +97,7 @@ Donation frequency:
 
 
 ;One-Time
-One-Time
+Én gang
 
 
 ;Recurring
@@ -110,7 +110,7 @@ Via:
 
 
 ;Credit Card
-Credit Card
+Betalingskort
 
 
 # Credit card last 4 digits
@@ -120,11 +120,11 @@ Card ending in:
 
 # Donor email address
 ;Received from:
-Received from:
+Modtaget fra:
 
 
 ;Transaction ID:
-Transaction ID:
+Transaktions-ID:
 
 
 ;Thanks again for your donation.
