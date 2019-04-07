@@ -2,11 +2,11 @@
 
 
 ;(Receipt) We can’t say this enough…
-(Receipt) We can’t say this enough…
+(Kvittering) Vi kan ikke sige det tilstrækkeligt…
 
 
 ;(Receipt) We can’t say this enough… thanks for your recurring donation!
-(Receipt) We can’t say this enough… thanks for your recurring donation!
+(Kvittering) Vi kan ikke sige det tilstrækkeligt… Tak for dine løbende bidrag!
 
 
 ;From everyone here at Mozilla, thank you!
@@ -24,15 +24,15 @@ Mange tak fra medarbejdere og frivillige hos Mozilla!
 
 
 ;Dear Friend,
-Dear Friend,
+Kære ven
 
 
 ;Dear [FirstName],
-Dear [FirstName],
+Kære [FirstName]
 
 
 ;Thank you. Thank you! <strong>THANK YOU!</strong>
-Thank you. Thank you! <strong>THANK YOU!</strong>
+Mange, mange tak! <strong>TAK!</strong>
 
 
 ;Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
@@ -50,7 +50,7 @@ På vegne af hele holdet bag Thunderbird: Mange, mange tak for dit bidrag ! Bes�
 
 # “I” is Mark Surman here (he/him)
 ;Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
-Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
+Ja, jeg skriver med store bogstaver. For jeg vil være sikker på, at du forstår hvor taknemmelig jeg - og alle andre hos Mozilla - er for dit bidrag! Vi ved, at du har arbejdet hårdt for dine penge, og det betyder meget for os, at du giver nogle af dem til os i forvisning om, at vi vil bruge pengene til at kæmpe for et sundere internet. Vi kommer ikke til at skuffe dig.
 
 
 # “I” is Mark Surman here (he/him)
@@ -71,7 +71,7 @@ Mark Surman og alle hos Mozilla
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
-P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
+PS: Du kan også følge med i det arbejde, du er med til at støtte — <strong>og</strong> få gode råd til dit liv på nettet ved — ved at <a>tilmelde dig</a> Mozillas nyhedsbreve.
 
 
 ;Donation Receipt for your records
@@ -101,12 +101,12 @@ Frekvens for bidrag:
 
 
 ;Recurring
-Recurring
+Løbende
 
 
 # Payment method (Credit Card or PayPal)
 ;Via:
-Via:
+Via: {ok}
 
 
 ;Credit Card
@@ -145,11 +145,11 @@ Du har givet Mozilla Foundation tilladelse til at hæve beløbet vist ovenfor p�
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
-To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
+For at ændre eller annullere det løbende bidrag skal du logge ind på din PayPal-konto senest dagen før tidspunktet for næste planlagte betaling. Klik på indstillinger (ikonet med et tandhjul øverst til højre), og klik så på "Betalinger". Du kan opdatere eller annullere dit bidrag i sektionen "Administrer dine automatiske betalinger".
 
 
 ;To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
-To change or cancel this recurring donation, please just drop us a note back to donate@mozilla.org at least 5 days before the next scheduled payment.
+For at ændre eller annullere det løbende bidrag, så skriv til os på donate@mozilla.org senest fem dage før næste planlagte betaling.
 
 
 ;Do you have a question? Most common questions are answered in <a>our donor FAQ.</a>
@@ -169,10 +169,10 @@ Bidrag går til Mozilla Foundation til at støtte Mozilla Thunderbird. Mozilla F
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes.
-Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes.
+Bidrag går til Mozilla Foundation, en 501(c)(3)-organisation beliggende i Mountain View, Californien og anvendes til organisationens velgørende formål.
 
 
 ;They are tax-deductible in the U.S. to the fullest extent permitted by law. Mozilla did not provide any goods or services in return for this donation. Mozilla Foundation’s Tax ID is 20-0097189.
-They are tax-deductible in the U.S. to the fullest extent permitted by law. Mozilla did not provide any goods or services in return for this donation. Mozilla Foundation’s Tax ID is 20-0097189.
+Bidrag er fradragsberettigede i USA i henhold til gældende lovgivning. Mozilla giver ingen varer eller services som modydelse for dette bidrag. Mozilla Foundations Tax-ID er 20-0097189.
 
 
