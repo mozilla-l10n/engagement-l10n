@@ -3,16 +3,16 @@
 
 # The strings in this file appear on https://foundation.mozilla.org/campaigns/eu-misinformation/
 ;Fighting back against misinformation
-Fighting back against misinformation
+Luttons contre la désinformation
 
 
 ;A campaign to demand transparency and accountability from tech platforms in the fight against online misinformation
-A campaign to demand transparency and accountability from tech platforms in the fight against online misinformation
+Une campagne pour exiger des grandes plates-formes Internet qu’elle fassent preuve de transparence et prennent leurs responsabilités dans la lutte contre la désinformation en ligne
 
 
 # Navigation tab
 ;Overview
-Overview
+Vue d’ensemble
 
 
 ;Misinformation is created to appeal to our feelings and emotions. It manipulates us into viewing content that is false or misleading. This is not only dangerous for the health of our internet—it’s also having real effects on our democracies offline.
@@ -34,7 +34,7 @@ Action
 
 
 ;Take action to demand that tech companies address online misinformation
-Take action to demand that tech companies address online misinformation
+Agissez pour exiger des entreprises high-tech qu’elles s’attaquent à la désinformation en ligne
 
 
 ;We’re campaigning to get big tech platforms like Google, Facebook and Twitter to become more transparent about how political messages are spread so that we can detect and fight misinformation.
@@ -42,7 +42,7 @@ We’re campaigning to get big tech platforms like Google, Facebook and Twitter 
 
 
 ;<a>Sign our open letter</a> to Facebook demanding greater transparency of political advertising
-<a>Sign our open letter</a> to Facebook demanding greater transparency of political advertising
+<a>Signez notre lettre ouverte à Facebook</a> demandant une transparence accrue de la publicité politique
 
 
 ;<a>Share our guidelines</a> for Google and Facebook’s ad transparency databases
@@ -50,20 +50,20 @@ We’re campaigning to get big tech platforms like Google, Facebook and Twitter 
 
 
 ;<a>Tell us your opinions</a> about misinformation and how we should address it by taking our survey
-<a>Tell us your opinions</a> about misinformation and how we should address it by taking our survey
+<a>Donnez-nous votre avis</a> en répondant à notre sondage sur la désinformation et sur la façon dont nous devrions y remédier
 
 
 # Navigation tab. Page displayed after taking a mini survey in an email: https://foundation.mozilla.org/campaigns/eu-misinformation/thanks/
 ;Thanks
-Thanks
+Merci
 
 
 ;We appreciate your support.
-We appreciate your support.
+Nous apprécions votre aide.
 
 
 ;<b>Thank you</b> for providing your input on our campaign! We’ll report back soon with next steps, along with more ways you can get involved. We rely on your participation and <a>support</a> to hold platforms like Facebook and Google to account.
-<b>Thank you</b> for providing your input on our campaign! We’ll report back soon with next steps, along with more ways you can get involved. We rely on your participation and <a>support</a> to hold platforms like Facebook and Google to account.
+<b>Merci</b> d’avoir donné votre avis à propos de notre campagne ! Nous vous ferons bientôt part des prochaines étapes, ainsi que des façons dont vous pourrez participer. Nous comptons sur votre participation et <a>votre soutien</a> pour faire en sorte que les plateformes comme Facebook et Google rendent des comptes.
 
 
 # Button
@@ -73,7 +73,7 @@ Donate Today
 
 # Navigation tab
 ;Resources
-Resources
+Ressources
 
 
 ;Tools, campaigning resources and background reading for activists working against misinformation
@@ -95,15 +95,15 @@ Featured
 
 # Category title
 ;Tools
-Tools
+Outils
 
 
 ;Botcheck.me: Detect & Track Twitter Bots
-Botcheck.me: Detect & Track Twitter Bots
+Botcheck.me : détecter et suivre les robots sur Twitter
 
 
 ;Newsguard: Assessing the Reliability of News Sites
-Newsguard: Assessing the Reliability of News Sites
+Newsguard : évaluer la fiabilité des sites d’actualité
 
 
 ;First Draft Verification Toolbox for beginners
@@ -111,19 +111,19 @@ First Draft Verification Toolbox for beginners
 
 
 ;Disinfo portal - an interactive online guide to learn about the Kremlin’s disinformation campaigns
-Disinfo portal - an interactive online guide to learn about the Kremlin’s disinformation campaigns
+Disinfo portal : un guide en ligne interactif pour en savoir plus sur les campagnes de désinformation du Kremlin
 
 
 ;HackAStory: Verification Tools for Journalists
-HackAStory: Verification Tools for Journalists
+HackAStory : outils de vérification pour les journalistes
 
 
 ;Bellingcat’s online investigation toolkit
-Bellingcat’s online investigation toolkit
+Couteau suisse de l’investigation en ligne par Bellingcat
 
 
 ;WhoTargetsMe: Find Out Who is Targeting You with Facebook Ads
-WhoTargetsMe: Find Out Who is Targeting You with Facebook Ads
+WhoTargetsMe : découvrez qui vous cible avec des publicités Facebook
 
 
 # Category title
@@ -133,7 +133,7 @@ Background Reading
 
 # Category title
 ;Scientific Research
-Scientific Research
+Recherches scientifiques
 
 
 ;Prevalence and predictors of fake news dissemination on Facebook (Science)
@@ -191,7 +191,7 @@ EU High Level Expert Group report on "A European Approach to Tackling Disinforma
 
 
 ;Report from Avaaz: Yellow Vests flooded by fake news: over 100M views of disinformation on Facebook
-Report from Avaaz: Yellow Vests flooded by fake news: over 100M views of disinformation on Facebook
+Rapport d’Avaaz : Gilets jaunes inondés d’infox : plus de 100 millions de vues pour la désinformation sur Facebook
 
 
 # Category title
@@ -207,8 +207,8 @@ EU Disinformation Lab Newsletter
 MisinfoCon’s Catalogue of Projects Working to Solve Disinformation
 
 
-; #FemFacts: Tracking and Debunking Damaging Misrepresentations of Women in European News Media
- #FemFacts: Tracking and Debunking Damaging Misrepresentations of Women in European News Media
+;#FemFacts: Tracking and Debunking Damaging Misrepresentations of Women in European News Media
+#FemFacts: Tracking and Debunking Damaging Misrepresentations of Women in European News Media
 
 
 ;Lie Detectors
@@ -225,11 +225,11 @@ Independent Researchers’ Guide to a Perfect Ad Transparency API
 
 
 ;Open Letter from Civil Society to Facebook
-Open Letter from Civil Society to Facebook
+Lettre ouverte de la société civile à Facebook
 
 
 ;Mozilla Letter to EU Commission on Facebook Transparency
-Mozilla Letter to EU Commission on Facebook Transparency
+Lettre de Mozilla à la Commission européenne sur la transparence de Facebook
 
 
 ;Mozilla Survey: Ahead of Elections, EU Internet Users Regularly Encounter Online Misinformation
