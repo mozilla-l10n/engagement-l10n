@@ -21,16 +21,16 @@ Misinformation is created to appeal to our feelings and emotions. It manipulates
 
 # Image description for screen readers
 ;image of social platforms
-image of social platforms
+image de réseaux sociaux
 
 
 ;Digital media platforms like Facebook, Google, YouTube and Twitter recognise that dangerous misinformation is spreading on their platforms and have promised European lawmakers that they would take specific steps to address it, but so far we’ve seen little action to support these promises. With important elections happening throughout Europe and the world over the course of this year, they must act now to protect online communities from the harmful effects of misinformation.
-Digital media platforms like Facebook, Google, YouTube and Twitter recognise that dangerous misinformation is spreading on their platforms and have promised European lawmakers that they would take specific steps to address it, but so far we’ve seen little action to support these promises. With important elections happening throughout Europe and the world over the course of this year, they must act now to protect online communities from the harmful effects of misinformation.
+Les plates-formes numériques telles que Facebook, Google, YouTube et Twitter reconnaissent que de dangereuses fausses informations se répandent sur leurs plates-formes et ont promis aux législateurs européens de prendre des mesures spécifiques pour y remédier, mais jusqu’à présent, peu de mesures ont été prises pour respecter ces promesses. Cette année, d’importantes élections vont se dérouler en Europe et dans le monde. Les plates-formes doivent donc agir maintenant pour protéger les internautes des effets néfastes de la désinformation.
 
 
 # Navigation tab
 ;Action
-Action
+Initiatives
 
 
 ;Take action to demand that tech companies address online misinformation
@@ -68,7 +68,7 @@ Nous apprécions votre aide.
 
 # Button
 ;Donate Today
-Donate Today
+Faire un don
 
 
 # Navigation tab
@@ -90,7 +90,7 @@ This collection aims to list a broad array of resources on misinformation—alth
 
 # Category title. Strings below are a list of resources, those are less critical to translate. You also probably want to keep some report titles in English
 ;Featured
-Featured
+Ressources mises en avant
 
 
 # Category title
@@ -141,7 +141,7 @@ Prevalence and predictors of fake news dissemination on Facebook (Science)
 
 
 ;Measuring the reach of “fake news” and online disinformation in Europe (Reuters Institute of Journalism at Oxford University)
-Measuring the reach of “fake news” and online disinformation in Europe (Reuters Institute of Journalism at Oxford University)
+Mesurer la portée des « fake news » et de la désinformation en ligne en Europe (Institut de journalisme Reuters de l’Université d’Oxford)
 
 
 ;The nature and origins of misperceptions (Darthmouth)
@@ -158,11 +158,11 @@ EPRS Report: Polarisation and the News Media in Europe
 
 # Category title
 ;Government Documents
-Government Documents
+Documents gouvernementaux
 
 
 ;EU Code of Practice on Disinformation
-EU Code of Practice on Disinformation
+Code de bonnes pratiques de l’Union européenne contre la désinformation
 
 
 ;DCMS Disinformation and Fake News Final Report
@@ -171,15 +171,15 @@ DCMS Disinformation and Fake News Final Report
 
 # Category title
 ;Non-Government Documents
-Non-Government Documents
+Documents non gouvernementaux
 
 
 ;Report from EDRi, Access Now, Civil Liberties Union for Europe "Informing the Disinformation Debate"
-Report from EDRi, Access Now, Civil Liberties Union for Europe "Informing the Disinformation Debate"
+Rapport d’EDRi, Access Now et Civil Liberties Union for Europe, « Alimenter les réflexions sur la désinformation »
 
 
 ;New America Report "Digital Deceit: The Technologies Behind Precision Propaganda on the Internet"
-New America Report "Digital Deceit: The Technologies Behind Precision Propaganda on the Internet"
+Rapport de New America « Fraude numérique : les technologies derrière la propagande de précision sur Internet »
 
 
 ;Poynter’s Guide to Misinformation Actions Around the World
@@ -196,11 +196,11 @@ Rapport d’Avaaz : Gilets jaunes inondés d’infox : plus de 100 millions d
 
 # Category title
 ;Anti-Disinformation
-Anti-Disinformation
+Lutte contre la désinformation
 
 
 ;EU Disinformation Lab Newsletter
-EU Disinformation Lab Newsletter
+Lettre d’information d’EU Disinformation Lab
 
 
 ;MisinfoCon’s Catalogue of Projects Working to Solve Disinformation
@@ -212,16 +212,16 @@ MisinfoCon’s Catalogue of Projects Working to Solve Disinformation
 
 
 ;Lie Detectors
-Lie Detectors
+Lie Detectors {ok}
 
 
 # Category title
 ;Campaigning Resources
-Campaigning Resources
+Ressources pour mener campagne
 
 
 ;Independent Researchers’ Guide to a Perfect Ad Transparency API
-Independent Researchers’ Guide to a Perfect Ad Transparency API
+Guide de chercheurs indépendants de l’API parfaite pour la transparence publicitaire
 
 
 ;Open Letter from Civil Society to Facebook
