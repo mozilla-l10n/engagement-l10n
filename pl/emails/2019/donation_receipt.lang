@@ -20,7 +20,7 @@ Od całego zespołu Thunderbirda, dziękujemy!
 
 # Image alt tag
 ;From the staff and fellows at Mozilla, thank you!!
-Od wszystkich pracowników i&nbsp;stypendystów, dziękujemy!
+Od wszystkich pracowników i&nbsp;stypendystów Mozilli, dziękujemy!
 
 
 ;Dear Friend,
@@ -67,81 +67,81 @@ Z&nbsp;pozdrowieniami,
 
 
 ;Mark Surman and all of us at Mozilla
-Mark Surman and all of us at Mozilla
+Mark Surman i&nbsp;wszyscy pracownicy Mozilli
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
-P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
+PS Możesz także śledzić działania wspierane przez Twój datek — <strong>oraz</strong> nauczyć się lepiej wykorzystywać Internet — <a>subskrybując</a> nasze pomocne biuletyny Mozilli.
 
 
 ;Donation Receipt for your records
-Donation Receipt for your records
+Potwierdzenie datku
 
 
 # Final string will read like “Donation Amount: 25.00 USD”
 ;Donation Amount: {amount} {currency}
-Donation Amount: {amount} {currency}
+Kwota datku: {amount}&nbsp;{currency}
 
 
 ;Donation Date: {date} UTC
-Donation Date: {date} UTC
+Data datku: {date}&nbsp;UTC
 
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+dd/mm/yyyy {ok}
 
 
 ;Donation frequency:
-Donation frequency:
+Rodzaj datku:
 
 
 ;One-Time
-One-Time
+Jednorazowy
 
 
 ;Recurring
-Recurring
+Okresowy
 
 
 # Payment method (Credit Card or PayPal)
 ;Via:
-Via:
+Przez:
 
 
 ;Credit Card
-Credit Card
+Karta płatnicza
 
 
 # Credit card last 4 digits
 ;Card ending in:
-Card ending in:
+Końcówka numeru karty:
 
 
 # Donor email address
 ;Received from:
-Received from:
+Otrzymany od:
 
 
 ;Transaction ID:
-Transaction ID:
+Identyfikator transakcji:
 
 
 ;Thanks again for your donation.
-Thanks again for your donation.
+Jeszcze raz dziękujemy za datek.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Upoważniono Fundację Mozilli do comiesięcznego wypłacania kwoty z&nbsp;konta PayPal (w&nbsp;tym, {nth} dniu miesiąca) w&nbsp;wysokości widocznej powyżej, do chwili anulowania.
 
 
 ;You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Upoważniono Fundację Mozilli do comiesięcznego wypłacania kwoty z&nbsp;karty płatniczej (w&nbsp;tym, {nth} dniu miesiąca) w&nbsp;wysokości widocznej powyżej, do chwili anulowania.
 
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
 ;1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
-1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
+1.|2.|3.|4.|5.|6.|7.|8.|9.|10.|11.|12.|13.|14.|15.|16.|17.|18.|19.|20.|21.|22.|23.|24.|25.|26.|27.|28.|29.|30.|31.
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
