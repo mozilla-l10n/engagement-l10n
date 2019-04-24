@@ -18,12 +18,12 @@ Firefox Hello: Έρευνα προϊόντος
 
 # q-9
 ;How can we improve Firefox Hello to make you more likely to recommend us?
-Πως θα μπορούσαμε να βελτιώσουμε το Firefox Hello προκειμένου να το συστήσετε σε κάποιον γνωστό σας;
+Πώς μπορούμε να βελτιώσουμε το Firefox Hello, προκειμένου να το συστήσετε σε κάποιον;
 
 
 # q-11
 ;Was there anything in particular that made Firefox Hello such a positive experience for you?
-Υπήρξε κάποιο συγκεκριμένο χαρακτηριστικό που έκανε την εμπειρία σας με το Firefox Hello τόσο θετική;
+Υπήρξε κάτι συγκεκριμένο που έκανε την εμπειρία σας με το Firefox Hello τόσο θετική;
 
 
 # q-23
@@ -43,12 +43,12 @@ Firefox Hello: Έρευνα προϊόντος
 
 # p-2
 ;Thank You!
-Σάς ευχαριστούμε!
+Ευχαριστούμε!
 
 
 # q-1
 ;Thank you for taking the time to complete our survey. Your response is very important to us and will help make Firefox Hello better for our users.
-Σάς ευχαριστούμε για το χρόνο που διαθέσατε για να συμπληρώσετε τη φόρμα μας. Η ανταπόκριση σας είναι πολύ σημαντική για εμάς και θα συμβάλει στη βελτίωση του Firefox Hello για τους χρήστες μας.
+Σάς ευχαριστούμε για το χρόνο που διαθέσατε για τη συμπλήρωση της έρευνάς μας. Η ανταπόκριση σας είναι πολύ σημαντική για εμάς και θα συμβάλει στη βελτίωση του Firefox Hello για τους χρήστες μας.
 
 
 # required
@@ -63,22 +63,22 @@ Firefox Hello: Έρευνα προϊόντος
 
 # survey_closed
 ;This survey is not accepting additional responses at this time. Thank You!
-Αυτή η έρευνα δε δέχεται περαιτέρω απαντήσεις προς το παρόν. Σας ευχαριστούμε!
+Αυτή η έρευνα δεν δέχεται επιπλέον απαντήσεις προς το παρόν. Ευχαριστούμε!
 
 
 # block_by_message
 ;You have already completed this survey.
-Έχετε ολοκληρώσει ήδη την έρευνα.
+Έχετε ήδη ολοκληρώσει αυτή την έρευνα.
 
 
 # language_bar_select_text
 ;Select another language
-Επιλέξτε διαφορετική γλώσσα
+Επιλέξτε άλλη γλώσσα
 
 
 # language_bar_description_text
 ;To continue in another language, please click one of the links below.
-Για να συνεχίσετε σε μια άλλη γλώσσα, παρακαλούμε κάντε κλικ σε έναν από τους παρακάτω συνδέσμους
+Για να συνεχίσετε σε μια άλλη γλώσσα, παρακαλούμε κάντε κλικ σε έναν από τους παρακάτω συνδέσμους.
 
 
 # back_button
@@ -103,7 +103,7 @@ Firefox Hello: Έρευνα προϊόντος
 
 # page_error_message
 ;There was an error on your page. Please correct any required fields and submit again. Go to the first error
-Υπάρχουν σφάλματα στη φόρμα σας. Παρακαλούμε διορθώστε τα και υποβάλετε την φόρμα ξανά. Μετάβαση στο πρώτο σφάλμα
+Προέκυψε σφάλμα στη σελίδα σας. Παρακαλούμε διορθώστε τυχόν απαιτούμενα πεδία και κάντε ξανά υποβολή. Μετάβαση στο πρώτο σφάλμα
 
 
 # Question
