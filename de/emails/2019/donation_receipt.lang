@@ -50,12 +50,12 @@ Wir alle danken Ihnen vielmals für Ihre Spende an Mozilla Thunderbird. Um mehr 
 
 # “I” is Mark Surman here (he/him)
 ;Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
-Ja, ich schreie. Denn ich möchte, dass Sie wirklich verstehen, wie dankbar ich – und wir alle hier bei Mozilla – für Ihre kürzlich geleistete Spende sind. Wir wissen, dass Sie hart für Ihr Geld arbeiten und es bedeutet uns viel, dass Sie es uns im Vertrauen spenden, dass wir damit weise für ein gesünderes Internet kämpfen. Wir werden Sie nicht enttäuschen.
+Ja, ich schreie. Denn ich möchte, dass Sie wirklich verstehen, wie dankbar ich – und wir alle hier bei Mozilla – für Ihre kürzlich geleistete Spende sind. Wir wissen, dass Sie hart für Ihr Geld arbeiten, und es bedeutet uns viel, dass Sie es uns im Vertrauen spenden, dass wir damit weise für ein gesünderes Internet kämpfen. Wir werden Sie nicht enttäuschen.
 
 
 # “I” is Mark Surman here (he/him)
 ;We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
-Wir werden Ihre Spende sinnvoll einsetzen, um das Internet und hoffentlich die Welt zu einem besseren Ort zu machen. Ich hoffe, dass Sie sich uns anschließen, da diese Arbeit ohne Sie nicht möglich ist. Um über die großartige Arbeit Ihrer Spende auf dem Laufenden zu bleiben, besuchen Sie bitte unsere <a> Website der Mozilla Foundation</a>.
+Wir werden Ihre Spende sinnvoll einsetzen, um das Internet und hoffentlich die Welt zu einem besseren Ort zu machen. Ich hoffe, dass Sie sich uns anschließen, da diese Arbeit ohne Sie nicht möglich ist. Um über die mit Ihrer Spende geleistete großartige Arbeit auf dem Laufenden zu bleiben, besuchen Sie bitte unsere <a>Website der Mozilla Foundation</a>.
 
 
 ;<strong>Thank you!</strong>
@@ -132,11 +132,11 @@ Nochmals vielen Dank für Ihre Spende.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-Sie haben der Mozilla Foundation die Erlaubnis erteilt, PayPal-Zahlungen monatlich (an diesem {nth} Tag des Monats) bis zur Kündigung in der oben angegebenen Höhe abzuheben.
+Sie haben der Mozilla Foundation die Erlaubnis erteilt, per PayPal monatlich (an jedem {nth}. des Monats) bis zur Kündigung Geld in der oben angegebenen Höhe abzuheben.
 
 
 ;You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-Sie haben der Mozilla Foundation die Erlaubnis erteilt, Ihre Karte monatlich (an diesem {nth} Tag des Monats) automatisch bis zur Kündigung mit dem oben angegebenen Betrag zu belasten.
+Sie haben der Mozilla Foundation die Erlaubnis erteilt, Ihre Karte monatlich (an jedem {nth}. des Monats) automatisch bis zur Kündigung mit dem oben angegebenen Betrag zu belasten.
 
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
