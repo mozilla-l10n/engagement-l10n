@@ -132,7 +132,7 @@ Gracias otra vez por tu donación.
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
-You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
+Has autorizado a la Fundación Mozilla para que haga cargos de forma mensual en PayPal (en este caso, el día {nth} del mes) de la cantidad indicada arriba hasta que lo canceles.
 
 
 ;You have authorized Mozilla Foundation to automatically charge your card on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
@@ -141,7 +141,7 @@ Has autorizado a Mozilla el cargo automático en tu tarjeta de forma mensual (en
 
 # Values of this list will replace the {nth} variable in the 2 previous strings. This will read “the 1st day”, “the 2nd day”, “the 3rd day”, etc
 ;1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
-1st|2nd|3rd|4th|5th|6th|7th|8th|9th|10th|11th|12th|13th|14th|15th|16th|17th|18th|19th|20th|21st|22nd|23rd|24th|25th|26th|27th|28th|29th|30th|31st
+1º  | 2º | 3º | 4º | 5º | 6º | 7º | 8º | 9º | 10º | 11º | 12º | 13º | 14º | 15º | 16º | 17º | 18º | 19º | 20º | 21º | 22º | 23º | 24º | 25º | 26º | 27° | 28° | 29° | 30° | 31°
 
 
 ;To change or cancel this recurring donation, please log in to your PayPal account up until the day before the next scheduled payment. Go to your settings (gear icon), and click “Payments.” You can update or cancel your donation in the “My preapproved payments” section.
@@ -165,14 +165,14 @@ Si necesitas ayuda, envíanos un correo a donate@mozilla.org.
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
-Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
+Las contribuciones están destinadas a la Fundación Mozilla, una organización clasificada dentro de 501(c)(3), con sede en Mountain View, California, que las utilizará para seguir gestionando Thunderbird. Mozilla se reserva el derecho de usar los fondos para otro fin si determina que Thunderbird ya no ayuda a avanzar en la misión de Mozilla.
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes.
-Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to be used in its discretion for its charitable purposes.
+Las contribuciones están destinadas a la Fundación Mozilla, una organización clasificada dentro de 501(c)(3), con sede en Mountain View, California, que las utilizará, conforme a su criterio, para fines benéficos.
 
 
 ;They are tax-deductible in the U.S. to the fullest extent permitted by law. Mozilla did not provide any goods or services in return for this donation. Mozilla Foundation’s Tax ID is 20-0097189.
-They are tax-deductible in the U.S. to the fullest extent permitted by law. Mozilla did not provide any goods or services in return for this donation. Mozilla Foundation’s Tax ID is 20-0097189.
+Son deducibles en los EE. UU. hasta el máximo permitido por la ley. Mozilla no proporcionó ningún bien ni servicio a cambio de esta donación. El número de identificación fiscal de la Fundación Mozilla es el 20-0097189.
 
 
