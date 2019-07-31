@@ -1,0 +1,95 @@
+## NOTE: Victory email following up on the petition sent last year (emails/2018/facebook_2fa.lang)
+
+
+# Subject line
+;The big FTC Facebook news
+Federalna Komisja Handlu Stanów Zjednoczonych i Facebook – najnowsze informacje
+
+
+# Subject line
+;The latest on Facebook
+Najnowsze informacje na temat Facebooka
+
+
+# Subject line
+;Facebook
+Facebook {ok}
+
+
+# Subject line
+;You won this battle
+Gratulujemy wygranej!
+
+
+# Preheader
+;The FTC just ordered Facebook to stop using 2FA phone numbers for marketing, but we need to stay vigilant.
+Federalna Komisja Handlu Stanów Zjednoczonych (Federal Trade Commission, FTC) wydała rozporządzenie zakazujące firmie Facebook wykorzystywania do celów marketingowych numerów telefonów służących do uwierzytelniania dwuczynnikowego. Jednak cały czas musimy mieć się na baczności.
+
+
+;On Wednesday, the U.S. Federal Trade Commission (FTC) announced a settlement order closing its 16-month long investigation into Facebook.
+24 lipca 2019 r. po 16 miesiącach śledztwa, którego przedmiotem były działania Facebooka, Federalna Komisja Handlu Stanów Zjednoczonych ogłosiła zawarcie ugody.
+
+
+;Last Wednesday, the U.S. Federal Trade Commission (FTC) announced a settlement order closing its 16-month long investigation into Facebook.
+24 lipca 2019 r. po 16 miesiącach śledztwa, którego przedmiotem były działania Facebooka, Federalna Komisja Handlu Stanów Zjednoczonych ogłosiła zawarcie ugody.
+
+
+;In exchange, Facebook agreed to pay a $5 billion fine and make a number of changes with regards to privacy.
+W jej ramach Facebook zobowiązał się do zapłacenia kary grzywny w wysokości 5 mld dolarów oraz wprowadzenia szeregu zmian do swojej polityki prywatności.
+
+
+;<strong>The order covers a number of practices that undermine user privacy, including finding that Facebook uses phone numbers it collects for security to target ads,</strong> <span style="text-decoration: underline;">without</span> alerting users that their phone number would be used for marketing purposes.<sup>1</sup>
+<strong>Rozporządzenie dotyczy wielu praktyk naruszających prywatność użytkowników, w tym między innymi wykorzystywania przez Facebooka numerów telefonów gromadzonych do celów bezpieczeństwa również do celów marketingowych</strong> <span style="text-decoration: underline;">bez</span> informowania o tym użytkowników<sup>1</sup>.
+
+
+;Facebook has a lot of privacy problems, but this one undermines trust in two factor authentication (2FA), a critical security feature that allows users to get a code texted to them when they log-in to confirm their identity.
+Facebook ma liczne problemy związane z ochroną prywatności, jednak ta sytuacja podkopuje wiarę w bardzo ważne zabezpieczenie, jakim jest uwierzytelnianie dwuczynnikowe. Polega ono na tym, że podczas logowania użytkownik otrzymuje SMS z kodem, który pozwala potwierdzić jego tożsamość.
+
+
+;When researchers first uncovered Facebook’s use of 2FA phone numbers for marketing, <strong>tens of thousands of you participated in a campaign calling on the company to immediately stop. And now, they’ve agreed to do just that as part of the FTC order.</strong>
+Gdy po raz pierwszy odkryto, że Facebook wykorzystuje numery telefonów gromadzonych do celów uwierzytelniania dwuczynnikowego również do celów marketingowych, <strong>dziesiątki tysięcy z Was wzięło udział w kampanii nawołującej Facebooka do natychmiastowego zaprzestania tej praktyki. Teraz firma zobowiązała się do tego w związku z rozporządzeniem Federalnej Komisji Handlu.</strong>
+
+
+;This settlement is unprecedented, yet it doesn’t go far enough. Rebecca Kelly Slaughter, one of the dissenting FTC commissioners, said “Even though this settlement is historic, in order to support it I would have to be confident that its combined terms would effectively deter Facebook from engaging in future law violations and send the message that order violations are not worth the risk.”<sup>2</sup>
+Sprawa ta nie ma precedensu, ale tak naprawdę konsekwencje nie są wystarczająco dotkliwe. Rebecca Kelly Slaughter, jedna z komisarz Federalnej Komisji Handlu, powiedziała: „To prawda, że ta kara ma wymiar historyczny. Jednak aby dawała nadzieję na realne zmiany, należałoby upewnić się, że jej warunki skutecznie zniechęcą Facebooka do łamania prawa w przyszłości i są przestrogą dla innych, że ryzyko, jakie niosą działania niezgodne z prawem, jest większe niż korzyści, jakie można w ten sposób osiągnąć”<sup>2</sup>.
+
+
+;<strong>That’s why the work we continue to do together to hold Facebook and other big tech companies accountable is so crucial.</strong> With your support, Mozilla will keep running strategic campaigns to protect consumers’ privacy.
+<strong>Właśnie dlatego nasza wspólna praca nad tym, aby giganci technologiczni pokroju Facebooka nie czuli się bezkarni, jest tak ważna.</strong> Dzięki Waszemu wsparciu Mozilla będzie dalej prowadzić kampanie na rzecz ochrony prywatności konsumentów.
+
+
+;Some have said that this FTC settlement was just a slap on the wrist for Facebook. In fact, this historic fine represented only 1 month of Facebook’s profits.<sup>3</sup> That’s why it is going to take all of us – working on consumer advocacy, policy, and more – to hold Facebook to account and push for comprehensive, effective privacy protections for users.
+Niektórzy twierdzą, że wysokość grzywny nałożonej przez Federalną Komisję Handlu Stanów Zjednoczonych jest symboliczna – tak naprawdę jest ona równa zaledwie miesięcznym zyskom Facebooka<sup>3</sup>. Dlatego też, aby firma czuła obowiązek stosowania skutecznych i kompleksowych procedur ochrony prywatności użytkowników, wszyscy musimy zabiegać między innymi o ochronę interesów konsumentów i odpowiednie przepisy prawa.
+
+
+;Thank you,
+Dziękujemy,
+
+
+;Kaili on behalf of the Mozilla team
+Kaili – w imieniu zespołu Mozilla
+
+
+;P.S. We’ll stay active on protecting personal data and fighting for security – and continue to hold Facebook and the other big tech companies accountable. <strong>Will you support Mozilla’s work with a contribution so we can keep running effective advocacy campaigns like this one?</strong>
+P.S. Nie ustajemy w naszych działaniach na rzecz ochrony danych osobowych i prywatności – nadal będziemy pociągać do odpowiedzialności Facebooka oraz innych gigantów technologicznych. <strong>Czy wesprzesz nas w tej walce finansowo, abyśmy mogli prowadzić skuteczne kampanie, takie jak ta?</strong>
+
+
+# Button
+;Yes, I’ll chip in
+Tak, chętnie Was wesprę.
+
+
+;Sources:
+Źródła:
+
+
+;1. Tony Romm, “Facebook deceived users about the way it used phone numbers, facial recognition, FTC to allege in complaint,” The Washington Post, July 23, 2019.
+1. Tony Romm, „Facebook deceived users about the way it used phone numbers, facial recognition, FTC to allege in complaint”, The Washington Post, 23 lipca 2019 r.
+
+
+;2. David McCabe, “Facebook settles with FTC regulators over privacy,” Axios, July 24, 2019.
+2. David McCabe, „Facebook settles with FTC regulators over privacy”, Axios, 24 lipca 2019 r.
+
+
+;3. Nilay Patel, “Facebook’s $5 billion FTC fine is an embarrassing joke,” The Verge, July 24, 2019.
+3. Nilay Patel, „Facebook’s $5 billion FTC fine is an embarrassing joke”, The Verge, 24 lipca 2019 r.
