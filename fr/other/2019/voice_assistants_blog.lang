@@ -7,44 +7,44 @@ How to opt out of human review of your voice assistant recordings
 
 
 ;If you have a voice assistant in your home or on your phone, have you ever been concerned that someone from the company could listen to your voice recordings?
-If you have a voice assistant in your home or on your phone, have you ever been concerned that someone from the company could listen to your voice recordings?
+Si vous avez un assistant vocal chez vous ou sur votre téléphone, vous êtes-vous déjà demandé⋅e si un employé de l’entreprise pouvait écouter vos enregistrements vocaux ?
 
 
 ;Recent news coverage confirms that suspicion.
-Recent news coverage confirms that suspicion.
+L’actualité des derniers jours confirme ces craintes.
 
 
 ;At the end of July, <a>The Guardian reported</a> that people at Apple were regularly listening to recordings of deeply personal events such as conversations with doctors, sexual encounters, and other moments. While the effort was designed as a quality control measure, users likely had no idea that some of their utterances were being recorded and reviewed by humans.
-At the end of July, <a>The Guardian reported</a> that people at Apple were regularly listening to recordings of deeply personal events such as conversations with doctors, sexual encounters, and other moments. While the effort was designed as a quality control measure, users likely had no idea that some of their utterances were being recorded and reviewed by humans.
+Fin juillet, <a>le Guardian a révélé</a> que des employés d’Apple écoutaient régulièrement des enregistrements de moments extrêmement privés, tels que des conversations avec des médecins, des relations sexuelles et d’autres encore. Bien que cette initiative ait été mise en place comme une mesure de contrôle de la qualité, les utilisateurs et utilisatrices ne savaient probablement pas qu’une partie de ce qu’ils prononçaient était enregistré et écouté par des humains.
 
 
 ;Since then, <a>Apple has temporarily suspended its human review program</a>. Google has been forced to pause its own review program in the EU and Amazon is now giving users the ability to opt-out.
-Since then, <a>Apple has temporarily suspended its human review program</a>. Google has been forced to pause its own review program in the EU and Amazon is now giving users the ability to opt-out.
+Depuis lors, <a>Apple a temporairement suspendu son programme de contrôle humain</a>. Google a été contraint de suspendre son propre programme de contrôle dans l’Union européenne et Amazon offre désormais aux utilisateurs et utilisatrices la possibilité de ne pas participer.
 
 
 ;Mozilla has put together a guide for you to change your privacy settings on voice assistants.
-Mozilla has put together a guide for you to change your privacy settings on voice assistants.
+Mozilla a élaboré un guide pour vous aider à modifier vos paramètres de vie privée sur les assistants vocaux.
 
 
 # Alt text
 ;Which voice assistants use human review of recordings
-Which voice assistants use human review of recordings
+Quels assistants vocaux procèdent à un examen humain des enregistrements
 
 
 ;Even with these additional privacy controls, there are still a number of concerns raised by these programs that haven’t yet been resolved. Some of those concerns are:
-Even with these additional privacy controls, there are still a number of concerns raised by these programs that haven’t yet been resolved. Some of those concerns are:
+Malgré ces paramètres de vie privée supplémentaires, ces programmes soulèvent toujours un certain nombre de préoccupations qui n’ont pas encore été résolues. Certaines de ces préoccupations sont :
 
 
 ;For users who don’t opt-out, workers at Amazon and Google are still listening to a small segment of recordings from people’s smart voice assistants and despite efforts to anonymize that data, <a>recordings can contain sensitive and personally identifiable information</a>.
-For users who don’t opt-out, workers at Amazon and Google are still listening to a small segment of recordings from people’s smart voice assistants and despite efforts to anonymize that data, <a>recordings can contain sensitive and personally identifiable information</a>.
+Pour les utilisateurs et utilisatrices qui n’ont pas refusé l’écoute, les employés d’Amazon et de Google écoutent toujours un petit pourcentage d’enregistrements provenant d’assistants vocaux intelligents. Malgré les efforts déployés pour rendre ces données anonymes, <a>ces enregistrements peuvent contenir des informations sensibles et personnellement identifiables</a>.
 
 
 ;In many cases, recordings were made even without someone saying the wake word (“Hey Google”) or because they said something that sounded similar to the wake word (such as “Syria” – alerting Apple’s Siri). People may not have known they were being recorded once the device was triggered to listen.
-In many cases, recordings were made even without someone saying the wake word (“Hey Google”) or because they said something that sounded similar to the wake word (such as “Syria” – alerting Apple’s Siri). People may not have known they were being recorded once the device was triggered to listen.
+Dans de nombreux cas, les enregistrements ont été réalisés sans que personne ne prononce le mot déclencheur (« OK Google ») ou parce qu’on a dit quelque chose qui ressemblait au mot déclencheur (comme « Syrie », activant Siri d’Apple). Les gens ne savaient peut-être pas qu’ils étaient enregistrés une fois que l’appareil avait été activé pour écouter.
 
 
 ;Until recent reporting on this issue, <a>these review programs were not clearly disclosed to users</a> and some like Amazon’s did not give users the ability to opt in/out. What’s more, news continues to break that other companies, like Facebook, are also employing human review of users’ voice content without previous disclosure. This raises questions about what meaningful consent should look like when people’s data is used to train a model to improve the product.
-Until recent reporting on this issue, <a>these review programs were not clearly disclosed to users</a> and some like Amazon’s did not give users the ability to opt in/out. What’s more, news continues to break that other companies, like Facebook, are also employing human review of users’ voice content without previous disclosure. This raises questions about what meaningful consent should look like when people’s data is used to train a model to improve the product.
+Jusqu’aux révélations récentes sur cette question, <a>ces programmes d’analyse n’étaient pas clairement divulgués aux utilisateurs et utilisatrices</a>. Certains, comme Amazon, ne permettaient pas aux personnes de choisir de participer ou non. De plus, de nouvelles informations continuent à être publiées, à savoir que d’autres sociétés, telles que Facebook, ont également recours à l’analyse humaine d’autres types de contenus vocaux sans information claire au préalable. Ce qui soulève des questions sur ce à quoi devrait ressembler un consentement significatif quand les données des personnes sont utilisées pour entraîner un modèle qui permet d’améliorer le produit.
 
 
 ;We will keep monitoring the developments on the issue, and of course advocate for disclosure and stronger privacy protections in publications like our <i>Privacy Not Included</i> and more. But in the meantime, <strong>it is important that consumers like you know how to set the privacy settings for your own voice assistant</strong>.
