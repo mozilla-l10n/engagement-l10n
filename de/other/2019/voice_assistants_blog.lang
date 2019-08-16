@@ -3,55 +3,55 @@
 
 # Title
 ;How to opt out of human review of your voice assistant recordings
-How to opt out of human review of your voice assistant recordings
+So deaktivieren Sie die menschliche Überprüfung der Aufnahmen Ihres Sprachassistenten
 
 
 ;If you have a voice assistant in your home or on your phone, have you ever been concerned that someone from the company could listen to your voice recordings?
-If you have a voice assistant in your home or on your phone, have you ever been concerned that someone from the company could listen to your voice recordings?
+Wenn Sie zu Hause oder am Telefon einen Sprachassistenten haben, hatten Sie jemals Bedenken, dass jemand aus dem Unternehmen Ihre Sprachaufzeichnungen anhören könnte?
 
 
 ;Recent news coverage confirms that suspicion.
-Recent news coverage confirms that suspicion.
+Die jüngste Berichterstattung bestätigt diesen Verdacht.
 
 
 ;At the end of July, <a>The Guardian reported</a> that people at Apple were regularly listening to recordings of deeply personal events such as conversations with doctors, sexual encounters, and other moments. While the effort was designed as a quality control measure, users likely had no idea that some of their utterances were being recorded and reviewed by humans.
-At the end of July, <a>The Guardian reported</a> that people at Apple were regularly listening to recordings of deeply personal events such as conversations with doctors, sexual encounters, and other moments. While the effort was designed as a quality control measure, users likely had no idea that some of their utterances were being recorded and reviewed by humans.
+Ende Juli <a>berichtete The Guardian</a>, dass Apple-Mitarbeiter regelmäßig Aufzeichnungen von äußerst persönlichen Ereignissen wie Gesprächen mit Ärzten, sexuellen Begegnungen und anderen Momenten hörten. Obwohl dies als Qualitätskontrollmaßnahme gedacht war, hatten Benutzer wahrscheinlich keine Ahnung, dass einige ihrer Äußerungen von Menschen aufgezeichnet und überprüft wurden.
 
 
 ;Since then, <a>Apple has temporarily suspended its human review program</a>. Google has been forced to pause its own review program in the EU and Amazon is now giving users the ability to opt-out.
-Since then, <a>Apple has temporarily suspended its human review program</a>. Google has been forced to pause its own review program in the EU and Amazon is now giving users the ability to opt-out.
+Seitdem hat <a>Apple sein menschliches Überprüfungsprogramm vorübergehend ausgesetzt</a>. Google war gezwungen, sein eigenes Überprüfungsprogramm in der EU vorläufig einzustellen, und Amazon bietet seinen Nutzern nun die Möglichkeit, die Option zu deaktivieren.
 
 
 ;Mozilla has put together a guide for you to change your privacy settings on voice assistants.
-Mozilla has put together a guide for you to change your privacy settings on voice assistants.
+Mozilla hat eine Anleitung zusammengestellt, mit der Sie Ihre Datenschutzeinstellungen für Sprachassistenten ändern können.
 
 
 # Alt text
 ;Which voice assistants use human review of recordings
-Which voice assistants use human review of recordings
+Welche Sprachassistenten verwenden die menschliche Überprüfung von Aufzeichnungen?
 
 
 ;Even with these additional privacy controls, there are still a number of concerns raised by these programs that haven’t yet been resolved. Some of those concerns are:
-Even with these additional privacy controls, there are still a number of concerns raised by these programs that haven’t yet been resolved. Some of those concerns are:
+Trotz dieser zusätzlichen Datenschutzkontrollen gibt es immer noch eine Reihe von Bedenken, die von diesen Programmen aufgeworfen wurden und die noch nicht gelöst wurden. Einige dieser Bedenken sind:
 
 
 ;For users who don’t opt-out, workers at Amazon and Google are still listening to a small segment of recordings from people’s smart voice assistants and despite efforts to anonymize that data, <a>recordings can contain sensitive and personally identifiable information</a>.
-For users who don’t opt-out, workers at Amazon and Google are still listening to a small segment of recordings from people’s smart voice assistants and despite efforts to anonymize that data, <a>recordings can contain sensitive and personally identifiable information</a>.
+Für Benutzer, die diese Funktion nicht deaktivieren möchten, hören die Mitarbeiter von Amazon und Google immer noch einen kleinen Teil der Aufzeichnungen von intelligenten Sprachassistenten. Trotz der Bemühungen, diese Daten zu anonymisieren, <a>können die Aufzeichnungen vertrauliche und persönlich identifizierbare Informationen enthalten</a>.
 
 
 ;In many cases, recordings were made even without someone saying the wake word (“Hey Google”) or because they said something that sounded similar to the wake word (such as “Syria” – alerting Apple’s Siri). People may not have known they were being recorded once the device was triggered to listen.
-In many cases, recordings were made even without someone saying the wake word (“Hey Google”) or because they said something that sounded similar to the wake word (such as “Syria” – alerting Apple’s Siri). People may not have known they were being recorded once the device was triggered to listen.
+In vielen Fällen wurden Aufzeichnungen gemacht, ohne dass jemand das Weckwort sagte („Hey Google“) oder weil er etwas sagte, das dem Weckwort ähnelte (wie „Syrien“ – was Apples Siri anspricht). Einige Menschen wussten wohl nicht, dass ihre Worte aufgenommen wurden, als die Aufzeichnungsfunktion des Gerätes aktiviert wurde.
 
 
 ;Until recent reporting on this issue, <a>these review programs were not clearly disclosed to users</a> and some like Amazon’s did not give users the ability to opt in/out. What’s more, news continues to break that other companies, like Facebook, are also employing human review of users’ voice content without previous disclosure. This raises questions about what meaningful consent should look like when people’s data is used to train a model to improve the product.
-Until recent reporting on this issue, <a>these review programs were not clearly disclosed to users</a> and some like Amazon’s did not give users the ability to opt in/out. What’s more, news continues to break that other companies, like Facebook, are also employing human review of users’ voice content without previous disclosure. This raises questions about what meaningful consent should look like when people’s data is used to train a model to improve the product.
+Bis zur jüngsten Berichterstattung zu diesem Problem <a>wurden diese Überprüfungsprogramme den Nutzern nicht eindeutig mitgeteilt</a>, und einige wie Amazon gaben den Nutzern nicht die Möglichkeit, diese Option zu deaktivieren. Darüber gibt es auch weiterhin Berichte, dass andere Unternehmen wie Facebook ohne vorherige Offenlegung auch eine Überprüfung der Sprachinhalte von Nutzern durch den Menschen durchführen. Dies wirft Fragen auf, wie eine sinnvolle Einwilligung aussehen sollte, wenn die Daten von Personen verwendet werden, um ein Modell zur Verbesserung des Produkts zu trainieren.
 
 
 ;We will keep monitoring the developments on the issue, and of course advocate for disclosure and stronger privacy protections in publications like our <i>Privacy Not Included</i> and more. But in the meantime, <strong>it is important that consumers like you know how to set the privacy settings for your own voice assistant</strong>.
-We will keep monitoring the developments on the issue, and of course advocate for disclosure and stronger privacy protections in publications like our <i>Privacy Not Included</i> and more. But in the meantime, <strong>it is important that consumers like you know how to set the privacy settings for your own voice assistant</strong>.
+Wir werden die Entwicklungen zu diesem Thema weiter verfolgen und uns natürlich für eine Offenlegung und einen stärkeren Schutz der Privatsphäre durch Publikationen wie unserem Leitfaden <i>Datenschutz nicht inbegriffen</i> und mehr einsetzen. <strong>In der Zwischenzeit ist es wichtig, dass Kunden wie Sie wissen, wie die Datenschutzeinstellungen für Ihren eigenen Sprachassistenten geändert werden können.</strong>
 
 
 ;After you change your own settings, will you use the share buttons below to share the graphics with your friends and family?
-After you change your own settings, will you use the share buttons below to share the graphics with your friends and family?
+Wenn Sie Ihre eigenen Einstellungen geändert haben, teilen Sie dann die Grafiken mithilfe der folgenden Schaltflächen mit Ihren Freunden und Ihrer Familie?
 
 
