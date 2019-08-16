@@ -3,72 +3,72 @@
 
 # Subject line
 ;Who listens to what you ask Siri?
-Who listens to what you ask Siri?
+Wer hört sich an, was Sie Siri fragen?
 
 
 # Subject line
 ;Is Alexa always listening?
-Is Alexa always listening?
+Hört Alexa immer zu?
 
 
 # Subject line
 ;Who listens to your Google Home recordings?
-Who listens to your Google Home recordings?
+Wer hört Ihre Google-Home-Aufzeichnungen?
 
 
 # Subject line
 ;Have a voice assistant? Here’s how you can protect your privacy.
-Have a voice assistant? Here’s how you can protect your privacy.
+Haben Sie einen Sprachassistenten? So können Sie Ihre Privatsphäre schützen.
 
 
 # Preheader
 ;Concerned that your voice assistant is spying on you? Here’s how to opt-out.
-Concerned that your voice assistant is spying on you? Here’s how to opt-out.
+Machen Sie sich Sorgen, dass Ihr Sprachassistent Sie bespitzelt? Hier erfahren Sie, wie Sie sich abmelden können.
 
 
 ;Amazon, Apple and Google have most of the market share of voice assistants. With recent coverage of their human review process, many consumers are concerned about their privacy.  That’s why we put together this infographic so people like you can more easily control your privacy settings.
-Amazon, Apple and Google have most of the market share of voice assistants. With recent coverage of their human review process, many consumers are concerned about their privacy.  That’s why we put together this infographic so people like you can more easily control your privacy settings.
+Amazon, Apple und Google haben den größten Marktanteil bei Sprachassistenten. Angesichts der jüngsten Berichterstattung über ihren menschlichen Überprüfungsprozess sind viele Verbraucher besorgt über ihre Privatsphäre. Aus diesem Grund haben wir diese Infografik zusammengestellt, damit Menschen wie Sie Ihre Datenschutzeinstellungen einfacher steuern können.
 
 
 ;Share the graphic
-Share the graphic
+Die Grafik teilen
 
 
 ;If you have a voice assistant in your home or on your phone, have you ever been concerned that someone from the company could listen to your voice recordings?
-If you have a voice assistant in your home or on your phone, have you ever been concerned that someone from the company could listen to your voice recordings?
+Wenn Sie zu Hause oder am Telefon einen Sprachassistenten haben, hatten Sie jemals Bedenken, dass jemand aus dem Unternehmen Ihre Sprachaufzeichnungen anhören könnte?
 
 
 ;Recent news coverage confirms that suspicion.
-Recent news coverage confirms that suspicion.
+Die jüngste Berichterstattung bestätigt diesen Verdacht.
 
 
 ;At the end of July, The Guardian reported that people at Apple were regularly listening to recordings of deeply personal events such as conversations with doctors, sexual encounters, and other moments. While the effort was designed as a quality control measure, users likely had no idea that some of their utterances were being recorded and reviewed by humans.<sup>1</sup>
-At the end of July, The Guardian reported that people at Apple were regularly listening to recordings of deeply personal events such as conversations with doctors, sexual encounters, and other moments. While the effort was designed as a quality control measure, users likely had no idea that some of their utterances were being recorded and reviewed by humans.<sup>1</sup>
+Ende Juli berichtete The Guardian, dass Apple-Mitarbeiter regelmäßig Aufzeichnungen von äußerst persönlichen Ereignissen wie Gesprächen mit Ärzten, sexuellen Begegnungen und anderen Momenten hörten. Obwohl dies als Qualitätskontrollmaßnahme gedacht war, hatten Benutzer wahrscheinlich keine Ahnung, dass einige ihrer Äußerungen von Menschen aufgezeichnet und überprüft wurden.<sup>1</sup>
 
 
 ;Since then, Apple has temporarily suspended its human review program.<sup>2</sup> Google has been forced to pause its own review program in the EU and Amazon is now giving users the ability to opt-out.
-Since then, Apple has temporarily suspended its human review program.<sup>2</sup> Google has been forced to pause its own review program in the EU and Amazon is now giving users the ability to opt-out.
+Seitdem hat Apple sein menschliches Überprüfungsprogramm vorübergehend ausgesetzt.<sup>2</sup> Google war gezwungen, sein eigenes Überprüfungsprogramm in der EU vorläufig einzustellen, und Amazon bietet seinen Nutzern nun die Möglichkeit, die Option zu deaktivieren.
 
 
 ;Mozilla has put together a guide for you to change your privacy settings on voice assistants.
-Mozilla has put together a guide for you to change your privacy settings on voice assistants.
+Mozilla hat eine Anleitung zusammengestellt, mit der Sie Ihre Datenschutzeinstellungen für Sprachassistenten ändern können.
 
 
 # Link to blog post
 ;Click here to learn how to change your settings and to share the graphic.
-Click here to learn how to change your settings and to share the graphic.
+Klicken Sie hier, um zu erfahren, wie Sie Ihre Einstellungen ändern und die Grafik teilen können.
 
 
 ;Even with these additional privacy controls, there are still a number of concerns raised by these programs that haven’t yet been resolved. Some of those concerns are:
-Even with these additional privacy controls, there are still a number of concerns raised by these programs that haven’t yet been resolved. Some of those concerns are:
+Trotz dieser zusätzlichen Datenschutzkontrollen gibt es immer noch eine Reihe von Bedenken, die von diesen Programmen aufgeworfen wurden und die noch nicht gelöst wurden. Einige dieser Bedenken sind:
 
 
 ;For users who don’t opt-out, workers at Amazon and Google are still listening to a small segment of recordings from people’s smart voice assistants and despite efforts to anonymize that data, recordings can contain sensitive and personally identifiable information.<sup>3</sup>
-For users who don’t opt-out, workers at Amazon and Google are still listening to a small segment of recordings from people’s smart voice assistants and despite efforts to anonymize that data, recordings can contain sensitive and personally identifiable information.<sup>3</sup>
+Für Benutzer, die diese Funktion nicht deaktivieren möchten, hören die Mitarbeiter von Amazon und Google immer noch einen kleinen Teil der Aufzeichnungen von intelligenten Sprachassistenten. Trotz der Bemühungen, diese Daten zu anonymisieren, können die Aufzeichnungen vertrauliche und persönlich identifizierbare Informationen enthalten.<sup>3</sup>
 
 
 ;In many cases, recordings were made even without someone saying the wake word (“Hey Google”) or because they said something that sounded similar to the wake word (such as “Syria” – alerting Apple’s Siri). People may not have known they were being recorded once the device was triggered to listen.<sup>4,5</sup>
-In many cases, recordings were made even without someone saying the wake word (“Hey Google”) or because they said something that sounded similar to the wake word (such as “Syria” – alerting Apple’s Siri). People may not have known they were being recorded once the device was triggered to listen.<sup>4,5</sup>
+In vielen Fällen wurden Aufzeichnungen gemacht, ohne dass jemand das Weckwort sagte („Hey Google“) oder weil er etwas sagte, das dem Weckwort ähnelte (wie „Syrien“ – was Apples Siri anspricht). Einige Menschen wussten wohl nicht, dass ihre Worte aufgenommen wurden, als die Aufzeichnungsfunktion des Gerätes aktiviert wurde.<sup>4,5</sup>
 
 
 ;Until recent reporting on this issue, these review programs were not clearly disclosed to users and some like Amazon’s did not give users the ability to opt in/out. What’s more, news continues to break that other companies, like Facebook are also employing human review of other types of users’ voice content without previous disclosure. This raises questions about what meaningful consent should look like when people’s data is used to train a model to improve the product.<sup>6,7</sup>
