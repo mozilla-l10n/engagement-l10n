@@ -1,17 +1,14 @@
 # Subject line
-## TAG: subject_line
 ;A 5 second action for Mozilla
 A 5 second action for Mozilla
 
 
 # Subject line
-## TAG: subject_line
 ;Quick Question
 Quick Question
 
 
 # Preheader
-## TAG: preheader
 ;A quick question for you regarding Mozilla’s focus on AI
 A quick question for you regarding Mozilla’s focus on AI
 
@@ -21,12 +18,10 @@ A quick question for you regarding Mozilla’s focus on AI
 Artificial Intelligence
 
 
-## TAG: greeting
 ;Dear Supporter,
 Dear Supporter,
 
 
-## TAG: greeting
 # Alternative greeting (do not translate [firstname])
 ;Dear [firstname],
 Dear [firstname],
@@ -65,3 +60,5 @@ As part of our community of 2M Mozillians around the world, we’d like your qui
 
 ;Thank you in advance for your quick participation — your feedback will help us plan out our initiatives towards internet health in the year ahead.
 Thank you in advance for your quick participation — your feedback will help us plan out our initiatives towards internet health in the year ahead.
+
+
