@@ -47,8 +47,8 @@ Hey there,
 Hey [firstname],
 
 
-;I’ll keep this email short.
-I’ll keep this email short.
+;We will keep this email short.
+We will keep this email short.
 
 
 ;We’re hard at work here at Mozilla trying to make your digital world better.
@@ -78,5 +78,40 @@ Thank you for the support!
 
 ;The Mozilla Team
 The Mozilla Team
+
+
+# Copy for a follow-up email
+;Dear Mozilla supporter,
+Dear Mozilla supporter,
+
+
+# Copy for a follow-up email. (do not translate [firstname])
+;Dear [firstname],
+Dear [firstname],
+
+
+# Copy for a follow-up email
+;In our recent emails, we’ve shown you how we’re challenging companies like YouTube to prevent manipulation and misinformation on their platforms.
+In our recent emails, we’ve shown you how we’re challenging companies like YouTube to prevent manipulation and misinformation on their platforms.
+
+
+# Copy for a follow-up email
+;Now we’ve decided to take the fight to the next level. We plan to publish full-page ads in leading US and European papers calling on big tech companies to work harder to stop this type of abuse.
+Now we’ve decided to take the fight to the next level. We plan to publish full-page ads in leading US and European papers calling on big tech companies to work harder to stop this type of abuse.
+
+
+# Copy for a follow-up email
+;So we’re hoping you can <a>chip in with a contribution to Mozilla today</a> and help us meet our overall fundraising goal of $150,000 (~€135,000) for this campaign. We’ll keep you updated on the results of this work and the next steps for you to get involved!
+So we’re hoping you can <a>chip in with a contribution to Mozilla today</a> and help us meet our overall fundraising goal of $150,000 (~€135,000) for this campaign. We’ll keep you updated on the results of this work and the next steps for you to get involved!
+
+
+# Copy for a follow-up email
+;Thanks so much,
+Thanks so much,
+
+
+# Copy for a follow-up email
+;(original message below)
+(original message below)
 
 
