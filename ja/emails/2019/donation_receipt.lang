@@ -24,7 +24,7 @@ Mozilla スタッフよりご寄付のお礼
 
 
 ;Dear Friend,
-Dear Friend,
+親愛なる友人へ
 
 
 ;Dear [FirstName],
@@ -80,11 +80,11 @@ Donation Receipt for your records
 
 # Final string will read like “Donation Amount: 25.00 USD”
 ;Donation Amount: {amount} {currency}
-Donation Amount: {amount} {currency}
+寄付金額: {amount} {currency}
 
 
 ;Donation Date: {date} UTC
-Donation Date: {date} UTC
+寄付日: {date} UTC
 
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
@@ -93,20 +93,20 @@ yyyy/mm/dd
 
 
 ;Donation frequency:
-Donation frequency:
+寄付頻度:
 
 
 ;One-Time
-One-Time
+1 度だけ
 
 
 ;Recurring
-Recurring
+定期的
 
 
 # Payment method (Credit Card or PayPal)
 ;Via:
-Via:
+決済手段:
 
 
 ;Credit Card
@@ -115,7 +115,7 @@ Via:
 
 # Credit card last 4 digits
 ;Card ending in:
-Card ending in:
+カード番号の末尾:
 
 
 # Donor email address
@@ -128,7 +128,7 @@ Received from:
 
 
 ;Thanks again for your donation.
-Thanks again for your donation.
+ご寄付いただきありがとうございます。
 
 
 ;You have authorized Mozilla Foundation to withdraw PayPal payments on a monthly basis (on this, the {nth} day of the month) in the amount shown above until you cancel.
@@ -165,7 +165,7 @@ Mozilla is happy to refund your donation at any time up to 15 days after the dat
 
 
 ;If you still need help, please send an email to us at donate@mozilla.org.
-If you still need help, please send an email to us at donate@mozilla.org.
+それでも手助けが必要な場合は、donate@mozilla.org にメールを送ってください。
 
 
 ;Contributions go to the Mozilla Foundation, a 501(c)(3) organization based in Mountain View, California, to support Thunderbird. Mozilla reserves the right to find another use for the funds if it determines that Thunderbird is no longer furthering Mozilla’s mission.
