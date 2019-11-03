@@ -2,25 +2,25 @@
 
 
 ;(Receipt) We can’t say this enough…
-(Receipt) We can’t say this enough…
+(領収書) ご支援ありがとうございます
 
 
 ;(Receipt) We can’t say this enough… thanks for your recurring donation!
-(Receipt) We can’t say this enough… thanks for your recurring donation!
+(領収書) 寄付のご登録ありがとうございます
 
 
 ;From everyone here at Mozilla, thank you!
-From everyone here at Mozilla, thank you!
+Mozilla よりご寄付のお礼
 
 
 # Image alt tag
 ;From the Thunderbird team, thank you!!
-From the Thunderbird team, thank you!!
+Thunderbird チームよりご寄付のお礼
 
 
 # Image alt tag
 ;From the staff and fellows at Mozilla, thank you!!
-From the staff and fellows at Mozilla, thank you!!
+Mozilla スタッフよりご寄付のお礼
 
 
 ;Dear Friend,
@@ -36,30 +36,30 @@ Thank you. Thank you! <strong>THANK YOU!</strong>
 
 
 ;Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
-Thunderbird is the leading open source cross-platform email and calendaring client. By donating, you’ve contributed towards product development, and helped ensure Thunderbird stays free and open. Every gift is so important.
+Thunderbird は最も先進的なオープンソース・クロスプラットフォームの電子メール・カレンダークライアントです。Thunderbird のフリーでオープンな開発体制は寄付によって支えられており、皆様からの支援はとても重要な役割を果たします。
 
 
 # Link goes to https://blog.mozilla.org/thunderbird/
 ;On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
-On behalf of all of us, thank you so much for your donation to Thunderbird. To stay informed about all the great work your donation supports, please visit our <a>Thunderbird blog.</a>
+Thunderbird をご支援いただき、誠にありがとうございます。開発チームを代表してお礼申し上げます。ご支援いただいたチームの最新の活動情報は <a>Thunderbird ブログ</a> をご覧ください。
 
 
 ;- The Thunderbird Team
-- The Thunderbird Team
+- Thunderbird チーム
 
 
 # “I” is Mark Surman here (he/him)
 ;Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
-Yes, I’m shouting. Because I really, truly want you to hear how grateful I am — all of us here at Mozilla are — for your recent donation. We understand you work hard for your money, and to give it to us with the trust we will use it wisely to fight for a healthier internet means a lot. We won’t let you down.
+私は今回いただいた寄付に対して、ここにいる Mozilla のメンバーたちがどれほど感謝しているかを、なんとしても皆様に伝えたいと思っています。皆様からいただく寄付の源は皆様が一生懸命に稼いだお金であり、私たちが健全なインターネットのために戦う意義を理解いただいた上でその資産を提供いただけることは、多くの重要な意味を持っています。皆様のご厚意は決して無駄にしません。
 
 
 # “I” is Mark Surman here (he/him)
 ;We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
-We’ll put your donation to good use working to make the internet, and hopefully the world, a better place. I hope you’ll join us, as this work isn’t something we can do without you. To stay informed about all the great work your donation supports, please visit our <a>Mozilla Foundation website.</a>
+私たちはいただいた寄付をインターネット、ひいては世界をより良いものにしていくために役立てたいと考えています。皆様は私たちのチームの一員であり、皆様の存在なくして私たちが活動することはできません。皆様の寄付が私たちの活動に役立てられている様子は、<a>Mozilla Foundation のウェブサイト</a>からご覧ください。
 
 
 ;<strong>Thank you!</strong>
-<strong>Thank you!</strong>
+<strong>ありがとう！</strong>
 
 
 ;Sincerely,
@@ -67,7 +67,7 @@ Sincerely,
 
 
 ;Mark Surman and all of us at Mozilla
-Mark Surman and all of us at Mozilla
+Mark Surman および Mozilla 一同より
 
 
 ;P.S. You can also keep up with the great work your donation supports — <strong>and</strong> get smarter about your life online — by <a>signing up</a> for our informative Mozilla newsletters.
@@ -89,7 +89,7 @@ Donation Date: {date} UTC
 
 # Pick a date format between “mm/dd/yyyy” and “dd/mm/yyyy”, whether day/month or month/day ordering makes most sense in your locale.
 ;dd/mm/yyyy
-dd/mm/yyyy
+yyyy/mm/dd
 
 
 ;Donation frequency:
@@ -110,7 +110,7 @@ Via:
 
 
 ;Credit Card
-Credit Card
+クレジットカード
 
 
 # Credit card last 4 digits
@@ -124,7 +124,7 @@ Received from:
 
 
 ;Transaction ID:
-Transaction ID:
+トランザクション ID:
 
 
 ;Thanks again for your donation.
