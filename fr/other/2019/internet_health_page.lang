@@ -1,95 +1,91 @@
-## NOTE: MoFo Initiatives page: https://foundation.mozilla.org/internet-health/
+## NOTE: Internet Health page: https://foundation.mozilla.org/internet-health/
 
 
-# Page title
+# Title for the Internet Health page: https://foundation.mozilla.org/internet-health/
 ;Internet Health
 La santé d’Internet
 
 
-;One of the cornerstones of Mozilla’s mission is using the language of “Internet Health” as a way of breaking the larger concept of a representative open web into areas that directly impact people’s lives.
-L’une des pierres angulaires de la mission de Mozilla consiste à regrouper sous le concept de « Santé d’Internet » plusieurs domaines représentatifs du Web ouvert qui ont une incidence directe sur la vie des personnes.
+;What do we mean by “internet health?”
+What do we mean by “internet health?”
 
 
-;To explain how the internet could be healthier for people, we collaborate with researchers to create an annual Internet Health Report. It highlights five key issues:
-Pour expliquer comment Internet peut être plus sain pour les gens, nous collaborons avec des chercheurs afin de créer un rapport annuel sur la santé d’Internet. Il met en évidence cinq enjeux clés :
+;A healthy internet is one in which privacy, openness and inclusion are the norms. These are values Mozilla has championed from the beginning in our <a>Mozilla Manifesto</a>.
+A healthy internet is one in which privacy, openness and inclusion are the norms. These are values Mozilla has championed from the beginning in our <a>Mozilla Manifesto</a>.
 
 
-# Icon alt text
-;privacy and securtity icon
-icône vie privée et sécurité
+;Read the Manifesto →
+Read the Manifesto →
 
 
-;Privacy & Security
-Vie privée et sécurité
+;<strong>For over 4 billion people, the internet is an integral part of our everyday lives.</strong> It’s how we connect with our friends, families, co-workers and collaborators. It educates, entertains and provides access to goods and services. It’s the essential infrastructure powering business, commerce, and increasingly, society at large. For the 50% of the world that is not yet online, building a positive future online that is inclusive and accessible is key. <strong>The internet is a constantly evolving digital environment that shapes our lives and livelihoods.</strong>
+<strong>For over 4 billion people, the internet is an integral part of our everyday lives.</strong> It’s how we connect with our friends, families, co-workers and collaborators. It educates, entertains and provides access to goods and services. It’s the essential infrastructure powering business, commerce, and increasingly, society at large. For the 50% of the world that is not yet online, building a positive future online that is inclusive and accessible is key. <strong>The internet is a constantly evolving digital environment that shapes our lives and livelihoods.</strong>
 
 
-;The safety and security of the Internet impacts us all. We should be able to understand what is happening to our data, and have the ability to control how it is used.
-La sécurité d’Internet nous impacte tous. Nous devrions être capable de comprendre ce qui arrive à nos données et avoir la possibilité de contrôler comment celles-ci sont utilisées.
+;Mozilla believes that we all have a stake in understanding and protecting the health of the internet. For this reason, the Mozilla Foundation is primarily focused on <strong>fueling an emerging movement of internet users, academics, thought-leaders and activists who are standing and fighting for a healthy internet for generations to come.</strong>
+Mozilla believes that we all have a stake in understanding and protecting the health of the internet. For this reason, the Mozilla Foundation is primarily focused on <strong>fueling an emerging movement of internet users, academics, thought-leaders and activists who are standing and fighting for a healthy internet for generations to come.</strong>
 
 
-# Icon alt text
-;openness icon
-icône ouverture
+# Should ideally match the EU terminology https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai
+;Trustworthy Artificial Intelligence
+Trustworthy Artificial Intelligence
 
 
-;Openness
-Ouverture
-
-
-;“Open” means that anyone can publish or invent online without asking for permission, and that the technologies used to run the Web are transparent and understandable.
-« Ouvert » signifie que quiconque peut publier ou inventer en ligne sans demander de permission et que les technologies utilisées pour le fonctionnement du Web sont transparentes et compréhensibles.
-
-
-# Icon alt text
-;Decentralization icon
-Icône de décentralisation
-
-
-;Decentralization
-Décentralisation
-
-
-;Decentralization means the Internet is controlled by many. It’s millions of devices linked together in an open network. No one actor can own it, control it, or switch it off for everyone.
-La décentralisation signifie qu’Internet est contrôlé par de nombreux acteurs. Il s’agit de millions d’appareils reliés entre eux dans une réseau ouvert. Un acteur seul ne peut ni le posséder, ni le contrôler ni l’éteindre pour tous.
-
-
-# Icon alt text
-;Digital Inclusion icon
-Icône d’inclusion numérique
-
-
-;Digital Inclusion
-Inclusion numérique
-
-
-;Everyone deserves equal opportunity to access the Internet, and to use it to improve their lives and societies.
-Chacun a droit à des chances égales d’accéder à Internet et de l’employer pour améliorer sa vie et la société.
-
-
-# Icon alt text
-;Web Literacy icon
-Icône Éducation à Internet
-
-
-;Web Literacy
-Éducation à Internet
-
-
-;We need everyone to have the skills to read, write and participate in the digital world, so more people can move beyond consuming to actually creating, shaping and defending the Web.
-Nous voulons que tout le monde ait les compétences nécessaires pour lire, écrire et participer au monde numérique. Ainsi, davantage de personnes pourront aller au-delà de la simple consommation pour créer, façonner et défendre le Web.
-
-
-;These five key issues touch the lives of all internet users. Join us in a partnership to better understand the problems and create solutions for a more healthy internet.
-Ces cinq enjeux clés touchent la vie de tous les internautes. Rejoignez-nous pour mieux comprendre les problèmes et créer des solutions pour un Internet plus sain.
+;In 2018, Mozilla identified the explosion of devices, platforms and products that include AI-enabled technologies as a key opportunity and threat to the health of the internet. After extensive research and deep consultation with allies, partners, industry, governments and civil society, we determined that stewarding and promoting “<a>Trustworthy AI</a>” was an urgent, critical issue directly related to internet health that we were uniquely positioned to take on. <strong>Mozilla has committed to direct the majority of our resources to this issue over the next few years.</strong>
+In 2018, Mozilla identified the explosion of devices, platforms and products that include AI-enabled technologies as a key opportunity and threat to the health of the internet. After extensive research and deep consultation with allies, partners, industry, governments and civil society, we determined that stewarding and promoting “<a>Trustworthy AI</a>” was an urgent, critical issue directly related to internet health that we were uniquely positioned to take on. <strong>Mozilla has committed to direct the majority of our resources to this issue over the next few years.</strong>
 
 
 # Button
-;Read the Report
-Lire le rapport
+;Read more about Trustworthy AI
+Read more about Trustworthy AI
 
 
-# Button
-;View Research Library
-Voir la bibliothèque des recherches
+;Here is how we are making an impact on internet health:
+Here is how we are making an impact on internet health:
+
+
+# Alt text
+;Internet Health Report
+Internet Health Report
+
+
+;The <a>Internet Health Report</a> is the Foundation’s open source initiative to document and explain what’s happening to the health of the internet. In 2019, more than 200 people contributed to the report.
+The <a>Internet Health Report</a> is the Foundation’s open source initiative to document and explain what’s happening to the health of the internet. In 2019, more than 200 people contributed to the report.
+
+
+# Alt text
+;Fellowships and Awards
+Fellowships and Awards
+
+
+;Mozilla’s <a>Fellowships</a> and <a>Awards</a> are an investment in innovators and leaders across the globe. Fellows and Awardees use their skill sets — in technology, in advocacy, in law, in art — to design products, run campaigns, influence policy and ultimately lay the groundwork for a more inclusive and open internet.
+Mozilla’s <a>Fellowships</a> and <a>Awards</a> are an investment in innovators and leaders across the globe. Fellows and Awardees use their skill sets — in technology, in advocacy, in law, in art — to design products, run campaigns, influence policy and ultimately lay the groundwork for a more inclusive and open internet.
+
+
+# Alt text
+;MozFest
+MozFest
+
+
+;<a>MozFest</a> is our annual gathering of educators, activists, technologists, researchers, artists, and young people dedicated to creating a better, healthier internet. Every year, more than 2,000 people from around the world gather to create art, build tools, write code and brainstorm products and policies that put social responsibility and the user first.
+<a>MozFest</a> is our annual gathering of educators, activists, technologists, researchers, artists, and young people dedicated to creating a better, healthier internet. Every year, more than 2,000 people from around the world gather to create art, build tools, write code and brainstorm products and policies that put social responsibility and the user first.
+
+
+# Alt text
+;Advocacy
+Advocacy
+
+
+;Mozilla’s <a>advocacy work</a> brings people together from around the world to educate and fight for privacy, inclusion, literacy, and all principles of a healthy internet.
+Mozilla’s <a>advocacy work</a> brings people together from around the world to educate and fight for privacy, inclusion, literacy, and all principles of a healthy internet.
+
+
+# Alt text
+;IRL
+IRL
+
+
+;The <a>IRL podcast</a> provides an in-depth look at how different internet health issues affect how people interact with technology and live their lives.
+The <a>IRL podcast</a> provides an in-depth look at how different internet health issues affect how people interact with technology and live their lives.
 
 
