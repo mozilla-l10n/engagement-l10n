@@ -3,15 +3,15 @@
 
 # Content of the Trustworthy AI page: https://foundation.mozilla.org/internet-health/trustworthy-artificial-intelligence/
 ;A majority of Mozilla’s movement building work is focused on developing trustworthy AI.
-A majority of Mozilla’s movement building work is focused on developing trustworthy AI.
+La majorité des efforts de Mozilla pour donner de l’élan au mouvement sont orientés vers le développement d’une IA digne de confiance.
 
 
 ;We need to move towards a world of AI that is helpful — rather than harmful — to human beings. For us, this means two things: human agency is a core part of how AI is built and integrated and corporate accountability is real and enforced.
-We need to move towards a world of AI that is helpful — rather than harmful — to human beings. For us, this means two things: human agency is a core part of how AI is built and integrated and corporate accountability is real and enforced.
+Nous devons évoluer vers un monde où l’intelligence artificielle est plus utile que nuisible pour les êtres humains. Pour nous, cela signifie deux choses : d’une part, l’interaction humaine est au cœur de la façon dont l’intelligence artificielle est conçue et intégrée, d’autre part la responsabilité des entreprises est réelle et contrainte.
 
 
 ;The need for this work is urgent. Daily, concerning stories hit the news about the effects of AI, big data and targeted marketing; and time and again we read that the public is losing trust in big tech yet doesn’t have any alternatives.
-The need for this work is urgent. Daily, concerning stories hit the news about the effects of AI, big data and targeted marketing; and time and again we read that the public is losing trust in big tech yet doesn’t have any alternatives.
+La nécessité de ce travail est urgente. Chaque jour sont publiés des articles concernant les effets de l’IA, du <i>Big Data</i> et du marketing ciblé. Et à maintes reprises, nous lisons que le public perd confiance dans les grands groupes high-tech sans pour autant avoir d’autres solutions.
 
 
 ;Many of us do not yet fully understand how AI regularly touches our lives and feel powerless in the face of these systems. At Mozilla we’re dedicated to making sure that we all understand that we can and must have a say in when machines are used to make important decisions – and shape how those decisions are made.
@@ -23,27 +23,27 @@ Voici les enjeux :
 
 
 ;PRIVACY: Our personal data powers everything from traffic maps to targeted advertising. Trustworthy AI should let people decide how their data is used and what decisions are made with it.
-PRIVACY: Our personal data powers everything from traffic maps to targeted advertising. Trustworthy AI should let people decide how their data is used and what decisions are made with it.
+VIE PRIVÉE : Nos données personnelles alimentent tout, de la représentation de la circulation sur les cartes routières jusqu’aux publicités ciblées. Une IA digne de confiance devrait laisser les personnes décider de la manière dont leurs données sont utilisées et quelles décisions elles servent à prendre.
 
 
 ;FAIRNESS: We’ve seen time and again that historical bias can show up in automated decision making. To effectively address discrimination, we need to look closely at the goals and data that fuel our AI.
-FAIRNESS: We’ve seen time and again that historical bias can show up in automated decision making. To effectively address discrimination, we need to look closely at the goals and data that fuel our AI.
+ÉQUITÉ : Nous avons vu à maintes reprises que les biais historiques peuvent se manifester dans les prises de décision automatisées. Pour lutter efficacement contre la discrimination, nous devons examiner de près les objectifs et les données qui alimentent notre IA.
 
 
 ;TRUST: Algorithms on sites like YouTube often push people towards extreme, misleading content. Overhauling these content recommendation systems could go a long way to curbing misinformation.
-TRUST: Algorithms on sites like YouTube often push people towards extreme, misleading content. Overhauling these content recommendation systems could go a long way to curbing misinformation.
+CONFIANCE : Les algorithmes de sites comme YouTube poussent souvent les internautes vers des contenus extrémistes et trompeurs. La refonte de ces systèmes de recommandation de contenus pourrait grandement contribuer à lutter contre la désinformation.
 
 
 ;SAFETY: Experts have raised the alarm that AI could increase security risks and cyber crime. Platform developers will need to create stronger measures to protect our data and personal security.
-SAFETY: Experts have raised the alarm that AI could increase security risks and cyber crime. Platform developers will need to create stronger measures to protect our data and personal security.
+SÉCURITÉ : Les experts ont tiré la sonnette d’alarme sur le fait que l’IA pourrait accroître les risques de sécurité et la cybercriminalité. Les développeurs de plateformes devront mettre en place des mesures plus strictes pour protéger nos données et notre sécurité personnelle.
 
 
 ;TRANSPARENCY: Automated decisions can have huge personal impact, yet the reasons for decisions are often opaque. We need breakthroughs in explainability and transparency to protect users.
-TRANSPARENCY: Automated decisions can have huge personal impact, yet the reasons for decisions are often opaque. We need breakthroughs in explainability and transparency to protect users.
+TRANSPARENCE : Les décisions automatisées peuvent avoir un impact énorme au niveau personnel, mais les raisons de ces décisions sont souvent obscures. Nous avons besoin de progrès majeurs en matière de clarté et de transparence pour protéger les utilisateurs.
 
 
 ;We are approaching the fight for trustworthy AI in three key ways:
-We are approaching the fight for trustworthy AI in three key ways:
+Nous abordons la lutte pour une IA digne de confiance de trois façons clés :
 
 
 # Alt text
@@ -52,30 +52,30 @@ Image changement de systèmes
 
 
 ;We’re shifting the conversation from ‘personal behavior’ to ‘systems change.’
-We’re shifting the conversation from ‘personal behavior’ to ‘systems change.’
+Nous avons fait évoluer le débat et ne parlons plus de « comportement individuel » mais de « changement de système ».
 
 
 # WOH stands for World Health Organization
 ;Fellow Renée DiResta has been key in shifting misinfo conversation from ‘fake news’ to ‘<a>free speech does not equal free reach.</a>’ Companies have responded: Pinterest stopped sharing vaccination search results & Facebook has started promoting WHO info with vaccine posts.
-Fellow Renée DiResta has been key in shifting misinfo conversation from ‘fake news’ to ‘<a>free speech does not equal free reach.</a>’ Companies have responded: Pinterest stopped sharing vaccination search results & Facebook has started promoting WHO info with vaccine posts.
+Renée DiResta, boursière Mozilla, a joué un rôle prépondérant pour orienter le débat sur la désinformation en le faisant passer des « fausses informations » à « <a>la liberté d’expression n’est pas synonyme de liberté d’atteindre n’importe quelle audience</a> ». Les entreprises ont réagi : Pinterest a cessé de partager les résultats de recherche sur la vaccination et Facebook a commencé à ajouter des informations de l’OMS aux posts liés à la vaccination.
 
 
 # Alt text
 ;Companies Accountable image
-Companies Accountable image
+Image entreprises responsables
 
 
 ;We’re holding companies accountable & our approach is spreading.
-We’re holding companies accountable & our approach is spreading.
+Nous obligeons les entreprises à prendre leurs responsabilités et notre approche fait des émules.
 
 
 ;For our <a>YouTube Regrets</a> campaign we collected YouTube users’ stories about the platform’s recommendation engine leading them down bizarre and sometimes dangerous pathways. This work was catalyzed by our own research on <a>trustworthy AI</a>; stories in the media; and by YouTube engineers who have <a>spoken out</a>.
-For our <a>YouTube Regrets</a> campaign we collected YouTube users’ stories about the platform’s recommendation engine leading them down bizarre and sometimes dangerous pathways. This work was catalyzed by our own research on <a>trustworthy AI</a>; stories in the media; and by YouTube engineers who have <a>spoken out</a>.
+Dans le cadre de notre campagne <a>Regrets sur YouTube</a>, nous avons recueilli les témoignages d’utilisateurs de YouTube sur le moteur de recommandation de la plateforme qui les a conduits dans des recoins étranges et parfois dangereux du site. Ce travail a été rendu possible grâce à nos propres recherches sur <a>l’IA digne de confiance</a>, des articles de presse et grâce à des ingénieurs de YouTube qui <a>se sont exprimés</a>.
 
 
 # Alt text
 ;Trustworthy AI innovations image
-Trustworthy AI innovations image
+Image innovations IA dignes de confiance
 
 
 ;We’re supporting trustworthy AI innovations.
