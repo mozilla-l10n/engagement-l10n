@@ -6,6 +6,18 @@
 So deaktivieren Sie die menschliche Überprüfung der Aufnahmen Ihres Sprachassistenten
 
 
+;UPDATE: Apple now has an opt-in for human review with iOS 13.2. It also gives users the option to delete their Siri voice recordings. The images below have been updated accordingly.
+UPDATE: Apple now has an opt-in for human review with iOS 13.2. It also gives users the option to delete their Siri voice recordings. The images below have been updated accordingly.
+
+
+;In September 2019, <a href="https://www.blog.google/products/assistant/doing-more-protect-your-privacy-assistant/">Google reactivated its human review program for the Google Home, now with user consent</a>.
+In September 2019, <a href="https://www.blog.google/products/assistant/doing-more-protect-your-privacy-assistant/">Google reactivated its human review program for the Google Home, now with user consent</a>.
+
+
+;Read on to find out how to change your settings.
+Read on to find out how to change your settings.
+
+
 ;If you have a voice assistant in your home or on your phone, have you ever been concerned that someone from the company could listen to your voice recordings?
 Wenn Sie zu Hause oder am Telefon einen Sprachassistenten haben, hatten Sie jemals Bedenken, dass jemand aus dem Unternehmen Ihre Sprachaufzeichnungen anhören könnte?
 
@@ -37,6 +49,10 @@ Trotz dieser zusätzlichen Datenschutzkontrollen gibt es immer noch eine Reihe v
 
 ;For users who don’t opt-out, workers at Amazon and Google are still listening to a small segment of recordings from people’s smart voice assistants and despite efforts to anonymize that data, <a>recordings can contain sensitive and personally identifiable information</a>.
 Für Benutzer, die diese Funktion nicht deaktivieren möchten, hören die Mitarbeiter von Amazon und Google immer noch einen kleinen Teil der Aufzeichnungen von intelligenten Sprachassistenten. Trotz der Bemühungen, diese Daten zu anonymisieren, <a>können die Aufzeichnungen vertrauliche und persönlich identifizierbare Informationen enthalten</a>.
+
+
+;Apple does a good job of clearly explaining how user data is stored and analyzed if users do opt-in, but it too <a href="https://www.theguardian.com/technology/2019/oct/30/apple-lets-users-opt-out-of-having-siri-conversations-recorded">has a human review program</a> that even with its strong precautions for anonymization could give workers snippets of voice recordings containing personally identifable information.
+Apple does a good job of clearly explaining how user data is stored and analyzed if users do opt-in, but it too <a href="https://www.theguardian.com/technology/2019/oct/30/apple-lets-users-opt-out-of-having-siri-conversations-recorded">has a human review program</a> that even with its strong precautions for anonymization could give workers snippets of voice recordings containing personally identifable information.
 
 
 ;In many cases, recordings were made even without someone saying the wake word (“Hey Google”) or because they said something that sounded similar to the wake word (such as “Syria” – alerting Apple’s Siri). People may not have known they were being recorded once the device was triggered to listen.
