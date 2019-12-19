@@ -14,16 +14,8 @@ WORKER BELAUSCHT SIE
 Ja
 
 
-;Yes (except in the EU)
-Ja (außer in der EU)
-
-
-;Apple’s Siri
-Apple Siri
-
-
-;No (for now, paused recently)
-Nein (vorerst pausiert)
+;Yes (in the U.S.)
+Yes (in the U.S.)
 
 
 ;Learn how to opt-out: http://mzl.la/stop-listening
@@ -47,12 +39,8 @@ OPTION DEAKTIVIEREN
 2. Wählen Sie Einstellungen → Alexa-Datenschutz → Verwalten Sie, inwieweit Ihre Daten zur Verbesserung von Alexa genutzt werden dürfen
 
 
-;3. Uncheck the box for Help Improve Amazon Services and Develop New Features
-3. Deaktivieren Sie die Option, dass Ihre Sprachaufnahmen zur Verbesserung von Amazon Services und der Entwicklung neuer Funktionen verwendet werden dürfen
-
-
-;Note: Amazon says it may still listen to people who opt out as part of its regular review
-Hinweis: Amazon gibt an, dass im Rahmen der regelmäßigen Überprüfung möglicherweise auch Personen abgehört werden, die die Option deaktiviert haben
+;3. Uncheck the box for <b>Help Develop New Features and Use Messages to Improve Transcriptions</b>
+3. Uncheck the box for <b>Help Develop New Features and Use Messages to Improve Transcriptions</b>
 
 
 # https://assets.mofoprod.net/network/images/Google_Home2x-100_LB6x79F.original.jpg
@@ -68,7 +56,35 @@ Google Home: Deaktivieren
 2. Wählen Sie Konto → Weitere Einstellungen (unter Google-Assistent) → Ihre Daten im Assistenten
 
 
-;3. Switch off toggle for Voice & Audio Activity
-3. Schalten Sie die Option für Sprach- & Audioaktivitäten aus
+;3. Switch off toggle for Voice & Audio Activity*
+3. Switch off toggle for Voice & Audio Activity*
+
+
+;*If you have not yet previously changed this setting, Google now says that you will be prompted to opt in before your data is included in its “Voice & Audio Activity” program that potentially sends your recordings to human reviewers.
+*If you have not yet previously changed this setting, Google now says that you will be prompted to opt in before your data is included in its “Voice & Audio Activity” program that potentially sends your recordings to human reviewers.
+
+
+;Apple’s Siri Opt Out
+Apple’s Siri Opt Out
+
+
+;Apple’s Siri
+Apple Siri
+
+
+;Yes (starting with 13.2 it’s opt-in only)
+Yes (starting with 13.2 it’s opt-in only)
+
+
+;If you have the latest iOS
+If you have the latest iOS
+
+
+;Go to <b>Settings > Privacy > Analytics & Improvements > Improve Siri & Dictation</b>
+Go to <b>Settings > Privacy > Analytics & Improvements > Improve Siri & Dictation</b>
+
+
+;Switch off the toggle
+Switch off the toggle
 
 
