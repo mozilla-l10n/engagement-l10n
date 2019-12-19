@@ -15,7 +15,7 @@ Ja
 
 
 ;Yes (in the U.S.)
-Yes (in the U.S.)
+Ja (in den USA)
 
 
 ;Learn how to opt-out: http://mzl.la/stop-listening
@@ -40,7 +40,7 @@ OPTION DEAKTIVIEREN
 
 
 ;3. Uncheck the box for <b>Help Develop New Features and Use Messages to Improve Transcriptions</b>
-3. Uncheck the box for <b>Help Develop New Features and Use Messages to Improve Transcriptions</b>
+3. Deaktivieren Sie das Kontrollkästchen für <b>Hilfe bei der Entwicklung neuer Funktionen und Verwendung von Nachrichten zur Verbesserung der Transkriptionen</b>
 
 
 # https://assets.mofoprod.net/network/images/Google_Home2x-100_LB6x79F.original.jpg
@@ -57,15 +57,15 @@ Google Home: Deaktivieren
 
 
 ;3. Switch off toggle for Voice & Audio Activity*
-3. Switch off toggle for Voice & Audio Activity*
+3. Schalten Sie die Option für Sprach- & Audioaktivitäten aus*
 
 
 ;*If you have not yet previously changed this setting, Google now says that you will be prompted to opt in before your data is included in its “Voice & Audio Activity” program that potentially sends your recordings to human reviewers.
-*If you have not yet previously changed this setting, Google now says that you will be prompted to opt in before your data is included in its “Voice & Audio Activity” program that potentially sends your recordings to human reviewers.
+* Wenn Sie diese Einstellung noch nicht geändert haben, werden Sie jetzt aufgefordert, sich anzumelden, bevor Ihre Daten in das Programm „Sprach- und Audioaktivitäten“ aufgenommen werden, mit dem Ihre Aufzeichnungen möglicherweise an menschliche Prüfer gesendet werden.
 
 
 ;Apple’s Siri Opt Out
-Apple’s Siri Opt Out
+Opt Out bei Apple Siri
 
 
 ;Apple’s Siri
@@ -73,18 +73,18 @@ Apple Siri
 
 
 ;Yes (starting with 13.2 it’s opt-in only)
-Yes (starting with 13.2 it’s opt-in only)
+Ja (ab 13.2 ist dies nur mit Zustimmung möglich)
 
 
 ;If you have the latest iOS
-If you have the latest iOS
+Wenn Sie das neueste iOS haben
 
 
 ;Go to <b>Settings > Privacy > Analytics & Improvements > Improve Siri & Dictation</b>
-Go to <b>Settings > Privacy > Analytics & Improvements > Improve Siri & Dictation</b>
+Wählen Sie <b>Einstellungen → Datenschutz → Analytik & Verbesserungen → Siri & Diktat verbessern</b>
 
 
 ;Switch off the toggle
-Switch off the toggle
+Stellen Sie den Schalter auf „Aus“
 
 
