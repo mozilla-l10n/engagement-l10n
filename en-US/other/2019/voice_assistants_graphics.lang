@@ -39,8 +39,12 @@ HOW TO OPT OUT
 2. Go to Settings > Alexa Privacy > Manage How Your Data Improves Alexa
 
 
-;3. Uncheck the box for <b>Help Develop New Features and Use Messages to Improve Transcriptions</b>
-3. Uncheck the box for <b>Help Develop New Features and Use Messages to Improve Transcriptions</b>
+;3. Uncheck the box for <b>Use Voice Recordings to Improve Amazon Services and to Develop New Features</b>
+3. Uncheck the box for <b>Use Voice Recordings to Improve Amazon Services and to Develop New Features</b>
+
+
+;4. Also uncheck the box for <b>Use Messages to Improve Transcriptions</b>
+4. Also uncheck the box for <b>Use Messages to Improve Transcriptions</b>
 
 
 # https://assets.mofoprod.net/network/images/Google_Home2x-100_LB6x79F.original.jpg
