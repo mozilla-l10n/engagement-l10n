@@ -17,8 +17,8 @@ News and Updates
 
 
 # Top menu link
-;Become A Sponsor
-Become A Sponsor
+;Become a Sponsor
+Become a Sponsor
 
 
 # Button linking to https://www.mozillafestival.org/newsletter/
@@ -34,8 +34,8 @@ Arrive with an idea, leave with a community
 Save the date for MozFest {$year} in {$city}, {$date}.
 
 
-;MozFest, an annual festival hosted by the nonprofit behind Firefox, is a unique hybrid: part tech meetup, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world.
-MozFest, an annual festival hosted by the nonprofit behind Firefox, is a unique hybrid: part tech meetup, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world.
+;MozFest is a unique hybrid: part art, tech and society convening, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world.
+MozFest is a unique hybrid: part art, tech and society convening, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world.
 
 
 ;3,000+ participants
@@ -78,8 +78,13 @@ Over the last ten years, MozFest has fueled the movement to ensure the internet 
 The Best of MozFest
 
 
-;MozFest’s Dialogue & Debates stage features TED-style talks and compelling panels about the intersection of the internet and society. With the goal of inspiring action for a healthier internet and more Trustworthy AI, programming has included a wide range of diverse topics and speakers. Past speakers include:
-MozFest’s Dialogue & Debates stage features TED-style talks and compelling panels about the intersection of the internet and society. With the goal of inspiring action for a healthier internet and more Trustworthy AI, programming has included a wide range of diverse topics and speakers. Past speakers include:
+;MozFest’s Dialogue & Debates stage features talks and compelling panels about the intersection of the internet and society. With the goal of inspiring action for a healthier internet and more Trustworthy AI, programming has included a wide range of diverse topics and speakers. Past speakers include:
+MozFest’s Dialogue & Debates stage features talks and compelling panels about the intersection of the internet and society. With the goal of inspiring action for a healthier internet and more Trustworthy AI, programming has included a wide range of diverse topics and speakers. Past speakers include:
+
+
+# Button linking to https://www.mozillafestival.org/speakers
+;Watch Dialogues and Debates
+Watch Dialogues and Debates
 
 
 ;Sessions That Made an Impact
