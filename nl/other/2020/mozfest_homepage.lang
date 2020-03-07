@@ -3,7 +3,7 @@
 
 # Top menu link
 ;Home
-Home
+Startpagina
 
 
 # Top menu link
@@ -13,12 +13,12 @@ Dialogues and Debates
 
 # Top menu link
 ;News and Updates
-News and Updates
+Nieuws en updates
 
 
 # Top menu link
 ;Become a Sponsor
-Become a Sponsor
+Word een sponsor
 
 
 # Button linking to https://www.mozillafestival.org/newsletter/
@@ -27,7 +27,7 @@ Save The Date
 
 
 ;Arrive with an idea, leave with a community
-Arrive with an idea, leave with a community
+Kom met een idee, vertrek met een gemeenschap
 
 
 ;Save the date for MozFest {$year} in {$city}, {$date}.
