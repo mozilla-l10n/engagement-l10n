@@ -1,6 +1,16 @@
 ## NOTE: Mozilla Festival homepage
 
 
+# Page title
+;Mozilla Festival | Amsterdam | March 2021
+Mozilla Festival | Amsterdam | March 2021
+
+
+# Page description
+;Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us?
+Activists in the internet health movement will gather at MozFest to move the needle in tech, art, social responsibility, ethics, and AI. Will you join us?
+
+
 # Top menu link
 ;Home
 Home
@@ -21,17 +31,16 @@ News and Updates
 Become a Sponsor
 
 
-# Button linking to https://www.mozillafestival.org/newsletter/
-;Save The Date
-Save The Date
+;March 2021
+March 2021
+
+
+;Amsterdam, The Netherlands
+Amsterdam, The Netherlands
 
 
 ;Arrive with an idea, leave with a community
 Arrive with an idea, leave with a community
-
-
-;Save the date for MozFest {$year} in {$city}, {$date}.
-Save the date for MozFest {$year} in {$city}, {$date}.
 
 
 ;MozFest is a unique hybrid: part art, tech and society convening, part maker festival, and the premiere gathering for activists in diverse global movements fighting for a more humane digital world.
@@ -70,8 +79,8 @@ MozFest welcomes activists from Taipei, coders from Berlin, educators from Nairo
 MozFest unfolds over the span of an entire week, with interactive sessions, talks, round-tables, hack-a-thons, exhibits, and socials.
 
 
-;Over the last ten years, MozFest has fueled the movement to ensure the internet benefits humanity, rather than harms it. As the festival matures and is welcomed in its new host city of {$city}, we’ll remain focused in our work to build a healthier internet and more Trustworthy AI. Save the date for MozFest {$year} where the brightest minds and most ambitious ideas from the internet health movement will come together under one roof.
-Over the last ten years, MozFest has fueled the movement to ensure the internet benefits humanity, rather than harms it. As the festival matures and is welcomed in its new host city of {$city}, we’ll remain focused in our work to build a healthier internet and more Trustworthy AI. Save the date for MozFest {$year} where the brightest minds and most ambitious ideas from the internet health movement will come together under one roof.
+;Over the last ten years, MozFest has fueled the movement to ensure the internet benefits humanity, rather than harms it. As the festival matures and is welcomed in its new host city of Amsterdam, we’ll remain focused in our work to build a healthier internet and more Trustworthy AI. Save the date for MozFest 2021 where the brightest minds and most ambitious ideas from the internet health movement will come together under one roof.
+Over the last ten years, MozFest has fueled the movement to ensure the internet benefits humanity, rather than harms it. As the festival matures and is welcomed in its new host city of Amsterdam, we’ll remain focused in our work to build a healthier internet and more Trustworthy AI. Save the date for MozFest 2021 where the brightest minds and most ambitious ideas from the internet health movement will come together under one roof.
 
 
 ;The Best of MozFest
@@ -120,6 +129,20 @@ Sign Up To Become a Festival Insider
 You will have the chance to submit ideas for sessions in our Call for Proposals which will open later this year.
 
 
+;Tickets will go on sale towards the end of 2020.
+Tickets will go on sale towards the end of 2020.
+
+
 # Signup form description
 ;Sign up below to be added to our Mozilla Festival list to be the first to know about the latest news and updates from the festival. You’ll also be joining our Mozilla news list to stay informed in the fight for a better internet for all.
 Sign up below to be added to our Mozilla Festival list to be the first to know about the latest news and updates from the festival. You’ll also be joining our Mozilla news list to stay informed in the fight for a better internet for all.
+
+
+# Footer signup form
+;Sign Up for News and Updates
+Sign Up for News and Updates
+
+
+# Footer signup form
+;Sign up below to be added to our <b>Mozilla News</b> list and stay informed in the fight for a better internet for all. You’ll also receive <b>Mozilla Festival</b> emails to keep you up-to-date on how to get involved with our signature event.
+Sign up below to be added to our <b>Mozilla News</b> list and stay informed in the fight for a better internet for all. You’ll also receive <b>Mozilla Festival</b> emails to keep you up-to-date on how to get involved with our signature event.
