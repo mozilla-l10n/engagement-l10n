@@ -2,11 +2,6 @@
 Donnez-nous votre avis
 
 
-# Header
-;Tell us how we can help
-Dites-nous comment nous pouvons aider
-
-
 ;How can Mozilla help?
 Que peut faire Mozilla ?
 
@@ -18,6 +13,11 @@ Que peut faire Mozilla ?
 # Image alt text
 ;It’s an uncertain time right now. We would love to hear from you.
 En cette période d’incertitude, nous aimerions avoir votre avis.
+
+
+# Header
+;Tell us how we can help
+Dites-nous comment nous pouvons aider
 
 
 ;These are unusual times. <strong>We want to help.</strong>
