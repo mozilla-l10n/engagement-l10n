@@ -1,3 +1,4 @@
+# Strings for the graphics used in https://foundation.mozilla.org/en/blog/tips-make-your-zoom-gatherings-more-private/
 ;TIP {{ num }}
 TIP {{ num }}
 
@@ -44,6 +45,16 @@ To stop participants from sharing their screen, <b>click the up arrow next to �
 # Graphic 3: https://assets.mofoprod.net/network/images/Blog-image-032x.original.jpg
 ;Choose when to share video and audio by turning your camera and microphone off by default
 Choose when to share video and audio by turning your camera and microphone off by default
+
+
+# Graphic 3: https://assets.mofoprod.net/network/images/Blog-image-032x.original.jpg
+;Click on “Preferences” and visit the “Video” tab. Check “Turn off my video joining a meeting”.
+Click on “Preferences” and visit the “Video” tab. Check “Turn off my video joining a meeting”.
+
+
+# Graphic 3: https://assets.mofoprod.net/network/images/Blog-image-032x.original.jpg
+;Click on “Preferences” and visit the “Audio” tab. Check “Mute microphone when joining a meeting”.
+Click on “Preferences” and visit the “Audio” tab. Check “Mute microphone when joining a meeting”.
 
 
 # Graphic 4: https://assets.mofoprod.net/network/images/Blog-image-042x.original.jpg
