@@ -1,69 +1,69 @@
 # Strings for the graphics used in https://foundation.mozilla.org/en/blog/tips-make-your-zoom-gatherings-more-private/
 ;TIP {{ num }}
-TIP {{ num }}
+CONSEIL {{ num }}
 
 
 ;ZOOM MEETING SECURITY
-ZOOM MEETING SECURITY
+SÉCURITÉ DES RÉUNIONS ZOOM
 
 
 # Graphic 1: https://assets.mofoprod.net/network/images/Blog-image-012x1.original.jpg
 ;Hosting a public Zoom Meeting?
-Hosting a public Zoom Meeting?
+Vous organisez une réunion Zoom publique ?
 
 
 # Graphic 1: https://assets.mofoprod.net/network/images/Blog-image-012x1.original.jpg
 ;For Instant Meetings, click on the “new meeting” dropdown, and make sure “Use my Personal Meeting ID” is unticked.
-For Instant Meetings, click on the “new meeting” dropdown, and make sure “Use my Personal Meeting ID” is unticked.
+Pour les réunions instantanées, cliquez sur le menu déroulant « Nouvelle réunion » et assurez-vous que « Utiliser mon ID de réunion personnel » n’est pas coché.
 
 
 # Graphic 1: https://assets.mofoprod.net/network/images/Blog-image-012x1.original.jpg
 ;For Scheduled Meetings, make sure the meeting ID is set to “Generate Automatically”.
-For Scheduled Meetings, make sure the meeting ID is set to “Generate Automatically”.
+Pour les réunions programmées, assurez-vous que l’ID de réunion est défini sur « Créé(e) automatiquement ».
 
 
 # Graphic 2: https://assets.mofoprod.net/network/images/Blog-image-022x.original.jpg
 ;Leading a Zoom meeting and don’t want it hijacked?
-Leading a Zoom meeting and don’t want it hijacked?
+Vous organisez une réunion zoom et vous ne voulez pas qu’elle soit détournée ?
 
 
 # Graphic 2: https://assets.mofoprod.net/network/images/Blog-image-022x.original.jpg
 ;Click on “Manage Participants” from the bottom-center of your screen. From the screen that appears on the right, <b>hover over a participants’ name to mute</b> them individually.
-Click on “Manage Participants” from the bottom-center of your screen. From the screen that appears on the right, <b>hover over a participants’ name to mute</b> them individually.
+Cliquez sur « Participants » au milieu des boutons situés au bas de l’écran. Depuis le panneau qui s’affiche à droite, <b>survolez le nom d’un participant pour couper son micro</b> individuellement.
 
 
 # Graphic 2: https://assets.mofoprod.net/network/images/Blog-image-022x.original.jpg
 ;Or click “mute all” at the bottom. From the “more” dropdown, you can also mute participants on entry, and stop them from unmuting themselves.
-Or click “mute all” at the bottom. From the “more” dropdown, you can also mute participants on entry, and stop them from unmuting themselves.
+Ou cliquez sur « Muet tous » en bas. Depuis le menu déroulant « Plus », vous pouvez aussi couper le son du microphone des participants lors de leur arrivée et les empêcher de le réactiver.
 
 
 # Graphic 2: https://assets.mofoprod.net/network/images/Blog-image-022x.original.jpg
 ;To stop participants from sharing their screen, <b>click the up arrow next to “share screen”</b> and select “advanced sharing options”. From “Who can share?” select “only host”.
-To stop participants from sharing their screen, <b>click the up arrow next to “share screen”</b> and select “advanced sharing options”. From “Who can share?” select “only host”.
+Pour empêcher les participants de partager leur écran, <b>cliquez sur la flèche vers le haut à côté de « Partager l’écran »</b> et sélectionnez « Options Partage avancé ». Sous « Qui peut partager ? », sélectionnez « Seulement l’hôte ».
 
 
 # Graphic 3: https://assets.mofoprod.net/network/images/Blog-image-032x.original.jpg
 ;Choose when to share video and audio by turning your camera and microphone off by default
-Choose when to share video and audio by turning your camera and microphone off by default
+Choisissez quand partager l’audio et la vidéo en désactivant votre microphone et votre caméra par défaut
 
 
 # Graphic 3: https://assets.mofoprod.net/network/images/Blog-image-032x.original.jpg
 ;Click on “Preferences” and visit the “Video” tab. Check “Turn off my video joining a meeting”.
-Click on “Preferences” and visit the “Video” tab. Check “Turn off my video joining a meeting”.
+Cliquez sur « Préférences » puis sélectionnez l’onglet « Vidéo ». Cochez ensuite « Désactiver ma vidéo lorsque je rejoins une réunion ».
 
 
 # Graphic 3: https://assets.mofoprod.net/network/images/Blog-image-032x.original.jpg
 ;Click on “Preferences” and visit the “Audio” tab. Check “Mute microphone when joining a meeting”.
-Click on “Preferences” and visit the “Audio” tab. Check “Mute microphone when joining a meeting”.
+Cliquez sur « Préférences » puis sélectionnez l’onglet « Audio ». Cochez ensuite « Désactiver le son du microphone lors de la participation à une réunion ».
 
 
 # Graphic 4: https://assets.mofoprod.net/network/images/Blog-image-042x.original.jpg
 ;Keep you home private and set up a virtual background
-Keep you home private and set up a virtual background
+Préservez l’intimité de votre domicile en configurant un arrière-plan virtuel
 
 
 # Graphic 4: https://assets.mofoprod.net/network/images/Blog-image-042x.original.jpg
 ;Click on “Preferences” and visit the “Virtual Background” tab. Choose a virtual background from Zoom or upload your own.
-Click on “Preferences” and visit the “Virtual Background” tab. Choose a virtual background from Zoom or upload your own.
+Cliquez sur « Préférences » puis sélectionnez l’onglet « Arrière-plan virtuel ». Choisissez l’un des arrière-plans proposés par Zoom, ou utilisez l’image de votre choix.
 
 
