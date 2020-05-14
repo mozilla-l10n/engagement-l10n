@@ -66,7 +66,7 @@ Eine App, die uns wirklich Sorgen macht
 
 
 ;Doxy.me is a telemedicine app used by doctors and therapists to meet with patients that failed our Minimum Security Standards. Our researcher was able to login with the weak password “123.” Very concerning for an app that handles such sensitive calls.
-Doxy.me ist eine Telemedizin-App, die von Ärzten und Therapeuten verwendet wird, um Patienten zu treffen, die unsere Mindestsicherheitsstandards nicht erfüllen. Unser Forscher konnte sich mit dem schwachen Passwort „123“ anmelden. Sehr besorgniserregend für eine App, die solche sensiblen Anrufe verarbeitet.
+Doxy.me ist eine Telemedizin-App, die von Ärzten und Therapeuten verwendet wird, um Patienten zu treffen, aber unsere Mindestsicherheitsstandards nicht erfüllt. Unser Forscher konnte sich mit dem schwachen Passwort „123“ anmelden. Sehr besorgniserregend für eine App, die solche sensible Anrufe verarbeitet.
 
 
 ;App we probably wouldn’t use ourselves
@@ -91,7 +91,7 @@ Weitere Informationen
 
 
 ;We reviewed these video call apps at the request of people like you in the Mozilla community. Thank you for the suggestion. We are happy we could give you something you can use to feel a little safer.
-Wir haben diese Videoanruf-Apps auf Wunsch von Personen wie Ihnen in der Mozilla-Gemeinschaft überprüft. Vielen Dank für den Vorschlag. Wir freuen uns, Ihnen etwas bieten zu können, mit dem Sie sich ein wenig sicherer fühlen können.
+Wir haben diese Videoanruf-Apps auf Wunsch von Personen wie Ihnen in der Mozilla-Gemeinschaft überprüft. Vielen Dank für den Vorschlag. Wir freuen uns, Sie mit dieser Untersuchung zu unterstützen, mit der Sie sich ein wenig sicherer fühlen können.
 
 
 ;Thank you,
