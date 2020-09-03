@@ -1,6 +1,6 @@
 # Content of the https://foundation.mozilla.org homepage
 ;Homepage
-Homepage
+Página inicial
 
 
 ;Mozilla is a global nonprofit dedicated to keeping the Internet a global public resource that is open and accessible to all.
@@ -9,12 +9,12 @@ Mozilla is a global nonprofit dedicated to keeping the Internet a global public 
 
 # Main menu. Please keep these translations short as space is limited. Feel free to rephrase (e.g. About us)
 ;Who we are
-Who we are
+Quem somos
 
 
 # Main menu. Please keep these translations short as space is limited. Feel free to rephrase (e.g. Our actions)
 ;What we do
-What we do
+O que fazemos
 
 
 # Main menu. Please keep these translations short as space is limited. Feel free to rephrase
@@ -24,12 +24,12 @@ What we fund
 
 # Main menu. Please keep these translations short as space is limited. Feel free to rephrase (e.g. Participate)
 ;What you can do
-What you can do
+O que você pode fazer
 
 
 # Main menu. Please keep these translations short as space is limited. Feel free to rephrase
 ;Blog
-Blog
+Blog {ok}
 
 
 ;Nextdoor: Pause Police Partnerships
@@ -37,7 +37,7 @@ Nextdoor: Pause Police Partnerships
 
 
 ;Sign the petition
-Sign the petition
+Assine a petição
 
 
 ;The Mozilla Foundation works to ensure the internet remains a public resource that is open and accessible to us all.
@@ -45,7 +45,7 @@ The Mozilla Foundation works to ensure the internet remains a public resource th
 
 
 ;Learn more about our work
-Learn more about our work
+Saiba mais sobre nosso trabalho
 
 
 ;Rally Citizens
@@ -57,7 +57,7 @@ Issues like privacy, trustworthy AI, and digital rights impact all of us who use
 
 
 ;Connect Leaders
-Connect Leaders
+Conecte líderes
 
 
 ;We support activists and thought leaders shaping the future of our online lives.
@@ -65,7 +65,7 @@ We support activists and thought leaders shaping the future of our online lives.
 
 
 ;Shape the Agenda
-Shape the Agenda
+Molde a agenda
 
 
 ;We publish open-source research and host global convenings to make ideas like trustworthy AI mainstream.
@@ -77,7 +77,7 @@ Artificial intelligence: Smart? Yes. Trustworthy? Well…
 
 
 ;Take action
-Take action
+Tome uma atitude
 
 
 ;What about AI worries you most?
@@ -101,7 +101,7 @@ Of all the groups we work with regularly, very few have had the impact that our 
 
 
 ;Partner with us
-Partner with us
+Seja nosso parceiro
 
 
 ;Help fund, shape, and expand Mozilla work toward a healthy internet and trustworthy AI.
@@ -109,6 +109,6 @@ Help fund, shape, and expand Mozilla work toward a healthy internet and trustwor
 
 
 ;Let’s work together
-Let’s work together
+Vamos trabalhar juntos
 
 
