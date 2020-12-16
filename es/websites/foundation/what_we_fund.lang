@@ -66,8 +66,8 @@ Illustration of a scale with a corporation on one side and a person thinking on 
 How we fund
 
 
-;Mozilla works with partners and allies to fuel a movement of internet users, academics, artists, technologists, thought-leaders, and activists fighting for a healthy internet. The individual and collective actions we support help to nurture an intersectional community, incubate emerging technologies and models, and build the long term infrastructure needed for a more open, secure, and inclusive internet. Learn more about our <a>fellowships</a> and <a>awards</a> programs.
-Mozilla works with partners and allies to fuel a movement of internet users, academics, artists, technologists, thought-leaders, and activists fighting for a healthy internet. The individual and collective actions we support help to nurture an intersectional community, incubate emerging technologies and models, and build the long term infrastructure needed for a more open, secure, and inclusive internet. Learn more about our <a>fellowships</a> and <a>awards</a> programs.
+;Mozilla works with partners and allies to fuel a movement of internet users, academics, artists, technologists, thought-leaders, and activists fighting for a healthy internet. The individual and collective actions we support help to nurture an intersectional community, incubate emerging technologies and models, and build the long term infrastructure needed for a more open, secure, and inclusive internet. Learn more about our <a id="a1">fellowships</a> and <a id="a1">awards</a> programs.
+Mozilla works with partners and allies to fuel a movement of internet users, academics, artists, technologists, thought-leaders, and activists fighting for a healthy internet. The individual and collective actions we support help to nurture an intersectional community, incubate emerging technologies and models, and build the long term infrastructure needed for a more open, secure, and inclusive internet. Learn more about our <a id="a1">fellowships</a> and <a id="a1">awards</a> programs.
 
 
 ;Who we’ve funded
@@ -83,8 +83,8 @@ Mozilla Fellows and Awardees represent a range of disciplines and geographies: T
 Profile picture of Anouk Ruhaak
 
 
-;<a>Anouk Ruhaak</a> | <i>Mozilla Fellow</i>
-<a>Anouk Ruhaak</a> | <i>Mozilla Fellow</i>
+;<a id="a1">Anouk Ruhaak</a> | <i>Mozilla Fellow</i>
+<a id="a1">Anouk Ruhaak</a> | <i>Mozilla Fellow</i>
 
 
 ;Anouk creates new models of data governance for the public good. As an architect and advocate of data trusts, she promotes governance models that safeguard privacy and protect society from the negative externalities of data sharing.
@@ -104,8 +104,8 @@ Screen capture from the game
 Survival of the Best Fit | <i>Previous Award</i>
 
 
-;Built by Gabor Csapo, Jihyun Kim, Miha Klasinc, and Alia ElKattan, <a>Survival of the Best Fit</a> is an educational game about hiring bias in AI. It aims to explain how the misuse of AI can make machines inherit human biases and further inequality.
-Built by Gabor Csapo, Jihyun Kim, Miha Klasinc, and Alia ElKattan, <a>Survival of the Best Fit</a> is an educational game about hiring bias in AI. It aims to explain how the misuse of AI can make machines inherit human biases and further inequality.
+;Built by Gabor Csapo, Jihyun Kim, Miha Klasinc, and Alia ElKattan, <a id="a1">Survival of the Best Fit</a> is an educational game about hiring bias in AI. It aims to explain how the misuse of AI can make machines inherit human biases and further inequality.
+Built by Gabor Csapo, Jihyun Kim, Miha Klasinc, and Alia ElKattan, <a id="a1">Survival of the Best Fit</a> is an educational game about hiring bias in AI. It aims to explain how the misuse of AI can make machines inherit human biases and further inequality.
 
 
 ;See more Awards
@@ -142,8 +142,8 @@ Fellowships
 Mozilla Fellowships provide resources, community, and amplification to internet health leaders building a more ​humane​ ​digital​ ​world.
 
 
-;<a>Learn more about Mozilla Fellows →</a>
-<a>Learn more about Mozilla Fellows →</a>
+;<a id="a1">Learn more about Mozilla Fellows →</a>
+<a id="a1">Learn more about Mozilla Fellows →</a>
 
 
 # Alt text
@@ -159,8 +159,8 @@ Awards
 Mozilla Awards provide funding, peer support, and mentoring to projects that address the most pressing challenges facing the internet and its users.
 
 
-;<a>Apply for Current Funding Opportunities →</a>
-<a>Apply for Current Funding Opportunities →</a>
+;<a id="a1">Apply for Current Funding Opportunities →</a>
+<a id="a1">Apply for Current Funding Opportunities →</a>
 
 
 # Alt text
@@ -176,7 +176,7 @@ Become a Partner
 Our funding partners help us grow our fellowships and awards program, reaching new parts of the globe and exploring new intersections of civil society and the internet.
 
 
-;<a>Support Mozilla Fellowships and Awards →</a>
-<a>Support Mozilla Fellowships and Awards →</a>
+;<a id="a1">Support Mozilla Fellowships and Awards →</a>
+<a id="a1">Support Mozilla Fellowships and Awards →</a>
 
 
