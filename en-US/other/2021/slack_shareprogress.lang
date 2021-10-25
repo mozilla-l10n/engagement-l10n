@@ -7,6 +7,13 @@ Everyone should be able to control who can contact them. I just signed the @Mozi
 
 ## MAX_LENGTH: 264
 # Tweet, max length 264 characters
+# Share content for https://foundation.mozilla.org/campaigns/tell-slack-block-abuse/
+;Everyone should be able to control who can contact them. Watch this video to learn why @mozilla is calling on @SlackHQ to block abuse: {LINK} #BlockAbuse
+Everyone should be able to control who can contact them. Watch this video to learn why @mozilla is calling on @SlackHQ to block abuse: {LINK} #BlockAbuse
+
+
+## MAX_LENGTH: 264
+# Tweet, max length 264 characters
 ;Everyone should be able to #BlockAbuse and control who can contact them. Tell @SlackHQ it’s time for a block function. Sign the @Mozilla petition: {LINK}
 Everyone should be able to #BlockAbuse and control who can contact them. Tell @SlackHQ it’s time for a block function. Sign the @Mozilla petition: {LINK}
 
